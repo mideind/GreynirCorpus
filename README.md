@@ -8,7 +8,7 @@
 
 **GreynirCorpus** is a large, parsed treebank of modern Icelandic text.
 
-The treebank includes over **7 million sentences**, approximately 120 million words.
+The treebank contains **7 million sentences**, approximately 110 million words.
 The text is extracted from news and government sites on the web and
 parsed into full constituency trees in flat text format. The format is
 similar to that of the [Penn Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.8216&rep=rep1&type=pdf)
