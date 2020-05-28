@@ -1,0 +1,93 @@
+( (META (ID-CORPUS 0a879406-b783-11e8-98c8-04014c605401.253)
+        (ID-LOCAL reynir_corpus_00005.psd,.1)
+        (URL
+  https://www.innanrikisraduneyti.is/sendiskrifstofur/fastanefnd-islands-hja-sameinudu-thjodunum/))
+  (S0 (S-HEADING (IP (NP-SUBJ (no_ft_kk_nf Viðskiptasamningar (lemma viðskiptasamningur)))
+                     (VP (NP-PRD (VP (so_ft_kk_lhþt_nf_sb undirritaðir (lemma undirrita))))
+                         (PP (P (fs_þgf í (lemma í)))
+                             (NP (sérnafn_þgf_hk_et Kína (lemma Kína)))))))))
+
+( (META (ID-CORPUS d98ff919-be2e-11e7-b936-04014c605401.13)
+        (ID-LOCAL reynir_corpus_00005.psd,.2)
+        (URL
+  http://www.mbl.is/matur/frettir/2017/10/31/dasamlegi_saltfiskurinn_hennar_lindu_ben/))
+  (S0 (S-HEADING (IP (NP-SUBJ (tala_et_nf_kk ½ (lemma ½))
+                              (no_et_nf_kk poki (lemma poki))
+                              (lo_et_kk_nf_sb rifinn (lemma rifinn))
+                              (no_et_kk_nf pitsuostur (lemma pitsuostur) (exp_seg pitsu-ostur)))))))
+
+( (META (ID-CORPUS 16bce465-bca9-11e7-b932-04014c605401.35)
+        (ID-LOCAL reynir_corpus_00005.psd,.3)
+        (URL http://www.ruv.is/frett/bjarni-thetta-er-hrikalega-flokid))
+  (S0 (S-HEADING (IP (VP (VP (so_1_þf_et_fh_gm_nt_p3 Setur (lemma setja)))
+                         (NP-OBJ (no_ft_gr_hk_þf jafnréttismálin (lemma jafnréttismál))
+                                 (PP (P (fs_þf sem (lemma sem)))
+                                     (NP (no_et_þf_hk skilyrði (lemma skilyrði))))))))))
+
+( (META (ID-CORPUS 2287659a-b0a9-11e7-b915-04014c605401.70)
+        (ID-LOCAL reynir_corpus_00005.psd,.4)
+        (URL
+  http://www.visir.is/g/2017171019361/leidarvisir-ad-godri-hm-ferd-til-russlands))
+  (S0 (S-QUE (IP (VP (VP (so_1_þf_et_fh_gm_nt_p2 Talar (lemma tala)))
+                     (NP-SUBJ (pfn_et_nf_p2 þú (lemma þú)))
+                     (NP-OBJ (no_et_kvk_þf ensku (lemma enska))))
+                 (grm ?)))))
+
+( (META (ID-CORPUS 8486c6f4-d537-11e7-b96f-04014c605401.216)
+        (ID-LOCAL reynir_corpus_00005.psd,.5)
+        (URL
+  http://www.visir.is/g/2017171128661/i-beinni-skallagrimur-valur-toppslagur-i-borgarnesi))
+  (S0 (S-HEADING (IP (NP-SUBJ (lo_ft_kk_nf_sb Eftirlýstir (lemma eftirlýstur))
+                              (PP (P (fs_þf um (lemma um)))
+                                  (NP (no_et_hk_þf land (lemma land))
+                                      (fn_et_hk_þf allt (lemma allur)))))))))
+
+( (META (ID-CORPUS 0e5c77d9-2582-11e9-9b7b-04014c605401.12)
+        (ID-LOCAL reynir_corpus_00005.psd,.6)
+        (URL
+  https://mbl.is/smartland/samskipti/2019/01/31/medvirkni_a_vinnustadnum/))
+  (S0 (S-PREFIX (C (st En (lemma en))))
+      (S-MAIN (IP (NP-SUBJ (fn_et_kk_nf enginn (lemma enginn)))
+                  (VP (VP (so_1_þf_et_fh_gm_nt_p3 segir (lemma segja)))
+                      (NP-OBJ (fn_et_hk_þf neitt (lemma neinn))))))
+      (grm .)))
+
+( (META (ID-CORPUS e3e11523-cc96-11e7-b95f-04014c605401.236)
+        (ID-LOCAL reynir_corpus_00005.psd,.7)
+        (URL
+  http://www.visir.is/g/2017171118888/i-beinni-atletico-real-madridarslagur))
+  (S0 (S-HEADING (IP (NP-SUBJ (no_ft_kvk_nf
+  Blokkaríbúðir
+  (lemma blokkaríbúð)
+  (exp_seg blokkar-íbúð))
+                              (NP-POSS (sérnafn_ef_kk_et Stapa (lemma Stapi))))
+                     (VP (VP (so_0_fh_ft_gm_nt_p3 standa (lemma standa)))
+                         (ADVP (ao enn (lemma enn)))
+                         (NP-PRD (lo_ft_kvk_nf_sb ónotaðar (lemma ónotaður))))))))
+
+( (META (ID-CORPUS 5be5ff77-200c-11e8-8163-04014c605401.48)
+        (ID-LOCAL reynir_corpus_00005.psd,.8)
+        (URL http://www.mbl.is/frettir/livefeed/52/oskarsverdlaunin_2018/))
+  (S0 (S-HEADING (IP (NP-SUBJ (no_et_kk_nf Veitingastaður (lemma veitingastaður)))
+                     (VP (VP (so_1_þf_et_fh_gm_nt_p3 rukkar (lemma rukka)))
+                         (NP-OBJ (tala_ft_hk_þf 11.900 (lemma 11.900)))
+                         (PP (P (fs_þf fyrir (lemma fyrir)))
+                             (NP (no_et_þf_kvk grásleppu (lemma grásleppa)))))))))
+
+( (META (ID-CORPUS 003fb10b-5fa2-11e6-844a-04014c605401.15)
+        (ID-LOCAL reynir_corpus_00005.psd,.9)
+        (URL
+  http://www.mbl.is/frettir/erlent/2016/08/11/skogareldar_ogna_marseille/))
+  (S0 (S-MAIN (IP (NP-SUBJ (no_et_gr_kk_nf Eldurinn (lemma eldur)))
+                  (VP (VP (so_0_et_fh_mm_nt_p3 breiðist (lemma breiða)))
+                      (ADVP-PCL (ao út (lemma út))))))
+      (grm .)))
+
+( (META (ID-CORPUS 21496ba3-4533-11e6-8429-04014c605401.8)
+        (ID-LOCAL reynir_corpus_00005.psd,.10)
+        (URL
+  http://www.mbl.is/frettir/erlent/2016/07/06/sagdi_clinton_vera_lygara/))
+  (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_hk_nf_p3 Það (lemma það)))
+                  (VP (VP (so_et_fh_gm_nt_p3 er (lemma vera)))
+                      (NP-PRD (lo_et_hk_nf_sb ótrúlegt (lemma ótrúlegur))))))
+      (grm .)))

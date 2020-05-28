@@ -1,0 +1,104 @@
+( (META (ID-CORPUS db0541c8-1700-11e7-aa37-04014c605401.193)
+        (ID-LOCAL reynir_corpus_00010.psd,.1)
+        (URL http://www.visir.is/p/gagnryni)
+  (S0 (S-MAIN (IP (NP-SUBJ (person_kvk_nf_et
+  Katrín Halldóra Sigurðardóttir
+  (lemma Katrín Halldóra Sigurðardóttir)))
+                  (VP (VP (so_1_þf_et_fh_gm_nt_p3 vinnur (lemma vinna)))
+                      (NP-OBJ (no_et_kk_þf leiksigur (lemma leiksigur))))))
+      (grm .)))
+
+( (META (ID-CORPUS eef89427-8451-11e8-aa10-04014c605401.4)
+        (ID-LOCAL reynir_corpus_00010.psd,.2)
+        (URL
+  http://www.mbl.is/smartland/tiska/2018/07/10/othaegilegustu_stuttbuxur_sumarsins/))
+  (S0 (S-HEADING (IP (NP-SUBJ (no_ft_nf_kvk_gr Typpavasabuxurnar (lemma Typpavasabuxur)))
+                     (NP-PRD (fn_et_nf_hk það (lemma sá))
+                             (lo_et_nf_hk_est flottasta (lemma flottur))
+                             (PP (P (fs_þf í (lemma í)))
+                                 (NP (no_et_þf_hk sumar (lemma sumar))))))
+                 (grm ? (lemma ?)))))
+
+( (META (ID-CORPUS 0f60b308-d77e-11e7-b973-04014c605401.9)
+        (ID-LOCAL reynir_corpus_00010.psd,.3)
+        (URL
+  http://www.mbl.is/frettir/erlent/2017/12/02/praljak_verdur_jardadur_i_kyrrthey/)
+  (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_kk_nf_sb Fjölmargir (lemma fjölmargur)))
+                  (VP (VP (so_0_fh_ft_gm_nt_p3 líta (lemma líta)))
+                      (PP (P (fs_þf á (lemma á)))
+                          (NP (pfn_et_kk_p3_þf hann (lemma hann))))
+                      (PP (P (fs_þf sem (lemma sem)))
+                          (NP (no_et_kvk_þf þjóðhetju (lemma þjóðhetja)))))))))
+
+( (META (ID-CORPUS f9110e69-00b8-11e9-9a7f-04014c605401.23)
+        (ID-LOCAL reynir_corpus_00010.psd,.4)
+        (URL
+  http://www.visir.is/g/2018181219165/framlengingin-fannari-ofbaud-og-gekk-ut-ur-settinu)
+  (S0 (S-HEADING (IP (NP-SUBJ (person_kk_nf_et Michael Jordan (lemma Michael Jordan)))
+                     (NP-PRD (lo_esb_et_kk_nf bestur (lemma góður))
+                             (NP-POSS (fn_ef_ft_kk allra (lemma allur))
+                                      (no_ft_ef_kk tíma (lemma tími)))))
+                 (grm ?))))
+
+( (META (ID-CORPUS 2106594b-4533-11e6-8429-04014c605401.12)
+        (ID-LOCAL reynir_corpus_00010.psd,.5)
+        (URL
+  http://eyjan.pressan.is/frettir/2016/04/23/skytur-fast-a-buvorusamninginn-100-thus-kr-a-hvern-islending-fyrir-svokallad-matvaelaoryggi/)
+  (S0 (S-PREFIX (C (st En (lemma en))))
+      (S-QUE (IP (NP-OBJ (fn_et_hk_þf hvað (lemma hver)))
+                 (VP (VP (so_1_þf_et_fh_gm_nt_p3 gerir (lemma gera)))
+                     (NP-SUBJ (no_et_gr_kvk_nf ríkisstjórnin (lemma ríkisstjórn)))
+                     (ADVP-DATE-REL (ao þá (lemma þá)))))
+             (grm ?))))
+
+( (META (ID-CORPUS aa645f82-fc94-11e8-9a61-04014c605401.12)
+        (ID-LOCAL reynir_corpus_00010.psd,.6)
+        (URL
+  http://www.mbl.is/frettir/innlent/2018/12/10/joklamyndir_rax_i_ny_times/)
+  (S0 (S-MAIN (IP (NP-SUBJ (no_ft_gr_kk_nf Jöklarnir (lemma jökull)))
+                  (VP (VP (so_1_nf_fh_ft_gm_nt_p3 eru (lemma vera)))
+                      (NP-PRD (no_ft_kvk_nf perlur (lemma perla))
+                              (NP-POSS (sérnafn_ef_et_hk Íslands (lemma Ísland)))))))
+      (grm .)))
+
+( (META (ID-CORPUS ba7dac62-c716-11e7-b94b-04014c605401.9)
+        (ID-LOCAL reynir_corpus_00010.psd,.7)
+        (URL
+  http://www.visir.is/g/2017171119730/domino-s-korfuboltakvold-thessir-voru-bestir-i-sjottu-umferd)
+  (S0 (S-MAIN (IP (NP-SUBJ (no_et_kk_nf Þjálfari (lemma þjálfari))
+                           (NP-POSS (no_ef_et_gr_hk liðsins (lemma lið))))
+                  (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
+                      (NP-PRD (person_nf_et_kk Israel Martin (lemma Israel Martin))))))
+      (grm .)))
+
+( (META (ID-CORPUS 7d3eb4d2-10cc-11e9-9ae5-04014c605401.19)
+        (ID-LOCAL reynir_corpus_00010.psd,.8)
+        (URL
+  https://kjarninn.is/frettir/2019-01-05-kleifarberg-svipt-veidileyfi-vegna-brottkasts/)
+  (S0 (S-MAIN (IP (NP-SUBJ (no_et_gr_kvk_nf Útgerðin (lemma útgerð)))
+                  (VP (VP (so_1_þf_et_fh_gm_nt_p3 telur (lemma telja)))
+                      (NP-OBJ (no_et_kk_þf málatilbúnað (lemma málatilbúnaður))
+                              (NP-POSS (sérnafn_ef_et_kvk Fiskistofu (lemma Fiskistofa))))
+                      (IP-INF (VP (ADVP (ao ekki (lemma ekki)))
+                                  (VP (so_0_mm_nh standast (lemma standa))))))))))
+
+( (META (ID-CORPUS 4cc03fbd-058d-11e7-8eb2-04014c605401.13)
+        (ID-LOCAL reynir_corpus_00010.psd,.9)
+        (URL
+  http://www.visir.is/mourinho-aetlar-ekki-ad-stilla-upp-nicky-butt-lidi-a-moti-chelsea/article/2017170319960)
+  (S0 (S-MAIN (IP (NP-SUBJ (entity_hk_et_nf Manchester United (lemma Manchester United)))
+                  (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
+                      (NP-PRD (lo_et_kk_nf_sb núverandi (lemma núverandi))
+                              (no_et_kk_nf bikarmeistari (lemma bikarmeistari))))))
+      (grm .)))
+
+( (META (ID-CORPUS 1f7cb185-2675-11e7-b7b9-04014c605401.3)
+        (ID-LOCAL reynir_corpus_00010.psd,.10)
+        (URL
+  http://www.visir.is/g/2017170429854/thetta-vitum-vid-um-arasina-a-champs-elysees-i-paris)
+  (S0 (S-MAIN (IP (NP-OBJ (pfn_et_þf_hk Þetta (lemma þetta)))
+                  (VP (VP (so_1_þf_fh_ft_gm_nt_p1 vitum (lemma vita)))
+                      (NP-SUBJ (pfn_ft_nf_p1_hk við (lemma ég)))
+                      (PP (P (fs_þf um (lemma um)))
+                          (NP (no_et_gr_kvk_þf árásina (lemma árás)))))))
+      (grm :)))

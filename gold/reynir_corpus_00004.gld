@@ -1,0 +1,88 @@
+( (META (ID-CORPUS 62133346-cef2-11e7-b964-04014c605401.51)
+        (ID-LOCAL reynir_corpus_00004.psd,.1)
+        (URL
+  http://www.visir.is/g/2017171129772/i-beinni-sevilla-liverpool-lykilleikur-i-andalusiu))
+  (S0 (S-HEADING (IP (NP-SUBJ (no_et_hk_nf Jafntefli (lemma jafntefli)))
+                     (VP (VP (so_1_þf_et_fh_gm_p3_þt fleytti (lemma fleyta)))
+                         (NP-OBJ (sérnafn_þgf_hk_et Besiktas (lemma Besiktas)))
+                         (ADVP (ao áfram (lemma áfram))))))))
+
+( (META (ID-CORPUS 7eb86069-0c15-11e9-9acc-04014c605401.326)
+        (ID-LOCAL reynir_corpus_00004.psd,.2)
+        (URL
+  http://www.visir.is/g/2018181229641/fekk-thau-skilabod-ad-hann-vaeri-bara-oryrki-a-einni-lopp))
+  (S0 (S-HEADING (IP (VP (VP-AUX (so_0_et_gm_p3_vh_þt Hefði (lemma hafa)))
+                         (VP (VP (so_0_gm_sagnb stokkið (lemma stökkva)))
+                             (PP (P (fs_þf á (lemma á)))
+                                 (NP (entity_þf_hk_et Stuttgart (lemma Stuttgart))))))))))
+
+( (META (ID-CORPUS f2fc0926-af87-11e7-b915-04014c605401.30)
+        (ID-LOCAL reynir_corpus_00004.psd,.3)
+        (URL
+  http://www.visir.is/g/2017171019591/leik-lokid-valur-tindastoll-69-73-stolarnir-stalu-sigrinum-i-lokin))
+  (S0-X (S-HEADING (IP (NP-SUBJ (person_nf_kvk_et Águsta (lemma Ágústa)))
+                       (VP (NP-PRD (VP (so_0_et_þt_p3_lhþt_nf_kvk_et ráðin (lemma ráða))))
+                           (PP (P (fs_ef til (lemma til)))
+                               (NP (sérnafn_ef_et_kvk Eignaumsjónar (lemma Eignaumsjón)))))))))
+
+( (META (ID-CORPUS 87f60996-98c6-11e7-b8dd-04014c605401.72)
+        (ID-LOCAL reynir_corpus_00004.psd,.4)
+        (URL
+  http://kvennabladid.is/2017/09/13/sjalfstaedisflokkurinn-samthykkir-thegjandi-og-hljodalaust-en-ber-abyrgdina/))
+  (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_hk_nf_p3 Það (lemma það)))
+                  (VP (VP (so_0_et_fh_gm_nt_p3 er (lemma vera)))
+                      (NP-PRD (lo_et_hk_nf_sb hægt (lemma hægur))))))
+      (grm .)))
+
+( (META (ID-CORPUS 522a5c3a-c974-11e8-9933-04014c605401.172)
+        (ID-LOCAL reynir_corpus_00004.psd,.5)
+        (URL
+  http://www.ruv.is/kveikur/svarta-hlidin-a-islenskum-vinnumarkadi/))
+  (S0 (S-QUE (IP (ADVP (ao Hvar (lemma hvar)))
+                 (VP (VP (so_0_fh_ft_gm_nt_p3 eru (lemma vera)))
+                     (NP-SUBJ (no_ft_gr_kk_nf peningarnir (lemma peningur))))
+                 (grm ?)))))
+
+( (META (ID-CORPUS 0b8d38c7-50b8-11e6-8437-04014c605401.50)
+        (ID-LOCAL reynir_corpus_00004.psd,.6)
+        (URL
+  http://www.visir.is/bergthor-bjarnason-i-nice-folk-er-audvitad-slegid-/article/2016160729618))
+  (S0 (S-HEADING (IP-INF (NP-SUBJ (lo_et_hk_nf_sb Mikilvægt (lemma mikilvægur)))
+                         (TO (nhm að (lemma að)))
+                         (VP (VP (so_1_þf_gm_nh halda (lemma halda)))
+                             (NP-OBJ (no_et_kvk_þgf stillingu (lemma stilling))))))))
+
+( (META (ID-CORPUS 29c0fb27-739f-11e8-a9f1-04014c605401.16)
+        (ID-LOCAL reynir_corpus_00004.psd,.7)
+        (URL
+  http://www.visir.is/g/2018180619497/thekktu-raudu-ljosin-hann-let-hoggin-dynja-a-mer-))
+  (S0 (S-HEADING (IP (VP (VP (so_0_et_fh_gm_nt_p3 Finnur (lemma finna)))
+                         (ADVP (ao enn (lemma enn)))
+                         (PP (P (fs_þgf fyrir (lemma fyrir)))
+                             (NP (no_ft_þgf_kk_gr áverkunum (lemma áverki)))))))))
+
+( (META (ID-CORPUS 4a1bfe41-f801-11e7-b8ad-04014c605401.60)
+        (ID-LOCAL reynir_corpus_00004.psd,.8)
+        (URL http://www.visir.is/g/2015150119719/faldir-fordomar))
+  (S0 (S-QUE (IP (VP (VP (so_0_et_fh_gm_nt_p3 Hljómar (lemma hljóma)))
+                     (NP-SUBJ (fn_et_hk_nf þetta (lemma þessi)))
+                     (ADVP (ao kunnuglega (lemma kunnuglegur))))
+                 (grm ?)))))
+
+( (META (ID-CORPUS 0a8794ad-b783-11e8-98c8-04014c605401.287)
+        (ID-LOCAL reynir_corpus_00004.psd,.9)
+        (URL
+  https://www.fjarmalaraduneyti.is/sendiskrifstofur/adalraedisskrifstofa-islands-i-new-york/))
+  (S0 (S-QUE (IP (PP (P (fs_þgf Af (lemma Af)))
+                     (NP (fn_et_þgf_hk hverju (lemma hverju))))
+                 (ADVP (ao ekki (lemma ekki)))
+                 (grm ? (lemma ?))))))
+
+( (META (ID-CORPUS 91ecc7b8-bb12-11e7-b92d-04014c605401.3)
+        (ID-LOCAL reynir_corpus_00004.psd,.10)
+        (URL
+  http://www.visir.is/g/2017171028943/-thetta-er-grofasta-adfor-ad-lydraedislegu-frambodi-um-arabil-))
+  (S0 (S-MAIN (IP (ADVP (tao Nú (lemma nú)))
+                  (VP (VP (so_1_þf_et_fh_gm_nt_p3 tekur (lemma taka)))
+                      (NP-OBJ (no_et_gr_kk_þf steininn (lemma steinn)))
+                      (ADVP (ao úr (lemma úr))))))))
