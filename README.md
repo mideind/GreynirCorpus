@@ -20,7 +20,7 @@ and is thus open and free for general use, with attribution.
 
 The treebank has two parts:
 
-1. 7 million sentences, shuffled and **parsed mechanically**
+1. Seven million sentences, shuffled and **parsed mechanically**
    using the [Greynir](https://github.com/mideind/ReynirPackage) rule-based parser.
    This treebank is contained in the single file `psd/greynir_corpus.zip`. Note that the file
    is about 1.6 gigabytes in compressed form, or 9 gigabytes uncompressed.
