@@ -20,10 +20,15 @@ and is thus open and free for general use, with attribution.
 
 The treebank has two parts:
 
-1. A large corpus of sentences parsed mechanically
-using the [Greynir](https://github.com/mideind/ReynirPackage) rule-based parser.
-2. A smaller gold standard corpus of sentences with parse trees that have been
-manually corrected and verified.
+1. 7 million sentences, shuffled and **parsed mechanically**
+   using the [Greynir](https://github.com/mideind/ReynirPackage) rule-based parser.
+   This treebank is contained in the single file `psd/greynir_corpus.zip`. Note that the file
+   is about 1.6 gigabytes in compressed form, or 9 gigabytes uncompressed.
+
+2. A **gold standard** corpus of 2,610 sentences with parse trees that have been
+   manually corrected and verified. This corpus is contained in the `gold/` directory,
+   in text files named `greynir_corpus_*.psd`. Each text file contains 10 manually
+   annotated sentences. The sentences tend to get longer with higher file numbers.
 
 The annotation scheme is extensively described in this 60-page
 [guideline document (PDF)](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true).
