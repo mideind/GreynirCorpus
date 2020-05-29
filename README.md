@@ -5,6 +5,8 @@
 
 # GreynirCorpus
 
+*(Texti á íslensku fyrir neðan.)*
+
 ### A large treebank of parsed Icelandic text
 
 **GreynirCorpus** is a large, parsed treebank of modern Icelandic text.
@@ -40,3 +42,37 @@ to which it should be attributed.
 The project was partially funded by the Icelandic government's
 *Strategic research and development programme for language technology*
 (*Markáætlun í máltækni*), operated by [Rannís](https://rannis.is).
+
+### Stór trjábanki með þáttuðum íslenskum texta
+
+**GreynirCorpus** er stórt safn af fullþáttuðum texta á nútímaíslensku.
+
+Trjábankinn inniheldur **7 milljónir málsgreina**, u.þ.b. 110 milljónir orða.
+Textinn er sóttur á vefsíður fréttamiðla og opinberra aðila, og fullþáttaður í setningatré
+sem geymd eru í flötu textaformi. Gagnaformið er svipað og í
+[Penn Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.8216&rep=rep1&type=pdf) og
+[The Icelandic Parsed Historical Corpus (IcePaHC)](https://linguist.is/icelandic_treebank/Icelandic_Parsed_Historical_Corpus_(IcePaHC)).
+
+Trjábankinn er gefinn út undir 
+[**Creative Commons CC-BY 4.0 leyfi**](https://creativecommons.org/licenses/by/4.0/)
+og er þannig opinn og frjáls til afnota, sé uppruna getið.
+
+Trjábankinn er í tveimur hlutum:
+
+1. Sjö milljónir málsgreina, stokkaðar í handahófskennda röð og **vélþáttaðar**
+   með regluþáttaranum [Greyni](https://github.com/mideind/ReynirPackage).
+   Þessi hluti trjábankans er geymdur í einni skrá, `psd/greynir_corpus.zip`. Athugið að
+   skráin er um 1,6 gígabæti í þjöppuðu formi, eða 9 gígabæti óþjöppuð.
+
+2. **Gullstaðall** sem samanstendur af 2,610 málsgreinum og þáttunartrjám þeirra, sem hafa
+   verið handyfirfarin og leiðrétt. Þessi hluti trjábankans er í `gold/` möppunni,
+   í textaskrám sem nefnast `greynir_corpus_*.psd`. Hver textaskrá inniheldur 10 handþáttaðar
+   málsgreinar. Málsgreinarnar eru almennt lengri eftir því sem skrárnúmer hækka.
+
+Þáttunarskemanu er ýtarlega lýst í þessu 60 síðna 
+[leiðbeiningarskjali (PDF)](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true).
+
+GreynirCorpus er gefinn út á vegum [Miðeindar ehf.](https://mideind.is), Reykjavík,
+sem geta skal sem útgefanda þegar gögnin eru notuð skv. CC-BY 4.0 leyfinu.
+
+Verkefnið naut styrks úr *Markáætlun í máltækni* á vegum [Rannís](https://rannis.is).
