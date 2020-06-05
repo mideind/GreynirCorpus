@@ -39,7 +39,7 @@ The annotation scheme is extensively described in this 60-page
 GreynirCorpus is a product of [Miðeind ehf.](https://mideind.is), Reykjavík, Iceland,
 to which it should be attributed.
 
-The project was partially funded by the Icelandic government's
+This project was partially funded by the Icelandic government's
 *Strategic research and development programme for language technology*
 (*Markáætlun í máltækni*), operated by [Rannís](https://rannis.is).
 
