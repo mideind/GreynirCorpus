@@ -66,7 +66,7 @@ Trjábankinn er í tveimur hlutum:
    Þessi hluti trjábankans er geymdur í einni skrá, `psd/greynir_corpus.zip`. Athugið að
    skráin er um 1,6 gígabæti í þjöppuðu formi, eða 9 gígabæti óþjöppuð.
 
-2. **Gullstaðall** sem samanstendur af 2,610 málsgreinum og þáttunartrjám þeirra, sem hafa
+2. **Gullstaðall** sem samanstendur af 2.610 málsgreinum og þáttunartrjám þeirra, sem hafa
    verið handyfirfarin og leiðrétt. Þessi hluti trjábankans er í `gold/` möppunni,
    í textaskrám sem nefnast `greynir_corpus_*.psd`. Hver textaskrá inniheldur 10 handþáttaðar
    málsgreinar. Málsgreinarnar eru almennt lengri eftir því sem skrárnúmer hækka.
