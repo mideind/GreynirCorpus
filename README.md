@@ -32,7 +32,7 @@ The treebank has two parts:
    annotated sentences. The sentences tend to get longer with higher file numbers.
 
 The annotation scheme is extensively described in this 60-page
-[guideline document (PDF)](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true).
+[guideline document](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true) (Icelandic-language PDF).
 
 GreynirCorpus is a product of [Miðeind ehf.](https://mideind.is), Reykjavík, Iceland,
 to which it should be attributed.
