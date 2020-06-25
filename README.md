@@ -12,8 +12,8 @@
 **GreynirCorpus** is a large, parsed treebank of modern Icelandic text.
 
 The treebank consists of **7 million sentences** containing approximately 110 million words.
-The text is extracted from news and government sites on the web and parsed into full
-constituency trees in flat text format. The format is similar to that of the
+The text was extracted from news and government sites on the web in the years 2015-2020 and
+parsed into full constituency trees in flat text format. The format is similar to that of the
 [Penn Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.8216&rep=rep1&type=pdf) and
 [The Icelandic Parsed Historical Corpus (IcePaHC)](https://linguist.is/icelandic_treebank/Icelandic_Parsed_Historical_Corpus_(IcePaHC)).
 
@@ -26,7 +26,7 @@ The treebank has two parts:
 1. Seven million sentences, shuffled and **parsed mechanically**
    using the [Greynir](https://github.com/mideind/ReynirPackage) rule-based parser.
    This treebank is contained in the single file `psd/greynir_corpus.zip`. Note that the file
-   is about 1.6 gigabytes in compressed form, or 9 gigabytes uncompressed.
+   is about 1.6 GB in compressed form, and 9 GB uncompressed.
 
 2. A **gold standard** corpus of 2,610 sentences with parse trees that have been
    manually corrected and verified. This corpus is contained in the `gold/` directory,
@@ -35,6 +35,8 @@ The treebank has two parts:
 
 The annotation scheme is extensively described in this 60-page
 [guideline document](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true) (Icelandic-language PDF).
+
+**Please note that [git-lfs](https://git-lfs.github.com/) is required to clone this repository.**
 
 GreynirCorpus is a product of [Miðeind ehf.](https://mideind.is), Reykjavík, Iceland,
 to which it should be attributed.
@@ -50,8 +52,8 @@ This project was partially funded by the Icelandic government's
 **GreynirCorpus** er stórt safn af fullþáttuðum texta á nútímaíslensku.
 
 Trjábankinn inniheldur **7 milljónir málsgreina**, u.þ.b. 110 milljónir orða.
-Textinn er sóttur á vefsíður fréttamiðla og opinberra aðila, og fullþáttaður í setningatré
-sem geymd eru í flötu textaformi. Gagnaformið er svipað og í
+Textinn var sóttur á vefsíður fréttamiðla og opinberra aðila á árunum 2015-2020, og
+fullþáttaður í setningatré sem geymd eru í flötu textaformi. Gagnaformið er svipað og í
 [Penn Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.8216&rep=rep1&type=pdf) og
 [The Icelandic Parsed Historical Corpus (IcePaHC)](https://linguist.is/icelandic_treebank/Icelandic_Parsed_Historical_Corpus_(IcePaHC)).
 
@@ -73,6 +75,8 @@ Trjábankinn er í tveimur hlutum:
 
 Þáttunarskemanu er ýtarlega lýst í þessu 60 síðna 
 [leiðbeiningarskjali (PDF)](https://github.com/mideind/ReynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true).
+
+**Git-afritun á kóðasafninu krefst [git-lfs](https://git-lfs.github.com/).**
 
 GreynirCorpus er gefinn út á vegum [Miðeindar ehf.](https://mideind.is), Reykjavík,
 sem geta skal sem útgefanda þegar gögnin eru notuð skv. CC-BY 4.0 leyfinu.
