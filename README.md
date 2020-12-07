@@ -5,7 +5,7 @@
 
 # GreynirCorpus 1.0
 
-*(Texti á íslensku fyrir neðan.)*
+<img src="img/is.png" width="16" height="11"> Texti [á íslensku](#user-content-stór-trjábanki-með-þáttuðum-íslenskum-texta) fyrir neðan.
 
 ### A large treebank of parsed Icelandic text
 
