@@ -18,8 +18,7 @@
                       (PP (P (fs_þgf frá (lemma frá)))
                           (NP (lo_et_þgf_hk_vb hollenska (lemma hollenskur))
                               (no_et_þgf_hk_gr liðinu (lemma lið))
-                              (NP-COMPANY (fyrirtæki_et_nf NEC (lemma NEC))
-                                          (fyrirtæki_et_nf Nijmegen (lemma Nijmegen))))))))
+                              (NP-COMPANY (fyrirtæki_et_nf NEC Nijmegen (lemma NEC Nijmegen))))))))
       (grm .)))
 
 ( (META (ID-CORPUS 8e5a5606-85ea-11e9-9831-04014c605401.2)

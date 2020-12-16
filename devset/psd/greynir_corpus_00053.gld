@@ -34,7 +34,7 @@
 
 ( (META (ID-CORPUS 1fcaeba6-4533-11e6-8429-04014c605401.8)
         (ID-LOCAL greynir_corpus_00053.psd,.3)
-        (URL http://www.mbl.is/frettir/innlent/2016/03/19/med_obeit_a_framsokn/))
+        (URL http://www.mbl.is/frettir/innlent/2016/03/19/med_obeit_a_framsokn/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
                     (VP (VP (VP (so_0_fh_p3_et_þt_gm var (lemma vera))
@@ -149,7 +149,7 @@
 
 ( (META (ID-CORPUS 3a404f78-ffe3-11e6-8ea9-04014c605401.7)
         (ID-LOCAL greynir_corpus_00053.psd,.10)
-        (URL http://www.mbl.is/frettir/erlent/2017/03/03/sprengjuhotun_a_arlanda_flugvelli/))
+        (URL http://www.mbl.is/frettir/erlent/2017/03/03/sprengjuhotun_a_arlanda_flugvelli/)
         (COMMENT ))
   (S0 (S-MAIN (NP (pfn_et_nf_kk_p3 Hann (lemma Hann)))
               (VP (so_0_fh_p3_nt_gm segir (lemma segir)))
@@ -160,7 +160,5 @@
                                       (NP-OBJ (no_þf_kvk upplýsingar (lemma upplýsingar))
                                               (PP (P (fs_þf um (lemma um)))
                                                   (NP (no_et_þf_kvk_gr sprengjuhótunina (lemma sprengjuhótunina)))
-                                                  (ADVP-TIMESTAMP-REL (tímapunkturafs klukkan 21 (lemma klukkan 21))
-                                                                      (grm : (lemma :))
-                                                                      (tala 33 (lemma 33)))))))))
+                                                  (ADVP-TIMESTAMP-REL (tímapunkturafs klukkan 21:33 (lemma klukkan 21:33)))))))))
               (grm . (lemma .)))))

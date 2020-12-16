@@ -103,11 +103,9 @@
                               (C (st og (lemma og)))
                               (PP (ADVP (ao þaðan (lemma þaðan)))
                                   (P (fs_þf í (lemma í)))
-                                  (NP (sérnafn_et_þf_hk Alligator (lemma Alligator))
-                                      (sérnafn_et_þf_hk Bay (lemma Bay))
+                                  (NP (sérnafn_et_þf_hk Alligator Bay (lemma Alligator Bay))
                                       (C (st og (lemma og)))
-                                      (sérnafn_et_þf_hk Spanish (lemma Spanish))
-                                      (sérnafn_et_þf_hk Lake (lemma Lake))))))))
+                                      (sérnafn_et_þf_hk Spanish Lake (lemma Spanish Lake))))))))
       (grm .)))
 
 ( (META (ID-CORPUS 2183fdde-4533-11e6-8429-04014c605401.65)

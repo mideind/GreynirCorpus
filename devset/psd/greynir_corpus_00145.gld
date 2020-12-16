@@ -10,7 +10,7 @@
                       (PP-LOC (P (fs_þgf í (lemma í)))
                               (NP (fyrirtæki Pepsi (lemma Pepsi))
                                   (grm -)
-                                  (no_et_þgf_kvk deild (lemma deild))
+                                  (no_et_þgf_kvk Pepsi-deild (lemma Pepsi-deild))
                                   (NP-POSS (no_ft_ef_kk karla (lemma karl)))
                                   (PP (P (fs_þgf í (lemma í)))
                                       (NP (no_et_þgf_kvk knattspyrnu (lemma knattspyrna)))))))))
@@ -24,7 +24,7 @@
                                                                               (exp_seg Extra-völlur))
                                           (PP-LOC (P (fs_þgf í (lemma í)))
                                                   (NP (sérnafn_et_þgf_kk Grafarvogi (lemma Grafarvogur))))))))
-                      (ADVP-TIMESTAMP-REL (tími klukkan 19,15 (lemma klukkan 19,15))))))
+                      (ADVP-TIMESTAMP-REL (tími klukkan 19.15 (lemma klukkan 19.15))))))
       (grm .)))
 
 ( (META (ID-CORPUS 216f615e-4533-11e6-8429-04014c605401.8)

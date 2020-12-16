@@ -58,8 +58,7 @@
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (no_et_þgf_hk slysi (lemma slys))))
                       (PP (P (fs_þf með (lemma með)))
-                          (NP (entity Super (lemma Super))
-                              (entity Puma (lemma Puma)))))
+                          (NP (entity Super Puma (lemma Super Puma)))))
                   (ADVP-DATE-REL (ártal árið 2009 (lemma árið 2009)))))
       (grm .)))
 

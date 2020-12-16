@@ -139,5 +139,4 @@
                   (grm , (lemma ,))
                   (VP (VP (so_1_þf_bh_gm_p2_et finndu (lemma finna)))
                       (NP-OBJ (no_et_þf_kvk leið (lemma leið))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))

@@ -76,8 +76,7 @@
                                                                                           (CP-REL (C (stt sem (lemma sem)))
                                                                                                   (IP (VP (VP (so_0_fh_p3_et_þt_gm var (lemma vera)))
                                                                                                           (ADVP-LOC (ao fyrir (lemma fyrir)))))))))))))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .)))))
 
 ( (META (ID-CORPUS 3332bcff-4228-11e7-b7f9-04014c605401.7)
         (ID-LOCAL greynir_corpus_00443.psd,.4)

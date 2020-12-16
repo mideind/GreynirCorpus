@@ -31,9 +31,7 @@
   (S0 (S-HEADING (IP (VP (VP (so_1_þf_et_fh_gm_nt_p3 Segir (lemma segja)))
                          (NP-IOBJ (lo_et_evb_hk_þf langstærsta (lemma langstærstur))
                                   (no_et_hk_þf sönnunargagn (lemma sönnunargagn))
-                                  (NP-POSS (entity_ef_et_gr_hk Bitcoin (lemma Bitcoin))
-                                           (grm -)
-                                           (no_ef_et_gr_hk málsins (lemma mál))))
+                                  (NP-POSS (entity_ef_et_gr_hk Bitcoin-málsins (lemma Bitcoin-málsins))))
                          (NP-OBJ (lo_et_hk_sb_þf ómarktækt (lemma ómarktækur) (exp_seg ó-marktækur))))))))
 
 ( (META (ID-CORPUS 6a988ed6-2f50-11e7-b7cc-04014c605401.5)

@@ -70,9 +70,7 @@
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_kk_nf_p3 Hann (lemma hann)))
                   (VP (VP (so_0_et_fh_gm_nt_p3 glímir (lemma glíma)))
                       (PP (P (fs_þf við (lemma við)))
-                          (NP (sérnafn_et_kk_þf Parkinson (lemma Parkinson))
-                              (grm -)
-                              (no_et_gr_kk_þf sjúkdóminn (lemma sjúkdómur)))))))
+                          (NP (sérnafn_et_kk_þf Parkinson-sjúkdóminn (lemma Parkinson-sjúkdóminn)))))))
       (grm .)))
 
 ( (META (ID-CORPUS 479d0cd5-ad80-11e7-b90e-04014c605401.7)

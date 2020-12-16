@@ -173,11 +173,10 @@
                       (PP (P (fs_þgf með (lemma með)))
                           (NP (no_et_þgf_hk tapi (lemma tap))))
                       (grm ,)
-                      (CP-ADV-COND (IP (VP (VP (so_0_lhþt_et_nf_hk_sb miðað (lemma miða)))
-                                           (PP (P (fs_þf við (lemma við)))
+                      (PP (P (fs_þf miðað við (lemma miðað við)))
                                                (NP (no_et_þf_hk álverð (lemma álverð))
                                                    (C (st og (lemma og)))
-                                                   (no_et_þf_kk hráefniskostnað (lemma hráefniskostnaður))))))))))
+                                                   (no_et_þf_kk hráefniskostnað (lemma hráefniskostnaður)))))))
       (grm .)))
 
 ( (META (ID-CORPUS fa24bc94-b063-11e8-98b2-04014c605401.7)

@@ -25,8 +25,7 @@
                                   (NP (no_et_þf_kk dag (lemma dag))))
               (PP (P (fs_þgf í (lemma í)))
                   (NP (no_et_þgf_hk kvikmyndaveri (lemma kvikmyndaver))
-                      (NP-POSS (fyrirtæki Warner (lemma Warner))
-                               (fyrirtæki Bros (lemma Bros)))))
+                      (NP-POSS (fyrirtæki Warner Bros (lemma Warner Bros)))))
               (grm . (lemma .)))))
 
 ( (META (ID-CORPUS 264e73d1-6788-11e9-9bf5-04014c605401.8)

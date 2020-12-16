@@ -167,7 +167,7 @@
                           (NP (fn_et_ef_kk síns (lemma sinn))
                               (lo_et_ef_kk_vb fyrsta (lemma fyrstur))
                               (no_et_ef_kk fundar (lemma fundur))))
-                      (ADVP-TIMESTAMP-REL (tími klukkan 14,00 (lemma klukkan 14,00)))
+                      (ADVP-TIMESTAMP-REL (tími klukkan 14.00 (lemma klukkan 14.00)))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (sérnafn_et_þgf_hk Ráðhúsi (lemma Ráðhús))
                               (NP-POSS (sérnafn_et_ef_kvk Reykjavíkur (lemma Reykjavík)))))

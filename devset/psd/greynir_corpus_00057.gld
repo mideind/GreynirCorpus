@@ -34,7 +34,7 @@
 
 ( (META (ID-CORPUS 43eb0a2d-30ac-11e7-b7ce-04014c605401.5)
         (ID-LOCAL greynir_corpus_00057.psd,.3)
-        (URL http://www.visir.is/g/2017170509554/sjadu-morkin-hja-higuain-myndbond))
+        (URL http://www.visir.is/g/2017170509554/sjadu-morkin-hja-higuain-myndbond)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Alves (lemma Alves)))
                   (VP (VP (so_1_þf_fh_p3_et_þt_gm átti (lemma eiga)))
@@ -68,7 +68,7 @@
 
 ( (META (ID-CORPUS 78ad2770-8b4f-11e8-aa18-04014c605401.6)
         (ID-LOCAL greynir_corpus_00057.psd,.5)
-        (URL http://www.visir.is/g/2018180718872/vigdis-bodar-langan-fund-og-segir-borgarstjora-fluinn-i-sumarfri))
+        (URL http://www.visir.is/g/2018180718872/vigdis-bodar-langan-fund-og-segir-borgarstjora-fluinn-i-sumarfri)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_hk Öll (lemma allur))
                            (to_ft_nf_hk þrjú (lemma þrír))
@@ -117,7 +117,7 @@
 
 ( (META (ID-CORPUS 553ee421-0695-11e9-9ab2-04014c605401.23)
         (ID-LOCAL greynir_corpus_00057.psd,.8)
-        (URL http://www.ruv.is/frett/minnst-168-latnir-vegna-flodbylgju-i-indonesiu))
+        (URL http://www.ruv.is/frett/minnst-168-latnir-vegna-flodbylgju-i-indonesiu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_esb Flest (lemma margur))
                            (NP-POSS (no_ft_ef_hk_gr fórnarlambanna (lemma fórnarlamb))))
@@ -126,9 +126,7 @@
                           (NP (NP-TITLE (no_ft_þgf_hk_gr héruðunum (lemma hérað)))
                               (sérnafn_et_þgf Padenglang (lemma Padenglang))
                               (grm ,)
-                              (NP (sérnafn Suður (lemma suður))
-                                  (grm —)
-                                  (sérnafn_et_þgf Lampung (lemma Lampung)))
+                              (NP (sérnafn Suður-Lampung (lemma Suður-Lampung)))
                               (C (st og (lemma og)))
                               (sérnafn_et_þgf Serang (lemma Serang)))))))
       (grm .)))

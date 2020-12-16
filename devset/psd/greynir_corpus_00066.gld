@@ -50,8 +50,7 @@
                                           (tala_et_þf_hk 1 (lemma 1)))
                               (no_et_þf_kk sigur (lemma sigur))
                               (PP (P (fs_þf á (lemma á)))
-                                  (NP (sérnafn_et_þgf Þór (lemma Þór))
-                                      (sérnafn_et_þgf KA (lemma KA))))))))
+                                  (NP (sérnafn_et_þgf Þór/KA (lemma Þór/KA))))))))
       (grm .)))
 
 ( (META (ID-CORPUS a92531f5-d8be-11e6-8e62-04014c605401.5)
@@ -75,7 +74,7 @@
 
 ( (META (ID-CORPUS 9b7f6628-2efc-11e9-9b88-04014c605401.4)
         (ID-LOCAL greynir_corpus_00066.psd,.5)
-        (URL http://www.ruv.is/frett/loftslagsflottabirnir-aukin-ogn-vid-mannfolk))
+        (URL http://www.ruv.is/frett/loftslagsflottabirnir-aukin-ogn-vid-mannfolk)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
                       (NP (no_et_þgf_kvk neyð (lemma neyð))
@@ -88,8 +87,7 @@
                       (PP (P (fs_þf um (lemma um)))
                           (NP (no_et_þf_hk stræti (lemma stræti))
                               (NP-POSS (NP-TITLE (no_et_ef_kk_gr smábæjarins (lemma smábær)))
-                                       (sérnafn Belúsja (lemma Belúsja))
-                                       (sérnafn Gúba (lemma Gúba))))))))
+                                       (sérnafn Belúsja Gúba (lemma Belúsja Gúba))))))))
       (grm .)))
 
 ( (META (ID-CORPUS 7d108377-1e00-11e8-815d-04014c605401.13)
@@ -160,8 +158,7 @@
                                                                              (exp_seg starfsmanna-fundur))
                                               (PP (P (fs_þgf í (lemma í)))
                                                   (NP (no_ft_þgf_kvk höfuðstöðvum (lemma höfuðstöðvar))
-                                                      (NP-POSS (NP-COMPANY (fyrirtæki_et_ef_hk Airport (lemma Airport))
-                                                                           (fyrirtæki_et_ef_hk Associates (lemma Associates))))))))))
+                                                      (NP-POSS (NP-COMPANY (fyrirtæki_et_ef_hk Airport Associates (lemma Airport Associates))))))))))
                               (ADVP-TIMESTAMP-REL (ao nú síðdegis (lemma nú síðdegis)))))))
       (grm .)))
 

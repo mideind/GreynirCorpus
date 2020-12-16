@@ -28,8 +28,7 @@
                         (PP (ADVP (ao inn (lemma inn)))
                             (P (fs_þf í (lemma í)))
                             (NP (no_et_þf_hk_gr húsið (lemma húsið)))))
-                    (grm . (lemma .))
-                    (grm “ (lemma “)))))))
+                    (grm . (lemma .)))))))
 
 ( (META (ID-CORPUS 1e6502d2-4252-11e9-9baa-04014c605401.76)
         (ID-LOCAL reynir_corpus_00319_00001.psd,.2)

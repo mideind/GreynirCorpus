@@ -17,7 +17,7 @@
 
 ( (META (ID-CORPUS 53b8cd2a-d024-11e7-b967-04014c605401.57)
         (ID-LOCAL greynir_corpus_00055.psd,.2)
-        (URL http://www.visir.is/g/2017171129497/innbrotid-i-kopavogi-fannst-klent-ad-lata-thjofinn-fara-eftir-tannbrotid))
+        (URL http://www.visir.is/g/2017171129497/innbrotid-i-kopavogi-fannst-klent-ad-lata-thjofinn-fara-eftir-tannbrotid)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (ao Framundan (lemma framundan)))
                   (ADVP-TIMESTAMP-REL (P (fs_þf í (lemma í)))
@@ -45,8 +45,7 @@
                                           (grm ,)
                                           (sérnafn_et_þf_hk Palm (lemma Palm))
                                           (C (st og (lemma og)))
-                                          (sérnafn_et_þf_hk Windows (lemma Windows))
-                                          (NP-POSS (no_et_þf_hk Mobile (lemma Mobile)))))))))
+                                          (sérnafn_et_þf_hk Windows Mobile (lemma Windows Mobile))))))))
       (grm .)))
 
 ( (META (ID-CORPUS 377a521d-e1b5-11e7-b993-04014c605401.17)
@@ -67,10 +66,9 @@
 
 ( (META (ID-CORPUS f63b010e-3bb4-11e7-b7ec-04014c605401.38)
         (ID-LOCAL greynir_corpus_00055.psd,.5)
-        (URL http://kjarninn.is/kjaftaedi/2017-05-18-er-thessi-brandari-bannadur/))
+        (URL http://kjarninn.is/kjaftaedi/2017-05-18-er-thessi-brandari-bannadur/)
         (COMMENT ))
-  (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Ricky (lemma Ricky))
-                           (person_et_nf_kk Gervais (lemma Gervais)))
+  (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Ricky Gervais (lemma Ricky Gervais)))
                   (VP (VP (so_0_fh_p3_et_þt_gm talaði (lemma tala)))
                       (ADVP (ao_fst mikið (lemma mikið)))
                       (PP (P (fs_þf um (lemma um)))
@@ -101,7 +99,7 @@
 
 ( (META (ID-CORPUS fe4d4577-487b-11e6-842f-04014c605401.17)
         (ID-LOCAL greynir_corpus_00055.psd,.7)
-        (URL http://www.visir.is/fjallid-auglysir-vodka-i-sprenghlaegilegri-auglysingu/article/2016160719679))
+        (URL http://www.visir.is/fjallid-auglysir-vodka-i-sprenghlaegilegri-auglysingu/article/2016160719679)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (VP (VP-AUX (so_0_vh_p3_et_nt_gm Hafi (lemma hafa)))
                                    (NP-SUBJ (pfn_et_nf_hk_p3 það (lemma það)))
@@ -118,7 +116,7 @@
 
 ( (META (ID-CORPUS 8c35c15d-ad02-11e7-b90e-04014c605401.326)
         (ID-LOCAL greynir_corpus_00055.psd,.8)
-        (URL https://www.forsaetisraduneyti.is/verkefni/gjafsokn/))
+        (URL https://www.forsaetisraduneyti.is/verkefni/gjafsokn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-OBJ (no_et_þf_hk Svar (lemma svar))
                               (C (st eða (lemma eða)))

@@ -3,8 +3,7 @@
         (URL
   http://www.mbl.is/sport/efstadeild/2016/03/15/breytingar_i_islenska_fotboltanum/)
         (COMMENT ))
-  (S0 (S-HEADING (IP (NP-SUBJ (sérnafn_nf_kk_et Marko (lemma Marko))
-                              (sérnafn_nf_kk_et Andelkovic (lemma Andelkovic)))
+  (S0 (S-HEADING (IP (NP-SUBJ (sérnafn_nf_kk_et Marko Andelkovic (lemma Marko Andelkovic)))
                      (PP (P (fs_þf í (lemma í)))
                          (NP (lo_et_hk_sb_þf serbneskt (lemma serbneskur))
                              (no_et_hk_þf félag (lemma félag))))))))

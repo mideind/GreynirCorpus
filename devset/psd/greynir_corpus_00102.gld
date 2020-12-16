@@ -128,9 +128,7 @@
                                       (NP-POSS (no_ft_ef_kk_gr dómstólanna (lemma dómstóll)))))))
                       (PP (P (fs_þgf samkvæmt (lemma samkvæmt)))
                           (NP (no_et_þgf_kvk frétt (lemma frétt))
-                              (NP-OBJ (sérnafn Dogan (lemma Dogan))
-                                      (grm -)
-                                      (no_et_ef_kvk_gr fréttastofunnar (lemma fréttastofa))))))))
+                              (NP-OBJ (sérnafn Dogan-fréttastofunnar (lemma Dogan-fréttastofa))))))))
       (grm .)))
 
 ( (META (ID-CORPUS d6846aad-73d9-11e8-a9f2-04014c605401.9)

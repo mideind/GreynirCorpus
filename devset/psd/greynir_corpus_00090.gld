@@ -206,7 +206,5 @@
                               (PP (P (fs_þf við (lemma við)))
                                   (NP (no_et_þf_kvk_gr innkomuna (lemma innkoma))
                                       (PP (P (fs_þf í (lemma í)))
-                                          (NP (fyrirtæki FH (lemma FH))
-                                              (grm - (lemma -))
-                                              (no_et_þf_hk_gr húsið (lemma hús)))))))))))
+                                          (NP (no_et_þf_hk_gr FH-húsið (lemma FH-hús)))))))))))
       (grm . (lemma .))))

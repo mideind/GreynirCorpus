@@ -16,12 +16,10 @@
                       (NP-OBJ (no_et_þgf_hk átrúnaðargoðinu (lemma átrúnaðargoð))
                               (fn_et_þgf_hk sínu (lemma sinn))))))
       (grm : (lemma :))
-      (grm „ (lemma „))
       (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (lo_et_nf_hk Ótrúlegt (lemma ótrúlegur)))
                                  (NP-PRD (CP-QUE (ADVP (ao hvernig (lemma hvernig)))
                                                  (IP (NP-SUBJ (no_et_nf_hk lífið (lemma líf)))
                                                      (VP (so_0_fh_p3_et_nt_gm er (lemma vera))))))))))
-      (grm “ (lemma “))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS a96ce2c2-0b69-11e7-aa18-04014c605401.14)

@@ -69,9 +69,7 @@
                           (NP (NP-TITLE (no_et_þgf_kk_gr bænum (lemma bær)))
                               (NP (sérnafn_et_þgf_kvk Paradís (lemma Paradís)))
                               (PP (P (fs_þf í (lemma í)))
-                                  (NP (sérnafn_et_þf Norður (lemma norður))
-                                      (grm —)
-                                      (sérnafn_et_þf_kvk Kaliforníu (lemma Kalifornía))))))
+                                  (NP (sérnafn_et_þf Norður-Kaliforníu (lemma Norður-Kalifornía))))))
                       (ADVP-DATE-REL (ao í gær (lemma í gær))))))
       (grm .)))
 
