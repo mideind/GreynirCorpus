@@ -85,7 +85,7 @@
 
 ( (META (ID-CORPUS f1f4c14a-70c5-11e8-a9ec-04014c605401.14)
         (ID-LOCAL greynir_corpus_00231_00001.psd,.6)
-        (URL http://www.ruv.is/frett/hundur-i-hong-kong-spair-islandi-sigri-a-hm))
+        (URL http://www.ruv.is/frett/hundur-i-hong-kong-spair-islandi-sigri-a-hm)
         (COMMENT ))
   ( (S0 (S-MAIN (IP (VP (VP (so_1_þf_nh_gm Sjá (lemma sjá)))
                         (VP (so_0_fh_p3_et_nt_gm má (lemma mega)))
@@ -93,10 +93,7 @@
                                 (NP-POSS (no_et_ef_hk Datous (lemma Datous))
                                          (PP (P (fs_þgf á (lemma á)))
                                              (NP (no_et_þgf_kk vef (lemma vefur))
-                                                 (NP-POSS (entity South (lemma South))
-                                                          (entity China (lemma China))
-                                                          (entity Morning (lemma Morning))
-                                                          (entity_et_ef_hk Post (lemma Post)))))))
+                                                 (NP-POSS (entity South China Morning Post (lemma South China Morning Post)))))))
                         (ADVP (ao hér (lemma hér))))))
         (grm .))))
 

@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS dd4136d9-398d-11e8-b06f-04014c605401.55)
         (ID-LOCAL greynir_corpus_00249_00001.psd,.1)
-        (URL http://www.visir.is/g/2018180409344/far-cry-5-sprell-sem-madur-a-tho-einhvern-veginn-ad-taka-alvarlega))
+        (URL http://www.visir.is/g/2018180409344/far-cry-5-sprell-sem-madur-a-tho-einhvern-veginn-ad-taka-alvarlega)
         (COMMENT ))
   ( (S0-X (S-MAIN (VP (NP-SUBJ (no_et_þf_kk Spilara (lemma spilari)))
                       (VP-AUX (so_0_fh_p3_ft_nt_gm geta (lemma geta)))
@@ -13,8 +13,7 @@
                       (C (st eða (lemma eða)))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (lo_et_þgf_hk_sb svokölluðu (lemma svokallaður))
-                              (foreign Arcade (lemma Arcade))
-                              (foreign Mode (lemma Mode))))))
+                              (foreign Arcade Mode (lemma Arcade Mode))))))
           (grm .))))
 
 ( (META (ID-CORPUS 211c81ba-8fbd-11e9-9842-04014c605401.3)

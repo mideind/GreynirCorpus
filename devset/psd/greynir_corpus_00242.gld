@@ -87,8 +87,7 @@
                              (NP-SUBJ (no_et_nf_kk sleikur (lemma sleikur)))
                              (NP-PRD (lo_et_nf_hk_vb nýja (lemma nýr))
                                      (no_et_nf_hk_gr handabandið (lemma handaband)))))))
-          (grm ? (lemma ?))
-          (grm “ (lemma “)))))
+          (grm ? (lemma ?)))))
 
 ( (META (ID-CORPUS 9114fd3e-f7af-11e8-9a3d-04014c605401.14)
         (ID-LOCAL greynir_corpus_00242_00001.psd,.6)

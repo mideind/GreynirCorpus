@@ -52,8 +52,7 @@
                                                     (no_et_þgf_kvk_gr bílafjölskyldunni (lemma bílafjölskylda)
                                                                                         (exp_seg bíla-fjölskylda))
                                                     (C (st og (lemma og)))
-                                                    (fyrirtæki Renault (lemma Renault))
-                                                    (fyrirtæki Nissan (lemma Nissan)))))))))))
+                                                    (fyrirtæki Renault Nissan (lemma Renault Nissan)))))))))))
         (grm .))))
 
 ( (META (ID-CORPUS c796386d-36f9-11e7-b7dd-04014c605401.17)
