@@ -7,8 +7,7 @@
                               (no_et_nf_kk köttur (lemma köttur)))
                      (NP-IOBJ (pfn_et_þgf_kvk_p2 þér (lemma þér)))
                      (NP-OBJ (no_et_þf_kk morgunmat (lemma morgunmatur))))))
-      (grm ? (lemma ?))
-      (grm “ (lemma “))))
+      (grm ? (lemma ?))))
 
 ( (META (ID-CORPUS 1d20dbc2-d453-11e8-996b-04014c605401.1)
         (ID-LOCAL greynir_corpus_00345.psd,.2)
@@ -32,8 +31,7 @@
                  (NP-PRD (lo_et_nf_hk_mst betra (lemma betra))
                          (CP-ADV-CMP (C (st en (lemma en)))
                                      (NP (pfn_et_nf_hk_p3 það (lemma sá))))))))
-      (grm ! (lemma !))
-      (grm “ (lemma “))))
+      (grm ! (lemma !))))
 
 ( (META (ID-CORPUS 82a7eeb9-ef73-11e6-8e8b-04014c605401.130)
         (ID-LOCAL greynir_corpus_00345.psd,.4)

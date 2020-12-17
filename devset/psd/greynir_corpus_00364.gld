@@ -27,8 +27,7 @@
                          (CP-REL (C (stt sem (lemma sem)))
                                  (IP (VP (VP (so_1_nf_fh_p3_et_nt_gm er (lemma er)))
                                          (NP-PRD (no_et_nf_kk yfirhönnuður (lemma yfir-hönnuður))
-                                                 (NP-POSS (person_ef_kk Roberto (lemma Roberto))
-                                                          (person_ef_kk Cavalli (lemma Cavalli))))))))))))
+                                                 (NP-POSS (person_ef_kk Roberto Cavalli (lemma Roberto Cavalli))))))))))))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS 2aaff78d-bd44-11e7-b934-04014c605401.3)
@@ -143,9 +142,7 @@
                  (PP (P (fs_þf í (lemma í)))
                      (NP (lo_ft_þf_kvk_evb fínustu (lemma fínn))
                          (no_ft_þf_kvk taugar (lemma taug))
-                         (NP-POSS (entity ESB (lemma ESB))
-                                  (grm - (lemma -))
-                                  (no_ft_ef_kk andstæðinga (lemma andstæðingur))))))))
+                         (NP-POSS (no_ft_ef_kk ESB-andstæðinga (lemma ESB-andstæðingur))))))))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS ad6ff6e3-8895-11e7-b8b0-04014c605401.15)

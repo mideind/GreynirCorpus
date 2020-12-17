@@ -99,8 +99,7 @@
                          (VP (VP (so_0_nh_gm grafa (lemma grafa)))
                              (PP (P (fs_þgf eftir (lemma eftir)))
                                  (NP (no_et_þgf_hk vatni (lemma vatn))))
-                             (PP (P (fs_þf í (lemma í))
-                                    (fs_þf gegnum (lemma gegnum)))
+                             (PP (P (fs_þf í gegnum (lemma í gegnum)))
                                  (NP (no_et_þf_kk_gr sífrerann (lemma sífreri)))))))))
       (grm . (lemma .))))
 
