@@ -91,8 +91,7 @@
                                 (IP-INF (TO (nhm að (lemma að)))
                                         (VP (VP (so_0_nh_gm horfa (lemma horfa)))
                                             (PP (P (fs_þf á (lemma á)))
-                                                (NP (person_þf_kk Dwyane (lemma Dwyane))
-                                                    (person_þf_kk Wade (lemma Wade)))))))))))
+                                                (NP (person_þf_kk Dwyane Wade (lemma Dwyane Wade)))))))))))
         (grm .))))
 
 ( (META (ID-CORPUS 15112991-9314-11e7-b8cb-04014c605401.16)

@@ -2,8 +2,7 @@
         (ID-LOCAL greynir_corpus_00215_00001.psd,.1)
         (URL http://www.visir.is/g/2017170829943/neymar-aftur-a-skotskonum-fyrir-psg))
         (COMMENT ))
-  ( (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Edinson (lemma Edinson))
-                             (person_nf_kk Cavani (lemma Cavani)))
+  ( (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Edinson Cavani (lemma Edinson Cavani)))
                     (VP (VP (VP (so_0_fh_p3_et_nt_gm fer (lemma fara)))
                             (PP (P (fs_þf á (lemma á)))
                                 (NP (no_et_þf_kk_gr punktinn (lemma punktur)))))
@@ -69,7 +68,7 @@
 
 ( (META (ID-CORPUS 129328ae-29f8-11e8-b02c-04014c605401.5)
         (ID-LOCAL greynir_corpus_00215_00001.psd,.6)
-        (URL https://kjarninn.is/frettir/2018-03-16-fjarmalakerfid-ad-komast-thann-stad-ad-ahaettusaekni-er-ad-aukast/))
+        (URL https://kjarninn.is/frettir/2018-03-16-fjarmalakerfid-ad-komast-thann-stad-ad-ahaettusaekni-er-ad-aukast/)
         (COMMENT ))
   ( (S0-X (S-MAIN (IP (PP (P (fs_ef Vegna (lemma vegna)))
                           (NP (fn_et_ef_hk þess (lemma sá))
@@ -78,8 +77,7 @@
                                           (VP (VP (so_0_fh_p3_et_nt_gm er (lemma er)))
                                               (NP-PRD (NP-POSS (fn_et_ef allra (lemma allur)))
                                                       (no_et_nf_kk hagur (lemma hagur))))))))))
-          (grm . (lemma .))
-          (grm “ (lemma “)))))
+          (grm . (lemma .)))))
 
 ( (META (ID-CORPUS 4e0499a1-85a3-11e7-b8a7-04014c605401.18)
         (ID-LOCAL greynir_corpus_00215_00001.psd,.7)

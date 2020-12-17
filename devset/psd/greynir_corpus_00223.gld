@@ -113,8 +113,7 @@
                         (NP-PRD (lo_et_nf_kk_sb annar (lemma annar))
                                 (lo_et_nf_kk_est_sb fljótastur (lemma fljótur)))
                         (PP (P (fs_þgf á (lemma á)))
-                            (NP (NP-COMPANY (fyrirtæki Red (lemma Red))
-                                            (fyrirtæki Bull (lemma Bull)))
+                            (NP (NP-COMPANY (fyrirtæki Red Bull (lemma Red Bull)))
                                 (no_et_þgf_kk_gr bílnum (lemma bílnum))))))
                 (grm . (lemma .))))))
 

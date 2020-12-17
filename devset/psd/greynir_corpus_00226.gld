@@ -57,8 +57,7 @@
                             (PP-DIR (P (fs_þf í gegnum (lemma í gegnum)))
                                     (NP (no_et_þf_kk tónlistarferil (lemma tónlistarferill)
                                                                     (exp_seg tónlistar-ferill))
-                                        (NP-POSS (sérnafn Post (lemma Post))
-                                                 (sérnafn Malone (lemma Malone)))))))))
+                                        (NP-POSS (sérnafn Post Malone (lemma Post Malone)))))))))
         (grm .))))
 
 ( (META (ID-CORPUS baf9a683-6b5a-11e8-ade5-04014c605401.21)
