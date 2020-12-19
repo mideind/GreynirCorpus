@@ -27,7 +27,7 @@
                          (VP (VP (so_1_þf_nh_gm senda (lemma senda)))
                              (NP-OBJ (no_ft_þf_kvk fyrirspurnir (lemma fyrirspurn)))
                              (ADVP (ADVP-DATE-REL (PP (P (fs_þf fyrir (lemma fyrir)))
-                                                      (NP (tími klukkan 19,00 (lemma klukkan 19,00)))))
+                                                      (NP (tími klukkan 19.00 (lemma klukkan 19.00)))))
                                    (ADVP-DATE-REL (ao í kvöld (lemma í kvöld)))
                                    (ADVP-DATE-ABS (tími 14.04.2019 (lemma 14.04.2019))))))))))
       (grm . (lemma .))))
@@ -63,8 +63,7 @@
                                          (VP-AUX (so_0_fh_p3_et_nt_gm þarf (lemma þurfa)))
                                          (ADVP (ao niður (lemma niður)))
                                          (NP-OBJ (no_et_þf_hk námsefni (lemma námsefni)))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 907de24f-5590-11e6-843e-04014c605401.5)
         (ID-LOCAL greynir_corpus_00370.psd,.5)

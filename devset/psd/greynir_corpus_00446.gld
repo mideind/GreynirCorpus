@@ -163,8 +163,7 @@
                                          (PP (P (fs_þgf af (lemma af)))
                                              (NP (abfn_þgf sér (lemma sér))))
                                          (NP-OBJ (no_et_þf_kvk þingmennsku (lemma þingmennsku)))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 946496f5-4572-11e7-b7ff-04014c605401.19)
         (ID-LOCAL greynir_corpus_00446.psd,.7)
@@ -189,7 +188,6 @@
                                  (NP (ao hvað (lemma hvað)))
                                  (ADVP (ao ekki (lemma ekki))))))
                (grm , (lemma ,))
-               (grm “ (lemma “))
                (CP-QUOTE (IP (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                                  (NP-SUBJ (person_nf_kvk Alda Hrönn (lemma Alda Hrönn)))))))
       (grm . (lemma .))))

@@ -31,8 +31,7 @@
                                                          (VP (VP (so_0_nh_gm sjá (lemma sjá)))
                                                              (PP-LOC (P (fs_þgf í (lemma í)))
                                                                      (NP (no_et_þgf_hk_gr sjónvarpinu (lemma sjónvarp))))))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 1e2e20b4-2b84-11e7-b7c0-04014c605401.2)
         (ID-LOCAL greynir_corpus_00379.psd,.3)
@@ -145,8 +144,7 @@
                                                  (no_et_þf_kvk línu (lemma lína))))
                                          (PP (P (fs_þgf með (lemma með)))
                                              (NP (person_þgf_kk Aroni (lemma Aron)))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 85941510-794f-11e9-9828-04014c605401.10)
         (ID-LOCAL greynir_corpus_00379.psd,.9)
@@ -160,12 +158,10 @@
                      (NP (fn_et_þgf_kvk sömu (lemma sami))
                          (no_et_þgf_kvk einlægni (lemma einlægni))))
                  (NP-OBJ (CP-QUOTE (IP (grm : (lemma :))
-                                       (grm „ (lemma „))
                                        (NP-SUBJ (no_et_nf_hk_gr Hatrið (lemma hatur)))
                                        (VP (VP-AUX (so_0_fh_p3_et_nt_gm mun (lemma muna)))
                                            (VP (so_0_nh_gm sigra (lemma sigra))))
-                                       (grm ! (lemma !))
-                                       (grm “ (lemma “))))))))))
+                                       (grm ! (lemma !))))))))))
 
 ( (META (ID-CORPUS 83966def-165f-11e8-8143-04014c605401.15)
         (ID-LOCAL greynir_corpus_00379.psd,.10)

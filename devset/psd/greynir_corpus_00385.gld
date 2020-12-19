@@ -59,8 +59,7 @@
         (ID-LOCAL greynir_corpus_00385.psd,.4)
         (URL http://url_vantar.is)
         (COMMENT ))
-  (S0 (S-MAIN (IP (grm „ (lemma „))
-             (NP-SUBJ (fn_et_nf_hk Það (lemma sá))
+  (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá))
                       (CP-REL (C (stt sem (lemma sem)))
                               (IP (NP-PRD (VP (so_0_lhþt_et haft (lemma hafa))))
                                   (VP (VP (so_0_fh_p3_et_þt_gm var (lemma var)))
@@ -126,9 +125,7 @@
                          (PP-LOC (P (fs_þgf í (lemma í)))
                                  (NP (no_et_þgf_hk_gr þinginu (lemma þing))))
                          (PP (P (fs_þf um (lemma um)))
-                             (NP (person_kk Skripal (lemma Skripal))
-                                 (grm - (lemma -))
-                                 (no_et_þf_hk_gr málið (lemma mál)))))))))
+                             (NP (no_et_þf_hk_gr Skripal-málið (lemma Skripal-mál)))))))))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS 102b9cf0-08b4-11e8-810a-04014c605401.20)
@@ -146,7 +143,6 @@
                  (NP-SUBJ (pfn_et_nf_kk_p3 hann (lemma hann)))
                  (NP (lo_et_þf_kk_sb dularfullur (lemma dularfullur)))
                  (NP-OBJ (CP-QUOTE (grm : (lemma :))
-                                   (grm „ (lemma „))
                                    (ADVP (uh Já (lemma já)))
                                    (grm ? (lemma ?)))))))))
 

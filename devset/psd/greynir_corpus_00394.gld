@@ -95,8 +95,7 @@
                                          (NP-PRD (lo_ft_nf_kvk_sb ómissandi (lemma ómissandi))
                                                  (PP (P (fs_þf fyrir (lemma fyrir)))
                                                      (NP (no_et_þf_hk_gr heildarverkið (lemma heildar-verk))))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS fec0d904-6400-11e8-adbb-04014c605401.10)
         (ID-LOCAL greynir_corpus_00394.psd,.6)
@@ -175,8 +174,7 @@
                                                  (NP (no_et_þgf_hk akurlendi (lemma akurlendi))
                                                      (PP (ADVP (ao suðaustur (lemma suðaustur)))
                                                          (P (fs_þgf af (lemma af)))
-                                                         (NP (sérnafn Addis (lemma Addis))
-                                                             (sérnafn Ababa (lemma Ababa))))))))))))))
+                                                         (NP (sérnafn Addis Ababa (lemma Addis Ababa))))))))))))))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS ff71bf9e-2930-11e7-b7be-04014c605401.22)
@@ -194,7 +192,6 @@
                                                          (CP-ADV-CMP (C (st og (lemma og)))
                                                                      (NP (no_ft_nf_kvk brunaæfingar (lemma bruna-æfing))))))))))
                    (grm , (lemma ,))
-                   (grm “ (lemma “))
                    (CP-SOURCE (IP (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                                       (NP-SUBJ (person_nf_kk Hermann (lemma Hermann))))))))
       (grm . (lemma .))))

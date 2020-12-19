@@ -199,9 +199,7 @@
                                                                      (PP (P (fs_nh um (lemma um)))
                                                                          (IP-INF (TO (nhm að (lemma að)))
                                                                                  (VP (VP (so_1_þf_nh_gm nota (lemma not)))
-                                                                                     (NP-OBJ (grm „ (lemma „))
-                                                                                             (lo_ft_þf_hk_sb óskiljanleg (lemma óskiljanlegur))
-                                                                                             (grm “ (lemma “))
+                                                                                     (NP-OBJ (lo_ft_þf_hk_sb óskiljanleg (lemma óskiljanlegur))
                                                                                              (no_ft_þf_hk orð (lemma orð))))))))))))))))))
       (grm . (lemma .))))
 

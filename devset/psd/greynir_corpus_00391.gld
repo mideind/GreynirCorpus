@@ -55,8 +55,7 @@
                                                  (no_et_þf_kvk umfjöllun (lemma umfjöllun))
                                                  (PP-LOC (P (fs_þgf í (lemma í)))
                                                          (NP (no_et_þgf_hk heimi (lemma heimur))))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 21d06f10-4533-11e6-8429-04014c605401.137)
         (ID-LOCAL greynir_corpus_00391.psd,.4)
