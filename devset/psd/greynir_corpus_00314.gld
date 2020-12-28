@@ -69,7 +69,7 @@
   ( (S0-X (S-MAIN (IP (NP-PRD (no_et_nf_kk Leikstjóri (lemma leikstjóri))
                               (NP-POSS (no_ft_ef_kk_gr þáttanna (lemma þáttur))))
                       (VP (VP (so_1_nf_fh_p3_et_nt_gm er (lemma vera)))
-                          (NP-SUBJ (person_nf_kk MikeFlanagan (lemma Mike Flanagan))))))
+                          (NP-SUBJ (person_nf_kk Mike Flanagan (lemma Mike Flanagan))))))
           (C (st en (lemma en)))
           (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 hann (lemma hann)))
                       (VP (VP-AUX (so_0_fh_p3_et_nt_gm hefur (lemma hafa)))

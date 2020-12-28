@@ -239,7 +239,7 @@
                                                  (ADVP (ao fram (lemma fram)))
                                                  (PP (P (fs_þgf hjá (lemma hjá)))
                                                      (NP (no_et_þgf_kvk_gr stofnuninni (lemma stofnun))))))))))))
-        (grm . (lemma .)))))
+        (grm . (lemma .))))
 
 ( (META (ID-CORPUS 769bab9e-47aa-11e8-b0bf-04014c605401.30)
         (ID-LOCAL greynir_corpus_00465.psd,.9)

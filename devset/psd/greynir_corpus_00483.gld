@@ -58,7 +58,7 @@
                                                          (IP (NP-SUBJ (pfn_ft_nf_kk_p3 þeir (lemma hann)))
                                                              (VP (VP-AUX (so_0_fh_p3_ft_nt_gm hafa (lemma hafa)))
                                                                  (PP (NP (no_et_ef_kvk heilsu (lemma heilsa))
-                                                                         (fn_et_ef_kvk sinnar (sinn)))
+                                                                         (fn_et_ef_kvk sinnar (lemma sinn)))
                                                                      (P (fs_ef vegna (lemma vegna))))
                                                                  (ADVP (ao ekki (lemma ekki)))
                                                                  (VP-AUX (so_0_sagnb_gm getað (lemma geta)))

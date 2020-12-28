@@ -144,7 +144,7 @@
                                               (NP (sérnafn_et_þgf_kk Noregi (lemma Noregur)))))))
                   (VP (VP (so_1_þgf_fh_p3_et_þt_mm barst (lemma bera)))
                       (NP-SUBJ (no_et_nf_kvk tilkynning (lemma tilkynning)))
-                      (ADVP-TIMESTAMP-REL (no_et_þf_kvk_gr klukkan  hálf sex(lemma klukka hálf sex))
+                      (ADVP-TIMESTAMP-REL (no_et_þf_kvk_gr klukkan  hálf sex (lemma klukka hálf sex))
                                           (P (fs_þf á (lemma á)))
                                           (NP (no_et_þf_kk laugardagsmorgun (lemma laugardagsmorgunn))))
                       (CP-THT (C (st að (lemma að)))

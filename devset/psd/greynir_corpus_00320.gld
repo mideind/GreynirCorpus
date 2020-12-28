@@ -36,7 +36,7 @@
         (ID-LOCAL reynir_corpus_00320_00001.psd,.2)
         (URL http://www.visir.is/valdis-thora--fjoldi-fylgjenda-a-samfelagsmidlum-skiptir-styrktaradila-miklu-mali/article/2017170128989)
         (COMMENT ))
-  ( (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (sérnafn_nf_kvk Paige (lemma Paige)))
+  ( (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (sérnafn_nf_kvk Paige Spiranac (lemma Paige Spiranac)))
                              (grm ,)
                              (NP-TITLE (NP-AGE (tala_ft_ef_hk 23 (lemma 23))
                                                (no_ft_ef_hk ára (lemma ár)))

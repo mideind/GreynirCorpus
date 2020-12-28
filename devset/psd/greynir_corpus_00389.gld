@@ -22,7 +22,7 @@
         (ID-LOCAL greynir_corpus_00389.psd,.2)
         (URL http://url_vantar.is)
         (COMMENT ))
-  (S0 (S-PREFIX (IP C (st En (lemma en)))))
+  (S0 (S-PREFIX (IP (C (st En (lemma en)))))
       (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 ég (lemma ég)))
              (VP (VP (so_1_þf_fh_p1_et_þt_gm vissi (lemma vita)))
                  (NP-OBJ (CP-THT (C (st að (lemma að)))

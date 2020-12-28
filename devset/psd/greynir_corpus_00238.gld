@@ -163,5 +163,5 @@
                                   (NP-POSS (no_et_ef_hk establishment (lemma establishment))
                                            (NP-POSS (eo of (lemma of))
                                                     (no_et_ef_hk the (lemma the))
-                                                    (NP-POSS (sérnafn Augusta National Women's Championship (lemma Augusta National Women's Championship)))))))
+                                                    (NP-POSS (sérnafn Augusta National Women's Amateur Championship (lemma Augusta National Women's Amateur Championship)))))))
                      (grm .)))))

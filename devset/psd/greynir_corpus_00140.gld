@@ -99,8 +99,7 @@
                   (VP (VP (so_1_þgf_fh_p3_ft_nt_gm hleypa (lemma hleypa)))
                       (NP-SUBJ (no_ft_nf_kk hreintrúarmenn (lemma hreintrúarmaður))
                                (C (st og (lemma og)))
-                               (grm —)
-                               (no_ft_nf_kvk konur (lemma kona)))
+                               (no_ft_nf_kvk -konur (lemma kona)))
                       (NP-OBJ (no_ft_þgf_kvk_gr brúnum (lemma brú))))))
       (grm .)))
 

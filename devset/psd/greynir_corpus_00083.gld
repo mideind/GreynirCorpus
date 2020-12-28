@@ -85,7 +85,7 @@
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Að (lemma að)))
                       (NP (no_et_þgf_kvk sögn (lemma sögn))
-                          (NP-POSS (NP-PERSON (person_et_ef_kk Juan Augustin Ramirez (lemma Juan Augustin Ramirez))
+                          (NP-POSS (NP-PERSON (person_et_ef_kk Juan Agustin Ramirez (lemma Juan Agustin Ramirez))
                                               (grm ,))
                                    (NP-TITLE (no_et_þgf_kk forstjóra (lemma forstjóri))
                                              (NP-POSS (no_et_ef_hk_gr sjúkrahússins (lemma sjúkrahús)))

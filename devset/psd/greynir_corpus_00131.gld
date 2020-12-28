@@ -73,7 +73,7 @@
                                                      (NP-POSS (lo_ft_ef_hk_sb breskra (lemma breskur))
                                                               (no_ft_ef_hk stjórnvalda (lemma stjórnvald)))
                                                      (PP-DIR (P (fs_ef til (lemma til)))
-                                                             (NP (sérnafn_ef_kvk Sádí  Arabíu(lemma Sádí Arabía)))))
+                                                             (NP (sérnafn_ef_kvk Sádí  Arabíu (lemma Sádí Arabía)))))
                                             (VP (VP (so_1_nf_vh_p3_et_nt_gm sé (lemma vera)))
                                                 (NP-PRD (lo_et_nf_kvk_sb lögleg (lemma löglegur)))))))))))
         (grm .)))

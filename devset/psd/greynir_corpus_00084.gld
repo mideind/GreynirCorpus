@@ -29,7 +29,7 @@
                               (VP (VP (so_1_þf_nh_gm koma (lemma koma)))
                                   (PP (P (fs_þgf að (lemma að)))
                                       (NP (no_et_þgf_kvk_gr krýningunni (lemma krýning))))
-                                  (PP P (fs_þf miðað við (lemma miðað við)))
+                                  (PP (P (fs_þf miðað við (lemma miðað við)))
                                       (NP (fn_ft_þf_hk þau (lemma sá))
                                           (no_ft_þf_hk viðbrögð (lemma viðbragð))
                                           (CP-REL (C (stt sem (lemma sem)))

@@ -110,7 +110,7 @@
                                                                                   (ADVP (ao meðal annars (lemma meðal annars)))
                                                                                   (VP (so_2_þgf_þf_lhþt_et tryggt (lemma tryggja)))
                                                                                   (PP (P (fs_þgf með (lemma með)))
-                                                                                      (NP (no_et_þgf_kvk Nato-aðild (lemma Nato-aðild)))
+                                                                                      (NP (no_et_þgf_kvk NATO-aðild (lemma NATO-aðild)))
                                                                                       (C (st og (lemma og)))
                                                                                       (NP (no_et_þgf_kk varnarsamningi (lemma varnarsamningur))
                                                                                           (P (fs við (lemma við)))

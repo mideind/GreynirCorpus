@@ -265,10 +265,7 @@
                                                           (PP (P (fs_þf í (lemma í)))
                                                               (NP (no_ft_ef_hk 8-liða (lemma 8-lið))
                                                                   (no_ft_þf_hk úrslit (lemma úrslit))
-                                                                  (NP-POSS (fyrirtæki Coca (lemma Coca))
-                                                                           (fyrirtæki Cola (lemma Cola))
-                                                                           (grm - (lemma -))
-                                                                           (no_et_ef_kk_gr bikarsins (lemma bikar))))))))))))))
+                                                                  (NP-POSS (no_et_ef_kk_gr Coca Cola-bikarsins (lemma Coca Cola-bikar))))))))))))))
       (grm . (lemma .))))
 
 ( (META (ID-CORPUS 3dd931c5-86a9-11e8-aa10-04014c605401.345)

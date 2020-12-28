@@ -118,7 +118,7 @@
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (lo_et_nf_hk_vb Myndarlega (lemma myndarlega))
                                 (no_et_nf_hk_gr leikaraparið (lemma leikara-par)))
-                      (person_nf_kk Ryan (lemma Ryan))
+                      (person_nf_kk Ryan Gosling (lemma Ryan Gosling))
                       (C (st og (lemma og)))
                       (person_nf_kvk Eva Mendes (lemma Eva Mendes)))
              (VP (VP (so_1_þf_fh_p3_ft_nt_gm eiga (lemma eiga)))

@@ -101,8 +101,7 @@
         (ID-LOCAL greynir_corpus_00426.psd,.5)
         (URL http://url_vantar.is)
         (COMMENT ))
-  (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Nick (lemma Nick))
-                      (person_nf_kk Boles (lemma Boles))
+  (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Nick Boles (lemma Nick Boles))
                       (NP-TITLE (grm , (lemma ,))
                                 (lo_et_nf_kk_sb fyrrverandi (lemma fyrrverandi))
                                 (no_et_nf_kk ráðherra (lemma ráðherra))
@@ -119,7 +118,7 @@
                                                              (NP-IOBJ (person_et_þf_kvk May (lemma May)))
                                                              (NP-OBJ (no_et_þf_kk stuðning (lemma stuðning))
                                                                      (NP-POSS (no_ft_ef_kk flokksmanna (lemma flokksmaður))))))))))))))
-      (grm . (lemma .))))
+      (grm . (lemma .)))
 
 ( (META (ID-CORPUS 6988f72e-9b2a-11e9-9856-04014c605401.28)
         (ID-LOCAL greynir_corpus_00426.psd,.6)

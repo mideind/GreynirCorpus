@@ -210,7 +210,7 @@
                                  (NP-OBJ (lo_et_þf_hk_sb nýtt (lemma nýr))
                                          (no_et_þf_hk frumvarp (lemma frumvarp)))
                                  (ADVP (ao aftur (lemma aftur)))
-                                 (PP (P fs_þf í gegnum (lemma í gegnum)))
+                                 (PP (P (fs_þf í gegnum (lemma í gegnum)))
                                      (NP (fn_ft_þf_kvk báðar (lemma báðir))
                                          (no_ft_þf_kvk deildir (lemma deila))))))))))
       (grm . (lemma .))))

@@ -140,7 +140,7 @@
                   (VP (VP (so_0_fh_p3_et_þt_gm lenti (lemma lenda)))
                       (PP (P (fs_þgf á (lemma á)))
                           (NP (sérnafn_et_þgf_kk Reykjavíkurflugvelli (lemma Reykjavíkurflugvöllur))))
-                      (ADVP-TIMESTAMP-REL (tímapunktur kl. 14,13 (lemma kl. 14,13))))
+                      (ADVP-TIMESTAMP-REL (tímapunktur kl. 14.13 (lemma kl. 14.13))))
                   (grm .)))))
 
 ( (META (ID-CORPUS 5fc2a9f1-ac39-11e7-b90d-04014c605401.9)
