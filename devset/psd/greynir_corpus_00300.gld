@@ -243,7 +243,7 @@
                                                       (NP (no_et_þgf_kvk bígerð (lemma bígerð))
                                                           (PP (P (fs_þgf í (lemma í)))
                                                               (NP (no_et_þgf_hk Washingtonríki (lemma Washingtonríki)))))))))))))
-                  (x . (lemma .))))))
+                  (grm . (lemma .))))))
 
 ( (META (ID-CORPUS 169282fa-9d5e-11e8-9881-04014c605401.14)
         (ID-LOCAL reynir_corpus_00300_00001.psd,.10)

@@ -197,7 +197,7 @@
                                 (VP (VP (so_0_nh_mm komast (lemma komast)))
                                     (PP (P (fs á (lemma á)))
                                         (NP (no_ft_þf_kk Ólympíuleika (lemma Ólympíuleikar)))))))
-                    (x . (lemma .)))))))
+                    (grm . (lemma .)))))))
 
 ( (META (ID-CORPUS 89911f4b-173b-11e9-9b1d-04014c605401.6)
         (ID-LOCAL reynir_corpus_00304_00001.psd,.8)

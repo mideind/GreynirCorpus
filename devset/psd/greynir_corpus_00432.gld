@@ -165,7 +165,7 @@
                          (NP-PRD (NP (no_et_nf_hk Ólympíulið (lemma ólympíulið))
                                      (NP-POSS (no_ft_ef_kk flóttamanna (lemma flóttamaður))))
                                  (grm \( (lemma \())
-                                 (NP (foreign Team of Refugee Athletes (lemma Team of Refugee Athletes))
+                                 (NP (foreign Team of Refugee Olympic Athletes (lemma Team of Refugee Olympic Athletes))
                                      (grm - (lemma -))
                                      (abbrev ROA (lemma ROA))
                                      (grm \) (lemma \))))))))))

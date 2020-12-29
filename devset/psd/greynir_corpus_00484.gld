@@ -357,7 +357,6 @@
                                       (VP (VP (so_0_lhþt_et orðinn (lemma orðinn)))
                                           (NP-PRD (lo_et_nf_kk_sb skjannahvítur (lemma skjannahvítur))))))))))
       (grm , (lemma ,))
-      (grm “ (lemma “))
       (S-MAIN (IP (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                  (NP (pfn_et_nf_kk_p3 hann (lemma hann))))))
       (grm . (lemma .))))

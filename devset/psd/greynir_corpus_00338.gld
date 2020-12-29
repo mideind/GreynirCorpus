@@ -163,7 +163,6 @@
                                                 (ADVP (ao ekki (lemma ekki)))
                                                 (VP (VP (so_0_nh_gm vera (lemma vera))))))))
                      (grm : (lemma :))
-                     (grm „ (lemma „))
                      (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
                                    (VP (VP (so_0_fh_p3_et_þt_gm var (lemma vera)))
                                        (ADVP (ao náttúrulega (lemma náttúrulega)))
@@ -190,8 +189,7 @@
                                                (no_et_þgf_kvk pressu (lemma pressa))
                                                (PP (P (fs_þgf frá (lemma frá)))
                                                    (NP (fn_ft_þgf_kk öðrum (lemma annar)))))))))
-                     (grm . (lemma .))
-                     (grm “ (lemma “)))))))
+                     (grm . (lemma .)))))))
 
 ( (META (ID-CORPUS 5a1edbd9-4557-11e8-b0b1-04014c605401.14)
         (ID-LOCAL reynir_corpus_00338_00001.psd,.5)

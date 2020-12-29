@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS 217cfefe-6a46-11e8-ade1-04014c605401.2)
         (ID-LOCAL greynir_corpus_00086.psd,.1)
-        (URL http://www.visir.is/g/2018180609127/-imyndadu-ther-ef-barnid-thitt-hefdi-thessa-framtidarsyn-))
+        (URL http://www.visir.is/g/2018180609127/-imyndadu-ther-ef-barnid-thitt-hefdi-thessa-framtidarsyn-)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (VP (VP (so_1_þf_nh_gm Byrja (lemma byrja)))
                           (NP-OBJ (no_et_þf_kk_gr daginn (lemma dagur)))
@@ -21,7 +21,7 @@
 
 ( (META (ID-CORPUS de3a3c0a-5e13-11e8-b12a-04014c605401.7)
         (ID-LOCAL greynir_corpus_00086.psd,.2)
-        (URL http://www.visir.is/g/2018180529694/felldu-tolf-ut-af-kjorskra-arneshrepps))
+        (URL http://www.visir.is/g/2018180529694/felldu-tolf-ut-af-kjorskra-arneshrepps)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Eftir (lemma eftir)))
                   (VP (VP (so_0_fh_p3_ft_nt_gm standa (lemma standa)))
@@ -81,7 +81,7 @@
 
 ( (META (ID-CORPUS 0bf64599-edc8-11e8-99fb-04014c605401.2)
         (ID-LOCAL greynir_corpus_00086.psd,.5)
-        (URL http://www.ruv.is/frett/danskur-utvarpsmadur-skotinn-til-bana))
+        (URL http://www.ruv.is/frett/danskur-utvarpsmadur-skotinn-til-bana)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (fn_et_þf_kk Sama (lemma sami))
                                       (no_et_þf_kk dag (lemma dagur)))
@@ -90,7 +90,7 @@
                       (ADVP-PCL (ao út (lemma út)))
                       (NP-OBJ (no_et_þf_kvk bók (lemma bók)))
                       (x sem (lemma sem))
-                      (ADVP (ao þar (lemma þar))
+                      (ADVP-LOC (ao þar (lemma þar))
                             (CP-REL (C (stt sem (lemma sem)))
                                     (IP (NP-SUBJ (VP (so_0_lhþt_et greint (lemma greina))))
                                         (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))
@@ -102,7 +102,7 @@
 
 ( (META (ID-CORPUS a5c7c2b9-339e-11e9-9b93-04014c605401.27)
         (ID-LOCAL greynir_corpus_00086.psd,.6)
-        (URL https://www.frettabladid.is/frettir/motmaela-fangelsun-noeru-vi-holmsheii))
+        (URL https://www.frettabladid.is/frettir/motmaela-fangelsun-noeru-vi-holmsheii)
         (COMMENT ))
   (S0 (S-PREFIX (IP-INF (VP (VP (so_0_nh_gm Sjá (lemma sjá)))
                             (ADVP (ao einnig (lemma einnig))))
@@ -121,7 +121,7 @@
 
 ( (META (ID-CORPUS da28d207-dc04-11e6-8e66-04014c605401.1)
         (ID-LOCAL greynir_corpus_00086.psd,.7)
-        (URL http://www.mbl.is/vidskipti/frettir/2017/01/16/svisslendingar_eyddu_mestu/))
+        (URL http://www.mbl.is/vidskipti/frettir/2017/01/16/svisslendingar_eyddu_mestu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (P (fs_þgf Í (lemma í)))
                                  (NP (dagsafs desember (lemma desember))))
@@ -158,7 +158,7 @@
 
 ( (META (ID-CORPUS 2d999e26-a1eb-11e8-9887-04014c605401.8)
         (ID-LOCAL greynir_corpus_00086.psd,.9)
-        (URL http://www.mbl.is/frettir/innlent/2018/08/17/landid_er_a_milli_tveggja_laegda/))
+        (URL http://www.mbl.is/frettir/innlent/2018/08/17/landid_er_a_milli_tveggja_laegda/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_fh_p3_et_nt_gm Fer (lemma fara)))
                       (IP-INF (TO (nhm að (lemma að)))
@@ -175,7 +175,7 @@
 
 ( (META (ID-CORPUS e539b78d-c49d-11e7-b944-04014c605401.4-5)
         (ID-LOCAL greynir_corpus_00086.psd,.10)
-        (URL http://www.visir.is/g/2017171108916/helga-forstodumadur-thjonustusvids-oskju))
+        (URL http://www.visir.is/g/2017171108916/helga-forstodumadur-thjonustusvids-oskju)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kvk Helga (lemma Helga)))
                   (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))

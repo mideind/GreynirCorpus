@@ -135,7 +135,7 @@
                   (VP (VP (VP (so_1_þf_fh_p3_et_þt_gm tók (lemma tók)))
                           (NP-OBJ (no_et_þf_kvk_gr íbúðina (lemma íbúðina))
                                   (PP (P (fs_þf í (lemma í)))
-                                      (NP (x nefnið (lemma nefnið)))))
+                                      (NP (no nefnið (lemma nef)))))
                           (ADVP (P (fs_þgf fyrir (lemma fyrir)))
                                 (NP (eo ekki (lemma ekki))
                                     (eo svo (lemma svo))

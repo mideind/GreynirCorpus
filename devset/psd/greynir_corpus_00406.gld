@@ -104,8 +104,7 @@
                                                                        (no_et_ef_kvk ríkisstjórnar (lemma ríkisstjórn))))
                                                      (VP (VP (so_0_fh_p3_et_þt_gm kom (lemma koma)))
                                                          (ADVP (ao út (lemma út)))))))))))))
-      (grm ? (lemma ?))
-      (grm “ (lemma “))))
+      (grm ? (lemma ?))))
 
 ( (META (ID-CORPUS 31d19d73-439d-11e7-b7fa-04014c605401.5)
         (ID-LOCAL greynir_corpus_00406.psd,.6)

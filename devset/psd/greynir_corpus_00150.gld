@@ -284,7 +284,6 @@
                                                  (NP-SUBJ (lo_et_nf_hk_mst meira (lemma mikill)))
                                                  (ADVP-PCL (ao til (lemma til))))))))))
         (grm , (lemma ,))
-        (grm “ (lemma “))
         (S-MAIN (IP (VP (VP (so_0_fh_p3_et_þt_gm sagði (lemma segja)))
                         (NP-SUBJ (person_nf_kk Sigurður Ingi (lemma Sigurður Ingi)))
                         (PP-LOC (P (fs_þgf í (lemma í)))

@@ -19,7 +19,7 @@
 
 ( (META (ID-CORPUS 2e008bda-b28d-11e8-98b9-04014c605401.6)
         (ID-LOCAL greynir_corpus_00083.psd,.2)
-        (URL http://www.visir.is/g/2018180909192/allir-leikmenn-fa-samtal-vid-hamren-sem-vill-hlusta-a-folkid-i-kringum-sig))
+        (URL http://www.visir.is/g/2018180909192/allir-leikmenn-fa-samtal-vid-hamren-sem-vill-hlusta-a-folkid-i-kringum-sig)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
                     (VP (VP (so_0_fh_p1_et_þt_gm talaði (lemma tala)))
@@ -41,8 +41,7 @@
         (ID-LOCAL greynir_corpus_00083.psd,.3)
         (URL http://www.ruv.is/frett/modir-gagnrynir-urraedaleysi-fyrir-born-i-vanda)
         (COMMENT ))
-  (S0 (S-PREFIX (IP (C (grm „ (lemma „))
-                       (ao Eins (lemma Eins))
+  (S0 (S-PREFIX (IP (C (ao Eins (lemma Eins))
                        (st og (lemma og)))))
       (S-MAIN (IP (ADVP-TIMESTAMP-REL (fn_et_þf_hk eitt (lemma einn))
                                       (no_et_þf_hk_gr skiptið (lemma skipti))
@@ -100,7 +99,7 @@
 
 ( (META (ID-CORPUS bba7570d-523b-11e9-9bcc-04014c605401.4)
         (ID-LOCAL greynir_corpus_00083.psd,.6)
-        (URL https://mbl.is/matur/frettir/2019/03/29/36_prosent_syrdur_rjomi_kaetir_keto_folk/))
+        (URL https://mbl.is/matur/frettir/2019/03/29/36_prosent_syrdur_rjomi_kaetir_keto_folk/)
         (COMMENT ))
   (S0 (S-PREFIX (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það))
                              (CP-REL (C (stt sem (lemma sem)))
@@ -143,7 +142,7 @@
 
 ( (META (ID-CORPUS 0747351d-c45f-11e7-b944-04014c605401.7)
         (ID-LOCAL greynir_corpus_00083.psd,.8)
-        (URL http://www.visir.is/g/2017171108958/bandariskir-demokratar-unnu-mikilvaega-sigra))
+        (URL http://www.visir.is/g/2017171108958/bandariskir-demokratar-unnu-mikilvaega-sigra)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Murphy (lemma Murphy)))
                   (VP (VP-AUX (so_0_fh_p3_et_nt_gm hefur (lemma hafa)))
@@ -164,7 +163,7 @@
 
 ( (META (ID-CORPUS e3046888-9993-11e9-9855-04014c605401.15)
         (ID-LOCAL greynir_corpus_00083.psd,.9)
-        (URL https://www.visir.is/g/2019190628832/franski-svikalaeknirinn-sem-myrti-fjolskyldu-sina-fyrir-26-arum-laus-ur-fangelsi))
+        (URL https://www.visir.is/g/2019190628832/franski-svikalaeknirinn-sem-myrti-fjolskyldu-sina-fyrir-26-arum-laus-ur-fangelsi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Einn (lemma einn))
                            (no_et_nf_kk fjölskylduvinur (lemma fjölskylduvinur)))
@@ -184,7 +183,7 @@
 
 ( (META (ID-CORPUS 1fd48623-4533-11e6-8429-04014c605401.25)
         (ID-LOCAL greynir_corpus_00083.psd,.10)
-        (URL http://kjarninn.is/skyring/2016-01-30-demokratar-velja-vopnin-gegn-trump/))
+        (URL http://kjarninn.is/skyring/2016-01-30-demokratar-velja-vopnin-gegn-trump/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Auglýsingin (lemma auglýsing)))
                     (VP (VP (so_0_fh_p3_et_nt_gm endar (lemma enda)))

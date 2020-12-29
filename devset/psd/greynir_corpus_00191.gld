@@ -391,7 +391,6 @@
                                          (PP-LOC (P (fs_þgf á (lemma á)))
                                                  (NP (sérnafn_et_þgf_hk Íslandi (lemma Ísland))))))))))
       (grm , (lemma ,))
-      (grm “ (lemma “))
       (S-MAIN (IP (VP (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                           (NP-SUBJ (person_nf_kvk Linnea (lemma Linnea))))
                       (C (st og (lemma og)))

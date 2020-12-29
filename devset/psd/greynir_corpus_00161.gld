@@ -210,7 +210,6 @@
                                            (st og (lemma og))
                                            (to_ft_þf_kk tvo (lemma tveir))))))))
       (grm , (lemma ,))
-      (grm “ (lemma “))
       (S-MAIN (IP (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                       (NP-SUBJ (pfn_et_nf_kvk_p3 hún (lemma hún))))))
       (grm . (lemma .))))

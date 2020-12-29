@@ -20,7 +20,7 @@
 
 ( (META (ID-CORPUS 7d908fe0-6b3f-11e7-b855-04014c605401.15)
         (ID-LOCAL greynir_corpus_00080.psd,.2)
-        (URL http://www.visir.is/g/2017170719126/umfjollun-vidtol-og-einkunnir-fjolnir-grindavik-4-0-uthvildir-fjolnismenn-rustudu-grindvikingum))
+        (URL http://www.visir.is/g/2017170719126/umfjollun-vidtol-og-einkunnir-fjolnir-grindavik-4-0-uthvildir-fjolnismenn-rustudu-grindvikingum)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_esb Flest (lemma margur))
                              (NP-POSS (pfn_ft_ef_hk_p3 þeirra (lemma það))))
@@ -58,7 +58,7 @@
 
 ( (META (ID-CORPUS 535baa57-ea60-11e8-99e3-04014c605401.3)
         (ID-LOCAL greynir_corpus_00080.psd,.4)
-        (URL http://www.ruv.is/frett/paradis-brann-a-nokkrum-klukkustundum))
+        (URL http://www.ruv.is/frett/paradis-brann-a-nokkrum-klukkustundum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Líkamsleifar (lemma líkamsleifar))
                            (NP-POSS (töl_ft_ef átta (lemma átta))))

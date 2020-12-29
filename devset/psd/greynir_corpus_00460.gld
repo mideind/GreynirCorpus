@@ -285,7 +285,6 @@
           (NP-OBJ (abfn_þf sig (lemma sig)))
           (NP-SUBJ (lo_ft_nf_kk_sb fjölmargir (lemma fjölmargur))))
       (grm : (lemma :))
-      (grm „ (lemma „))
       (VP (NP-PRD (so_0_lhþt_et Blessuð (lemma blessa)))
           (VP (so_0_vh_p3_et_nt_gm sé (lemma sjá)))
           (NP-SUBJ (no_et_nf_kvk minning (lemma minning))

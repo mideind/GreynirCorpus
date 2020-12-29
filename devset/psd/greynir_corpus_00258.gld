@@ -145,8 +145,7 @@
                         (P (fs_þf í (lemma í)))
                         (NP (lo_et_þf_kk_mst stærri (lemma stærri))
                             (no_et_þf_kk mun (lemma mun)))))
-                (grm . (lemma .))
-                (grm “ (lemma “))))))
+                (grm . (lemma .))))))
 
 ( (META (ID-CORPUS 1f5bc7d3-4533-11e6-8429-04014c605401.8)
         (ID-LOCAL reynir_corpus_00258_00001.psd,.8)

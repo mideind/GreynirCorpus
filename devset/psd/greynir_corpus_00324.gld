@@ -101,7 +101,7 @@
                                                                                                  (VP (VP (so_0_nh_gm taka (lemma taka)))
                                                                                                      (PP (P (fs_þf í (lemma í)))
                                                                                                          (NP (no_et_þf_kvk notkun (lemma notkun)))))))))))))))))))
-                (x . (lemma .))))))
+                (grm . (lemma .))))))
 
 ( (META (ID-CORPUS 26d26787-cb69-11e7-b95b-04014c605401.6)
         (ID-LOCAL reynir_corpus_00324_00001.psd,.4)

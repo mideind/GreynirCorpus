@@ -153,7 +153,7 @@
                                                                                        (exp_abbrev evru-samstarf)))
                                                 (PP (P (fs_þgf að (lemma að)))
                                                     (NP (no_et_þgf_hk falli (lemma fall))))))))))
-                (x . (lemma .))))))
+                (grm . (lemma .))))))
 
 ( (META (ID-CORPUS 20f1e151-4533-11e6-8429-04014c605401.7)
         (ID-LOCAL reynir_corpus_00318_00001.psd,.6)

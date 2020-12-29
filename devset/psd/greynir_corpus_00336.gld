@@ -16,7 +16,7 @@
                                             (PP (ADVP (ao allavega (lemma allavega)))
                                                 (P (fs_þgf á (lemma á)))
                                                 (NP (no_et_þgf_hk láglendi (lemma láglendi))))))))))
-        (C (x og (lemma og)))
+        (C (st og (lemma og)))
         (S-MAIN (IP (VP (ADVP (ao þá (lemma þá)))
                         (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))
                         (NP-SUBJ (lo_et stóra (lemma stóra))
@@ -40,7 +40,7 @@
                                         (IP (NP (no_et_nf_kk_gr vindurinn (lemma vindurinn)))
                                             (VP (VP (so_0_vh_p3_et_þt_gm hafi (lemma hafa)))
                                                 (NP (no_et_þf_kk_gr vinninginn (lemma vinninginn))))))))
-                    (x . (lemma .)))))))
+                    (grm . (lemma .)))))))
 
 ( (META (ID-CORPUS 63f42325-5cc0-11e6-8444-04014c605401.10)
         (ID-LOCAL reynir_corpus_00336_00001.psd,.2)

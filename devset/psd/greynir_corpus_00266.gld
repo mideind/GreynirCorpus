@@ -124,7 +124,6 @@
                                        (PP (P (fs_þf á (lemma á)))
                                            (NP (no_et_þf_kvk_gr hliðina (lemma hlið)))))))
                      (CP-SOURCE (grm , (lemma ,))
-                                (grm “ (lemma “))
                                 (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                                 (NP-SOURCE (no_et_nf_kk sjónarvottur (lemma sjónarvottur))))))
         (grm . (lemma .)))))

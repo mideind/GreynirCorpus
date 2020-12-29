@@ -74,8 +74,7 @@
                                                   (ADVP-DUR-REL (fn_et_þf_kk allan (lemma allur))
                                                                 (NP-POSS (no_et_ef_hk_gr ársins (lemma ár)))
                                                                 (no_et_þf_kk hring (lemma hringur)))))))))))
-      (grm . (lemma .))
-      (grm “ (lemma “))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 6bf157d5-b78b-11e8-98c8-04014c605401.20)
         (ID-LOCAL greynir_corpus_00125.psd,.4)
