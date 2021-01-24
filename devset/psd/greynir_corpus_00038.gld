@@ -45,7 +45,7 @@
 
 ( (META (ID-CORPUS 0e41c481-18d2-11e9-9b28-04014c605401.13)
         (ID-LOCAL greynir_corpus_00038.psd,.4)
-        (URL http://www.ruv.is/frett/setjum-fokusinn-bara-a-japan))
+        (URL http://www.ruv.is/frett/setjum-fokusinn-bara-a-japan)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_fst_sb Fyrst (lemma fyrstur)))
                   (NP-PRD (sérnafn_et_nf_hk Japan (lemma Japan)))
@@ -73,7 +73,7 @@
 
 ( (META (ID-CORPUS 8ad52f69-f365-11e8-9a17-04014c605401.4)
         (ID-LOCAL greynir_corpus_00038.psd,.6)
-        (URL http://www.visir.is/g/2018181128771/segir-ad-brotist-hafi-verid-inn-i-sima-eda-hlerunarbunadi-beitt))
+        (URL http://www.visir.is/g/2018181128771/segir-ad-brotist-hafi-verid-inn-i-sima-eda-hlerunarbunadi-beitt)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk_et Sigmundur Davíð (lemma Sigmundur Davíð)))
                   (VP (VP (so_1_þf_et_nt_fh_gm_p3 segir (lemma segja)))
@@ -87,7 +87,7 @@
 
 ( (META (ID-CORPUS e3f92477-cb4d-11e6-8e4c-04014c605401.51)
         (ID-LOCAL greynir_corpus_00038.psd,.7)
-        (URL http://www.mbl.is/smartland/stars/2016/12/26/hatar_ekki_athyglina/))
+        (URL http://www.mbl.is/smartland/stars/2016/12/26/hatar_ekki_athyglina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-PRD (fn_et_nf_hk Það (lemma sá))
                           (lo_et_nf_hk_evb_vb besta (lemma góður))

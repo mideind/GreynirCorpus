@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS bf031dad-85ee-11e7-b8a8-04014c605401.9)
         (ID-LOCAL greynir_corpus_00215_00001.psd,.1)
-        (URL http://www.visir.is/g/2017170829943/neymar-aftur-a-skotskonum-fyrir-psg))
+        (URL http://www.visir.is/g/2017170829943/neymar-aftur-a-skotskonum-fyrir-psg)
         (COMMENT ))
   ( (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Edinson Cavani (lemma Edinson Cavani)))
                     (VP (VP (VP (so_0_fh_p3_et_nt_gm fer (lemma fara)))
@@ -13,7 +13,7 @@
 
 ( (META (ID-CORPUS 85941510-794f-11e9-9828-04014c605401.24)
         (ID-LOCAL greynir_corpus_00215_00001.psd,.2)
-        (URL https://www.visir.is/g/2019190518894/alla-leid-))
+        (URL https://www.visir.is/g/2019190518894/alla-leid-)
         (COMMENT ))
   ( (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
                     (VP (VP (so_1_ef_fh_p3_et_nt_gm er (lemma vera)))

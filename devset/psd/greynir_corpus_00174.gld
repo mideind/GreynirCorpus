@@ -34,7 +34,7 @@
 
 ( (META (ID-CORPUS b4ccae64-ee02-11e6-8e89-04014c605401.2)
         (ID-LOCAL greynir_corpus_00174.psd,.2)
-        (URL http://www.visir.is/volvo-v90-rydur-nyjar-brautir/article/2017170209135))
+        (URL http://www.visir.is/volvo-v90-rydur-nyjar-brautir/article/2017170209135)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Ástæðan (lemma ástæða)))
                   (VP (VP (so_0_fh_p3_et_nt_gm liggur (lemma liggja)))
@@ -70,7 +70,7 @@
 
 ( (META (ID-CORPUS 96bcc4ed-bf04-11e7-b939-04014c605401.42)
         (ID-LOCAL greynir_corpus_00174.psd,.3)
-        (URL http://www.mbl.is/frettir/innlent/2017/11/01/brotalamir_til_vinstri_og_haegri/))
+        (URL http://www.mbl.is/frettir/innlent/2017/11/01/brotalamir_til_vinstri_og_haegri/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (CP-QUE (IP (ADVP (ao Hvort (lemma hvort)))
                                          (PP (P (fs_ef til (lemma til)))
@@ -137,7 +137,7 @@
 
 ( (META (ID-CORPUS 0a31722b-91e0-11e6-a2d7-04014c605401.9)
         (ID-LOCAL greynir_corpus_00174.psd,.5)
-        (URL http://www.visir.is/starfsmannaleigum-fjolgar-mjog-ort-/article/2016161019319))
+        (URL http://www.visir.is/starfsmannaleigum-fjolgar-mjog-ort-/article/2016161019319)
         (COMMENT ))
   (S0-X (S-QUOTE (PP (C (st Bæði (lemma bæði)))
                      (PP (P (fs_ef vegna (lemma vegna)))
@@ -274,7 +274,7 @@
 
 ( (META (ID-CORPUS 216f6179-4533-11e6-8429-04014c605401.16)
         (ID-LOCAL greynir_corpus_00174.psd,.9)
-        (URL http://www.mbl.is/frettir/innlent/2016/05/08/val_a_milli_fortidar_og_framtidar/))
+        (URL http://www.mbl.is/frettir/innlent/2016/05/08/val_a_milli_fortidar_og_framtidar/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma Ég)))
                    (VP (VP (VP (so_0_fh_p1_et_nt_gm hef (lemma hef)))

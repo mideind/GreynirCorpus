@@ -142,7 +142,7 @@
                  (NP-SUBJ (no_et_nf_hk Davines (lemma Davines))
                           (no_et_nf_hk sjampóbar (lemma sjampó-bar)))
                  (ADVP (ao þar (lemma þar))
-                       (CP-REL (C (st sem (lemma sem)))
+                       (CP-REL (C (stt sem (lemma sem)))
                                (IP (NP-SUBJ (no_ft_nf_kk partýgestir (lemma partý-gestur)))
                                    (VP (VP-AUX (so_0_fh_p3_ft_þt_gm gátu (lemma geta)))
                                        (VP (so_1_þf_sagnb_gm blandað (lemma blanda)))

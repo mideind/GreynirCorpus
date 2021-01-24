@@ -11,7 +11,7 @@
                                             (VP (VP (so_0_vh_p3_ft_þt_gm störfuðu (lemma starfa)))
                                                 (PP (P (fs_þf fyrir (lemma fyrir)))
                                                     (NP (no_et_þf_hk_gr framboðið (lemma framboð))))
-                                                (CP-REL (C (st sem (lemma sem)))
+                                                (CP-REL (C (stt sem (lemma sem)))
                                                         (IP (VP (VP (so_1_þgf_fh_p3_ft_þt_mm tengdust (lemma tengja)))
                                                                 (NP-OBJ (no_et_þgf_kk_gr flokknum (lemma flokkur)))))))))))))
         (C (st og (lemma og)))

@@ -217,7 +217,7 @@
                                                  (PP (P (fs_þf við (lemma við)))
                                                      (NP (no_ft_þf_kk_gr kjötkatlana (lemma kjötketill))))
                                                  (ADVP (ao hvað (lemma hvað))
-                                                       (CP-REL (C (st sem (lemma sem)))
+                                                       (CP-REL (C (stt sem (lemma sem)))
                                                                (IP (NP-SUBJ (pfn_et_nf_hk_p3 það (lemma það)))
                                                                    (VP (so_1_þf_fh_p3_et_nt_gm kostar (lemma kosta)))))))))))))
       (grm .)))

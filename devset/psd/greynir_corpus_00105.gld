@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS 198b30a4-4a77-11e6-8432-04014c605401.3)
         (ID-LOCAL greynir_corpus_00105.psd,.1)
-        (URL http://www.visir.is/hannes-samdi-vid-randers-fc/article/2016160719396))
+        (URL http://www.visir.is/hannes-samdi-vid-randers-fc/article/2016160719396)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Hannes (lemma Hannes))))
                   (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))
@@ -23,7 +23,7 @@
 
 ( (META (ID-CORPUS 8e5a5606-85ea-11e9-9831-04014c605401.2)
         (ID-LOCAL greynir_corpus_00105.psd,.2)
-        (URL https://www.visir.is/g/2019190609789/12-milljarda-gjaldthrot-fasteignafelags-bm-valla))
+        (URL https://www.visir.is/g/2019190609789/12-milljarda-gjaldthrot-fasteignafelags-bm-valla)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
                   (VP (VP (so_0_fh_p3_et_nt_gm kemur (lemma koma)))
@@ -46,7 +46,7 @@
 
 ( (META (ID-CORPUS 899c2779-2610-11e9-9b7b-04014c605401.1)
         (ID-LOCAL greynir_corpus_00105.psd,.3)
-        (URL http://www.visir.is/g/2019190209946/haetta-fjarstudningi-vid-oryggissveitir-palestinu))
+        (URL http://www.visir.is/g/2019190209946/haetta-fjarstudningi-vid-oryggissveitir-palestinu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_ft_nf_hk_gr Bandaríkin (lemma Bandaríki)))
                   (VP (VP (so_0_fh_p3_ft_nt_gm hætta (lemma hætta)))
@@ -143,7 +143,7 @@
 
 ( (META (ID-CORPUS 9829e732-8dfa-11e8-aa1e-04014c605401.68)
         (ID-LOCAL greynir_corpus_00105.psd,.7)
-        (URL http://www.mbl.is/frettir/innlent/2018/07/22/endurfundir_ellyjar_og_vilhjalms/))
+        (URL http://www.mbl.is/frettir/innlent/2018/07/22/endurfundir_ellyjar_og_vilhjalms/)
         (COMMENT ))
   (S0 (S-MAIN (IP (C (st En (lemma en)))
                   (ADVP-DUR-REL (ao á þessum tíma (lemma á þessum tíma)))
@@ -156,7 +156,7 @@
       (S-MAIN (IP (NP-SUBJ (no_et_nf_kk maður (lemma maður)))
                   (VP (VP (so_1_þf_fh_p3_et_þt_gm vissi (lemma vita)))
                       (NP-OBJ (eo ekki (lemma ekki))
-                              (CP-QUE (ao hvernig (lemma hvernig))
+                              (CP-QUE (ADVP (ao hvernig (lemma hvernig)))
                                       (IP (NP-SUBJ (lo_et_nf_kk_sb íslenskur (lemma íslenskur))
                                                    (no_et_nf_kk hreimur (lemma hreimur)))
                                           (VP (so_0_fh_p3_et_þt_gm hljómaði (lemma hljóma)))))))))
@@ -186,7 +186,7 @@
 
 ( (META (ID-CORPUS 99fefa73-40e7-11e8-b095-04014c605401.15)
         (ID-LOCAL greynir_corpus_00105.psd,.9)
-        (URL http://www.visir.is/g/2018180419240/sorgin-stendur-i-stad-thar-til-rettlaeti-er-nad))
+        (URL http://www.visir.is/g/2018180419240/sorgin-stendur-i-stad-thar-til-rettlaeti-er-nad)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Litlar (lemma lítill))
                            (no_ft_nf_kvk skaðabætur (lemma skaðabót)))
@@ -210,7 +210,7 @@
 
 ( (META (ID-CORPUS 36fa9259-b72f-11e6-b576-04014c605401.12)
         (ID-LOCAL greynir_corpus_00105.psd,.10)
-        (URL http://www.visir.is/taepur-thridjungur-kennara-i-rettarholtsskola-sogdu-upp-storfum-i-dag/article/2016161139886))
+        (URL http://www.visir.is/taepur-thridjungur-kennara-i-rettarholtsskola-sogdu-upp-storfum-i-dag/article/2016161139886)
         (COMMENT ))
   (S0-X (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fn_ft_nf_kk Þeir (lemma sá))
                                             (no_ft_nf_kk kennarar (lemma kennari))

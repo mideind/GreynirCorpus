@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS 22bafaf9-bc94-11e7-b932-04014c605401.17)
         (ID-LOCAL greynir_corpus_00109.psd,.1)
-        (URL http://eyjan.pressan.is/silfuregils/2017/10/29/konur-og-ungt-folk-detta-ut-stutungskarlar-koma-inn/))
+        (URL http://eyjan.pressan.is/silfuregils/2017/10/29/konur-og-ungt-folk-detta-ut-stutungskarlar-koma-inn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kk Sjálfstæðisflokkur (lemma Sjálfstæðisflokkur))
                            (grm ,)
@@ -163,7 +163,7 @@
 
 ( (META (ID-CORPUS 5af61576-0dc9-11e9-9ad8-04014c605401.5)
         (ID-LOCAL greynir_corpus_00109.psd,.8)
-        (URL http://www.ruv.is/frett/spad-hvassvidri-a-snaefellsnesi-fram-a-kvold))
+        (URL http://www.ruv.is/frett/spad-hvassvidri-a-snaefellsnesi-fram-a-kvold)
         (COMMENT ))
   (S0-X (S-PREFIX (NP (sérnafn_et_nf_hk Suðvesturland (lemma Suðvesturland)))
                   (grm : (lemma :)))
@@ -212,7 +212,7 @@
 
 ( (META (ID-CORPUS 20c31b47-4533-11e6-8429-04014c605401.2)
         (ID-LOCAL greynir_corpus_00109.psd,.10)
-        (URL http://www.mbl.is/sport/enski/2016/04/05/johann_for_meiddur_af_velli/))
+        (URL http://www.mbl.is/sport/enski/2016/04/05/johann_for_meiddur_af_velli/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þf Eftir (lemma eftir)))
                                 (NP (NP-POSS (tala_ft_ef_kvk 15 (lemma 15))

@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS 211ccd53-4533-11e6-8429-04014c605401.10)
         (ID-LOCAL greynir_corpus_00201.psd,.1)
-        (URL http://www.mbl.is/frettir/innlent/2016/04/26/vilja_medhondla_neyslufelaga_saman/))
+        (URL http://www.mbl.is/frettir/innlent/2016/04/26/vilja_medhondla_neyslufelaga_saman/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Mikil (lemma mikill))
                            (no_et_nf_kvk áhersla (lemma áhersla)))
@@ -125,7 +125,7 @@
 
 ( (META (ID-CORPUS 21f6569c-4533-11e6-8429-04014c605401.1)
         (ID-LOCAL greynir_corpus_00201.psd,.3)
-        (URL http://kjarninn.is/skyring/2016-06-21-bandariskir-stjornmalamenn-komu-i-veg-fyrir-hertari-byssuloggjof/))
+        (URL http://kjarninn.is/skyring/2016-06-21-bandariskir-stjornmalamenn-komu-i-veg-fyrir-hertari-byssuloggjof/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Þrátt fyrir (lemma þrátt fyrir)))
                       (NP (lo_et_þf_kvk_evb verstu (lemma illur))
@@ -186,7 +186,7 @@
 
 ( (META (ID-CORPUS ae354b8d-767e-11e7-b874-04014c605401.5)
         (ID-LOCAL greynir_corpus_00201.psd,.4)
-        (URL http://www.mbl.is/frettir/innlent/2017/08/01/asokn_i_tjaldsvaedin_svipud/))
+        (URL http://www.mbl.is/frettir/innlent/2017/08/01/asokn_i_tjaldsvaedin_svipud/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
                                  (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))
@@ -247,7 +247,7 @@
 
 ( (META (ID-CORPUS bdc98458-1fe8-11e9-9b5c-04014c605401.7)
         (ID-LOCAL greynir_corpus_00201.psd,.5)
-        (URL http://www.mbl.is/frettir/innlent/2019/01/24/stundum_er_hagnadur_stundum_er_tap/))
+        (URL http://www.mbl.is/frettir/innlent/2019/01/24/stundum_er_hagnadur_stundum_er_tap/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_kvk Heildarmynd (lemma heildarmynd))
                                           (NP-POSS (no_ft_ef_hk_gr viðskiptanna (lemma viðskipti))))
@@ -309,7 +309,7 @@
 
 ( (META (ID-CORPUS 205d2565-4533-11e6-8429-04014c605401.4)
         (ID-LOCAL greynir_corpus_00201.psd,.6)
-        (URL http://kjarninn.is/frettir/2016-01-14-alan-rickman-latinn/))
+        (URL http://kjarninn.is/frettir/2016-01-14-alan-rickman-latinn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Hér á landi (lemma hér á landi)))
                   (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))
@@ -435,7 +435,7 @@
 
 ( (META (ID-CORPUS b5ed8ed6-9d81-11e7-b8e9-04014c605401.17)
         (ID-LOCAL greynir_corpus_00201.psd,.8)
-        (URL http://www.mbl.is/smartland/stars/2017/09/19/vann_sig_i_gegnum_erfida_lifsreynslu/))
+        (URL http://www.mbl.is/smartland/stars/2017/09/19/vann_sig_i_gegnum_erfida_lifsreynslu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Markþjálfi (lemma markþjálfi)))
                   (VP (VP-AUX (so_0_fh_p3_et_nt_gm getur (lemma geta)))
@@ -513,7 +513,7 @@
 
 ( (META (ID-CORPUS 44bde7ca-cde8-11e8-994e-04014c605401.36)
         (ID-LOCAL greynir_corpus_00201.psd,.9)
-        (URL http://www.mbl.is/frettir/innlent/2018/10/12/forystan_gagnrynd_hardlega/))
+        (URL http://www.mbl.is/frettir/innlent/2018/10/12/forystan_gagnrynd_hardlega/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (person_et_nf_kvk Sólveig Anna (lemma Sólveig Anna)))
                   (VP (VP (so_0_fh_p3_et_þt_gm var (lemma vera)))
@@ -592,7 +592,7 @@
 
 ( (META (ID-CORPUS e7cc21ca-e94f-11e6-8e82-04014c605401.19)
         (ID-LOCAL greynir_corpus_00201.psd,.10)
-        (URL http://www.mbl.is/matur/frettir/2017/02/02/algeng_misstok_i_faeduvali/))
+        (URL http://www.mbl.is/matur/frettir/2017/02/02/algeng_misstok_i_faeduvali/)
         (COMMENT ))
   (S0-X (S-QUOTE (IP (CP-QUOTE (IP (CP-ADV-ACK (C (st Þó (lemma þó)))
                                                (IP (NP-SUBJ (pfn_et_nf_p1 ég (lemma ég)))

@@ -56,7 +56,7 @@
                                                    (NP (abfn_þgf sér (lemma sig))))
                                                (ADVP (ao heim (lemma heim)))
                                                (ADVP-LOC (ao þar (lemma þar))
-                                                         (CP-REL (C (st sem (lemma sem)))
+                                                         (CP-REL (C (stt sem (lemma sem)))
                                                                  (IP (NP-SUBJ (pfn_et_nf_kk_p3 hann (lemma hann)))
                                                                      (VP (VP (so_1_þgf_fh_p3_et_þt_gm sinnti (lemma sinna)))
                                                                          (NP-OBJ (pfn_et_þgf_kvk_p3 henni (lemma hún)))

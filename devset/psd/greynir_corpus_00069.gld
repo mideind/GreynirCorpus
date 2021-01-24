@@ -79,7 +79,7 @@
                         (NP-OBJ (lo_et_þf_kk_vb rauða (lemma rauður))
                                 (no_et_þf_kk_gr dregilinn (lemma dregill)))
                         (ADVP-LOC (ao þar (lemma þar))
-                                  (CP-REL (C (st sem (lemma sem)))
+                                  (CP-REL (C (stt sem (lemma sem)))
                                           (IP (NP-SUBJ (no_et_nf_hk fataval (lemma fataval))
                                                        (NP-POSS (no_ft_ef_kk gesta (lemma gestur))))
                                               (VP (VP (so_0_fh_p3_et_þt_gm var (lemma vera)))

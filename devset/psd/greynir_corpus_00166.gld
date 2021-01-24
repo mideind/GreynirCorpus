@@ -1,6 +1,6 @@
 ( (META (ID-CORPUS 39eed1da-9baa-11e6-bea0-04014c605401.8)
         (ID-LOCAL greynir_corpus_00166.psd,.1)
-        (URL http://www.mbl.is/matur/frettir/2016/10/26/ms_med_nyja_vorur_an_vidbaetts_sykurs/))
+        (URL http://www.mbl.is/matur/frettir/2016/10/26/ms_med_nyja_vorur_an_vidbaetts_sykurs/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Skólajógúrtin (lemma skólajógúrt)
                                                           (exp_seg skóla-jógúrt)))
@@ -256,7 +256,7 @@
 
 ( (META (ID-CORPUS 2d03d56d-73cb-11e9-9821-04014c605401.16)
         (ID-LOCAL greynir_corpus_00166.psd,.9)
-        (URL https://www.frettabladid.is/frettir/suu-kyi-reyndist-strsta-hindrunin/))
+        (URL https://www.frettabladid.is/frettir/suu-kyi-reyndist-strsta-hindrunin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-PRD (lo_et_nf_hk_fst_sb Vert (lemma verður)))
                   (VP (VP (so_1_nf_fh_p3_et_nt_gm er (lemma vera)))
@@ -286,7 +286,7 @@
 
 ( (META (ID-CORPUS 83c3a739-a234-11e7-b8f4-04014c605401.19)
         (ID-LOCAL greynir_corpus_00166.psd,.10)
-        (URL http://www.mbl.is/frettir/innlent/2017/09/25/thurfum_ad_haetta_ad_breyta_nemendum/))
+        (URL http://www.mbl.is/frettir/innlent/2017/09/25/thurfum_ad_haetta_ad_breyta_nemendum/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Skóli (lemma skóli))
                              (PP (P (fs_ef án (lemma án)))

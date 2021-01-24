@@ -118,7 +118,7 @@
                  (ADVP-DUR-REL (P (ao í (lemma í)))
                                (NP (lo_et_þf_hk_mst fyrra (lemma fyrri))))
                  (ADVP (ao þar (lemma þar))
-                       (CP-REL (C (st sem (lemma sem)))
+                       (CP-REL (C (stt sem (lemma sem)))
                                (IP (NP-SUBJ (no_et_nf_hk_gr liðið (lemma líða)))
                                    (VP (VP (so_0_fh_p3_et_þt_gm fór (lemma fara)))
                                        (PP (P (fs_þf í (lemma í)))
