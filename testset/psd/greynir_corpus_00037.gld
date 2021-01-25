@@ -116,7 +116,7 @@
 ( (META (ID-CORPUS 17e0abbc-be4a-11e8-98f4-04014c605401.144)
         (ID-LOCAL reynir_corpus_00037.psd,.9)
         (URL http://www.mbl.is/frettir/burdargrein/2018/09/22/eg_gat_ekkert_gert/)
-        (COMMENT (Ath. NP-SUBJ-AGE)))
+        (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_mst Eldri (lemma gamall))
                            (CP-ADV-CMP (C (st en (lemma en)))
                                        (IP (NP-AGE (tala_ft_ef_hk 18 (lemma 18))

@@ -299,7 +299,7 @@
 ( (META (ID-CORPUS fbda3c09-bc4e-11e6-b57e-04014c605401.2)
         (ID-LOCAL reynir_corpus_00184.psd,.9)
         (URL http://www.visir.is/-rangur-misskilningur-/article/2016161209175)
-        (COMMENT (Málfarsvilla: "farskjóta" ætti að vera "fararskjóta".)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
                             (NP (no_et_þgf_kvk grein (lemma grein))
                                 (PP (P (fs_þgf í (lemma í)))

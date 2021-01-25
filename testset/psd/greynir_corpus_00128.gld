@@ -218,7 +218,7 @@
 ( (META (ID-CORPUS 4240682b-22f4-11e9-9b77-04014c605401.17)
         (ID-LOCAL reynir_corpus_00128.psd,.9)
         (URL https://www.frettabladid.is/frettir/slatra-farveikum-kum-i-skjoli-naetur)
-        (COMMENT (CP-ADV-TEMP illa myndaður, vantar 'að'-tenginguna.)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
                         (NP (no_ft_þgf_hk lögum (lemma lag))))
                     (VP (VP (so_0_fh_p3_et_nt_gm á (lemma eiga)))

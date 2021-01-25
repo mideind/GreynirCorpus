@@ -96,7 +96,7 @@
 ( (META (ID-CORPUS 3f49af85-5ca7-11e6-8444-04014c605401.5)
         (ID-LOCAL greynir_corpus_00380.psd,.6)
         (URL http://url_vantar.is)
-        (COMMENT („fyrstu“ á að vera "fyrst".)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Vísir (lemma vísir)))
                (VP (VP (so_1_þf_fh_p3_et_þt_gm greindi (lemma greina)))
                    (ADVP (ao fyrstu (lemma fyrst)))

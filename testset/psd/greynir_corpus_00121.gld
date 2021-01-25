@@ -202,7 +202,7 @@
 ( (META (ID-CORPUS a8e1b538-e8b0-11e8-99d1-04014c605401.4)
         (ID-LOCAL reynir_corpus_00121.psd,.9)
         (URL http://www.visir.is/g/2018181119307/kari-mun-maeta-45-ara-i-landslidid-ef-eg-verd-valinn)
-        (COMMENT (Innsláttarvilla: "Leikmen" eiga að vera "leikmenn".)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk_gr Strákarnir (lemma strákur))
                              (NP-POSS (pfn_ft_ef_p1 okkar (lemma ég))))
                     (VP (VP-AUX (so_0_fh_p3_ft_nt_gm hafa (lemma hafa)))

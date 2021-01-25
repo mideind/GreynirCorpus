@@ -136,8 +136,8 @@
 
 ( (META (ID-CORPUS 1a82d0f6-9acc-11e6-a2e5-04014c605401.1)
         (ID-LOCAL greynir_corpus_00076.psd,.8)
-        (URL http://www.mbl.is/matur/frettir/2016/10/25/threfold_sukkuladisprengja_6/))
-        (COMMENT )
+        (URL http://www.mbl.is/matur/frettir/2016/10/25/threfold_sukkuladisprengja_6/)
+        (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Snorri Guðmundsson (lemma Snorri Guðmundsson))
                            (NP-TITLE (grm ,)
                                      (no_et_nf_kk matarbloggari (lemma matarbloggari))))

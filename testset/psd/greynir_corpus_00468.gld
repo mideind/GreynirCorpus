@@ -257,7 +257,7 @@
 ( (META (ID-CORPUS 9498b769-d5d2-11e7-b970-04014c605401.9)
         (ID-LOCAL greynir_corpus_00468.psd,.9)
         (URL http://url_vantar.is)
-        (COMMENT (Ég verð að viðurkenna að ég skil ekki þessa setningu. „fel“ á svo örugglega að vera „vel“)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (NP (no_et_nf_hk Lið (lemma lið))
                         (sérnafn_et_ef_hk Ísland (lemma Ísland))
                         (tala_ft_nf_hk 2 (lemma 2))

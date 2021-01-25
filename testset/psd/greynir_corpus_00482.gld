@@ -149,7 +149,7 @@
 ( (META (ID-CORPUS abb6ad26-7026-11e6-a2b5-04014c605401.3)
         (ID-LOCAL greynir_corpus_00482.psd,.5)
         (URL http://url_vantar.is)
-        (COMMENT (Það er eitt auka-„úr“ þarna á ferð.)))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
                     (VP (VP (so_0_fh_p3_et_nt_mm styttist (lemma stytta)))
                         (PP (P (fs_þf í (lemma í)))

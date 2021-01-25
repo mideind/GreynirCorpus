@@ -55,7 +55,7 @@
 ( (META (ID-CORPUS b0e8426a-9cfd-11e6-bea1-04014c605401.14)
         (ID-LOCAL reynir_corpus_00030.psd,.5)
         (URL http://kvennabladid.is/2016/10/28/bjarni-segir-70-folks-i-raun-bagga-a-rikinu-er-vardar-tekjuskatt/)
-        (COMMENT (Ætti að vera 'ríkustu' og 'ávinnings')))
+        (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (eo Aðeins (lemma aðeins))
                              (lo_et_nf_hk_evb ríkasta (lemma ríkur))
                              (no_ft_nf_hk 20% (lemma 20%)))
