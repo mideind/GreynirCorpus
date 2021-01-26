@@ -76,7 +76,7 @@
                               (PP (P (fs_þgf í (lemma í)))
                                   (NP (no_ft_þgf_kvk_gr myndunum (lemma mynd))))))
                   (C (st og (lemma og)))))
-      (S (IP (NP-SUBJ (no_ft_nf_hk_gr svipbrigðin (lemma svipbrigði)))
+      (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr svipbrigðin (lemma svipbrigði)))
              (VP (VP (so_0_fh_p3_ft_nt_gm eru (lemma vera)))
                  (IP-INF (TO (nhm að (lemma að)))
                          (VP (VP (so_0_nh_gm verða (lemma verða)))

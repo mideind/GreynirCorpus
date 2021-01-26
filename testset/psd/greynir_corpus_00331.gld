@@ -2,7 +2,7 @@
         (ID-LOCAL reynir_corpus_00331_00001.psd,.1)
         (URL http://www.ruv.is/frett/thorskurinn-kemur-thorskurinn-kemur)
         (COMMENT ))
-  ( (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
+  ( (S0-X (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
                         (NP (no_et_þgf_kk stað (lemma staður))
                             (NP-POSS (pfn_et_ef_hk_p3 þess (lemma það))
                                      (IP-INF (TO (nhm að (lemma að)))

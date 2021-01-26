@@ -23,7 +23,8 @@
         (URL http://url_vantar.is)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao_fst Hér (lemma hér)))
-             (ADVP (ao fyrir neðan (lemma fyrir neðan)))
+             (ADVP (ao fyrir neðan (lemma fyrir neðan))
+                   (ao neðan (lemma neðan)))
              (VP (VP-AUX (so_0_fh_p3_et_nt_gm má (lemma mega)))
                  (VP (VP (so_1_þf_nh_gm sjá (lemma sjá)))
                      (NP-OBJ (fn_et_þf_hk allt (lemma allur))
@@ -35,7 +36,7 @@
                                               (C (st og (lemma og)))
                                               (entity La (lemma La))
                                               (fyrirtæki_ef_hk Clippers (lemma Clippers))))))))))
-      (grm . (lemma lanþan))))
+      (grm . (lemma .))))
 
 ( (META (ID-CORPUS 21065c10-4533-11e6-8429-04014c605401.8)
         (ID-LOCAL greynir_corpus_00388.psd,.3)

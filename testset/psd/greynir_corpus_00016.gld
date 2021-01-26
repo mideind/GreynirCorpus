@@ -63,7 +63,7 @@
         (ID-LOCAL reynir_corpus_00016.psd,.6)
         (URL http://www.ruv.is/frett/segir-flugid-til-akureyrar-eldskirn)
         (COMMENT ))
-  (S0 (S-HEADING (IP (grm „)
+  (S0-X (S-HEADING (IP (grm „)
                      (VP (VP (so_2_þgf_þf_fh_p1_ft_þt_gm Gerðum (lemma gera)))
                          (NP-IOBJ (pfn_ft_þf_hk okkur (lemma ég)))
                          (NP-OBJ (no_et_þf_kvk grein (lemma grein))

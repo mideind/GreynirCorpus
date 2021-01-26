@@ -172,7 +172,7 @@
         (ID-LOCAL reynir_corpus_00100.psd,.9)
         (URL http://www.visir.is/hvad-ef-og-hefdi/article/2016161119928)
         (COMMENT ))
-  (S0 (S-MAIN (IP (NP-SUBJ (NP (fn Þessi (lemma þessi))
+  (S0-X (S-MAIN (IP (NP-SUBJ (NP (fn Þessi (lemma þessi))
                                (NP-POSS (no draumsins (lemma draumur)))
                                (no þrá (lemma þrá)))
                            (C (st og (lemma og)))
