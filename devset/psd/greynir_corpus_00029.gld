@@ -1,4 +1,4 @@
-( (META (ID-CORPUS c6770eff-6b45-11e8-ade4-04014c605401.6)
+(META (ID-CORPUS c6770eff-6b45-11e8-ade4-04014c605401.6)
         (ID-LOCAL greynir_corpus_00029.psd,.1)
         (URL
   http://www.visir.is/g/2018180608931/kroatia-mardi-senegal-i-sidasta-leiknum-fyrir-hm)
@@ -11,9 +11,9 @@
                           (NP (sérnafn_þgf_et_kvk Nígeríu (lemma Nígería))))
                       (ADVP-DATE-REL (lo_et_evb_kk_þf næsta (lemma næstur))
                                      (no_et_kk_þf laugardag (lemma laugardagur))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 5a86d48b-bbd3-11e7-b930-04014c605401.20)
+(META (ID-CORPUS 5a86d48b-bbd3-11e7-b930-04014c605401.20)
         (ID-LOCAL greynir_corpus_00029.psd,.2)
         (URL
   http://www.mbl.is/matur/frettir/2017/10/28/dilja_og_dumplingarnir_i_costco/)
@@ -22,9 +22,9 @@
         (S-HEADING (IP (NP-SUBJ (FOREIGN (foreign rolls (lemma rolls)))
                                 (C (st og (lemma og)))
                                 (FOREIGN (foreign cakes (lemma cakes)))))
-                   (grm .))))
+                   (grm .)))
 
-( (META (ID-CORPUS 06221f2b-cc58-11e7-b95d-04014c605401.237)
+(META (ID-CORPUS 06221f2b-cc58-11e7-b95d-04014c605401.237)
         (ID-LOCAL greynir_corpus_00029.psd,.3)
         (URL
   http://www.visir.is/g/2017171118893/i-beinni-arsenal-tottenham-risaleikur-i-lundunum)
@@ -37,9 +37,9 @@
                           (NP (lo_ef_et_kvk_sb aukinnar (lemma aukinn))
                               (no_ef_et_kvk virkni (lemma virkni))
                               (PP (P (fs_þgf í (lemma í)))
-                                  (NP (sérnafn_þgf_kk_et Öræfajökli (lemma Öræfajökull)))))))))))
+                                  (NP (sérnafn_þgf_kk_et Öræfajökli (lemma Öræfajökull))))))))))
 
-( (META (ID-CORPUS 09ad77e4-94f6-11e7-b8d2-04014c605401.11)
+(META (ID-CORPUS 09ad77e4-94f6-11e7-b8d2-04014c605401.11)
         (ID-LOCAL greynir_corpus_00029.psd,.4)
         (URL
   http://www.visir.is/g/2017170908772/fjoldi-islendinga-i-florida-flyr-undan-irmu)
@@ -51,9 +51,9 @@
                   (grm ,)
                   (VP (VP (so_0_et_fh_gm_nt_p3 segir (lemma segja)))
                       (NP-SUBJ (person_kk_nf_et Pétur (lemma Pétur))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 0537300a-b391-11e8-98bc-04014c605401.36)
+(META (ID-CORPUS 0537300a-b391-11e8-98bc-04014c605401.36)
         (ID-LOCAL greynir_corpus_00029.psd,.5)
         (URL
   http://www.mbl.is/smartland/heilsa/2018/09/08/var_alltaf_i_tveimur_vinnum/)
@@ -67,9 +67,9 @@
                       (NP-PRD (lo_et_kk_nf_vb fyrsti (lemma fyrstur))
                               (no_et_gr_kk_nf framkvæmdastjórinn (lemma framkvæmdastjóri))
                               (fn_et_kk_nf minn (lemma minn))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS a97ea97b-a5bb-11e6-beab-04014c605401.39)
+(META (ID-CORPUS a97ea97b-a5bb-11e6-beab-04014c605401.39)
         (ID-LOCAL greynir_corpus_00029.psd,.6)
         (URL
   http://www.visir.is/timasetningarnar-sem-thu-tharft-ad-hafa-a-hreinu-fyrir-nottina/article/2016161108968)
@@ -82,9 +82,9 @@
                      (ADVP-TIMESTAMP-REL (tími 01.30 (lemma 01.30))
                                      (PP (P (fs_þgf að (lemma að)))
                                          (NP (lo_et_kk_sb_þgf íslenskum (lemma íslenskur))
-                                             (no_et_kk_þgf tíma (lemma tími)))))))))
+                                             (no_et_kk_þgf tíma (lemma tími))))))))
 
-( (META (ID-CORPUS dda6ef27-e16b-11e6-8e72-04014c605401.20)
+(META (ID-CORPUS dda6ef27-e16b-11e6-8e72-04014c605401.20)
         (ID-LOCAL greynir_corpus_00029.psd,.7)
         (URL
   http://www.mbl.is/frettir/erlent/2017/01/23/syndu_hopnaudgun_beint_a_facebook/)
@@ -100,9 +100,9 @@
   byrjunarreit
   (lemma byrjunarreitur)
   (exp_seg byrjunar-reitur)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 4a786cee-bd31-11e6-b57e-04014c605401.77)
+(META (ID-CORPUS 4a786cee-bd31-11e6-b57e-04014c605401.77)
         (ID-LOCAL greynir_corpus_00029.psd,.8)
         (URL
   http://kvennabladid.is/2016/12/08/fjarlog-bjarna-benediktssonar-hamfarir-fyrir-landspitalann-og-svik-vid-thjodina/)
@@ -115,9 +115,9 @@
                           (PP (P (fs_þgf á (lemma á)))
                               (NP (fn_et_kvk_þgf þeirri (lemma sá))
                                   (no_et_kvk_þgf braut (lemma braut))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS d9530cfb-9066-11e6-a2d6-04014c605401.50)
+(META (ID-CORPUS d9530cfb-9066-11e6-a2d6-04014c605401.50)
         (ID-LOCAL greynir_corpus_00029.psd,.9)
         (URL
   http://www.visir.is/hver-thorir-ad-hreinsa-til-i-spillingarbaelunum-/article/2016161019604)
@@ -130,9 +130,9 @@
                                                    (NP-POSS (person_ef_kk_et Óskars (lemma Óskar)))))))))
                   (VP (VP (so_1_nf_et_fh_gm_p3_þt var (lemma vera)))
                       (NP-PRD (lo_esb_et_kvk_nf hæst (lemma hár))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 04f26f16-a17a-11e8-9887-04014c605401.2)
+(META (ID-CORPUS 04f26f16-a17a-11e8-9887-04014c605401.2)
         (ID-LOCAL greynir_corpus_00029.psd,.10)
         (URL
   http://www.ruv.is/frett/jord-skelfur-vid-bardabungu-og-alftavatn)
@@ -145,4 +145,4 @@
                                   (PP (ADVP-DIR (ao norður (lemma norður)))
                                       (P (fs_þgf af (lemma af)))
                                       (NP (sérnafn_þgf_et_hk Álftavatni (lemma Álftavatn))))))))
-      (grm .)))
+      (grm .))

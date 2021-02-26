@@ -1,4 +1,4 @@
-( (META (ID-CORPUS 368c7727-e4f7-11e7-b87f-04014c605401.16)
+(META (ID-CORPUS 368c7727-e4f7-11e7-b87f-04014c605401.16)
         (ID-LOCAL greynir_corpus_00014.psd,.1)
         (URL
   http://www.visir.is/g/2017171218642/samgonguaaetlun-sturtad-nidur-i-sjo-milljarda-krona-nidurskurdi)
@@ -8,9 +8,9 @@
                       (VP (VP (so_1_þf_gm_nh sjá (lemma sjá)))
                           (NP-OBJ (no_et_kvk_þf frétt (lemma frétt))
                                   (NP-POSS (entity_ef_et_kvk Stöðvar 2 (lemma Stöð 2))))))))
-      (grm :)))
+      (grm :))
 
-( (META (ID-CORPUS 84dda69e-f456-11e7-b8a4-04014c605401.10)
+(META (ID-CORPUS 84dda69e-f456-11e7-b8a4-04014c605401.10)
         (ID-LOCAL greynir_corpus_00014.psd,.2)
         (URL
   https://www.fjarmalaraduneyti.is/efst-a-baugi/laus-storf-a-starfatorgi/laust-starf/2018/01/08/Hjukrunarfraedingur-Landspitali-speglunardeild-Reykjavik-201801-020/)
@@ -21,9 +21,9 @@
                               (lo_et_hk_nf_sb fjölbreytt (lemma fjölbreyttur))
                               (C (st og (lemma og)))
                               (lo_et_hk_nf_sb krefjandi (lemma krefjandi))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 83e8bf64-f482-11e6-8e96-04014c605401.30)
+(META (ID-CORPUS 83e8bf64-f482-11e6-8e96-04014c605401.30)
         (ID-LOCAL greynir_corpus_00014.psd,.3)
         (URL
   http://www.ruv.is/frett/bad-um-rannsokn-a-uppljostrunum-um-flynn)
@@ -34,9 +34,9 @@
                           (NP-SUBJ (fn_et_hk_nf allt (lemma allur)))
                           (PP (P (fs_þgf í (lemma í)))
                               (NP (no_et_hk_þgf rugli (lemma rugl)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS b8754f56-407c-11e7-b7f8-04014c605401.11)
+(META (ID-CORPUS b8754f56-407c-11e7-b7f8-04014c605401.11)
         (ID-LOCAL greynir_corpus_00014.psd,.4)
         (URL
   http://www.mbl.is/frettir/innlent/2017/05/24/var_allt_i_thvotti_hja_radherra/)
@@ -47,9 +47,9 @@
                      (ADVP (ao þá (lemma þá)))
                      (VP (VP (so_0_gm_nh halda (lemma halda)))
                          (ADVP-PCL (ao áfram (lemma áfram)))))))
-      (grm ?)))
+      (grm ?))
 
-( (META (ID-CORPUS e8e4655a-2c70-11e8-b036-04014c605401.14)
+(META (ID-CORPUS e8e4655a-2c70-11e8-b036-04014c605401.14)
         (ID-LOCAL greynir_corpus_00014.psd,.5)
         (URL
   http://www.visir.is/g/2018180329912/i-beinni-grindavik-tindastoll-hefna-grindvikingar-ofaranna-)
@@ -60,9 +60,9 @@
                       (PP (P (fs_ef til (lemma til)))
                           (NP (no_ef_et_kvk hamingju (lemma hamingja))))
                       (PP (P (fs_þf með (lemma með)))
-                          (NP (no_et_gr_kk_þf kosningasigurinn (lemma kosningasigur)))))))))
+                          (NP (no_et_gr_kk_þf kosningasigurinn (lemma kosningasigur))))))))
 
-( (META (ID-CORPUS 33697c75-3011-11e7-b7ce-04014c605401.6)
+(META (ID-CORPUS 33697c75-3011-11e7-b7ce-04014c605401.6)
         (ID-LOCAL greynir_corpus_00014.psd,.6)
         (URL
   http://www.visir.is/g/2017170509645/olvadur-farthegi-ognadi-gestum-keflavikurflugvallar)
@@ -73,9 +73,9 @@
                           (PP (P (fs_þf á (lemma á)))
                               (NP (no_et_kvk_þf lögreglustöð (lemma lögreglustöð))))
                           (PP (P (fs_ef til (lemma til)))
-                              (NP (no_ef_et_kvk skýrslutöku (lemma skýrslutaka))))))))))
+                              (NP (no_ef_et_kvk skýrslutöku (lemma skýrslutaka)))))))))
 
-( (META (ID-CORPUS 671f18d2-755b-11e8-a9f5-04014c605401.19)
+(META (ID-CORPUS 671f18d2-755b-11e8-a9f5-04014c605401.19)
         (ID-LOCAL greynir_corpus_00014.psd,.7)
         (URL
   http://www.visir.is/g/2018180629827/ahrifa-lars-gaetir-enn-en-nylegur-arangur-odrum-ad-thakka)
@@ -86,9 +86,9 @@
                               (lo_et_kk_nf_sb_sþgf þakklátur (lemma þakklátur))
                               (NP-ADP (fn_et_kk_þgf þeim (lemma sá))
                                       (lo_et_kk_vb_þgf sænska (lemma sænskur)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 8c121a72-29d6-11e8-b02c-04014c605401.3)
+(META (ID-CORPUS 8c121a72-29d6-11e8-b02c-04014c605401.3)
         (ID-LOCAL greynir_corpus_00014.psd,.8)
         (URL http://www.visir.is/g/2018180319069/i-vikunni-barst-mer-bref-)
         (COMMENT ))
@@ -98,9 +98,9 @@
                               (no_et_kk_nf liður (lemma liður))
                               (PP (P (fs_þgf í (lemma í)))
                                   (NP (no_et_gr_hk_þgf samfélaginu (lemma samfélag))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 38348139-5b9f-11e6-8442-04014c605401.40)
+(META (ID-CORPUS 38348139-5b9f-11e6-8442-04014c605401.40)
         (ID-LOCAL greynir_corpus_00014.psd,.9)
         (URL
   http://www.visir.is/thetta-er-svona-gott-stress/article/2016160809426)
@@ -111,9 +111,9 @@
                       (IP-INF (TO (nhm að (lemma að)))
                               (VP (VP (so_1_þgf_mm_nh venjast (lemma venja)))
                                   (NP-OBJ (fn_et_hk_þgf þessu (lemma þessi))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS e3d9492f-287e-11e8-b029-04014c605401.10)
+(META (ID-CORPUS e3d9492f-287e-11e8-b029-04014c605401.10)
         (ID-LOCAL greynir_corpus_00014.psd,.10)
         (URL
   http://www.mbl.is/frettir/innlent/2018/03/15/starfsmadur_borgarinnar_gerdi_mistok/)
@@ -122,4 +122,4 @@
                          (PP (P (fs_þgf eftir (lemma eftir)))
                              (NP (NP-MEASURE (tala_et_ef_kvk 51,5 milljón króna (lemma 51,5 milljón króna)))
                                  (lo_et_kvk_sb_þgf árlegri (lemma árlegur))
-                                 (no_et_kvk_þgf aukafjárveitingu (lemma aukafjárveiting)))))))))
+                                 (no_et_kvk_þgf aukafjárveitingu (lemma aukafjárveiting))))))))
