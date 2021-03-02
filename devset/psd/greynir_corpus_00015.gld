@@ -1,4 +1,4 @@
-( (META (ID-CORPUS 04e4bde6-7f71-11e6-a2c6-04014c605401.8)
+(META (ID-CORPUS 04e4bde6-7f71-11e6-a2c6-04014c605401.8)
         (ID-LOCAL greynir_corpus_00015.psd,.1)
         (URL
   http://www.visir.is/thingid-samthykkti-tillogu-um-ad-fullgilda-samning-um-rettindi-fatlads-folks/article/2016160929860)
@@ -9,9 +9,9 @@
                   (VP (VP (so_0_et_fh_mm_nt_p3 virkjast (lemma virkja)))
                       (NP-SUBJ (fn_et_hk_nf þetta (lemma þessi))
                                (no_et_hk_nf eftirlitskerfi (lemma eftirlitskerfi))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 62577963-b657-11e7-b91e-04014c605401.91)
+(META (ID-CORPUS 62577963-b657-11e7-b91e-04014c605401.91)
         (ID-LOCAL greynir_corpus_00015.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/10/21/u_is_af_brjostum/)
         (COMMENT ))
@@ -21,9 +21,9 @@
                               (NP-TITLE (grm ,)
                                         (no_et_kk_nf rektor (lemma rektor))
                                         (NP-POSS (sérnafn_ef_et_gr_kk Listaháskólans (lemma listaháskóli)))
-                                        (grm .)))))))
+                                        (grm .))))))
 
-( (META (ID-CORPUS 20d882dd-4533-11e6-8429-04014c605401.14)
+(META (ID-CORPUS 20d882dd-4533-11e6-8429-04014c605401.14)
         (ID-LOCAL greynir_corpus_00015.psd,.3)
         (URL https://www.forsaetisraduneyti.is/raduneyti/styrkir/)
         (COMMENT ))
@@ -33,9 +33,9 @@
                                             (IP (VP (VP (so_0_et_sagnb_gm sótt (lemma sækja)))
                                                     (VP-AUX (so_0_et_fh_gm_nt_p3 er (lemma vera)))
                                                     (ADVP (ao um (lemma um))))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 1aaad67a-0be1-11e8-811c-04014c605401.19)
+(META (ID-CORPUS 1aaad67a-0be1-11e8-811c-04014c605401.19)
         (ID-LOCAL greynir_corpus_00015.psd,.4)
         (URL
   http://www.visir.is/g/2018180209164/hrafn-ma-ekki-innlima-lod-undir-blotstadnum-)
@@ -46,9 +46,9 @@
                       (NP-SUBJ (no_et_kk_nf uppruni (lemma uppruni))
                                (NP-POSS (no_ef_et_gr_hk orðsins (lemma orð))
                                         (NP (no_et_kk_nf hörgur (lemma hörgur))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS f3163aa4-b46a-11e8-98c0-04014c605401.5)
+(META (ID-CORPUS f3163aa4-b46a-11e8-98c0-04014c605401.5)
         (ID-LOCAL greynir_corpus_00015.psd,.5)
         (URL
   http://www.visir.is/g/2018180908947/allt-gert-til-ad-koma-til-mots-vid-nagranna)
@@ -59,9 +59,9 @@
                               (lo_ft_hk_nf_sb ánægð (lemma ánægður))
                               (PP (P (fs_þf með (lemma með)))
                                   (NP (pfn_et_hk_p3_þf það (lemma það))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 62cd2240-5b8c-11e9-9bd8-04014c605401.3)
+(META (ID-CORPUS 62cd2240-5b8c-11e9-9bd8-04014c605401.3)
         (ID-LOCAL greynir_corpus_00015.psd,.6)
         (URL
   https://mbl.is/folk/frettir/2019/04/10/pruduleikararnir_flytja_hatrid_mun_sigra/)
@@ -70,9 +70,9 @@
                   (VP (VP-AUX (so_0_et_fh_gm_nt_p3 má (lemma mega)))
                       (VP (VP (so_0_gm_nh sjá (lemma sjá)))
                           (ADVP (ao hér að neðan (lemma hér að neðan)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 39c606af-5664-11e9-9bd0-04014c605401.12)
+(META (ID-CORPUS 39c606af-5664-11e9-9bd0-04014c605401.12)
         (ID-LOCAL greynir_corpus_00015.psd,.7)
         (URL
   https://www.visir.is/g/2019190409542/pochettino-tileinkadi-sigurinn-hinum-umdeilda-levy-)
@@ -83,9 +83,9 @@
                                (PP (P (fs_þgf á (lemma á)))
                                    (NP (lo_et_kk_sb_þgf nýjum (lemma nýr))
                                        (no_et_kk_þgf kafla (lemma kafli))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS e0b661ea-66bc-11e6-844e-04014c605401.130)
+(META (ID-CORPUS e0b661ea-66bc-11e6-844e-04014c605401.130)
         (ID-LOCAL greynir_corpus_00015.psd,.8)
         (URL
   http://www.visir.is/eg-er-hvitur-midaldra-karl-ad-tala-um-sarsauka/article/2016160829996)
@@ -96,9 +96,9 @@
                               (lo_et_hk_sb_þf algjört (lemma algjör))
                               (no_et_hk_þf frelsi (lemma frelsi)))
                       (ADVP (ao þar (lemma þar))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS c1e02173-587e-11e8-b10b-04014c605401.16)
+(META (ID-CORPUS c1e02173-587e-11e8-b10b-04014c605401.16)
         (ID-LOCAL greynir_corpus_00015.psd,.9)
         (URL
   http://www.mbl.is/frettir/innlent/2018/05/15/rukki_vegfarendur_i_skjoli_ovissu/)
@@ -107,9 +107,9 @@
                   (VP (VP (so_1_nf_et_fh_gm_p3_þt var (lemma vera)))
                       (NP-PRD (no_et_kvk_nf stjórnsýsla (lemma stjórnsýsla))
                               (PP (P (fs_þgf í (lemma í)))
-                                  (NP (no_ft_kk_þgf molum (lemma moli))))))))))
+                                  (NP (no_ft_kk_þgf molum (lemma moli)))))))))
 
-( (META (ID-CORPUS bf4b65f0-54b8-11e9-9bcf-04014c605401.4)
+(META (ID-CORPUS bf4b65f0-54b8-11e9-9bcf-04014c605401.4)
         (ID-LOCAL greynir_corpus_00015.psd,.10)
         (URL
   http://www.ruv.is/frett/nog-af-atvinnutilbodum-fyrir-flugmenn-wow)
@@ -120,4 +120,4 @@
                       (PP (P (fs_þgf eftir (lemma eftir)))
                           (NP (no_ft_kk_þgf flugmönnum (lemma flugmaður))
                               (NP-POSS (entity_ef_et_hk WOW (lemma WOW))))))))
-      (grm .)))
+      (grm .))

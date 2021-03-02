@@ -1,4 +1,4 @@
-( (META (ID-CORPUS 6b797e27-9240-11e6-a2d7-04014c605401.10)
+(META (ID-CORPUS 6b797e27-9240-11e6-a2d7-04014c605401.10)
         (ID-LOCAL greynir_corpus_00011.psd,.1)
         (URL
   http://www.visir.is/hazard-vill-spila-sem-tia-hja-chelsea/article/2016161019249)
@@ -8,9 +8,9 @@
                       (IP-INF (TO (nhm að (lemma að)))
                               (VP (VP (so_1_þf_gm_nh spyrja (lemma spyrja)))
                                   (NP-OBJ (no_et_gr_kk_þf stjórann (lemma stjóri))))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS ba61e2cf-8ad1-11e6-a2d0-04014c605401.16)
+(META (ID-CORPUS ba61e2cf-8ad1-11e6-a2d0-04014c605401.16)
         (ID-LOCAL greynir_corpus_00011.psd,.2)
         (URL
   http://www.visir.is/bjort-framtid-fengi-kjorinn-thingmann-/article/2016161009466)
@@ -19,9 +19,9 @@
                   (VP (VP (so_1_nf_et_þt_fh_gm_p3 var (lemma vera)))
                       (NP-PRD (eo því (lemma því))
                               (no_et_hk_nf 63,7 prósent (lemma 63,7 prósent))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 11b31e9e-ed03-11e8-99f5-04014c605401.46)
+(META (ID-CORPUS 11b31e9e-ed03-11e8-99f5-04014c605401.46)
         (ID-LOCAL greynir_corpus_00011.psd,.3)
         (URL http://www.ruv.is/kveikur/160-milljardar-fram-ur-aaetlunum)
         (COMMENT ))
@@ -30,9 +30,9 @@
                   (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (fn_et_hk_nf ekkert (lemma enginn))
                               (lo_et_hk_nf_sb nýtt (lemma nýr))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 8efd6ed3-fac5-11e7-b8b0-04014c605401.8)
+(META (ID-CORPUS 8efd6ed3-fac5-11e7-b8b0-04014c605401.8)
         (ID-LOCAL greynir_corpus_00011.psd,.4)
         (URL
   http://www.mbl.is/frettir/innlent/2018/01/16/thetta_er_oskaplega_vidkvaemt/)
@@ -42,9 +42,9 @@
                              (NP-OBJ (no_et_hk_þf samtal (lemma samtal)))
                              (PP (P (fs_þgf á (lemma á)))
                                  (NP (lo_et_kk_sb_þgf nýjum (lemma nýr))
-                                     (no_et_kk_þgf grunni (lemma grunnur))))))))))
+                                     (no_et_kk_þgf grunni (lemma grunnur)))))))))
 
-( (META (ID-CORPUS aaa17f49-3ccb-11e8-b07d-04014c605401.26)
+(META (ID-CORPUS aaa17f49-3ccb-11e8-b07d-04014c605401.26)
         (ID-LOCAL greynir_corpus_00011.psd,.5)
         (URL
   http://eyjan.pressan.is/frettir/2018/04/10/piratar-vilja-flugvollinn-ur-vatnsmyrinni/)
@@ -57,9 +57,9 @@
                      (VP (VP-AUX (so_0_et_fh_gm_nt_p3 mun (lemma munu)))
                          (VP (VP (so_0_gm_nh fara (lemma fara)))
                              (PP (P (fs_þgf úr (lemma úr)))
-                                 (NP (sérnafn_et_gr_kvk_þgf Vatnsmýrinni (lemma Vatnsmýrin))))))))))
+                                 (NP (sérnafn_et_gr_kvk_þgf Vatnsmýrinni (lemma Vatnsmýrin)))))))))
 
-( (META (ID-CORPUS f0dc0558-b271-11e7-b917-04014c605401.9)
+(META (ID-CORPUS f0dc0558-b271-11e7-b917-04014c605401.9)
         (ID-LOCAL greynir_corpus_00011.psd,.6)
         (URL
   http://www.visir.is/g/2017171019099/nalgadist-thad-gamla-a-nyjan-hatt-)
@@ -69,9 +69,9 @@
                              (IP-INF (TO (nhm að (lemma að)))
                                      (VP (VP (so_1_þf_gm_nh sjá (lemma sjá)))
                                          (NP-OBJ (no_ft_hk_þf viðbrögð (lemma viðbragð))
-                                                 (NP-POSS (no_ef_ft_kk karla (lemma karl))))))))))))
+                                                 (NP-POSS (no_ef_ft_kk karla (lemma karl)))))))))))
 
-( (META (ID-CORPUS f013b0ea-2211-11e7-aa57-04014c605401.180)
+(META (ID-CORPUS f013b0ea-2211-11e7-aa57-04014c605401.180)
         (ID-LOCAL greynir_corpus_00011.psd,.7)
         (URL
   http://www.visir.is/g/2017170419427/umfjollun-og-vidtol-haukar-fram-45-47-fram-sendi-islandsmeistarana-i-fri-eftir-vito)
@@ -80,9 +80,9 @@
                     (VP (VP (so_0_et_nt_fh_gm_p3 jafnar (lemma jafna)))
                         (ADVP (ao hinu (lemma hinn))
                               (ao megin (lemma megin))))))
-        (grm .)))
+        (grm .))
 
-( (META (ID-CORPUS 38f57692-9b52-11e8-987d-04014c605401.184)
+(META (ID-CORPUS 38f57692-9b52-11e8-987d-04014c605401.184)
         (ID-LOCAL greynir_corpus_00011.psd,.8)
         (URL
   http://www.visir.is/g/2018180809197/leik-lokid-fjolnir-keflavik-0-0-stig-sem-gerir-litid-fyrir-baedi-lid)
@@ -92,9 +92,9 @@
                   (VP (VP (so_0_et_fh_gm_nt_p3 er (lemma vera)))
                       (ADVP-DUR-REL (P (fs_ef til (lemma til)))
                                     (NP (to_ef_ft_hk tveggja (lemma tveir))
-                                        (no_ef_ft_hk ára (lemma ár)))))))))
+                                        (no_ef_ft_hk ára (lemma ár))))))))
 
-( (META (ID-CORPUS 65da2a51-efde-11e7-b89d-04014c605401.28)
+(META (ID-CORPUS 65da2a51-efde-11e7-b89d-04014c605401.28)
         (ID-LOCAL greynir_corpus_00011.psd,.9)
         (URL
   http://www.ruv.is/frett/kleif-upp-a-topp-hvannadalshnuks-i-300-sinn)
@@ -103,9 +103,9 @@
                   (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (eo bara (lemma bara))
                               (lo_et_hk_nf_sb æðislegt (lemma æðislegur))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS 0075927b-9563-11e7-b8d6-04014c605401.32)
+(META (ID-CORPUS 0075927b-9563-11e7-b8d6-04014c605401.32)
         (ID-LOCAL greynir_corpus_00011.psd,.10)
         (URL
   http://www.visir.is/g/2017170908840/i-beinni-augsburg-koln-alfred-og-felagar-vilja-na-i-fyrsta-sigurinn)
@@ -114,4 +114,4 @@
                       (NP-POSS (tala 143 milljóna (lemma 143 milljónir))))
                   (VP (VP (so_0_gm_sagnb stolið (lemma stela)))
                       (PP (P (fs_þgf af (lemma af)))
-                          (NP (no_ft_þgf_kk hökkurum (lemma hakkari)))))))))
+                          (NP (no_ft_þgf_kk hökkurum (lemma hakkari))))))))

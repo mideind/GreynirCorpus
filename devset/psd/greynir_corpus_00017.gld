@@ -1,4 +1,4 @@
-( (META (ID-CORPUS 132429d3-1c98-11e8-8159-04014c605401.29)
+(META (ID-CORPUS 132429d3-1c98-11e8-8159-04014c605401.29)
         (ID-LOCAL greynir_corpus_00017.psd,.1)
         (URL http://www.mbl.is/matur/frettir/2018/02/28/taco_lasagnia_baka/)
         (COMMENT ))
@@ -11,9 +11,9 @@
   miðlungshita
   (lemma miðlungshiti)
   (exp_seg miðlungs-hiti)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS cfc352e7-fcad-11e8-9a61-04014c605401.31)
+(META (ID-CORPUS cfc352e7-fcad-11e8-9a61-04014c605401.31)
         (ID-LOCAL greynir_corpus_00017.psd,.2)
         (URL
   http://www.visir.is/g/2018181219918/i-beinni-selfoss-ir-selfoss-getur-endurheimt-toppsaetid)
@@ -24,9 +24,9 @@
                               (NP-POSS (no_ef_et_gr_kk vetrarins (lemma vetur))))
                      (VP (NP-PRD (VP (so_0_ft_kk_lhþt_nf_sb lentir (lemma lenda))))
                          (PP (P (fs_þgf á (lemma á)))
-                             (NP (sérnafn_þgf_et_kvk Akureyri (lemma Akureyri)))))))))
+                             (NP (sérnafn_þgf_et_kvk Akureyri (lemma Akureyri))))))))
 
-( (META (ID-CORPUS 2d1df9bd-0624-11e9-9ab0-04014c605401.13)
+(META (ID-CORPUS 2d1df9bd-0624-11e9-9ab0-04014c605401.13)
         (ID-LOCAL greynir_corpus_00017.psd,.3)
         (URL
   http://www.ruv.is/frett/asiskir-nemar-skreppa-til-islands-i-jolafriinu)
@@ -37,9 +37,9 @@
                      (PP (P (fs_þgf frá (lemma frá)))
                          (NP (entity_hk_et_þgf London (lemma London))))
                      (PP (P (fs_ef til (lemma til)))
-                         (NP (sérnafn_ef_et_hk Íslands (lemma Ísland))))))))
+                         (NP (sérnafn_ef_et_hk Íslands (lemma Ísland)))))))
 
-( (META (ID-CORPUS 0933dbe1-e068-11e8-99a3-04014c605401.53)
+(META (ID-CORPUS 0933dbe1-e068-11e8-99a3-04014c605401.53)
         (ID-LOCAL greynir_corpus_00017.psd,.4)
         (URL
   http://www.visir.is/g/2018181109723/i-beinni-afturelding-fh-toppbarattuslagur-i-mosfellsbae)
@@ -49,9 +49,9 @@
                               (no_ft_kk_nf félagar (lemma félagi)))
                      (VP (VP (so_0_fh_ft_gm_p3_þt töpuðu (lemma tapa)))
                          (PP (P (fs_þgf gegn (lemma gegn)))
-                             (NP (entity_hk_et_þgf PSG (lemma PSG)))))))))
+                             (NP (entity_hk_et_þgf PSG (lemma PSG))))))))
 
-( (META (ID-CORPUS 73b1f873-f079-11e7-b89e-04014c605401.17)
+(META (ID-CORPUS 73b1f873-f079-11e7-b89e-04014c605401.17)
         (ID-LOCAL greynir_corpus_00017.psd,.5)
         (URL
   http://www.mbl.is/frettir/innlent/2018/01/03/einbodid_ad_thad_se_botaskylda/)
@@ -62,9 +62,9 @@
                                (PP (P (fs_þf við (lemma við)))
                                    (NP (no_et_hk_þf dómsmál (lemma dómsmál)))))
                       (NP-PRD (VP (so_0_et_kk_lhþt_nf_sb hafinn (lemma hefja)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS a29caace-c064-11e7-b93b-04014c605401.5)
+(META (ID-CORPUS a29caace-c064-11e7-b93b-04014c605401.5)
         (ID-LOCAL greynir_corpus_00017.psd,.6)
         (URL http://www.ruv.is/frett/kolnandi-vedur-naestu-daga)
         (COMMENT ))
@@ -74,9 +74,9 @@
                       (NP-PRD (VP (so_0_lh_nt_hk_et_nf_sb kólnandi (lemma kólna))))
                       (ADVP-TIMESTAMP-REL (lo_evb_ft_kk_þf næstu (lemma næstur))
                                           (no_ft_kk_þf daga (lemma dagur))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS fd4e6ca6-7ace-11e8-a9ff-04014c605401.12)
+(META (ID-CORPUS fd4e6ca6-7ace-11e8-a9ff-04014c605401.12)
         (ID-LOCAL greynir_corpus_00017.psd,.7)
         (URL
   https://kjarninn.is/frettir/2018-06-28-leggur-til-ad-laekka-laun-kjorinna-fulltrua-i-kopavogi/)
@@ -87,9 +87,9 @@
                       (PP (P (fs_þgf með (lemma með)))
                           (NP (tala_ft_hk_þgf 11 (lemma 11))
                               (no_ft_hk_þgf atkvæðum (lemma atkvæði)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS db0541a8-1700-11e7-aa37-04014c605401.35)
+(META (ID-CORPUS db0541a8-1700-11e7-aa37-04014c605401.35)
         (ID-LOCAL greynir_corpus_00017.psd,.8)
         (URL http://www.visir.is/p/formula1)
         (COMMENT ))
@@ -99,9 +99,9 @@
                          (NP-OBJ (lo_ft_þf_kvk_fsb nýstárlega (lemma nýstárlegur))
                                  (no_et_kvk_þf leið (lemma leið)))
                          (PP (P (fs_þf með (lemma með)))
-                             (NP (no_et_þf_kvk vafrasögu (lemma vafrasaga) (exp_seg vafra-saga)))))))))
+                             (NP (no_et_þf_kvk vafrasögu (lemma vafrasaga) (exp_seg vafra-saga))))))))
 
-( (META (ID-CORPUS 0ef8efe8-9f6c-11e7-b8ee-04014c605401.3)
+(META (ID-CORPUS 0ef8efe8-9f6c-11e7-b8ee-04014c605401.3)
         (ID-LOCAL greynir_corpus_00017.psd,.9)
         (URL
   http://www.ruv.is/frett/handtekinn-vegna-hrydjuverka-i-kataloniu)
@@ -112,9 +112,9 @@
                       (NP-PRD (VP (so_et_kk_lhþt_nf_sb búsettur (lemma búsetja))))
                       (PP (P (fs_þgf á (lemma á)))
                           (NP (sérnafn_et_kk_þgf Spáni (lemma Spánn)))))))
-      (grm .)))
+      (grm .))
 
-( (META (ID-CORPUS b8c250c8-2f82-11e9-9b89-04014c605401.39)
+(META (ID-CORPUS b8c250c8-2f82-11e9-9b89-04014c605401.39)
         (ID-LOCAL greynir_corpus_00017.psd,.10)
         (URL
   https://www.frettabladid.is/lifid/astoai-viskiptavin-i-bundnu-mali)
@@ -125,4 +125,4 @@
                               (VP (VP (so_1_ef_gm_nh njóta (lemma njóta)))
                                   (NP-OBJ (NP-POSS (pfn_ef_ft_p1 okkar (lemma ég)))
                                           (lo_ef_evb_ft_hk bestu (lemma góður))
-                                          (no_ef_ft_hk kjara (lemma kjör))))))))))
+                                          (no_ef_ft_hk kjara (lemma kjör)))))))))
