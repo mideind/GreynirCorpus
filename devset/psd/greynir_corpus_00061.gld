@@ -54,7 +54,7 @@
 
 (META (ID-CORPUS c4ba2b45-395f-11e8-b06f-04014c605401.2)
         (ID-LOCAL greynir_corpus_00061.psd,.4)
-        (URL http://www.mbl.is/frettir/innlent/2018/04/06/valid_a_nyrri_flugstod_i_vatnsmyri_nalgast/))
+        (URL http://www.mbl.is/frettir/innlent/2018/04/06/valid_a_nyrri_flugstod_i_vatnsmyri_nalgast/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Sigurður Ingi Jóhannsson (lemma Sigurður Ingi Jóhannsson))
                            (NP-TITLE (grm ,)
