@@ -68,7 +68,7 @@
                      (NP-OBJ (pfn_et_þgf_hk_p3 því (lemma sá)))
                      (ADVP (ao við (lemma við))))
                  (grm : (lemma :)))))
-      (CP-ADV (C (st Svo (lemma svo)))
+      (CP-ADV-CONS (C (st Svo (lemma svo)))
               (IP (NP-SUBJ (pfn_et_nf_p1 ég (lemma ég)))
                   (VP (VP (so_0_vh_p1_et_nt_gm vitni (lemma vitna)))
                       (PP (P (fs_þf í (lemma í)))

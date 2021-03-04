@@ -113,7 +113,7 @@
                  (NP-IOBJ (abfn_þf sig (lemma sig)))
                  (NP-OBJ (no_et_þgf_hk lífi (lemma líf)))
                  (ADVP-DATE-REL (ártal árið 2001 (lemma árið 2001)))
-                 (CP-ADV (C (st þegar (lemma þegar)))
+                 (CP-ADV-TEMP (C (st þegar (lemma þegar)))
                          (IP (NP-SUBJ (pfn_et_nf_kvk_p3 hún (lemma hún)))
                              (VP (VP (so_0_fh_p3_et_þt_gm var (lemma var)))
                                  (NP-PRD (NP (tala_ft_ef_hk 16 (lemma 16))

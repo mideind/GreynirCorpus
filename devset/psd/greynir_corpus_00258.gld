@@ -131,6 +131,7 @@
 (META (ID-CORPUS 3f7cabf1-692b-11e9-9bf8-04014c605401.6)
         (ID-LOCAL reynir_corpus_00258_00001.psd,.7)
         (URL https://www.visir.is/g/2019190429116/helena-syndum-i-dag-ad-vid-erum-langbesta-lidid-a-landinu)
+        (COMMENT ))
   (S0 (S-MAIN (VP (so_0_fh_p1_ft_þt_gm Vorum (lemma Vorum)))
                 (NP-PRD (lo_ft_nf_kvk_vb fljótar (lemma fljótar))
                         (IP-INF (TO (nhm að (lemma að)))

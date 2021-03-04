@@ -131,7 +131,7 @@
 
 (META (ID-CORPUS 1fbf0925-4533-11e6-8429-04014c605401.1)
         (ID-LOCAL greynir_corpus_00050.psd,.9)
-        (URL http://www.mbl.is/frettir/innlent/2016/02/28/eldur_i_ithrottahusi_thorlakshafnar/))
+        (URL http://www.mbl.is/frettir/innlent/2016/02/28/eldur_i_ithrottahusi_thorlakshafnar/)
         (COMMENT ))
   (S0 (S-MAIN (NP (NP-PRD (so_0_lhþt_et Tilkynnt (lemma tilkynna)))
                   (VP (so_0_fh_p3_et_þt_gm var (lemma var)))

@@ -333,7 +333,7 @@
                                               (IP (VP (VP (so_0_fh_p3_et_þt_mm barst (lemma bera)))
                                                       (ADVP-TIMESTAMP-REL (ao í kvöld (lemma í kvöld))))))))))
                   (VP (VP (so_1_þf_fh_p3_et_nt_gm segir (lemma segja)))
-                      (NP-OBJ (CP (C (st að (lemma að)))
+                      (NP-OBJ (CP-THT (C (st að (lemma að)))
                                   (IP (ADVP-TIMESTAMP-REL (ártal árið 2016 (lemma árið 2016)))
                                       (VP (VP (so_1_þf_vh_p3_et_nt_gm hafi (lemma hafa)))
                                           (NP-SUBJ (no_et_nf_kk útvarpsstjóri (lemma útvarpsstjóri)))

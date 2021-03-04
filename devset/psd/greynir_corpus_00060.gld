@@ -53,7 +53,7 @@
 
 (META (ID-CORPUS 09833e72-8454-11e9-9831-04014c605401.64)
         (ID-LOCAL greynir_corpus_00060.psd,.4)
-        (URL https://www.frettabladid.is/frettir/a-eru-allir-svo-slakir-a-sumrin/))
+        (URL https://www.frettabladid.is/frettir/a-eru-allir-svo-slakir-a-sumrin/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP (ao Þá (lemma þá)))
                                  (VP (VP (so_1_þf_fh_p3_ft_nt_gm eiga (lemma eiga)))

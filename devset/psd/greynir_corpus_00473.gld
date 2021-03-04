@@ -188,7 +188,7 @@
                                             (NP (no_et_þgf_kvk stjórn (lemma stjórn)))))
                           (C (st Festuog (lemma Festuog)))
                           (person_nf_kvk Lára Jóhannsdóttir (lemma Lára Jóhannsdóttir))
-                          (NP-TITLE (no PhD (lemma PhD))
+                          (NP-TITLE (abbrev PhD (lemma PhD))
                                     (C (st og (lemma og)))
                                     (no_et_nf_kk dósent (lemma dósent))
                                     (PP (P (fs_þf við (lemma við)))

@@ -70,7 +70,7 @@
                                   (NP (no_et_þgf_kvk mennt (lemma mennt)))))
                       (C (st og (lemma og)))
                       (PP (P (fs_þf með (lemma með)))
-                          (NP (no MBA-gráðu (lemma MBA-gráða))
+                          (NP (no_et_þf_hk MBA-gráðu (lemma MBA-gráða))
                               (PP (P (fs_þgf frá (lemma frá)))
                                   (NP-COMPANY (entity_et_þgf London Business School (lemma London Business School)))))))))
       (grm .))

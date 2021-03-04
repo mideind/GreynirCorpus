@@ -59,7 +59,7 @@
 
 (META (ID-CORPUS dd8f31f5-a476-11e7-b8f8-04014c605401.16)
         (ID-LOCAL greynir_corpus_00039.psd,.5)
-        (URL http://eyjan.pressan.is/frettir/2017/09/28/vill-leida-lista-framsoknar-i-nordausturkjordaemi-missir-ad-sigmundi/))
+        (URL http://eyjan.pressan.is/frettir/2017/09/28/vill-leida-lista-framsoknar-i-nordausturkjordaemi-missir-ad-sigmundi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kvk Þórunn Egilsdóttir (lemma Þórunn Egilsdóttir)))
                   (VP (VP-AUX (so_0_fh_p3_et_nt_gm hefur (lemma hafa)))

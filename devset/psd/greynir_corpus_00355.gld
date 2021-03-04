@@ -68,7 +68,7 @@
                  (VP (VP (so_0_sagnb_gm verið (lemma vera)))
                      (NP-PRD (so_0_lhþt_et lagað (lemma laga)))))))
       (grm . (lemma .))
-      (grm \) (lemma \))))
+      (grm &#41;))
 
 (META (ID-CORPUS 3ca9478b-b471-11e7-b91c-04014c605401.61)
         (ID-LOCAL greynir_corpus_00355.psd,.6)

@@ -129,7 +129,7 @@
 
 (META (ID-CORPUS 216f6140-4533-11e6-8429-04014c605401.10)
         (ID-LOCAL greynir_corpus_00239_00001.psd,.8)
-        (URL http://www.mbl.is/frettir/innlent/2016/05/08/athyglisvert_ad_david_bjodi_sig_fram/))
+        (URL http://www.mbl.is/frettir/innlent/2016/05/08/athyglisvert_ad_david_bjodi_sig_fram/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Bjarni (lemma Bjarni)))
                     (VP (VP (so_0_fh_p3_et_nt_mm kveðst (lemma kveða)))

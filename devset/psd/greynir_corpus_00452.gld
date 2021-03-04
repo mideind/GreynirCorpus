@@ -13,7 +13,7 @@
                                           (grm , (lemma ,))
                                           (NP (ADVP (eo ekki (lemma ekki)))
                                               (ADVP (ao_mst meira (lemma mikið))
-                                                    (CP-ADV (C (st en (lemma en)))
+                                                    (CP-ADV-CMP (C (st en (lemma en)))
                                                             (NP (to_et_nf_kk einn (lemma einn))
                                                                 (PP (P (fs_þf á (lemma eiga)))
                                                                     (NP (no_et_þf_kk dag (lemma dagur)))))))))

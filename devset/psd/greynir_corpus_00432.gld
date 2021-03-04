@@ -164,11 +164,11 @@
                      (VP (VP (so_1_nf_nh_gm heita (lemma heit)))
                          (NP-PRD (NP (no_et_nf_hk Ólympíulið (lemma ólympíulið))
                                      (NP-POSS (no_ft_ef_kk flóttamanna (lemma flóttamaður))))
-                                 (grm \( (lemma \())
+                                 (grm &#40;)
                                  (NP (foreign Team of Refugee Olympic Athletes (lemma Team of Refugee Olympic Athletes))
                                      (grm - (lemma -))
                                      (abbrev ROA (lemma ROA))
-                                     (grm \) (lemma \))))))))))
+                                     (grm &#41;))))))))
       (grm . (lemma .)))
 
 (META (ID-CORPUS 1a248388-8f0d-11e7-b8c5-04014c605401.9)

@@ -39,7 +39,7 @@
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Héraðsdómur (lemma héraðsdómur))
                              (NP-POSS (no_et_ef_kvk Reykjavíkur (lemma Reykjavík)))
                              (C (st og (lemma og)))
-                             (NP-PREFIX (no EFTA (lemma EFTA)))
+                             (NP-PREFIX (abbrev EFTA (lemma EFTA)))
                              (no_et_nf_kk_gr dómstóllinn (lemma dómstóll)))
                     (VP (VP (VP-AUX (so_0_fh_p3_ft_þt_gm höfðu (lemma hafa)))
                             (ADVP (ao áður (lemma áður)))

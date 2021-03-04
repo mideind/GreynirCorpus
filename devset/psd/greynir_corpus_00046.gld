@@ -16,7 +16,7 @@
 
 (META (ID-CORPUS e5a85b74-87d4-11e9-9835-04014c605401.15)
         (ID-LOCAL greynir_corpus_00046.psd,.2)
-        (URL http://www.ruv.is/frett/afhrod-danska-thjodarflokksins))
+        (URL http://www.ruv.is/frett/afhrod-danska-thjodarflokksins)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
                       (NP (pfn_et_þgf_hk_p3 því (lemma það))))
@@ -31,7 +31,7 @@
 
 (META (ID-CORPUS 71d323a8-7888-11e8-a9f9-04014c605401.10)
         (ID-LOCAL greynir_corpus_00046.psd,.3)
-        (URL http://www.ruv.is/frett/enn-eru-kettir-drepnir-i-hveragerdi))
+        (URL http://www.ruv.is/frett/enn-eru-kettir-drepnir-i-hveragerdi)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao_fst Mikið (lemma mikið)))
                   (VP (VP (so_1_nf_fh_p3_et_nt_gm er (lemma vera)))
@@ -79,7 +79,7 @@
 
 (META (ID-CORPUS b24e7963-57b7-11e9-9bd2-04014c605401.14)
         (ID-LOCAL greynir_corpus_00046.psd,.6)
-        (URL https://www.visir.is/g/2019190409227/marta-telur-rett-ad-rikid-radi-stadsetningu-flugvallarins))
+        (URL https://www.visir.is/g/2019190409227/marta-telur-rett-ad-rikid-radi-stadsetningu-flugvallarins)
         (COMMENT ))
   (S0 (S-PREFIX (IP (ADVP (ao_fst Rétt (lemma rétt))
                           (ao eins (lemma eins))
@@ -95,7 +95,7 @@
 
 (META (ID-CORPUS d8d32557-f27a-11e8-9a13-04014c605401.191)
         (ID-LOCAL greynir_corpus_00046.psd,.7)
-        (URL http://www.visir.is/g/2018181128983/i-beinni-man.-utd-young-boys-united-ma-ekki-misstiga-sig))
+        (URL http://www.visir.is/g/2018181128983/i-beinni-man.-utd-young-boys-united-ma-ekki-misstiga-sig)
         (COMMENT ))
   (S0 (S-PREFIX (IP (NP (lo_et_nf_kvk_mst Seinni (lemma seinn))
                         (no_et_nf_kvk_gr bylgjan (lemma bylgja))))
@@ -109,7 +109,7 @@
 
 (META (ID-CORPUS 0d525445-67de-11e6-844f-04014c605401.2)
         (ID-LOCAL greynir_corpus_00046.psd,.8)
-        (URL http://www.mbl.is/sport/frettir/2016/08/21/runar_orn_setti_nytt_islandsmet_2/))
+        (URL http://www.mbl.is/sport/frettir/2016/08/21/runar_orn_setti_nytt_islandsmet_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Rúnar (lemma Rúnar)))
                   (VP (VP (so_1_þf_fh_p3_et_þt_gm bætti (lemma bæta)))
@@ -140,7 +140,7 @@
 
 (META (ID-CORPUS 0c530e74-5285-11e6-8439-04014c605401.5)
         (ID-LOCAL greynir_corpus_00046.psd,.10)
-        (URL http://www.visir.is/reisa-bmw%2C-ford-og-jaguar-land-rover-saman-rafhloduverksmidju-/article/2016160729358))
+        (URL http://www.visir.is/reisa-bmw%2C-ford-og-jaguar-land-rover-saman-rafhloduverksmidju-/article/2016160729358)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Þessi (lemma þessi))
                            (no_et_nf_kk bíll (lemma bíll)))

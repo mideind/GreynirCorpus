@@ -30,7 +30,7 @@
         (ID-LOCAL greynir_corpus_00034.psd,.3)
         (URL https://kjarninn.is/frettir/2018-12-20-efling-hyggst-visa-deilunni-til-rikissattasemjara-sem-allra-fyrst/)
         (COMMENT ))
-  (S0 (S-HEADING (IP (CP (IP (NP-SUBJ (pfn_et_nf_kk_p1 Ég (lemma ég)))
+  (S0 (S-HEADING (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_kk_p1 Ég (lemma ég)))
                              (VP (VP (so_0_et_fh_gm_nt_p1 reikna (lemma reikna)))
                                  (ADVP (ao_fst ekki (lemma ekki)))
                                  (PP (P (fs_þgf með (lemma með)))
@@ -85,7 +85,7 @@
 
 (META (ID-CORPUS 9fe65584-4873-11e8-b0c4-04014c605401.19)
         (ID-LOCAL greynir_corpus_00034.psd,.7)
-        (URL https://kjarninn.is/skodun/2018-04-21-hinn-kerfisbundni-islenskur-ojofnudur/))
+        (URL https://kjarninn.is/skodun/2018-04-21-hinn-kerfisbundni-islenskur-ojofnudur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_ft_kk_nf_p3 Þeir (lemma hann))
                              (CP-REL (C (stt sem (lemma sem)))

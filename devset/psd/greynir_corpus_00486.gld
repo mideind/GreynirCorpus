@@ -357,7 +357,7 @@
                                           (VP (VP (so_0_fh_p3_et_þt_gm sló (lemma slá)))
                                               (ADVP (ao í gegn (lemma í gegn)))
                                               (ADVP (ártal árið 2012 (lemma árið 2012))
-                                                    (CP-ADV (C (st þegar (lemma þegar)))
+                                                    (CP-ADV-TEMP (C (st þegar (lemma þegar)))
                                                             (IP (NP-SUBJ (no_et_nf_kvk_gr þáttaröðin (lemma þátta-röð))
                                                                          (entity Girls (lemma Girls)))
                                                                 (VP (VP (so_1_þf_fh_p3_et_þt_gm hóf (lemma hefja)))

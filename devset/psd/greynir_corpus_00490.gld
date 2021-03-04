@@ -223,7 +223,7 @@
                                                                       (no_et_þf_kk mannauð (lemma mannauður))
                                                                       (C (st og (lemma og)))
                                                                       (no_et_þf_kvk þekkingu (lemma þekking)))
-                                                              (CP-ADV (C (st þegar (lemma þegar)))
+                                                              (CP-ADV-TEMP (C (st þegar (lemma þegar)))
                                                                       (IP (NP-SUBJ (pfn_ft_nf_p1 við (lemma við)))
                                                                           (VP (VP (so_0_fh_p1_ft_nt_mm tökumst (lemma taka)))
                                                                               (ADVP-PCL (ao á (lemma á)))

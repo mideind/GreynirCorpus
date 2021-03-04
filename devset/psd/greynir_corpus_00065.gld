@@ -18,7 +18,7 @@
 
 (META (ID-CORPUS 7e34b937-699e-11e8-ade0-04014c605401.2)
         (ID-LOCAL greynir_corpus_00065.psd,.2)
-        (URL http://www.ruv.is/frett/treystir-leikmonnum-til-ad-leysa-soru-af-holmi))
+        (URL http://www.ruv.is/frett/treystir-leikmonnum-til-ad-leysa-soru-af-holmi)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ao Framundan (lemma framundan)))
                   (VP (VP (so_0_fh_p3_et_nt_gm er (lemma vera)))

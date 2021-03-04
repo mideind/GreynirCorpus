@@ -37,7 +37,7 @@
                          (NP (sérnafn_et_þgf_hk Viðskiptaþingi (lemma viðskipta-þing))
                              (NP-POSS (fyrirtæki_et_ef_hk Viðskiptaráðs (lemma viðskiptaráð))
                                       (NP-POSS (sérnafn_et_ef_hk Íslands (lemma Ísland))))))
-                     (ADVP-DATE (dagsföst 12. febrúar 2015 (lemma 12. febrúar 2015)))))
+                     (ADVP-DATE-ABS (dagsföst 12. febrúar 2015 (lemma 12. febrúar 2015)))))
       (grm . (lemma .)))
 
 (META (ID-CORPUS dce3ed14-32dd-11e9-9b92-04014c605401.5)

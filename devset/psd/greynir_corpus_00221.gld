@@ -74,7 +74,7 @@
 
 (META (ID-CORPUS 39dbc40e-e54f-11e7-b880-04014c605401.15)
         (ID-LOCAL greynir_corpus_00221_00001.psd,.6)
-        (URL http://www.ruv.is/frett/takmarkad-skyggni-og-erfid-akstursskilyrdi))
+        (URL http://www.ruv.is/frett/takmarkad-skyggni-og-erfid-akstursskilyrdi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Hiti (lemma hiti)))
                     (VP (VP (VP (so_0_fh_p3_et_nt_gm verður (lemma verða)))

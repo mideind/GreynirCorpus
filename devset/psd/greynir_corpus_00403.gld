@@ -111,7 +111,7 @@
                       (NP-TITLE (fyrirtæki_et_nf_hk handboltafélag (lemma handboltafélag))))
              (VP (VP (so_0_fh_p3_et_þt_gm varð (lemma verða)))
                  (ADVP (ao til (lemma til)))
-                 (CP-ADV (C (st þegar (lemma þegar)))
+                 (CP-ADV-TEMP (C (st þegar (lemma þegar)))
                          (IP (NP-SUBJ (fyrirtæki_nf_hk KA (lemma KA))
                                       (C (st og (lemma og)))
                                       (fyrirtæki_nf_kk Þór (lemma Þór)))

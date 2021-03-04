@@ -19,7 +19,7 @@
                         (NP-PRD (so_0_lhþt_et_nf_kvk tryggð (lemma tryggð))
                                 (PP (P (fs hjá (lemma hjá)))
                                     (NP (lo íslensku (lemma íslensku))
-                                        (no tryggingafélagi (lemma tryggingafélagi)))))))
+                                        (no_et_þgf_hk tryggingafélagi (lemma tryggingafélagi)))))))
                 (grm . (lemma .))))
 
 (META (ID-CORPUS ec4fb3e2-7dcd-11e6-a2c3-04014c605401.7)

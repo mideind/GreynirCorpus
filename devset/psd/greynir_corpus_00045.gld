@@ -108,7 +108,7 @@
 
 (META (ID-CORPUS daccb94c-d212-11e7-b96b-04014c605401.7)
         (ID-LOCAL greynir_corpus_00045.psd,.8)
-        (URL http://eyjan.pressan.is/silfuregils/2017/11/25/skuggarnir-i-sambandinu-vid-bretland/))
+        (URL http://eyjan.pressan.is/silfuregils/2017/11/25/skuggarnir-i-sambandinu-vid-bretland/)
         (COMMENT ))
   (S0 (S-QUE (NP (fn_et_þf_hk Hvað (lemma hver)))
              (IP (VP (VP (so_0_fh_p3_et_nt_gm á (lemma eiga)))
@@ -124,7 +124,7 @@
 
 (META (ID-CORPUS a0816ce0-c3a6-11e7-b941-04014c605401.5)
         (ID-LOCAL greynir_corpus_00045.psd,.9)
-        (URL http://www.mbl.is/vidskipti/frettir/2017/11/07/skuli_ihugar_ad_skra_felagid_a_markad/))
+        (URL http://www.mbl.is/vidskipti/frettir/2017/11/07/skuli_ihugar_ad_skra_felagid_a_markad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
                   (VP (VP-AUX (so_0_fh_p1_ft_nt_gm höfum (lemma hafa)))
@@ -139,7 +139,7 @@
 
 (META (ID-CORPUS 4bcd4b04-1a8e-11e9-9b37-04014c605401.30)
         (ID-LOCAL greynir_corpus_00045.psd,.10)
-        (URL http://www.ruv.is/frett/vill-veida-meira-af-hval-og-fleiri-tegundir))
+        (URL http://www.ruv.is/frett/vill-veida-meira-af-hval-og-fleiri-tegundir)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP (ao Þannig (lemma þannig))
                                        (st að (lemma að)))
@@ -148,6 +148,6 @@
                                      (NP-PRD (eo alveg (lemma alveg))
                                              (lo_et_nf_hk_sb tilvalið (lemma tilvalinn))))))
                    (grm ,)
-                   (CP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
+                   (CP-SOURCE (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                        (NP-SUBJ (person_nf_kk Kristján (lemma Kristján))))))
       (grm .))

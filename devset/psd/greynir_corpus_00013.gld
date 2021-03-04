@@ -16,7 +16,7 @@
   http://www.visir.is/g/2017171209445/i-beinni-man.-utd-cska-moskva-united-tharf-eitt-stig)
         (COMMENT ))
   (S0-X (S-HEADING (IP (NP (lo_nf_et_kvk_sb Æsispennandi (lemma Æsispennandi))
-                           (no kapprúll (lemma kapprúll))
+                           (no_et_nf_hk kapprúll (lemma kapprúll))
                            (no_nf_et_kvk glerkúla (lemma glerkúla)))
                        (VP (VP (so_0_fh_gm_nt_p3_et flýgur (lemma fljúga)))
                            (PP (P (fs_þf um (lemma um)))

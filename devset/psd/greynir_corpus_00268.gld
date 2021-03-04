@@ -40,7 +40,7 @@
                                                     (NP-OBJ (no_et_þgf_kvk skýrslu (lemma skýrsla))
                                                             (fn_et_þgf_kvk sinni (lemma sinn)))
                                                     (ADVP-DATE-REL (P (fs_þgf í (lemma í)))
-                                                                   (NP (dagsafs apríl 2010 (lemma apríl 2010))))))))))))
+                                                                   (NP (dagsafs apríl 2010 (lemma apríl 2010)))))))))))))
         (grm .))
 
 (META (ID-CORPUS 374c1920-5ee1-11e6-8447-04014c605401.15)

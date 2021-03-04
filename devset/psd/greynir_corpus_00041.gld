@@ -124,7 +124,7 @@
 
 (META (ID-CORPUS a0a46c53-d2a7-11e6-8e59-04014c605401.9)
         (ID-LOCAL greynir_corpus_00041.psd,.9)
-        (URL http://www.mbl.is/frettir/innlent/2017/01/04/tokum_thessu_mjog_alvarlega/))
+        (URL http://www.mbl.is/frettir/innlent/2017/01/04/tokum_thessu_mjog_alvarlega/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma Það)))
                   (VP (VP (so_1_nf_fh_p3_nt_gm er (lemma vera)))

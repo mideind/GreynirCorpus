@@ -152,7 +152,7 @@
              (VP (VP (so_0_op_fh_p3_et_nt_gm verður (lemma verða)))
                  (PP (P (fs_þf við (lemma við)))
                      (NP (no_et_þf_kk varaformann (lemma varaformaður))
-                         (NP-POSS (no ADHD (lemma ADHD))
+                         (NP-POSS (abbrev ADHD (lemma ADHD))
                                   (no_ft_ef_hk_gr samtakanna (lemma samtak)))))
                  (PP (P (fs_þf um (lemma um)))
                      (NP (no_et_þf_kvk brottvísun (lemma brottvísun))

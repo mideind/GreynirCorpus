@@ -1,6 +1,7 @@
 (META (ID-CORPUS 3a9ce2ab-11fa-11e7-aa2a-04014c605401.8)
         (ID-LOCAL reynir_corpus_00256_00001.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2017/03/26/sjalfkeyrandi_uber_lenti_i_arekstri/)
+        (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Sjálfkeyrandi (lemma sjálfkeyrandi)
                                                            (exp_seg sjálf-keyrandi))
                              (no_ft_nf_kk bílar (lemma bíll))

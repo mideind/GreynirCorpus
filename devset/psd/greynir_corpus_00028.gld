@@ -34,7 +34,7 @@
 (META (ID-CORPUS 40b42940-95d6-11e8-986a-04014c605401.6)
         (ID-LOCAL greynir_corpus_00028.psd,.3)
         (URL
-  http://www.ruv.is/frett/ovenjumikid-af-andanefjum-inni-a-fjordum))
+  http://www.ruv.is/frett/ovenjumikid-af-andanefjum-inni-a-fjordum)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Meðal annars (lemma meðal annars)))
                   (PP (P (fs_þf við (lemma við)))

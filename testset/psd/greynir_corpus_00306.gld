@@ -282,7 +282,7 @@
                   (C (st og (lemma og)))
                   (IP (VP (VP (so_0_fh_p3_ft_þt_gm gerðu (lemma gerðu)))
                           (NP-SUBJ (lo upphaflegar (lemma upphaflegar))
-                                   (no áætlar (lemma áætlar)))
+                                   (no_ft_nf_kvk áætlar (lemma áætlun)))
                           (PP (P (fs fyrir (lemma fyrir)))
                               (NP (CP-THT (C (st að (lemma að)))
                                           (IP (NP-SUBJ (NP-POSS (tala_ft_nf_hk 70.000 (lemma 70.000))

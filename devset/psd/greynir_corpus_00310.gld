@@ -206,7 +206,7 @@
                    (CP-SOURCE (grm ,)
                               (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                               (NP-SOURCE (NP (no_et_nf_hk Bielsa (lemma Bielsa)))))
-                   (grm .)))))
+                   (grm .)))
 
 (META (ID-CORPUS 7e80e0e1-7364-11e8-a9f1-04014c605401.1)
         (ID-LOCAL reynir_corpus_00310_00001.psd,.8)

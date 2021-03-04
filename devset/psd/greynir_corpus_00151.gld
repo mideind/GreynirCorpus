@@ -269,7 +269,7 @@
                       (VP-AUX (so_0_sagnb_gm verið (lemma vera)))
                       (VP (VP (so_0_lhþt_ft_nf_hk_sb sökuð (lemma saka)))
                           (PP (P (fs_þf um (lemma um)))
-                              (NP (no_ft_þf_kk stríðsglæpi (lemma stríðsglæpur))))))))
+                              (NP (no_ft_þf_kk stríðsglæpi (lemma stríðsglæpur)))))))))
       (grm .))
 
 (META (ID-CORPUS 34f09f8e-86ea-11e9-9833-04014c605401.17)

@@ -226,7 +226,7 @@
                                                 (CP-REL (C (stt sem (lemma sem)))
                                                         (IP (VP (VP-AUX (so_0_vh_p3_et_nt_gm skuli (lemma skulu)))
                                                                 (VP (VP (so_0_lhþt_et gefið (lemma gefa)))
-                                                                    (NP (no_et færi (lemma færi)))
+                                                                    (NP (no_et_þf_hk færi (lemma færi)))
                                                                     (PP (P (fs_þgf á (lemma á)))
                                                                         (IP-INF (TO (nhm að (lemma að)))
                                                                                 (VP (VP (so_1_þf_nh_gm tjá (lemma tjá)))

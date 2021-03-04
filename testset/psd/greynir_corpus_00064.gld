@@ -170,7 +170,7 @@
                       (NP-SUBJ (no_ft_nf_kk sveitarstjórnarmenn (lemma sveitarstjórnarmaður)))
                       (NP-PRD (fn_et_ef_hk alls (lemma allur))
                               (tala_ft_nf_kvk 1.116 (lemma 1.116))
-                              (no talsins (lemma tal)))
+                              (no_et_ef_hk_gr talsins (lemma tal)))
                       (C (st og (lemma og)))
                       (NP-SUBJ (no_ft_nf_kvk konur (lemma kona)))
                       (NP-PRD (NP (prósenta_et_ef_hk 21,8% (lemma 21,8%)))

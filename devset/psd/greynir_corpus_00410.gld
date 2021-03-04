@@ -182,7 +182,7 @@
         (ID-LOCAL greynir_corpus_00410.psd,.9)
         (URL http://url_vantar.is)
         (COMMENT ))
-  (S0 (S-MAIN (IP (CP-ADV (C (st Ef (lemma ef)))
+  (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
                      (IP (ADVP (ao ekki (lemma ekki)))
                          (VP (VP (so_0_vh_p3_et_þt_gm væri (lemma vera)))
                              (PP (P (fs_þf fyrir (lemma fyrir)))

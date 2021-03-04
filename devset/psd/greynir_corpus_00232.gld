@@ -110,7 +110,7 @@
 
 (META (ID-CORPUS b4d9c8ad-e5b1-11e6-8e7a-04014c605401.13)
         (ID-LOCAL greynir_corpus_00232_00001.psd,.8)
-        (URL http://eyjan.pressan.is/frettir/2017/01/28/trump-og-putin-toludu-saman-i-thrju-korter/))
+        (URL http://eyjan.pressan.is/frettir/2017/01/28/trump-og-putin-toludu-saman-i-thrju-korter/)
         (COMMENT ))
   (S0-X (S-HEADING (IP (ADVP (ao Allst (lemma alls)))
                          (VP (VP (so_1_þf_vh_p3_et_nt_gm átti (lemma átta)))
