@@ -40,7 +40,8 @@
                                                                                         (VP (VP (so_0_nh_gm vera (lemma vera)))
                                                                                             (NP-PRD (eo örlítið (lemma örlítið))
                                                                                                     (lo_et_nf_hk_sb kalt (lemma kaldur)))
-                                                                                            (ADVP-TIMESTAMP-REL (ao í fyrstu (lemma í fyrstu))))))))))))))))))
+                                                                                            (ADVP-TIMESTAMP-REL (ao í (lemma í))
+                                                                                                                (ao fyrstu (lemma fyrstu))))))))))))))))))
         (grm .))
 
 (META (ID-CORPUS 1f86a905-4533-11e6-8429-04014c605401.30)

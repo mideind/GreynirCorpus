@@ -224,11 +224,9 @@
                                                (NP-POSS (no_et_ef_kk lestrar (lemma lestur)))))
                                        (grm ,)
                                        (NP-TITLE (pfn_ft_ef_kk_p3 þeirra (lemma hann))
-                                                 (NP-PERSON (person_ef Stanislas (lemma Stanislas))
-                                                            (person_ef Dehaene (lemma Dehaene)))
+                                                 (NP-PERSON (person_ef Stanislas Dehaene (lemma Stanislas Dehaene)))
                                                  (C (st og (lemma og)))
-                                                 (NP-PERSON (person_ef Joels (lemma Joels))
-                                                            (person_ef Talcott (lemma Talcott))))))))))
+                                                 (NP-PERSON (person_ef Joels Talcott (lemma Joels Talcott))))))))))
       (grm .))
 
 (META (ID-CORPUS 3ee0b3e4-3ed1-11e7-b7f4-04014c605401.13)

@@ -61,7 +61,8 @@
                                       (PP-LOC (P (fs_þgf í (lemma í)))
                                               (NP (sérnafn_þgf_hk Blackpool (lemma Blackpool))))
                                       (NP-DAT (no_et_þgf_kk degi (lemma dagur))
-                                              (PP (P (fs_þgf á eftir (lemma á eftir)))
+                                              (PP (P (fs_þgf á (lemma á))
+                                                     (fs_þgf eftir (lemma eftir)))
                                                   (NP (pfn_et_þgf_p1 mér (lemma ég)))))))))))
       (grm .))
 

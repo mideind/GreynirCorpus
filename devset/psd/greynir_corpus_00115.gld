@@ -136,7 +136,8 @@
       (grm ,)
       (S-MAIN (IP (VP (VP (so_1_þf_fh_p3_et_nt_gm segir (lemma segja)))
                       (NP-SUBJ (person_nf_kvk Margrét (lemma Margrét)))
-                      (ADVP-TIMESTAMP-REL (ao að lokum (lemma að lokum))))))
+                      (ADVP-TIMESTAMP-REL (ao að (lemma að))
+                                          (ao lokum (lemma lokum))))))
       (grm .))
 
 (META (ID-CORPUS 0ea98171-7d8f-11e6-a2c3-04014c605401.42)

@@ -162,7 +162,6 @@
                                            (ADVP-TIMESTAMP-REL (ADVP (ao laust (lemma laust)))
                                                                (P (fs_þf fyrir (lemma fyrir)))
                                                                (ADVP-TIMESTAMP-REL (no_et_þf_kvk_gr klukkan hálf sex (lemma klukkan hálf sex))
-                                                                                   (töl hálf sex (lemma hálf sex))
                                                                                    (ao í morgun (lemma í morgun))))))))))
       (grm . (lemma .)))
 

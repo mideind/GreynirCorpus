@@ -165,7 +165,8 @@
                                     (grm ,))))
                   (CP-SOURCE (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                                  (NP-SUBJ (person_nf_kk Justus Paulsen (lemma Justus Paulsen)))
-                                 (ADVP-DATE-REL (ao að lokum (lemma að lokum)))))))
+                                 (ADVP-DATE-REL (ao að (lemma að))
+                                                (ao lokum (lemma lokum)))))))
       (grm .))
 
 (META (ID-CORPUS 32cc53ee-9851-11e7-b8dd-04014c605401.14)

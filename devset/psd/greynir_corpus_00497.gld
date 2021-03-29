@@ -395,7 +395,7 @@
         (URL http://url_vantar.is)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Forsala (lemma Forsalir))
-                      (NP-POSS (fyrirtæki_ef_kvk Senu (lemma sena))))
+                      (NP-POSS (fyrirtæki_ef_kvk Senu Live (lemma Sena Live))))
              (VP (VP (so_0_fh_p3_et_nt_gm fer (lemma fara)))
                  (ADVP (ao fram (lemma fram)))
                  (ADVP-DATE-REL (dagsafs 14. desember (lemma 14. desember))))))

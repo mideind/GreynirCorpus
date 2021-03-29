@@ -32,7 +32,7 @@
         (ID-LOCAL greynir_corpus_00044.psd,.3)
         (URL http://www.ruv.is/frett/blikar-meistarar-meistaranna)
         (COMMENT ))
-  (S0 (S-MAIN (NP (no_et_nf_kk_gr Íslands- og bikarmeistararnir (lemma Íslands- og bikarmeistararnir)))
+  (S0-X (S-MAIN (NP (no_et_nf_kk_gr Íslands- og bikarmeistararnir (lemma Íslands- og bikarmeistararnir)))
               (VP (VP (so_0_fh_p3_ft_nt_gm fá (lemma fá)))
                   (ADVP (ao því (lemma því)))
                   (NP-OBJ (NP-POSS (no_et_ef_hk ágætis (lemma ágætis)))

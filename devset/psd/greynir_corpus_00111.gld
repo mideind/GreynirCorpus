@@ -99,7 +99,7 @@
         (URL http://www.visir.is/bilskurinn-raunir-rosberg-a-heimavelli/article/2016160809596)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Þvert á (lemma þvert á)))
-                    (ADVP (ao móti (lemma á móti)))
+                    (ADVP (ao móti (lemma móti)))
                     (VP (VP (so_1_nf_fh_p3_et_nt_mm virðist (lemma virða)))
                         (NP-SUBJ (lo_et_nf_hk_sb liðið (lemma liðinn)))
                         (ADVP-TMP-SET (ao nú (lemma nú)))

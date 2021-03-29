@@ -145,4 +145,5 @@
                       (PP (P (fs_þgf að (lemma að)))
                           (NP (no_ft_hk_þgf hagsmunatengslum (lemma hagsmunatengsl))
                               (PP (P (fs_þf við (lemma við)))
-                                  (NP (sérnafn_þf_kk_et Arion banka (lemma Arion banki))))))))))
+                                  (NP (sérnafn_þf_kk_et Arion (lemma Arion))
+                                      (sérnafn_þf_kk_et banka (lemma banki))))))))))

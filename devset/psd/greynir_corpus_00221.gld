@@ -69,7 +69,8 @@
                      (CP-SOURCE (IP (grm ,)
                                     (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
                                         (NP-SOURCE (person_nf_kk Guðmundur (lemma Guðmundur)))
-                                        (ADVP (ao að lokum (lemma að lokum))))))))
+                                        (ADVP (ao að (lemma að))
+                                              (ao lokum (lemma lokum))))))))
         (grm .))
 
 (META (ID-CORPUS 39dbc40e-e54f-11e7-b880-04014c605401.15)

@@ -97,7 +97,8 @@
                          (NP (no_et_þgf_kvk sögu (lemma saga))
                              (NP-POSS (no_et_ef_kk_gr garðsins (lemma garður))
                                       (C (st og (lemma og)))
-                                      (person_ef_kvk Guðrúnar vökukonu (lemma Guðrún vökukona)))))))))
+                                      (person_ef_kvk Guðrúnar (lemma Guðrún))
+                                      (no_et_ef_kvk vökukonu (lemma vökukona)))))))))
       (grm . (lemma .)))
 
 (META (ID-CORPUS 1efe45a3-4533-11e6-8429-04014c605401.7)

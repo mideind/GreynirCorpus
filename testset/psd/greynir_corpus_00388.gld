@@ -23,7 +23,7 @@
         (URL http://url_vantar.is)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao_fst Hér (lemma hér)))
-             (ADVP (ao fyrir neðan (lemma fyrir neðan))
+             (ADVP (ao fyrir (lemma fyrir))
                    (ao neðan (lemma neðan)))
              (VP (VP-AUX (so_0_fh_p3_et_nt_gm má (lemma mega)))
                  (VP (VP (so_1_þf_nh_gm sjá (lemma sjá)))

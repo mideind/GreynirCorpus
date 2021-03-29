@@ -46,7 +46,8 @@
   http://www.visir.is/t/1303/Fr%C3%A9ttir%2520%C3%A1rsins%25202018)
         (COMMENT ))
   (S0 (S-HEADING (IP (NP-SUBJ (no_et_hk_nf Barn (lemma barn)))
-                     (PP (P (fs_ef á meðal (lemma á meðal)))
+                     (PP (P (fs_ef á (lemma á))
+                            (fs_ef meðal (lemma meðal)))
                          (NP (pfn_ef_ft_hk_p3 þeirra (lemma það))
                              (lo_ef_ft_kvk_vb látnu (lemma látinn)))))))
 

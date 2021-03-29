@@ -209,7 +209,8 @@
                                                               (CP-REL (C (stt sem (lemma sem)))
                                                                       (IP (VP (VP (so_1_nf_fh_p3_et_þt_gm var (lemma vera)))
                                                                               (NP-PRD (lo_et_nf_kk_fst_sb ónýtur (lemma ónýtur)))
-                                                                              (ADVP-TIMESTAMP-REL (ao á eftir (lemma á eftir))))))))))))))))
+                                                                              (ADVP-TIMESTAMP-REL (ao á (lemma á))
+                                                                                                  (fs_þgf eftir (lemma eftir))))))))))))))))
       (grm .))
 
 (META (ID-CORPUS 3d6ca249-bb4d-11e7-b92d-04014c605401.6)

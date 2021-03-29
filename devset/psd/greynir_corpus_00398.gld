@@ -13,7 +13,7 @@
       (C (st og (lemma og)))
       (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk hitt (lemma hinn)))
              (VP (VP (so_0_fh_p3_et_nt_gm er (lemma er)))
-                 (NP-PRD (NP-COMPANY (fyrirtæki_et_nf & (lemma &))
+                 (NP-PRD (NP-COMPANY (grm & (lemma &))
                                      (fyrirtæki Other Stories (lemma Other Stories)))))))
       (grm . (lemma .)))
 
