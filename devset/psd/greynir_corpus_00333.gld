@@ -391,7 +391,7 @@
                                   (no_et_þgf_kvk tölum (lemma tölum))))))
           (C (st en (lemma en)))
           (S-MAIN (PP (P (fs_þf miðað (lemma miðað))
-                          (fs_þf við (við)))
+                         (fs_þf við (lemma við)))
                       (NP (no_ft_þf_kk_gr hæfileikana (lemma hæfileikana))
                           (CP-REL (C (stt sem (lemma sem)))
                                   (IP (PP (P (fs_þf í (lemma í)))
