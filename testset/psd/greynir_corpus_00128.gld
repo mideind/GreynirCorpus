@@ -1,5 +1,5 @@
 (META (ID-CORPUS b6af7842-7c95-11e9-982a-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00128.psd,.1)
+        (ID-LOCAL greynir_corpus_00128.psd,.1)
         (URL https://kjarninn.is/frettir/2019-05-22-likamar-kvenna-eru-dregnir-inn-i-politiska-umraedu/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_ft_þgf_hk Réttindum (lemma réttindi))
@@ -25,7 +25,7 @@
       (grm .))
 
 (META (ID-CORPUS 9580c2ed-e4d3-11e6-8e79-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00128.psd,.2)
+        (ID-LOCAL greynir_corpus_00128.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/01/27/bydur_thu_hokkurum_upp_i_rum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Kerfið (lemma kerfi)))
@@ -53,7 +53,7 @@
       (grm .))
 
 (META (ID-CORPUS c85cd5dd-dcde-11e6-8e68-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00128.psd,.3)
+        (ID-LOCAL greynir_corpus_00128.psd,.3)
         (URL http://www.ruv.is/frett/argentina-skoradi-tvo-mork-i-fyrri-halfleik)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk Argentína (lemma Argentína)))
@@ -80,7 +80,7 @@
       (grm .))
 
 (META (ID-CORPUS 20c31b3b-4533-11e6-8429-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00128.psd,.4)
+        (ID-LOCAL greynir_corpus_00128.psd,.4)
         (URL http://www.mbl.is/smartland/pistlar/hildurjakobina/2169273/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -107,7 +107,7 @@
       (grm .))
 
 (META (ID-CORPUS 13ad751b-db18-11e7-b979-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00128.psd,.5)
+        (ID-LOCAL greynir_corpus_00128.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/12/07/hafragrautur_i_arlegri_heilsuviku/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk Það (lemma það)))
@@ -134,7 +134,7 @@
       (grm .))
 
 (META (ID-CORPUS f2638f59-6274-11e7-b83c-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00128.psd,.6)
+        (ID-LOCAL greynir_corpus_00128.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2017/07/06/lytalaeknar_neita_ad_veita_upplysingar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -163,7 +163,7 @@
       (grm .))
 
 (META (ID-CORPUS beca6e9f-42a1-11e7-b7fa-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00128.psd,.7)
+        (ID-LOCAL greynir_corpus_00128.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/05/27/hatt_verd_a_islenskum_frimerkjum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Frímerkjaefni (lemma frímerkjaefni)
@@ -189,7 +189,7 @@
       (grm .))
 
 (META (ID-CORPUS 09446b00-5151-11e9-9bcc-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00128.psd,.8)
+        (ID-LOCAL greynir_corpus_00128.psd,.8)
         (URL https://www.frettabladid.is/lifid/jonsi-notar-nefid-i-ilmvatnsgerd/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk Bróðir (lemma bróðir))
@@ -216,7 +216,7 @@
       (grm .))
 
 (META (ID-CORPUS 4240682b-22f4-11e9-9b77-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00128.psd,.9)
+        (ID-LOCAL greynir_corpus_00128.psd,.9)
         (URL https://www.frettabladid.is/frettir/slatra-farveikum-kum-i-skjoli-naetur)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -242,7 +242,7 @@
         (grm .))
 
 (META (ID-CORPUS 770a22d4-1ef1-11e7-aa50-04014c605401.74)
-        (ID-LOCAL reynir_corpus_00128.psd,.10)
+        (ID-LOCAL greynir_corpus_00128.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/04/11/hjatruin_lifir_i_thjodarsalinni/)
         (COMMENT ))
   (S0 (S-PREFIX (uh Já (lemma já))

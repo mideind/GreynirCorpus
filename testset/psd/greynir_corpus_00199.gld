@@ -1,5 +1,5 @@
 (META (ID-CORPUS d1bc96c6-e4c2-11e6-8e79-04014c605401.24-25)
-        (ID-LOCAL reynir_corpus_00199.psd,.1)
+        (ID-LOCAL greynir_corpus_00199.psd,.1)
         (URL http://eyjan.pressan.is/frettir/2017/01/27/radherra-segir-logreglu-og-samstarfsadila-hafa-unnid-threkvirki-mikilvaegt-ad-thetta-mal-verdi-til-lykta-leitt/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -51,7 +51,7 @@
       (grm .))
 
 (META (ID-CORPUS 6a727cb9-6f2f-11e8-a9eb-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00199.psd,.2)
+        (ID-LOCAL greynir_corpus_00199.psd,.2)
         (URL http://www.ruv.is/frett/malid-a-bordi-nefndarinnar-i-fjora-manudi)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -105,7 +105,7 @@
       (grm .))
 
 (META (ID-CORPUS 93b2f18d-3671-11e8-b05f-04014c605401.53)
-        (ID-LOCAL reynir_corpus_00199.psd,.3)
+        (ID-LOCAL greynir_corpus_00199.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2018/04/02/islenskur-raunveruleiki-eftir-hrun-thrjar-daemisogur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -158,7 +158,7 @@
         (grm .))
 
 (META (ID-CORPUS 3a94b93c-624f-11e7-b83c-04014c605401.53)
-        (ID-LOCAL reynir_corpus_00199.psd,.4)
+        (ID-LOCAL greynir_corpus_00199.psd,.4)
         (URL http://www.ruv.is/menning/gagnryni)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_hk Orðspor (lemma Orðspor)))
@@ -206,7 +206,7 @@
         (grm ?))
 
 (META (ID-CORPUS 197a8d74-a949-11e8-989a-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00199.psd,.5)
+        (ID-LOCAL greynir_corpus_00199.psd,.5)
         (URL http://www.ruv.is/frett/madurinn-sem-hafdi-ekki-samraedi-vid-hund)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -259,7 +259,7 @@
       (grm .))
 
 (META (ID-CORPUS af58bf4c-5475-11e7-b819-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00199.psd,.6)
+        (ID-LOCAL greynir_corpus_00199.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2017/06/18/ottast_adra_flodbylgju_a_graenlandi_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Jón Viðar Sigurðsson (lemma Jón Viðar Sigurðsson))
@@ -310,7 +310,7 @@
       (grm .))
 
 (META (ID-CORPUS ddf1ef27-c878-11e8-9930-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00199.psd,.7)
+        (ID-LOCAL greynir_corpus_00199.psd,.7)
         (URL http://www.visir.is/g/2018181009309/landslidshopurinn-valinn-i-dag-fa-ungu-mennirnir-kallid-fra-hamren-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_evb Mesta (lemma mikill))
@@ -359,7 +359,7 @@
       (grm .))
 
 (META (ID-CORPUS 06430316-fa20-11e8-9a4f-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00199.psd,.8)
+        (ID-LOCAL greynir_corpus_00199.psd,.8)
         (URL http://www.ruv.is/frett/100-ar-fra-faedingu-jorunnar-vidar-tonskalds)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Á (lemma á)))
@@ -409,7 +409,7 @@
       (grm .))
 
 (META (ID-CORPUS bee1c9cd-2a06-11e9-9b83-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00199.psd,.9)
+        (ID-LOCAL greynir_corpus_00199.psd,.9)
         (URL http://www.visir.is/g/2019190209285/mar-varar-eindregid-vid-thvi-ad-laun-verdi-haekkud-til-muna)
         (COMMENT ))
   (S0-X (S-QUOTE (IP (CP-QUOTE (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -462,7 +462,7 @@
         (grm :))
 
 (META (ID-CORPUS ece213ee-4221-11e8-b09e-04014c605401.39)
-        (ID-LOCAL reynir_corpus_00199.psd,.10)
+        (ID-LOCAL greynir_corpus_00199.psd,.10)
         (URL https://kjarninn.is/skodun/2018-04-16-thurfa-ad-teygja-sig-til-folksins-golfinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))

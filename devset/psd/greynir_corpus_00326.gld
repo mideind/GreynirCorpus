@@ -1,5 +1,5 @@
 (META (ID-CORPUS 79aa5f3b-713f-11e8-a9ec-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00326.psd,.1)
         (URL http://www.visir.is/g/2018180619104/syklalyf-i-fru-ragnheidi-draga-ur-alaginu-a-bradamottokuna-)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_hk_gr Fólkið (lemma fólk))
@@ -35,7 +35,7 @@
         (grm .))
 
 (META (ID-CORPUS b14ea77a-e843-11e8-99ce-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00326.psd,.2)
         (URL http://www.mbl.is/vidskipti/frettir/2018/11/14/reglur_til_ad_hemja_airbnb/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -71,7 +71,7 @@
         (grm .))
 
 (META (ID-CORPUS 9f0d6c91-efcd-11e7-b89d-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00326.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2018/01/02/mjolnir_og_hr_sameina_krafta_sina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Haraldur Dean Nelson (lemma Haraldur Dean Nelson)))
@@ -106,7 +106,7 @@
         (grm .))
 
 (META (ID-CORPUS 2183fd1f-4533-11e6-8429-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00326.psd,.4)
         (URL http://www.mbl.is/sport/efstadeild/2016/05/09/tolf_lid_eftir_i_forkeppni_bikars_kvenna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Þórhildur Stefánsdóttir (lemma Þórhildur Stefánsdóttir))
@@ -141,7 +141,7 @@
         (grm .))
 
 (META (ID-CORPUS b810f929-a940-11e8-989a-04014c605401.35)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00326.psd,.5)
         (URL http://www.mbl.is/smartland/tiska/2018/08/26/leidir_til_ad_fa_meira_volume_i_harid/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (VP (VP (VP (so_1_þf_nh_gm Þvo (lemma þvo)))
@@ -175,7 +175,7 @@
         (grm .))
 
 (META (ID-CORPUS b0c20c4f-8c2f-11e9-983b-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00326.psd,.6)
         (URL http://www.ruv.is/frett/mynd-um-polska-ibua-a-islandi-hlytur-verdlaun)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Ástarsamband (lemma ástarsamband))
@@ -213,7 +213,7 @@
         (grm .))
 
 (META (ID-CORPUS 62718153-0b8f-11e9-9acb-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00326.psd,.7)
         (URL http://www.visir.is/g/2018181229028/leeds-tapadi-a-heimavelli-jon-dadi-og-birkir-byrjudu-a-bekknum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Tammy Abraham (lemma Tammy Abraham)))
@@ -246,7 +246,7 @@
         (grm .))
 
 (META (ID-CORPUS a3d72ca6-4cbd-11e6-8436-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00326.psd,.8)
         (URL http://www.mbl.is/sport/fotbolti/2016/07/18/robben_enn_i_vandraedum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki Bayern (lemma Bayern)))
@@ -281,7 +281,7 @@
         (grm .))
 
 (META (ID-CORPUS a4180dbf-0918-11e8-810a-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00326.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2018/02/03/segir_weinstein_hafa_radist_a_sig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kvk Thurman (lemma Thurman)))
@@ -315,7 +315,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fd486c7-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00326_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00326.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2016/01/31/hrossin_faelast_undan_skothvellunum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þf Yfir (lemma yfir)))

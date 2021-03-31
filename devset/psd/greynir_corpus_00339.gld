@@ -1,5 +1,5 @@
 (META (ID-CORPUS 68568241-f25b-11e7-b8a2-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00339.psd,.1)
         (URL http://www.visir.is/g/2018180109345/greenpeace-tapadi-domsmali-gegn-oliuleit-a-nordurslodum)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Við (lemma við)))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS ba3d9f5d-2956-11e9-9b81-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00339.psd,.2)
         (URL https://www.frettabladid.is/frettir/mun-saekjast-eftir-tilsloekunum-i-brussel)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_0_fh_p3_et_nt_gm Mun (lemma munu)))
@@ -109,7 +109,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f15a82a-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00339.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2015/12/07/petur-kr-hafstein-ofbeldi-gagnvart-thjodkirkjunni-famganga-rikisins-algjorlega-loglaus/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þgf Í (lemma í)))
@@ -160,7 +160,7 @@
         (grm .))
 
 (META (ID-CORPUS c3de0835-3816-11e7-b7e1-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00339.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2017/05/13/motmaeltu_brottvisun_fjolskyldu_ur_landi/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -213,7 +213,7 @@
                  (grm .)))
 
 (META (ID-CORPUS c3220207-d8ec-11e6-8e63-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00339.psd,.5)
         (URL http://www.ruv.is/frett/aflandskronueigendur-fa-fimm-spurningar)
         (COMMENT ))
   (S0 (S-PREFIX (grm —))
@@ -272,7 +272,7 @@
         (grm .))
 
 (META (ID-CORPUS b24ae120-aa5d-11e6-beb4-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00339.psd,.6)
         (URL http://eyjan.pressan.is/frettir/2016/11/14/bjort-framtid-ekki-heidarleg-segir-birgitta-vidraedurnar-enda-fljotlega-segir-pall-valur/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -324,7 +324,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 21c73544-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00339.psd,.7)
         (URL http://eyjan.pressan.is/frettir/2016/05/22/vidreisn-verdur-stofnud-a-thridjudag-jorunn-telur-ad-stor-hluti-thjodarinnar-vilji-skoda-inngongu-i-esb/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -381,7 +381,7 @@
           (grm .))
 
 (META (ID-CORPUS a9aa6838-75fa-11e8-a9f5-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00339.psd,.8)
         (URL http://www.visir.is/g/2018180629697/meidsli-breyta-ekki-aaetlunum-sem-gerdar-voru-fyrir-leikinn-)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -433,7 +433,7 @@
                  (grm .)))
 
 (META (ID-CORPUS b6e2ed5e-802f-11e7-b88d-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00339.psd,.9)
         (URL http://www.ruv.is/frett/vinnusom-fyllibytta-og-ljodraenn-donakall)
         (COMMENT ))
   (S0-X (S-MAIN (IP-INF (PP (P (fs_þgf Í (lemma í)))
@@ -487,7 +487,7 @@
           (grm .))
 
 (META (ID-CORPUS f31fc6b5-bb1a-11e7-b92d-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00339_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00339.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/10/27/umsoknum_um_vernd_faekkar_enn/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS d20bb6f1-f9ef-11e7-b8af-04014c605401.77)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00286.psd,.1)
         (URL http://www.mbl.is/smartland/pistlar/valdimarsvavarsson/2209642/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))
@@ -24,7 +24,7 @@
         (grm .))
 
 (META (ID-CORPUS 08c19d27-492c-11e8-b0c6-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00286.psd,.2)
         (URL http://www.ruv.is/frett/segja-tilbod-rikisins-mikil-vonbrigdi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Gæði (lemma gæði))
@@ -50,7 +50,7 @@
         (grm .))
 
 (META (ID-CORPUS 0c78d05d-83bb-11e6-a2c9-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00286.psd,.3)
         (URL http://www.visir.is/ovildarpolitik/article/2016160929240)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þf Um (lemma um)))
@@ -77,7 +77,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS 8dce658d-940f-11e9-984a-04014c605401.63)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00286.psd,.4)
         (URL https://mbl.is/frettir/innlent/2019/06/21/greining_ekki_sama_og_urraedi/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Markmiðið (lemma markmið)))
@@ -103,7 +103,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS 21e2f680-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00286.psd,.5)
         (URL http://www.mbl.is/sport/formula/2016/05/28/vettel_feti_framar_mercedesmonnum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Vettel (lemma Vettel)))
@@ -129,7 +129,7 @@
         (grm .))
 
 (META (ID-CORPUS e147ef89-5afd-11e7-b828-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00286.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2017/06/27/thusundir_flytja_til_islands/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS 11130140-d126-11e8-9961-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00286.psd,.7)
         (URL https://kjarninn.is/frettir/2018-10-16-reykjanesbaer-ofaer-um-ad-thjonusta-fleiri-haelisleitendur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kk Reykjanesbær (lemma Reykjanesbær)))
@@ -183,7 +183,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS 0b361949-74e6-11e6-a2bc-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00286.psd,.8)
         (URL http://www.visir.is/justin-bieber-valdi-island/article/2016160909241)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Alls (lemma alls)))
@@ -211,7 +211,7 @@
         (grm .))
 
 (META (ID-CORPUS 25849b04-923a-11e7-b8c8-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00286.psd,.9)
         (URL http://www.ruv.is/frett/thurfum-ad-nyta-opnu-skotin-okkar-betur)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Varðandi (lemma varðandi)))
@@ -237,7 +237,7 @@
         (grm .))
 
 (META (ID-CORPUS 667cbcc3-c43b-11e6-8e44-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00286_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00286.psd,.10)
         (URL http://www.mbl.is/smartland/stars/2016/12/17/skilnadurinn_mest_krefjandi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

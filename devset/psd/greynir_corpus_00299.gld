@@ -1,5 +1,5 @@
 (META (ID-CORPUS d5c052ec-368c-11e9-9b98-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00299.psd,.1)
         (URL https://mbl.is/frettir/innlent/2019/02/22/loka_svaedi_a_skogaheidi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kvk Umhverfisstofnun (lemma umhverfisstofnun)))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS be11dc4a-8de7-11e9-983e-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00299.psd,.2)
         (URL https://www.visir.is/g/2019190619610/minna-er-stundum-meira-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kvk Hildigunnur Einarsdóttir (lemma Hildigunnur Einarsdóttir)))
@@ -56,7 +56,7 @@
         (grm .))
 
 (META (ID-CORPUS 110ddcd7-6a9c-11e9-9bfd-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00299.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/04/29/vill_ad_katrin_adstodi_sjalfstaedisflokkinn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Meðan (lemma meðan)))
@@ -86,7 +86,7 @@
         (grm .))
 
 (META (ID-CORPUS d5bcea6e-70ef-11e6-a2b9-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00299.psd,.4)
         (URL http://www.mbl.is/sport/frettir/2016/09/02/throttir_bjarga_samfelaginu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -113,7 +113,7 @@
         (grm .))
 
 (META (ID-CORPUS ced2cc7e-3242-11e9-9b91-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00299.psd,.5)
         (URL https://mbl.is/smartland/frami/2019/02/16/neysluhyggjupaelingar/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP-DUR-REL (P (fs_þf Í (lemma í)))
@@ -140,7 +140,7 @@
         (grm :))
 
 (META (ID-CORPUS 6d1ee1c2-b616-11e8-98c4-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00299.psd,.6)
         (URL http://www.visir.is/g/2018180919681/freyr-gerdi-upp-leikina-tvo-eru-mistok-og-vid-vidurkennum-thad-)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -168,7 +168,7 @@
           (grm .))
 
 (META (ID-CORPUS 5facb259-9088-11e6-a2d6-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00299.psd,.7)
         (URL http://www.visir.is/innanlandsflugi-aflyst-vegna-vedurs/article/2016161019559)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Mikið (lemma mikið)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS 0ba41df8-136b-11e9-9b00-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00299.psd,.8)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2019/01/08/Fridlysing-Vikurgards/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kvk Lilja Alfreðsdóttir (lemma Lilja Alfreðsdóttir)))
@@ -224,7 +224,7 @@
         (grm .))
 
 (META (ID-CORPUS a09d41b6-5774-11e7-b81f-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00299.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2017/06/22/thurfa_ad_haetta_keppni_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -254,7 +254,7 @@
                                                     (NP (no_et_þgf_hk símtali (lemma símtal)))))))))))))
 
 (META (ID-CORPUS f4e2c7c5-1be5-11e9-9b3f-04014c605401.46)
-        (ID-LOCAL reynir_corpus_00299_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00299.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2019/01/19/gekk_til_lids_vid_erfidan_andstaeding/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

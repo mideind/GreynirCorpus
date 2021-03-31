@@ -1,5 +1,5 @@
 (META (ID-CORPUS 67d74772-6318-11e9-9bea-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00316.psd,.1)
         (URL http://www.ruv.is/frett/byssumenn-gerast-sjalfskipadir-landamaeraverdir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -32,7 +32,7 @@
         (grm .))
 
 (META (ID-CORPUS 2ecf28af-fc5e-11e8-9a5d-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00316.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2018/12/10/lokaord_khashoggis_eg_get_ekki_andad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_sb Sádi-arabísk (lemma Sádi-arabískur))
@@ -62,7 +62,7 @@
         (grm .))
 
 (META (ID-CORPUS d6c7b90b-1cd4-11e9-9b46-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00316.psd,.3)
         (URL http://www.ruv.is/frett/manchester-city-lagdi-botnlidid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk City (lemma City)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f447aef-4533-11e6-8429-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00316.psd,.4)
         (URL http://www.ruv.is/frett/clinton-lysir-yfir-sigri)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Sanders (lemma Sanders)))
@@ -124,7 +124,7 @@
         (grm .))
 
 (META (ID-CORPUS d7ec2cdc-fc14-11e7-b8b1-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00316.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/01/18/nytt_lyf_vid_adhd_lofar_godu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -157,7 +157,7 @@
         (grm .))
 
 (META (ID-CORPUS c6f3660c-dab9-11e8-998a-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00316.psd,.6)
         (URL http://www.mbl.is/smartland/heilsa/2018/10/28/byrjar_daginn_a_nokkrum_heilsutrixum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Annað (lemma annar))
@@ -188,7 +188,7 @@
         (grm .))
 
 (META (ID-CORPUS 000358bd-2f5d-11e9-9b88-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00316.psd,.7)
         (URL https://www.frettabladid.is/frettir/posturinn-vari-121-milljon-i-loegmannsjonustu-a-sex-arum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Fyrirtækið (lemma fyrirtæki))
@@ -222,7 +222,7 @@
         (grm .))
 
 (META (ID-CORPUS aecb2736-7efb-11e8-aa09-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00316.psd,.8)
         (URL http://www.ruv.is/frett/sala-a-nyjum-bilum-dregst-saman-um-175)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -254,7 +254,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fd48684-4533-11e6-8429-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00316.psd,.9)
         (URL http://kjarninn.is/skyring/2016-01-31-thad-byrjar-i-iowa/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk_gr Flokkarnir (lemma flokkur))
@@ -289,7 +289,7 @@
         (grm .))
 
 (META (ID-CORPUS 2d547a74-91f9-11e6-a2d7-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00316_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00316.psd,.10)
         (URL http://www.mbl.is/folk/frettir/2016/10/14/eltihrellirinn_bardi_bilinn_ad_utan/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))

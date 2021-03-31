@@ -1,5 +1,5 @@
 (META (ID-CORPUS 45d3f734-2bc9-11e8-b032-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00312.psd,.1)
         (URL http://www.visir.is/g/2018180318804/logmenn-trump-afhenda-gogn-til-ad-audvelda-honum-vidtal-vid-mueller)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (person_et_nf_kk DiGenova (lemma DiGenova))
@@ -28,7 +28,7 @@
                (grm . (lemma .))))
 
 (META (ID-CORPUS e3037ae2-8800-11e6-a2ce-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00312.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2016/10/01/spa_40_metrum_a_sekundu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_nh_mm Búast (lemma búa)))
@@ -58,7 +58,7 @@
         (grm .))
 
 (META (ID-CORPUS bcb6f0da-aed3-11e7-b915-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00312.psd,.3)
         (URL http://www.mbl.is/smartland/pistlar/snyrtipenninn/2203658/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (lo_et_nf_kk_vb Nýju (lemma Nýju))
@@ -86,7 +86,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS c1cd8282-946b-11e9-984a-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00312.psd,.4)
         (URL https://mbl.is/frettir/erlent/2019/06/21/lysir_meintu_kynferdisofbeldi_trump/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Þessi (lemma þessi))
@@ -115,7 +115,7 @@
         (grm .))
 
 (META (ID-CORPUS eb7430f9-0a93-11e7-aa17-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00312.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/03/16/heilt_yfir_stondum_vid_okkur_mjog_vel/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -145,7 +145,7 @@
                  (grm .)))
 
 (META (ID-CORPUS f77d5514-265b-11e7-b7b9-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00312.psd,.6)
         (URL http://www.visir.is/g/2017170429899/umhverfisstofnun-thraut-tholinmaedina-gagnvart-united-silicon)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Áætlun (lemma áætlun)))
@@ -177,7 +177,7 @@
         (grm .))
 
 (META (ID-CORPUS 0c69ba37-2dff-11e8-b03e-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00312.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2018/03/22/boltinn_virkadi_eins_og_staekkunargler/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -211,7 +211,7 @@
                                                      (grm .)))))))
 
 (META (ID-CORPUS 50add14b-5d16-11e7-b82d-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00312.psd,.8)
         (URL http://www.visir.is/g/2017170628862/fell-med-sunderland-en-er-kominn-til-ac-milan)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Áður (lemma áður)))
@@ -239,7 +239,7 @@
         (grm .))
 
 (META (ID-CORPUS a33b0802-d92b-11e8-9981-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00312.psd,.9)
         (URL http://www.mbl.is/matur/frettir/2018/10/26/lambakoronur_med_bestu_raudvinssosu_i_heimi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þgf_bh_ft_gm Hellið (lemma hella)))
@@ -272,7 +272,7 @@
         (grm .))
 
 (META (ID-CORPUS 70d02202-fb5c-11e7-b8b1-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00312_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00312.psd,.10)
         (URL http://www.visir.is/g/2018180118999/hvita-husid-mulbatt-bannon)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Vitnastefnan (lemma vitnastefna))

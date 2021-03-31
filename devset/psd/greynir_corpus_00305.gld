@@ -1,5 +1,5 @@
 (META (ID-CORPUS 2183fd60-4533-11e6-8429-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00305.psd,.1)
         (URL http://www.mbl.is/sport/efstadeild/2016/05/16/lsarar_i_toppsaetid/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -29,7 +29,7 @@
           (grm .))
 
 (META (ID-CORPUS e788c6ed-9f7e-11e6-bea2-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00305.psd,.2)
         (URL http://www.mbl.is/smartland/tiska/2016/10/31/ottarr_kominn_i_nyjan_jakka_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Óttarr (lemma Óttarr)))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS 1efe43e1-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00305.psd,.3)
         (URL http://www.mbl.is/bill/frettir/2016/01/29/das_auto_herferdin_logd_a_hilluna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Önnur (lemma annar))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS d381e5e9-7f6c-11e6-a2c6-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00305.psd,.4)
         (URL http://www.ruv.is/frett/loksins-buid-ad-vidurkenna-vandann)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -122,7 +122,7 @@
         (grm .))
 
 (META (ID-CORPUS d5cf3f45-f222-11e8-9a12-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00305.psd,.5)
         (URL http://www.ruv.is/frett/vantar-rymi-fyrir-eldra-folk-med-gedsjukdoma)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Dæmi (lemma dæmi)))
@@ -152,7 +152,7 @@
         (grm .))
 
 (META (ID-CORPUS 42406858-22f4-11e9-9b77-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00305.psd,.6)
         (URL https://www.frettabladid.is/timamot/konan-ser-um-afmaeli)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -181,7 +181,7 @@
         (grm .))
 
 (META (ID-CORPUS b06fbcd3-6b43-11e9-9bfe-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00305.psd,.7)
         (URL https://www.frettabladid.is/frettir/guaido-segist-hafa-studning-hersins-fyrir-uppreisn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Mikil (lemma mikill))
@@ -211,7 +211,7 @@
         (grm .))
 
 (META (ID-CORPUS 1ee1039c-4533-11e6-8429-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00305.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/06/28/dregnir_ut_ur_kirkjunni_i_nott/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Líka (lemma líka)))
@@ -243,7 +243,7 @@
                 (grm .)))
 
 (META (ID-CORPUS 05fb6d53-ed44-11e7-b895-04014c605401.54)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00305.psd,.9)
         (URL http://www.visir.is/g/2017171239998/aldrei-ad-byrja-ad-veipa-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Íslenskir (lemma íslenskur))
@@ -273,7 +273,7 @@
         (grm .))
 
 (META (ID-CORPUS 9747b71c-7849-11e8-a9f9-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00305_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00305.psd,.10)
         (URL http://www.visir.is/g/2018180629380/storhaettulegar-konur-)
         (COMMENT ))
   (S0 (S-QUE (IP (VP (VP (so_1_nf_fh_p3_et_nt_gm Er (lemma vera)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS bcdc662b-b557-11e7-b91d-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00311.psd,.1)
         (URL http://www.mbl.is/matur/frettir/2017/10/20/svona_bordar_thu_godan_mat_i_utlondum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -32,7 +32,7 @@
         (grm .))
 
 (META (ID-CORPUS 0a3ba52a-9a05-11e7-b8df-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00311.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2017/09/15/rannsakad_sem_hrydjuverk/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Að (lemma að)))
@@ -61,7 +61,7 @@
         (grm .))
 
 (META (ID-CORPUS 8f0ac6e6-d838-11e8-997d-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00311.psd,.3)
         (URL https://kjarninn.is/skodun/2018-10-24-i-skugga-eineltis/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Einn (lemma einn))
@@ -93,7 +93,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS f7e763b7-1c69-11e8-8159-04014c605401.50)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00311.psd,.4)
         (URL http://www.visir.is/g/2018180228968/segir-2007-blae-yfir-fundi-hi-um-doktorsnam)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_þgf_p1 Mér (lemma ég)))
@@ -124,7 +124,7 @@
         (grm .))
 
 (META (ID-CORPUS 09a0a832-96ef-11e6-a2db-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00311.psd,.5)
         (URL http://www.visir.is/karl-th.-hundskammar-felaga-sina-i-ritstjorafelaginu/article/2016161029854)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (pfn_et_þgf_hk_p3 Því (lemma það)))
@@ -154,7 +154,7 @@
         (grm .))
 
 (META (ID-CORPUS 67da127a-1ae8-11e8-8156-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00311.psd,.6)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/02/26/Utanrikisradherra-avarpar-Mannrettindarad-STh/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -186,7 +186,7 @@
         (grm .))
 
 (META (ID-CORPUS 18044e5c-ec96-11e6-8e85-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00311.psd,.7)
         (URL http://www.ruv.is/frett/lygileg-ahrif-em-a-rekstur-og-hagnad-ksi)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -217,7 +217,7 @@
         (grm .))
 
 (META (ID-CORPUS dba98f4b-e964-11e6-8e82-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00311.psd,.8)
         (URL http://kjarninn.is/frettir/2017-02-02-icelandair-heldur-afram-ad-laekka-nidur-um-taep-fjogur-prosent/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Björgólfur Jóhannsson (lemma Björgólfur Jóhannsson)))
@@ -247,7 +247,7 @@
         (grm .))
 
 (META (ID-CORPUS c0c49dae-0630-11e9-9ab0-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00311.psd,.9)
         (URL http://www.mbl.is/vidskipti/frettir/2018/12/22/ny_tegund_af_leikjum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -279,7 +279,7 @@
         (grm .))
 
 (META (ID-CORPUS aa0e1c3a-a41a-11e7-b8f7-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00311_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00311.psd,.10)
         (URL http://www.ruv.is/frett/tekur-landsrettarmal-jons-ekki-til-athugunar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

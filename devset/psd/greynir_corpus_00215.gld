@@ -1,5 +1,5 @@
 (META (ID-CORPUS bf031dad-85ee-11e7-b8a8-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00215.psd,.1)
         (URL http://www.visir.is/g/2017170829943/neymar-aftur-a-skotskonum-fyrir-psg)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Edinson Cavani (lemma Edinson Cavani)))
@@ -12,7 +12,7 @@
         (grm .))
 
 (META (ID-CORPUS 85941510-794f-11e9-9828-04014c605401.24)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00215.psd,.2)
         (URL https://www.visir.is/g/2019190518894/alla-leid-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -27,7 +27,7 @@
         (grm .))
 
 (META (ID-CORPUS 6028cd5a-ae32-11e6-963d-04014c605401.24)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00215.psd,.3)
         (URL http://kjarninn.is/frettir/2016-11-19-helgi-hrafn-myndi-ihuga-ad-verda-radherra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -40,7 +40,7 @@
         (grm .))
 
 (META (ID-CORPUS 4edc1416-3b7a-11e9-9b99-04014c605401.44)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00215.psd,.4)
         (URL https://mbl.is/frettir/innlent/2019/02/28/thetta_hefur_verid_thungur_baggi/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -53,7 +53,7 @@
         (grm .))
 
 (META (ID-CORPUS c8a41fb7-eef5-11e6-8e8a-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00215.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/02/09/tanndrattur_an_deyfingar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Sá (lemma sá)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 129328ae-29f8-11e8-b02c-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00215.psd,.6)
         (URL https://kjarninn.is/frettir/2018-03-16-fjarmalakerfid-ad-komast-thann-stad-ad-ahaettusaekni-er-ad-aukast/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_ef Vegna (lemma vegna)))
@@ -80,7 +80,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS 4e0499a1-85a3-11e7-b8a7-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00215.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/08/20/thetta_er_bara_ohappahelgi_hja_okkur_4/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Síðan (lemma síðan)))
@@ -94,7 +94,7 @@
         (grm .))
 
 (META (ID-CORPUS 8826410a-8824-11e9-9835-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00215.psd,.8)
         (URL https://pressan.dv.is/pressan/2019/06/06/tollverdirnir-trudu-ekki-eigin-augum-voru-med-184-000-toflur-af-sterku-verkjalyfi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -108,7 +108,7 @@
         (grm .))
 
 (META (ID-CORPUS 25b280ca-573e-11e7-b81f-04014c605401.42)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00215.psd,.9)
         (URL http://www.visir.is/g/2017170629662/myndi-seint-teljast-skvisa)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -122,7 +122,7 @@
         (grm .))
 
 (META (ID-CORPUS debb5538-1c67-11e7-aa47-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00215_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00215.psd,.10)
         (URL http://www.mbl.is/frettir/taekni/2017/04/08/naeringargildi_mannsins_heldur_ryrt/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (lo_et_þf_kvk_vb Ítarlega (lemma ítarlegur))

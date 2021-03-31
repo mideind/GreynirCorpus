@@ -1,5 +1,5 @@
 (META (ID-CORPUS 0e4ae4b4-7d0b-11e7-b884-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00085.psd,.1)
+        (ID-LOCAL greynir_corpus_00085.psd,.1)
         (URL http://www.visir.is/g/2017170809041/hannes-ardal-til-islenskra-fjarfesta)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -19,7 +19,7 @@
       (grm .))
 
 (META (ID-CORPUS f8d1d7cc-5815-11e6-843e-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00085.psd,.2)
+        (ID-LOCAL greynir_corpus_00085.psd,.2)
         (URL http://www.ruv.is/frett/fimmtan-teknir-undir-ahrifum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Lögreglan (lemma lögregla)))
@@ -40,7 +40,7 @@
       (grm .))
 
 (META (ID-CORPUS 758d1301-8acb-11e9-9839-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00085.psd,.3)
+        (ID-LOCAL greynir_corpus_00085.psd,.3)
         (URL https://www.visir.is/g/2019190608907/hotad-liflati-fyrir-ad-halla-ser-yfir-beyonce-til-ad-tala-vid-jay-z)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Talsmaður (lemma talsmaður))
@@ -61,7 +61,7 @@
       (grm .))
 
 (META (ID-CORPUS 6bf157d5-b78b-11e8-98c8-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00085.psd,.4)
+        (ID-LOCAL greynir_corpus_00085.psd,.4)
         (URL http://www.ruv.is/frett/forsetinn-hitti-eftirmynd-sina-a-hallormsstad)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Eitthvað (lemma einhver))
@@ -82,7 +82,7 @@
       (grm .))
 
 (META (ID-CORPUS 3796ee82-2d53-11e8-b03b-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00085.psd,.5)
+        (ID-LOCAL greynir_corpus_00085.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2018/03/21/og_tha_voru_eftir_tveir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs Eftir (lemma eftir)))
@@ -103,7 +103,7 @@
       (grm .))
 
 (META (ID-CORPUS db0f23a8-f614-11e8-9a31-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00085.psd,.6)
+        (ID-LOCAL greynir_corpus_00085.psd,.6)
         (URL https://kjarninn.is/frettir/2018-12-01-mordid-nedim-yasar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Skömmu eftir (lemma skömmu eftir))
@@ -123,7 +123,7 @@
       (grm .))
 
 (META (ID-CORPUS 26d82c2e-457f-11e7-b7ff-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00085.psd,.7)
+        (ID-LOCAL greynir_corpus_00085.psd,.7)
         (URL http://www.visir.is/g/2017170539914/logfraedingur-vid-rutustyrid-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (ao Hingað (lemma hingað))
@@ -144,7 +144,7 @@
       (grm .))
 
 (META (ID-CORPUS daa5a489-660c-11e6-844e-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00085.psd,.8)
+        (ID-LOCAL greynir_corpus_00085.psd,.8)
         (URL http://www.ruv.is/frett/timi-og-eilifd)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Allir (lemma allur)))
@@ -164,7 +164,7 @@
       (grm .))
 
 (META (ID-CORPUS c86f63ca-6ce6-11e9-9c02-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00085.psd,.9)
+        (ID-LOCAL greynir_corpus_00085.psd,.9)
         (URL https://www.visir.is/g/2019190509785/allir-kennarar-florida-geta-nu-borid-vopn)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-SUBJ (VP (so_0_sagnb_mm Búist (lemma búa))))
@@ -184,7 +184,7 @@
       (grm .))
 
 (META (ID-CORPUS 31f706ae-ec98-11e7-b895-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00085.psd,.10)
+        (ID-LOCAL greynir_corpus_00085.psd,.10)
         (URL http://www.mbl.is/frettir/erlent/2017/12/29/bar_fil_a_bakinu/)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

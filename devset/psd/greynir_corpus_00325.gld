@@ -1,5 +1,5 @@
 (META (ID-CORPUS d3e3fcd5-1fbe-11e9-9b5b-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00325.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2019/01/24/riduveiki_greinist_i_skagafirdi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Búið (lemma bú)))
@@ -32,7 +32,7 @@
         (grm .))
 
 (META (ID-CORPUS a927530a-16a4-11e9-9b1b-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00325.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2019/01/12/foreldrar_senda_rong_skilabod/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Þannig (lemma þannig)))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS 7447a50f-6eee-11e7-b861-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00325.psd,.3)
         (URL http://www.visir.is/g/2017170729671/brendan-grace-setti-sogulegt-met-a-opna-breska-motinu-i-golfi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Suður-Afríkumaðurinn (lemma Suður-Afríkumaður)))
@@ -103,7 +103,7 @@
         (grm .))
 
 (META (ID-CORPUS a6caff99-f72d-11e8-9a3b-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00325.psd,.4)
         (URL http://www.mbl.is/smartland/samskipti/2018/12/03/eiginmadurinn_missti_stjorn_a_ser/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Lausnin (lemma lausn)))
@@ -140,7 +140,7 @@
         (grm .))
 
 (META (ID-CORPUS 8454c21a-9ef2-11e7-b8eb-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00325.psd,.5)
         (URL http://www.visir.is/g/2017170929735/heimilt-ad-refsa-monnum-tvisvar-vegna-sama-skattalagabrots)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_nh_gm Flytja (lemma flytja)))
@@ -177,7 +177,7 @@
         (grm .))
 
 (META (ID-CORPUS 8d096acd-d2fd-11e7-b96c-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00325.psd,.6)
         (URL http://www.visir.is/g/2017171129009/katrin-svarar-fyrir-hvers-vegna-hun-skrifadi-ekki-undir-askorun-stjornmalakvenna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -213,7 +213,7 @@
         (grm .))
 
 (META (ID-CORPUS 7be06c5a-f9a6-11e8-9a4c-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00325.psd,.7)
         (URL http://www.visir.is/g/2018181209221/-refsadi-dottur-sinni-fyrir-eineltistilburdi-med-atta-kilometra-gongu-i-skolann)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -248,7 +248,7 @@
         (grm .))
 
 (META (ID-CORPUS fffcbf43-0a11-11e7-8ebd-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00325.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2017/03/16/skollottur_mordingi_hafdi_betur_i_harkollumali/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn Smith (lemma Smith)))
@@ -284,7 +284,7 @@
         (grm .))
 
 (META (ID-CORPUS 733b6f77-97d3-11e7-b8dd-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00325.psd,.9)
         (URL http://www.mbl.is/matur/frettir/2017/09/12/vinsaelasta_aleggid_a_nordurlondum_kemur_a_ovart/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_gm Hægt (lemma hægja)))
@@ -320,7 +320,7 @@
         (grm .))
 
 (META (ID-CORPUS 9399dcd8-2ab2-11e9-9b84-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00325_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00325.psd,.10)
         (URL https://www.frettabladid.is/sport/stefnan-a-raa-jalfara-fyrir-manaarmotin)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

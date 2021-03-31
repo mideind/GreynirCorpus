@@ -1,5 +1,5 @@
 (META (ID-CORPUS 431193fb-c2ad-11e6-8e2d-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00296.psd,.1)
         (URL http://www.visir.is/faer-risastyrk-til-ad-leita-ad--afallastreitugeninu-/article/2016161219250)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Með (lemma með)))
@@ -30,7 +30,7 @@
         (grm .))
 
 (META (ID-CORPUS 2ddcb457-d51a-11e7-b96f-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00296.psd,.2)
         (URL http://www.ruv.is/frett/fullyrt-ad-praljak-se-latinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Ekki (lemma ekki)))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS e3a9e97c-78ff-11e7-b87b-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00296.psd,.3)
         (URL http://www.mbl.is/frettir/taekni/2017/08/04/floskuskeyti_fylgja_eftir_ferdum_svartfugla/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (NP-SUBJ (lo_et_nf_kk_mst Ytri (lemma ytri))
@@ -83,7 +83,7 @@
           (grm .))
 
 (META (ID-CORPUS 2c0a6d2c-770d-11e9-9823-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00296.psd,.4)
         (URL https://www.visir.is/g/2019190519334/sjadu-magnad-mark-hauks-i-fyrsta-urslitaleiknum-um-islandsmeistaratitilinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Markið (lemma mark))
@@ -111,7 +111,7 @@
         (grm .))
 
 (META (ID-CORPUS 91aa5f4b-4e30-11e9-9bc8-04014c605401.25)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00296.psd,.5)
         (URL https://mbl.is/frettir/innlent/2019/03/24/skiptast_a_ad_leika_matthildi/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-SOURCE (NP-SOURCE (person_nf_kvk Erna (lemma Erna)))
@@ -139,7 +139,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 907a1d68-8cf2-11e8-aa1e-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00296.psd,.6)
         (URL http://www.visir.is/g/2018180729827/kristrun-gengin-til-lids-vid-roma)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Eftir (lemma eftir))
@@ -167,7 +167,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fdd9412-4533-11e6-8429-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00296.psd,.7)
         (URL http://eyjan.pressan.is/frettir/2016/02/11/sigmundur-david-draga-tharf-ur-atokum-milli-atvinnugreina-og-haetta-ad-atast-i-baendum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (IP (VP (VP (so_0_vh_p3_et_þt_mm Tækist (lemma taka)))
@@ -195,7 +195,7 @@
         (grm .))
 
 (META (ID-CORPUS 4411120c-5e48-11e9-9bde-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00296.psd,.8)
         (URL https://www.visir.is/g/2019190419429/fyrsta-ferd-flugvelar-med-lengsta-vaenghaf-i-heimi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_þgf_kvk_gr Flugvélinni (lemma flugvél)))
@@ -224,7 +224,7 @@
         (grm .))
 
 (META (ID-CORPUS 0907d56f-966b-11e9-984f-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00296.psd,.9)
         (URL http://www.ruv.is/frett/neitudum-aldrei-ad-spila-afram)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -253,7 +253,7 @@
         (grm .))
 
 (META (ID-CORPUS 605ac72f-6dfb-11e7-b860-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00296_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00296.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/07/21/standa_saman_i_blidu_og_stridu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

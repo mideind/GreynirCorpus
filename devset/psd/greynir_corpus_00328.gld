@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3e53e658-f7ea-11e8-9a3f-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00328.psd,.1)
         (URL http://www.ruv.is/frett/fimm-daga-brexit-umraedur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Stofnunin (lemma stofnun)))
@@ -33,7 +33,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS f4fc84c1-efbe-11e8-9a07-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00328.psd,.2)
         (URL http://www.visir.is/g/2018181129381/leikur-ad-lifi-)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -71,7 +71,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d370d1b-2cd1-11e8-b037-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00328.psd,.3)
         (URL http://www.visir.is/g/2018180329825/aetlar-ad-banna-mismunun)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -111,7 +111,7 @@
         (grm .))
 
 (META (ID-CORPUS d4cb23bb-eee0-11e6-8e8a-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00328.psd,.4)
         (URL http://www.visir.is/haestirettur-syknar-robert-og-arna-af-krofu-bjorgolfs-thors/article/2017170208791)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Róbert Wessman (lemma Róbert Wessman))
@@ -143,7 +143,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 21c733d0-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00328.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2016/05/20/thyrftu_ad_kyssa_byssurnar_bless_3/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -182,7 +182,7 @@
         (grm .))
 
 (META (ID-CORPUS b2a255ee-044c-11e8-80f4-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00328.psd,.6)
         (URL http://www.visir.is/g/2018180128967/mourinho-ekki-arsenal-ad-kenna)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Á þeim tíma (lemma á þeim tíma))
@@ -218,7 +218,7 @@
         (grm .))
 
 (META (ID-CORPUS c8fe6b62-3584-11e7-b7db-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00328.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/05/10/daemd_til_ad_selja_ibud_sina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_hk_p3 Þau (lemma það)))
@@ -256,7 +256,7 @@
         (grm .))
 
 (META (ID-CORPUS 8a284e7b-d446-11e8-996b-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00328.psd,.8)
         (URL http://www.ruv.is/frett/sveitapiltur-sem-vard-svikari)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_ft_þgf_hk Lögum (lemma lög)))
@@ -294,7 +294,7 @@
         (grm .))
 
 (META (ID-CORPUS fc0c4a2f-6716-11e7-b848-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00328.psd,.9)
         (URL http://www.visir.is/g/2017170719688/stjornandi-i-kristilegu-unglingastarfi-daemdur-i-fangelsi-fyrir-kynferdisbrot-gegn-skjolstaedingi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Stúlkan (lemma stúlka)))
@@ -332,7 +332,7 @@
         (grm .))
 
 (META (ID-CORPUS 68c7a665-aba0-11e8-98a0-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00328_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00328.psd,.10)
         (URL http://www.mbl.is/folk/frettir/2018/08/29/markmidid_ad_fa_folk_i_leikhus/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_vb Fyrsta (lemma fyrstur))

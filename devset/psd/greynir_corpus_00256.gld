@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3a9ce2ab-11fa-11e7-aa2a-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00256.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2017/03/26/sjalfkeyrandi_uber_lenti_i_arekstri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Sjálfkeyrandi (lemma sjálfkeyrandi)
@@ -21,7 +21,7 @@
         (grm .))
 
 (META (ID-CORPUS a332dcb7-0da3-11e9-9ad5-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00256.psd,.2)
         (URL http://www.mbl.is/born/frettir/2019/01/01/bjoda_upp_a_rutur_fyrir_born_a_tokustad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Leikkonan (lemma leikkona))
@@ -41,7 +41,7 @@
         (grm .))
 
 (META (ID-CORPUS 75b3c58b-deba-11e7-b987-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00256.psd,.3)
         (URL http://www.mbl.is/frettir/erlent/2017/12/11/virdast_hafa_att_von_a_einhverju_svona/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Ullah (lemma Ullah)))
@@ -62,7 +62,7 @@
         (grm .))
 
 (META (ID-CORPUS 9881dcca-8ab8-11e8-aa18-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00256.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/07/18/leitudu_til_sendiradsins_vegna_areitis/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -83,7 +83,7 @@
         (grm .))
 
 (META (ID-CORPUS a5ff6585-c482-11e6-8e44-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00256.psd,.5)
         (URL http://www.visir.is/sakar-frettamann-ruv-um-donaskap/article/2016161218897)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))
@@ -104,7 +104,7 @@
         (grm .))
 
 (META (ID-CORPUS edb75ef7-cf97-11e8-9958-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00256.psd,.6)
         (URL http://www.visir.is/g/2018181019602/skattur-ekki-greiddur-af-gjofum-undir-130-thusund)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS 27069f5d-86ff-11e7-b8ab-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00256.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/08/22/stydja_tillogu_vardar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Uppstillingarnefnd (lemma uppstillingarnefnd))
@@ -144,7 +144,7 @@
         (grm .))
 
 (META (ID-CORPUS 5d2117b9-d693-11e7-b971-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00256.psd,.8)
         (URL http://eyjan.pressan.is/frettir/2017/12/01/einar-k-gudfinnsson-geng-utfra-ad-somu-leikreglur-gildi-afram-i-fiskeldinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -166,7 +166,7 @@
         (grm :))
 
 (META (ID-CORPUS 4f4c8b55-2a13-11e7-b7bf-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00256.psd,.9)
         (URL http://www.ruv.is/frett/la-la-land-dagur-i-los-angeles-myndskeid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Leikstjóri (lemma leikstjóri))
@@ -187,7 +187,7 @@
         (grm .))
 
 (META (ID-CORPUS 2b5c76b4-d2f5-11e7-b96c-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00256_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00256.psd,.10)
         (URL http://www.visir.is/g/2017171129015/napoli-gefur-ekkert-eftir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

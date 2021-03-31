@@ -1,5 +1,5 @@
 (META (ID-CORPUS cf2163c1-83cb-11e6-a2c9-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00284.psd,.1)
         (URL http://kjarninn.is/skyring/2016-09-23-sigmundur-atti-wintris-og-tortola-er-skattaskjol/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (no_et_þf_kk_gr Daginn (lemma dagur))
@@ -24,7 +24,7 @@
         (grm .))
 
 (META (ID-CORPUS 0aca5762-5a52-11e7-b827-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00284.psd,.2)
         (URL http://kjarninn.is/frettir/2017-06-23-rikid-vill-ad-airbnb-innheimti-gistinattaskatt/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Auk þess (lemma auk þess)))
@@ -47,7 +47,7 @@
         (grm .))
 
 (META (ID-CORPUS 74866049-4609-11e7-b802-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00284.psd,.3)
         (URL http://www.visir.is/g/2017170539764/mal-flu-tningur-lyd-skrumarana-i-sjalf-staedis-flokknum-fa-fraedi-eda-mis-skilningur)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-OBJ (no_ft_þf_kvk_gr Ástæðurnar (lemma ástæða))
@@ -73,7 +73,7 @@
                   (grm .)))
 
 (META (ID-CORPUS bedb52c2-8e3f-11e7-b8c4-04014c605401.219)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00284.psd,.4)
         (URL http://www.visir.is/p/eurobasket)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Logi Gunnarsson (lemma Logi Gunnarsson)))
@@ -98,7 +98,7 @@
         (grm .))
 
 (META (ID-CORPUS 722ae3c5-08e8-11e7-8ebc-04014c605401.41)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00284.psd,.5)
         (URL http://www.mbl.is/vidskipti/frettir/2017/03/14/161_leyfi_fyrir_heimagistingu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS b5af7117-efa3-11e7-b89c-04014c605401.31)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00284.psd,.6)
         (URL http://www.visir.is/g/2018180109908/heilbrigd-flora-fyrir-betri-lidan-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (entity Pro Matcha (lemma Pro Matcha)))
@@ -148,7 +148,7 @@
         (grm .))
 
 (META (ID-CORPUS 8e778bb0-d381-11e6-8e59-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00284.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/01/05/vilborg_arna_a_eigin_vegum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_ft_nf_kvk_gr Stöllurnar (lemma stalla)))
@@ -171,7 +171,7 @@
         (grm .))
 
 (META (ID-CORPUS 04f462ad-e159-11e7-b991-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00284.psd,.8)
         (URL http://www.mbl.is/matur/frettir/2017/12/15/forstjorinn_bruggar_fyrir_starfsmenn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Mikill (lemma mikill))
@@ -197,7 +197,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 57a1a675-9604-11e6-a2db-04014c605401.24)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00284.psd,.9)
         (URL http://www.visir.is/larus-welding-um-jon-asgeir--hann-hefur-mjog-oedlilegan-samskiptamata-/article/2016161018540)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (P (fs_þgf Í (lemma í)))
@@ -219,7 +219,7 @@
         (grm .))
 
 (META (ID-CORPUS 7479f30d-f5b4-11e6-8e97-04014c605401.35)
-        (ID-LOCAL greynir_corpus_00284_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00284.psd,.10)
         (URL http://www.mbl.is/matur/frettir/2017/02/18/fullkominn_og_klassiskur_konudagsgladningur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Hér (lemma hér)))

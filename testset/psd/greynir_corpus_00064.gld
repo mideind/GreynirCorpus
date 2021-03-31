@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1ee10279-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00064.psd,.1)
+        (ID-LOCAL greynir_corpus_00064.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2015/12/14/uppsofnud_hofudhogg_ogna_heilaheilsu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p2 Þú (lemma þú)))
@@ -17,7 +17,7 @@
       (grm .))
 
 (META (ID-CORPUS 7103d578-49b8-11e9-9bc0-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00064.psd,.2)
+        (ID-LOCAL greynir_corpus_00064.psd,.2)
         (URL https://mbl.is/frettir/innlent/2019/03/18/island_naer_samningi_vid_breta/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -33,7 +33,7 @@
       (grm .))
 
 (META (ID-CORPUS 1dc9ff0f-9cc5-11e7-b8e5-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00064.psd,.3)
+        (ID-LOCAL greynir_corpus_00064.psd,.3)
         (URL http://www.ruv.is/frett/fa-thingmal-a-dagskra-fyrir-kosningar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_esb Flestir (lemma margur)))
@@ -51,7 +51,7 @@
       (grm .))
 
 (META (ID-CORPUS 21f6577b-4533-11e6-8429-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00064.psd,.4)
+        (ID-LOCAL greynir_corpus_00064.psd,.4)
         (URL http://www.ruv.is/frett/bandariskur-erindreki-til-venesuela)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Ekki (lemma ekki)))
@@ -69,7 +69,7 @@
       (grm .))
 
 (META (ID-CORPUS 92e34cb6-34d0-11e7-b7db-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00064.psd,.5)
+        (ID-LOCAL greynir_corpus_00064.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2017/05/09/atvinnuleysi_ekki_minna_i_26_ar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (PP (P (fs_þf Í (lemma í)))
@@ -87,7 +87,7 @@
       (grm .))
 
 (META (ID-CORPUS ddab1b2d-c027-11e8-98fe-04014c605401.69)
-        (ID-LOCAL reynir_corpus_00064.psd,.6)
+        (ID-LOCAL greynir_corpus_00064.psd,.6)
         (URL http://www.visir.is/g/2018180929503/i-beinni-selfoss-afturelding-fyrsti-leikur-selfyssinga-a-nyjum-heimavelli)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn Simon Cowell (lemma Simon Cowell)))
@@ -105,7 +105,7 @@
                                                    (VP (so_0_nh_gm syngja (lemma syngja)))))))))))
 
 (META (ID-CORPUS 258f3d8a-a10f-11e7-b8f1-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00064.psd,.7)
+        (ID-LOCAL greynir_corpus_00064.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/09/23/g_er_reykvikingur_og_slendingur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -126,7 +126,7 @@
       (grm .))
 
 (META (ID-CORPUS 3f45142e-7975-11e9-9828-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00064.psd,.8)
+        (ID-LOCAL greynir_corpus_00064.psd,.8)
         (URL https://www.frettabladid.is/lifid/eins-og-gomlu-karlarnir-i-pruduleikurunum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Hugleikur (lemma Hugleikur)))
@@ -143,7 +143,7 @@
       (grm .))
 
 (META (ID-CORPUS ee63b5ad-f250-11e6-8e92-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00064.psd,.9)
+        (ID-LOCAL greynir_corpus_00064.psd,.9)
         (URL http://www.mbl.is/smartland/pistlar/lindabald/2190474/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st Og (lemma og))))
@@ -162,7 +162,7 @@
       (grm .))
 
 (META (ID-CORPUS b8a88ad7-0f46-11e7-aa25-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00064.psd,.10)
+        (ID-LOCAL greynir_corpus_00064.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/03/22/adeins_fimmtungur_sveitarstjora_konur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ártal Árið 1990 (lemma Árið 1990)))

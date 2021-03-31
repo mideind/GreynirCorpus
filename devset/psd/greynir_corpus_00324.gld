@@ -1,5 +1,5 @@
 (META (ID-CORPUS e3417062-9993-11e9-9855-04014c605401.31)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00324.psd,.1)
         (URL http://www.ruv.is/frett/sviar-fletta-ofan-af-nammimafiunni)
         (COMMENT ))
   (S0-X (S-PREFIX (C (st En (lemma en))))
@@ -36,7 +36,7 @@
           (grm .))
 
 (META (ID-CORPUS f1d617a7-2c2f-11e7-b7c3-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00324.psd,.2)
         (URL http://www.visir.is/g/2017170428901/varar-vid-ad-skilja-verdmaeti-eftir-i-bilum-vegna-innbrotahrinu)
         (COMMENT ))
   (S0-X (S-MAIN (IP (VP (VP (so_1_nf_fh_p3_et_nt_gm Er (lemma vera)))
@@ -71,7 +71,7 @@
           (grm .))
 
 (META (ID-CORPUS 696709bf-bf84-11e8-98fa-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00324.psd,.3)
         (URL http://www.mbl.is/frettir/taekni/2018/09/23/wow_nytir_eldsneyti_betur_en_icelandair/)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (fn_et_ef_hk Þess (lemma Það)))
@@ -107,7 +107,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS 26d26787-cb69-11e7-b95b-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00324.psd,.4)
         (URL http://www.visir.is/g/2017171119025/framtid-mugabe-og-simbabve-oljos)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Einnig (lemma einnig)))
@@ -139,7 +139,7 @@
         (grm .))
 
 (META (ID-CORPUS de8c5a21-76ae-11e8-a9f6-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00324.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/06/23/gudni_alitinn_hofdingi_i_nigeriu/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (no_et_nf_kvk Nígería (lemma Nígería)))
@@ -171,7 +171,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 1fdd93b8-4533-11e6-8429-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00324.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2015/12/28/iraska_fananum_flaggad_i_ramadi_6/)
         (COMMENT ))
   (S0 (S-MAIN (NP (person_ft_nf_kk Liðsmenn (lemma liðsmaður))
@@ -209,7 +209,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS dd51b325-77f7-11e9-9825-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00324.psd,.7)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2019/05/16/Framtidarsyn-heimsmarkmidanna-grundvollur-nyrrar-stefnu-i-throunarsamvinnu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Stuðningurinn (lemma stuðningur)))
@@ -244,7 +244,7 @@
         (grm .))
 
 (META (ID-CORPUS a3f6aadb-a821-11e7-b8ff-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00324.psd,.8)
         (URL http://www.mbl.is/folk/frettir/2017/10/03/fekk_ekki_hjartaafall/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_vb Gamli (lemma gamall))
@@ -281,7 +281,7 @@
         (grm .))
 
 (META (ID-CORPUS 584df09a-0578-11e7-8eb2-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00324.psd,.9)
         (URL http://www.visir.is/fostudagsplaylisti-karitasar-odinsdottur/article/2017170319955)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Um (lemma Um)))
@@ -316,7 +316,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS 69b8f68a-7587-11e9-9823-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00324_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00324.psd,.10)
         (URL https://www.visir.is/g/2019190519597/buist-vid-hordum-atokum-um-thungunarrof-a-thinginu)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))

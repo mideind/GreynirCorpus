@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3c7120e6-5064-11e8-b0e5-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00288.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2018/05/05/handtoku_14_fyrir_ad_naudga_og_myrda_stulku/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (VP (VP (so_0_fh_p3_ft_nt_gm Eru (lemma vera)))
@@ -26,7 +26,7 @@
         (grm .))
 
 (META (ID-CORPUS 0dfb50ff-5426-11e7-b819-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00288.psd,.2)
         (URL http://www.ruv.is/frett/enginn-einstaklingur-kaerdur-fyrir-nidurhal)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma Ef)))
@@ -53,7 +53,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS 94ec4e91-bd63-11e6-b57e-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00288.psd,.3)
         (URL http://www.ruv.is/frett/simasambandslaust-i-3-daga-a-20-baejum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Sigurrós (lemma Sigurrós)))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS 602bf1ee-3106-11e8-b044-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00288.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/03/26/ovist_ad_sakfellingum_fjolgi/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Skilgreining (lemma skilgreining))
@@ -105,7 +105,7 @@
           (grm .))
 
 (META (ID-CORPUS dc8f692d-4011-11e8-b08e-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00288.psd,.5)
         (URL http://www.visir.is/g/2018180419322/-aldrei-fallid-verk-ur-hendi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -131,7 +131,7 @@
         (grm .))
 
 (META (ID-CORPUS be02ee7b-1338-11e7-aa2e-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00288.psd,.6)
         (URL http://www.visir.is/reidur-rutubilstjori-a-laugaveginum--i-dont-give-a-fuck-/article/2017170328917)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Atvikið (lemma atvik))
@@ -157,7 +157,7 @@
         (grm .))
 
 (META (ID-CORPUS aaa01f0d-5399-11e8-b0ef-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00288.psd,.7)
         (URL http://www.mbl.is/vidskipti/frettir/2018/05/09/spa_4_prosent_haekkun_bensinverds/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_mm Búist (lemma búa)))
@@ -184,7 +184,7 @@
         (grm .))
 
 (META (ID-CORPUS af0881d9-78cf-11e6-a2be-04014c605401.54)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00288.psd,.8)
         (URL http://kjarninn.is/skyring/2016-09-12-sjalfstaedisflokkurinn-hafnar-reyndum-konum-og-laetur-adrar-berjast/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -209,7 +209,7 @@
         (grm .))
 
 (META (ID-CORPUS dee7e91d-69fe-11e6-a2b2-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00288.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/08/24/radherra_verndi_svarta_og_sudura/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Náttúruverndarsamtök (lemma náttúruverndarsamtök))
@@ -235,7 +235,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f3504d0-6efd-11e8-a9eb-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00288_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00288.psd,.10)
         (URL http://www.ruv.is/frett/stada-ljodsins-vaenkast-i-bandarikjunum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Skáldin (lemma skáld)))

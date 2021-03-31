@@ -1,5 +1,5 @@
 (META (ID-CORPUS a36fea7c-43e8-11e9-9bab-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00275.psd,.1)
         (URL http://www.visir.is/g/2019190319918/tengsl-og-tengslaleysi-mannsins)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS b054e6e9-97c2-11e7-b8dd-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00275.psd,.2)
         (URL http://www.mbl.is/vidskipti/frettir/2017/09/12/unnu_70_thusund_stundir/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -44,7 +44,7 @@
         (grm .))
 
 (META (ID-CORPUS d8a96cd9-847b-11e8-aa10-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00275.psd,.3)
         (URL http://www.ruv.is/frett/eg-man-eiginlega-voda-litid-fra-thessu)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS 518b014c-bc6c-11e6-b57e-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00275.psd,.4)
         (URL http://www.visir.is/pisa-konnun--hrikalegar-tolur-og-verra-a-landsbyggdinni/article/2016161209116)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS 2b96f962-7d91-11e9-982b-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00275.psd,.5)
         (URL http://www.ruv.is/frett/allt-ad-90-ibudir-gaetu-risid-a-saudarkroki)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Sigfús (lemma Sigfús)))
@@ -115,7 +115,7 @@
         (grm .))
 
 (META (ID-CORPUS 21e2f729-4533-11e6-8429-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00275.psd,.6)
         (URL http://www.ruv.is/frett/spa-thvi-ad-landsframleidsla-aukist-um-43)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Fjárfestingar (lemma fjárfesting)))
@@ -139,7 +139,7 @@
         (grm .))
 
 (META (ID-CORPUS e97e237e-c3ac-11e6-8e40-04014c605401.29)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00275.psd,.7)
         (URL http://www.visir.is/vertu-upp-a-thitt-besta-um-jolin-med-guerlain/article/2016161219026)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (lo_ft_þf_kvk_sb Handgerðar (lemma handgerður))
@@ -163,7 +163,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 43ea68f3-f075-11e7-b89e-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00275.psd,.8)
         (URL http://www.ruv.is/frett/michael-schumacher-49-ara-i-dag)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -184,7 +184,7 @@
         (grm .))
 
 (META (ID-CORPUS 9d1ba54f-e8c5-11e8-99d1-04014c605401.54)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00275.psd,.9)
         (URL http://www.ruv.is/frett/flaekjurof)
         (COMMENT ))
   (S0 (S-QUE (IP (VP (VP (so_0_fh_p1_ft_nt_gm Erum (lemma vera)))
@@ -208,7 +208,7 @@
                (grm ?)))
 
 (META (ID-CORPUS 86645322-850e-11e8-aa10-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00275_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00275.psd,.10)
         (URL https://kjarninn.is/frettir/2018-07-11-segir-domsmalaraduneytid-skreyta-sig-med-stolnum-fjodrum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Ríkin (lemma ríki)))

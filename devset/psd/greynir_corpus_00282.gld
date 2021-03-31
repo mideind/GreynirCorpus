@@ -1,5 +1,5 @@
 (META (ID-CORPUS 22c9a1da-9357-11e9-984a-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00282.psd,.1)
         (URL https://www.visir.is/g/2019190629915/cloe-komin-med-islenskan-rikisborgararett-sannarlega-bidarinnar-virdi-)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -24,7 +24,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 08c663f9-a99f-11e7-b905-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00282.psd,.2)
         (URL http://www.visir.is/g/2017171009563/ahersluna-thar-sem-alagid-er-mest)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -51,7 +51,7 @@
         (grm .))
 
 (META (ID-CORPUS ac27b64e-7968-11e9-9828-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00282.psd,.3)
         (URL https://433.dv.is/433/2019/05/18/pep-minnti-bladamann-ad-gleyma-ekki-konunum-thaer-hafa-afrekad-thetta/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Guardiola (lemma Guardiola)))
@@ -76,7 +76,7 @@
         (grm .))
 
 (META (ID-CORPUS de09480f-e113-11e8-99a7-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00282.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2018/11/05/78_nemendum_raent_ur_skola/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk BBC (lemma BBC)))
@@ -102,7 +102,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS a39bc9e3-aea5-11e7-b914-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00282.psd,.5)
         (URL http://www.visir.is/g/2017171019753/islenska-russlandsaevintyrid-hafid-stjornustelpur-i-miklu-studi-og-komust-afram)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Stjörnukonur (lemma Stjörnukona)
@@ -129,7 +129,7 @@
           (grm .))
 
 (META (ID-CORPUS 1fbf0851-4533-11e6-8429-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00282.psd,.6)
         (URL http://www.mbl.is/vidskipti/frettir/2016/03/21/rikid_fekk_eignarhlut_i_16_felogum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_gm Unnið (lemma vinna)))
@@ -155,7 +155,7 @@
         (grm .))
 
 (META (ID-CORPUS 6198d4d6-91d1-11e9-9846-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00282.psd,.7)
         (URL http://www.ruv.is/frett/leidtogi-hong-kong-bidst-innilegrar-afsokunar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Lam (lemma lam)))
@@ -179,7 +179,7 @@
         (grm .))
 
 (META (ID-CORPUS e421e23a-d6b4-11e7-b972-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00282.psd,.8)
         (URL http://www.ruv.is/frett/gledst-yfir-fjarmognun-gedheilbrigdisstefnu)
         (COMMENT ))
   (S0 (S-MAIN (NP-PRD (lo_et_nf_hk_sb Athyglisvert (lemma athyglisverður))
@@ -205,7 +205,7 @@
         (grm .))
 
 (META (ID-CORPUS ff243892-0e9c-11e8-8126-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00282.psd,.9)
         (URL http://www.visir.is/g/2018180219925/thusundir-minnast-johanns-a-samfelagsmidlum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_ef_kk Jóhanns (lemma Jóhann)))
@@ -231,7 +231,7 @@
         (grm .))
 
 (META (ID-CORPUS cb2433be-8947-11e8-aa14-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00282_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00282.psd,.10)
         (URL http://www.visir.is/g/2018180719265/umfjollun-vidtol-og-einkunnir-breidablik-fjolnir-2-1-aukaspyrna-olivers-i-uppbotartima-munurinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

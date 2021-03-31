@@ -1,5 +1,5 @@
 (META (ID-CORPUS ebafa366-630d-11e8-adb7-04014c605401.69)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00264.psd,.1)
         (URL http://www.ruv.is/frett/tveir-skjalftar-med-thriggja-sekundna-millibili)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Sjóðurinn (lemma sjóður)))
@@ -19,7 +19,7 @@
         (grm .))
 
 (META (ID-CORPUS 21e63432-0fff-11e9-9ae0-04014c605401.32)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00264.psd,.2)
         (URL http://www.visir.is/g/2019190109635/dyr-mistok-gegn-silfurlidinu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Stefán Rafn (lemma Stefán Rafn)))
@@ -40,7 +40,7 @@
         (grm .))
 
 (META (ID-CORPUS 3d64c716-ecaf-11e6-8e85-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00264.psd,.3)
         (URL http://www.visir.is/vill-ekki-ad-donald-trump-avarpi-breska-thingid/article/2017170209218)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (NP-OBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -63,7 +63,7 @@
         (grm .))
 
 (META (ID-CORPUS 21acc4aa-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00264.psd,.4)
         (URL http://www.ruv.is/frett/ukraina-sigradi-i-eurovision)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Jamala (lemma Jamala)))
@@ -88,7 +88,7 @@
         (grm .))
 
 (META (ID-CORPUS 5f0c04d6-0cac-11e9-9ace-04014c605401.35)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00264.psd,.5)
         (URL https://kvennabladid.is/2015/01/09/med-kuahland-i-augum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -112,7 +112,7 @@
         (grm .))
 
 (META (ID-CORPUS d2faa663-562f-11e6-843e-04014c605401.51)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00264.psd,.6)
         (URL http://www.visir.is/aukning-a-alvarlegum-slysum-thar-sem-erlendir-ferdamenn-koma-vid-sogu/article/2016160728811)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS 1ba99b05-5411-11e9-9bcd-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00264.psd,.7)
         (URL https://www.visir.is/g/2019190339832/carrager-sarri-gaf-skit-i-hudson-odoi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -159,7 +159,7 @@
         (grm .))
 
 (META (ID-CORPUS 4eff00f8-0a9c-11e9-9ac6-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00264.psd,.8)
         (URL http://www.ruv.is/frett/farthegi-i-bilnum-hringdi-i-neydarlinuna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -182,7 +182,7 @@
         (grm .))
 
 (META (ID-CORPUS fd9ae03f-0b2e-11e9-9ac9-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00264.psd,.9)
         (URL http://www.ruv.is/frett/toysrus-a-nordurlondum-i-throt)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (IP (VP (VP (so_0_vh_p3_et_nt_mm Takist (lemma Takist)))
@@ -205,7 +205,7 @@
                                         (grm . (lemma .))))))))
 
 (META (ID-CORPUS 000426c8-1863-11e8-814e-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00264_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00264.psd,.10)
         (URL http://www.visir.is/g/2018180229534/hryllingurinn-heldur-afram-i-syrlandi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Öryggisráð (lemma öryggisráð))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1e9f6966-4533-11e6-8429-04014c605401.44)
-        (ID-LOCAL reynir_corpus_00023.psd,.1)
+        (ID-LOCAL greynir_corpus_00023.psd,.1)
         (URL http://kjarninn.is/skodun/2015-12-05-buum-til-nyja-banka-arid-2016/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þannig (lemma þannig)))
@@ -10,7 +10,7 @@
       (grm .))
 
 (META (ID-CORPUS 2099cb9a-4533-11e6-8429-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00023.psd,.2)
+        (ID-LOCAL greynir_corpus_00023.psd,.2)
         (URL http://kjarninn.is/skyring/2016-02-11-islenska-utrasin-i-norska-oliuidnadinn-gaeti-endad-i-milljardatapi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -23,7 +23,7 @@
       (grm .))
 
 (META (ID-CORPUS 21496e79-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00023.psd,.3)
+        (ID-LOCAL greynir_corpus_00023.psd,.3)
         (URL http://www.ruv.is/frett/thusundir-flyja-heimili-sin-i-taevan)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (tala_et_nf_kk Einn (lemma einn))
@@ -36,7 +36,7 @@
       (grm .))
 
 (META (ID-CORPUS e7841ee4-9367-11e9-984a-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00023.psd,.4)
+        (ID-LOCAL greynir_corpus_00023.psd,.4)
         (URL https://433.dv.is/433/2019/06/20/vill-fa-james-til-napoli-forsetinn-reynir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Nú (lemma nú)))
@@ -48,7 +48,7 @@
       (grm .))
 
 (META (ID-CORPUS 61f56391-44be-11e9-9bad-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00023.psd,.5)
+        (ID-LOCAL greynir_corpus_00023.psd,.5)
         (URL http://www.ruv.is/frett/sala-og-streymi-a-tonlist-jacksons-eykst)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Hljóð- og myndstreymi (lemma myndstreymi)))
@@ -58,7 +58,7 @@
       (grm .))
 
 (META (ID-CORPUS f7bf948e-9311-11e6-a2d7-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00023.psd,.6)
+        (ID-LOCAL greynir_corpus_00023.psd,.6)
         (URL http://www.ruv.is/frett/hvert-fer-pabbi)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_fh_p3_et_nt_mm Kemst (lemma koma)))
@@ -71,7 +71,7 @@
       (grm .))
 
 (META (ID-CORPUS 1e3f324d-303b-11e9-9b8c-04014c605401.46)
-        (ID-LOCAL reynir_corpus_00023.psd,.7)
+        (ID-LOCAL greynir_corpus_00023.psd,.7)
         (URL http://www.visir.is/g/2019190219450/hatari-ruggar-batum-i-israelsku-sjonvarpi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Hatrið (lemma hatur)))
@@ -84,7 +84,7 @@
       (grm .))
 
 (META (ID-CORPUS cbf17e10-c9aa-11e6-8e4c-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00023.psd,.8)
+        (ID-LOCAL greynir_corpus_00023.psd,.8)
         (URL http://www.visir.is/bernsku-minnar-jol/article/2016161229413)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -97,7 +97,7 @@
       (grm .))
 
 (META (ID-CORPUS 88d4bdeb-3686-11e8-b060-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00023.psd,.9)
+        (ID-LOCAL greynir_corpus_00023.psd,.9)
         (URL http://www.mbl.is/smartland/tiska/2018/04/02/af_hverju_klaedir_thu_thig_ekki_i_hermannastil/)
         (COMMENT ))
   (S0 (S-QUE (PP (P (fs_þgf Af (lemma af)))
@@ -110,7 +110,7 @@
              (grm ?)))
 
 (META (ID-CORPUS 86255896-2c3c-11e9-9b86-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00023.psd,.10)
+        (ID-LOCAL greynir_corpus_00023.psd,.10)
         (URL http://www.visir.is/g/2019190208833/laun-bankastjorans-haekkad-um-82-prosent-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Um (lemma um)))

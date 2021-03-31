@@ -1,5 +1,5 @@
 (META (ID-CORPUS b0bb2c6c-9cfd-11e6-bea1-04014c605401.48)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00232.psd,.1)
         (URL http://www.visir.is/allt-sem-thu-tharft-ad-vita-fyrir-kosningarnar-a-morgun/article/2016161028814)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk E-listi (lemma E-listi))
@@ -14,7 +14,7 @@
         (grm .))
 
 (META (ID-CORPUS 58bac3d7-a2b4-11e8-9888-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00232.psd,.2)
         (URL http://www.ruv.is/frett/mansalshringur-uppraettur-i-mexiko)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Lögreglan (lemma lögregla))
@@ -31,7 +31,7 @@
         (grm .))
 
 (META (ID-CORPUS d60292cc-9d16-11e6-bea1-04014c605401.42)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00232.psd,.3)
         (URL http://www.visir.is/allir-beita-einhvers-konar-ofbeldi/article/2016161028790)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -46,7 +46,7 @@
         (grm .))
 
 (META (ID-CORPUS 081c3671-6026-11e9-9be0-04014c605401.135)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00232.psd,.4)
         (URL https://www.visir.is/g/2019190419316/game-of-thrones-ballid-byrjar-a-ny-loksins)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Froskurinn (lemma froskur)))
@@ -63,7 +63,7 @@
         (grm .))
 
 (META (ID-CORPUS 726c3c32-841b-11e6-a2c9-04014c605401.433)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00232.psd,.5)
         (URL http://althingi.is/altext/upptokur/)
         (COMMENT ))
   (S0 (S-HEADING (NP (lo_et_nf_kk_sb Opinn (lemma opinn))
@@ -79,7 +79,7 @@
                        (ADVP-DATE-ABS (dagsföst 08.11.2013 (lemma 08.11.2013))))))
 
 (META (ID-CORPUS bf58a975-a591-11e6-beab-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00232.psd,.6)
         (URL http://www.ruv.is/frett/hundrad-sinnum-betri-en-ullmann)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Bergman (lemma Bergman)))
@@ -96,7 +96,7 @@
         (grm .))
 
 (META (ID-CORPUS 2d087193-0141-11e8-b8bd-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00232.psd,.7)
         (URL http://www.ruv.is/frett/undirbua-nytt-verkfall-a-hendur-primera-air)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Sáttasemjari (lemma sáttasemjari)))
@@ -109,7 +109,7 @@
         (grm .))
 
 (META (ID-CORPUS b4d9c8ad-e5b1-11e6-8e7a-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00232.psd,.8)
         (URL http://eyjan.pressan.is/frettir/2017/01/28/trump-og-putin-toludu-saman-i-thrju-korter/)
         (COMMENT ))
   (S0-X (S-HEADING (IP (ADVP (ao Allst (lemma alls)))
@@ -127,7 +127,7 @@
                      (grm .)))
 
 (META (ID-CORPUS 72461e47-7f64-11e6-a2c6-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00232.psd,.9)
         (URL http://www.visir.is/einungis-thridjungur-vidmaelenda-i-fjolmidlum-eru-konur-radherra-segir-stoduna-ekki-asaettanlega/article/2016160929878)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Magnús Geir Þórðarson (lemma Magnús Geir Þórðarson))
@@ -142,7 +142,7 @@
         (grm .))
 
 (META (ID-CORPUS f76176b8-9402-11e9-984a-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00232_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00232.psd,.10)
         (URL https://kjarninn.is/skyring/2019-06-20-stridid-i-sjalfstaedisflokknum/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP-TIMESTAMP-REL (P (fs_þf Eftir (lemma eftir)))

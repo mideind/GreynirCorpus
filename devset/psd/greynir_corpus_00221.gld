@@ -1,5 +1,5 @@
 (META (ID-CORPUS 77a41cfc-e254-11e7-b87e-04014c605401.50)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00221.psd,.1)
         (URL http://www.visir.is/g/2017171219197/verdandi-radherra-er-rappstjarna-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -14,7 +14,7 @@
         (grm .))
 
 (META (ID-CORPUS 9e2b41c9-8d35-11e8-aa1e-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00221.psd,.2)
         (URL http://www.ruv.is/frett/birta-leynileg-gogn-um-kosningaradgjafa-trump)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Alríkisdómarar (lemma alríkisdómari)
@@ -30,7 +30,7 @@
         (grm .))
 
 (META (ID-CORPUS 1aa266e8-e7b3-11e7-b88e-04014c605401.23)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00221.psd,.3)
         (URL http://www.visir.is/g/2017171229507/vill-bara-skynsamlegar-vidraedur-vid-katalona)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_hk Önnur (lemma annar))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS ab0afee2-9545-11e7-b8d4-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00221.psd,.4)
         (URL http://www.visir.is/g/2017170908851/thurfum-a-gudi-ad-halda-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS 90ed401b-5d05-11e9-9bdc-04014c605401.33)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00221.psd,.5)
         (URL http://www.ruv.is/frett/snjallsimar-bannadir-a-skolatima)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_kvk Samvinna (lemma samvinna)))
@@ -74,7 +74,7 @@
         (grm .))
 
 (META (ID-CORPUS 39dbc40e-e54f-11e7-b880-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00221.psd,.6)
         (URL http://www.ruv.is/frett/takmarkad-skyggni-og-erfid-akstursskilyrdi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Hiti (lemma hiti)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS cc9e10c3-f772-11e7-b8aa-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00221.psd,.7)
         (URL http://www.ruv.is/frett/samkomulag-um-stjornarmyndunarvidraedur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -105,7 +105,7 @@
         (grm .))
 
 (META (ID-CORPUS 2a8396c6-666b-11e9-9bf1-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00221.psd,.8)
         (URL https://www.visir.is/g/2019190429593/innkalla-alla-galaxy-fold)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki Reuters (lemma Reuters)))
@@ -120,7 +120,7 @@
         (grm .))
 
 (META (ID-CORPUS a12385ea-e7d4-11e7-b88e-04014c605401.126)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00221.psd,.9)
         (URL http://www.visir.is/g/2017171229524/bearnaise-sosa-verdur-bearnaise-smjor-a-morgun-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS dc31ddb3-e3fd-11e6-8e79-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00221_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00221.psd,.10)
         (URL http://www.visir.is/olafia-thorunn--upphafshoggin-voru-lengri-i-dag-en-fyrir-nokkrum-vikum/article/2017170129090)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

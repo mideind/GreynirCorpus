@@ -1,5 +1,5 @@
 (META (ID-CORPUS 72d9eaac-31cd-11e9-9b91-04014c605401.38)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00218.psd,.1)
         (URL http://www.visir.is/g/2019190219126/rosalegt-ferdalag-fikils)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -13,7 +13,7 @@
         (grm .))
 
 (META (ID-CORPUS d341c7b0-7d1b-11e9-982b-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00218.psd,.2)
         (URL https://www.ruv.is/frett/hun-gat-enga-bjorg-ser-veitt)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Þóra Sigga (lemma Þóra Sigga)))
@@ -26,7 +26,7 @@
         (grm .))
 
 (META (ID-CORPUS b4915502-ccbe-11e8-994b-04014c605401.221)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00218.psd,.3)
         (URL http://www.visir.is/g/2018181019901/i-beinni-haukar-valur-lidin-sem-bordust-um-titilinn-maetast-i-firdinum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_sb Höfundarréttarvarin (lemma höfundarréttarvarinn)
@@ -38,7 +38,7 @@
                         (NP-OBJ (no_ft_þf_kvk 757 þúsund krónur (lemma 757 þúsund krónur)))))))
 
 (META (ID-CORPUS 1f86ab3a-4533-11e6-8429-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00218.psd,.4)
         (URL http://www.ruv.is/frett/fjolbreyttari-studningur-og-meiri-nylidun)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Svipaður (lemma svipaður))
@@ -53,7 +53,7 @@
         (grm ?))
 
 (META (ID-CORPUS 67f4b994-c94a-11e6-8e4c-04014c605401.22)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00218.psd,.5)
         (URL http://www.visir.is/marengskokur-ad-haetti-evu-laufeyjar-uppskrift/article/2016161229392)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_bh_ft_gm Bræðið (lemma bræða)))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS be43f172-5f9b-11e9-9bde-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00218.psd,.6)
         (URL https://mbl.is/frettir/innlent/2019/04/15/motmaelendur_hlyddu_fyrirmaelum_logreglu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Allt (lemma allur)))
@@ -83,7 +83,7 @@
         (grm .))
 
 (META (ID-CORPUS eee21be8-6cff-11e9-9c02-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00218.psd,.7)
         (URL https://www.utanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2019/05/02/Island-i-forystu-a-althjodavettvangi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (P (fs_þgf Í (lemma í)))
@@ -100,7 +100,7 @@
         (grm .))
 
 (META (ID-CORPUS 72fdbeb5-d611-11e7-b971-04014c605401.420)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00218.psd,.8)
         (URL https://www.innanrikisraduneyti.is/default.aspx?PageID=13c0fcaa-3869-11e6-80c7-005056bc217f)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Náttúran (lemma náttúra)))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS 930e2d00-13e4-11e7-aa2e-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00218.psd,.9)
         (URL http://eyjan.pressan.is/frettir/2017/03/28/vilja-baeta-adstodu-hb-granda-a-akranesi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kk Akraneskaupstaður (lemma Akraneskaupstaður)))
@@ -129,7 +129,7 @@
         (grm .))
 
 (META (ID-CORPUS 066ba411-d98c-11e8-9983-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00218_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00218.psd,.10)
         (URL http://www.ruv.is/frett/unnusta-khashoggis-hafnadi-bodi-i-hvita-husid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

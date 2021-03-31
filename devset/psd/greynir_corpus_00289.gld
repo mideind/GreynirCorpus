@@ -1,5 +1,5 @@
 (META (ID-CORPUS 301dae6a-4b96-11e7-b80d-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00289.psd,.1)
         (URL http://www.ruv.is/frett/redist-a-mann-med-sporkum-og-heimtadi-peninga)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Brotaþoli (lemma brotaþoli)))
@@ -26,7 +26,7 @@
         (grm .))
 
 (META (ID-CORPUS b2c6bdec-66e4-11e7-b848-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00289.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2017/07/12/hvad_verdur_um_riki_islams/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Enn (lemma enn)))
@@ -53,7 +53,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS cefc644c-74f6-11e6-a2bc-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00289.psd,.3)
         (URL http://www.ruv.is/frett/ottast-verkfall-grunnskolakennara)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Páll Erlingsson (lemma Páll Erlingsson))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS ca12c261-c534-11e7-b948-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00289.psd,.4)
         (URL http://www.ruv.is/frett/ibudaverd-heldur-afram-ad-haekka)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))
@@ -106,7 +106,7 @@
         (grm .))
 
 (META (ID-CORPUS 312ad025-3cc1-11e9-9b9c-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00289.psd,.5)
         (URL https://www.frettabladid.is/frettir/post-og-fjarskiptastofnun-viki-ser-undan-meintum-brotum)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fyrirtæki_et_nf_kvk PFS (lemma PFS)))
@@ -132,7 +132,7 @@
         (grm .))
 
 (META (ID-CORPUS 21acc472-4533-11e6-8429-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00289.psd,.6)
         (URL http://www.mbl.is/sport/enski/2016/05/12/serfraedingur_um_hillsborough_slysid/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -159,7 +159,7 @@
         (grm .))
 
 (META (ID-CORPUS 4cbc9080-5e07-11e8-b129-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00289.psd,.7)
         (URL http://www.visir.is/g/2018180529707/malefnathattur-stodvar-2-skortur-a-husnaedi-askorun-a-komandi-kjortimabili)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -184,7 +184,7 @@
         (grm .))
 
 (META (ID-CORPUS 2133215a-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00289.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/07/05/meintur_barnanidingur_i_farbann/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_0_fh_p3_et_þt_gm Hafði (lemma hafa)))
@@ -210,7 +210,7 @@
         (grm .))
 
 (META (ID-CORPUS d8230990-cb0a-11e8-993e-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00289.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/10/08/stori_skurkurinn_var_kronan/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þannig (lemma þannig)))
@@ -232,7 +232,7 @@
         (grm .))
 
 (META (ID-CORPUS 80466521-45f4-11e7-b801-04014c605401.40)
-        (ID-LOCAL reynir_corpus_00289_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00289.psd,.10)
         (URL http://www.mbl.is/smartland/pistlar/vg/2196839/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Skýrsla (lemma skýrsla))

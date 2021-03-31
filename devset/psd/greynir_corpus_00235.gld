@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1527333f-ff72-11e8-9a74-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00235.psd,.1)
         (URL http://www.visir.is/g/2018181219348/ingibjorg-i-30.-saeti-a-hm)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_evb Besti (lemma góður))
@@ -17,7 +17,7 @@
         (grm .))
 
 (META (ID-CORPUS 3f265b5b-bcc2-11e7-b932-04014c605401.27)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00235.psd,.2)
         (URL https://kjarninn.is/folk/2017-10-29-lofthraedda-fjallageitin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_þgf_p1 Mér (lemma ég)))
@@ -35,7 +35,7 @@
         (grm .))
 
 (META (ID-CORPUS 95cb37db-fa00-11e7-b8b0-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00235.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2018/01/15/litid_starfsoryggi_dagforeldra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Margir (lemma margur)))
@@ -53,7 +53,7 @@
         (grm .))
 
 (META (ID-CORPUS 9ff83902-06c7-11e9-9ab2-04014c605401.73)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00235.psd,.4)
         (URL http://www.visir.is/g/2018181229757/i-beinni-everton-tottenham-faerir-thorlakur-gylfa-og-felogum-sigur-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Demi Lovato (lemma Demi Lovato)))
@@ -68,7 +68,7 @@
                                                         (NP (no_et_þgf_hk lífi (lemma líf))))))))))))
 
 (META (ID-CORPUS 53036ed4-726f-11e7-b869-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00235.psd,.5)
         (URL http://www.ruv.is/frett/engin-tengsl-milli-skjalftahrinanna-tveggja)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (ao Í morgun (lemma í morgun)))
@@ -87,7 +87,7 @@
         (grm .))
 
 (META (ID-CORPUS fb10b9a0-f8bf-11e8-9a47-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00235.psd,.6)
         (URL http://www.ruv.is/frett/thyskaland-slo-tekkland-ur-keppni)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -105,7 +105,7 @@
         (grm .))
 
 (META (ID-CORPUS de51ce20-121d-11e8-8134-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00235.psd,.7)
         (URL http://www.visir.is/g/2018180219295/150-vidskiptafraedingar-og-54-logfraedingar-maela-goturnar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (eo Rúmlega (lemma rúmlega))
@@ -123,7 +123,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS efb030da-7775-11e7-b875-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00235.psd,.8)
         (URL http://www.visir.is/g/2017170809823/eg-kann-mjog-vel-vid-thetta-knappa-form-)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -141,7 +141,7 @@
                (grm ?)))
 
 (META (ID-CORPUS 3d3db668-7150-11e8-a9ed-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00235.psd,.9)
         (URL http://www.visir.is/g/2018180619131/hvers-vegna-vid-skopum-leikhus-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Robert Wilson (lemma Robert Wilson)))
@@ -158,7 +158,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 21c7352d-4533-11e6-8429-04014c605401.20)
-        (ID-LOCAL greynir_corpus_00235_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00235.psd,.10)
         (URL http://www.ruv.is/frett/aflandssamningur-skilar-116-milljarda-hagnadi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

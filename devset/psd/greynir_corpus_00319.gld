@@ -1,5 +1,5 @@
 (META (ID-CORPUS 79a620f9-507f-11e7-b814-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00319.psd,.1)
         (URL http://www.visir.is/g/2017170619576/i-gaesluvardhaldi-grunadur-um-kynferdisbrot-gegn-12-ara-stulku)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_vb Kærði (lemma kærður)))
@@ -32,7 +32,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS 1e6502d2-4252-11e9-9baa-04014c605401.76)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00319.psd,.2)
         (URL https://kjarninn.is/skodun/2019-03-08-misdjup-kolefnisspor/)
         (COMMENT ))
   (S0 (S-MAIN (VP (VP-AUX (so_0_fh_p3_et_nt_gm Má (lemma mega)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 787b37ff-3b26-11e7-b7e9-04014c605401.135)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00319.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2017/05/17/banatilraedid-a-bar-ananas-valdimar-johannesson-fer-hamforum-a-utvarpi-sogu/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Valdimar (lemma Valdimar)))
@@ -99,7 +99,7 @@
                   (grm . (lemma .))))
 
 (META (ID-CORPUS fe9cfd57-4d06-11e7-b810-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00319.psd,.4)
         (URL http://www.visir.is/g/2017170608969/trump-tjair-sig-um-vitnisburd-comey-eftir-langa-thogn)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -133,7 +133,7 @@
         (grm .))
 
 (META (ID-CORPUS e0116bbd-7eff-11e8-aa09-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00319.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/07/03/attraed_reykjarfjardarlaug_heillar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Búskapur (lemma búskapur)))
@@ -166,7 +166,7 @@
         (grm .))
 
 (META (ID-CORPUS 31835c1d-6940-11e7-b84d-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00319.psd,.6)
         (URL http://eyjan.pressan.is/frettir/2017/07/15/af-hverju-ma-ekki-segja-fra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -198,7 +198,7 @@
         (grm .))
 
 (META (ID-CORPUS 5cf5abb0-2eb5-11e9-9b87-04014c605401.27)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00319.psd,.7)
         (URL https://www.frettabladid.is/lifid/i-skugga-fjoelblis-1)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (no_et_nf_kk_gr Föstudaginn (lemma Föstudaginn))
@@ -229,7 +229,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 81551705-f0bc-11e7-b89f-04014c605401.59)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00319.psd,.8)
         (URL http://www.ruv.is/frett/vidhorf-radherra-til-reykskysins-olik)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Sigríður (lemma Sigríður)))
@@ -264,7 +264,7 @@
         (grm .))
 
 (META (ID-CORPUS 9c61b0c9-70d4-11e9-981e-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00319.psd,.9)
         (URL https://www.visir.is/g/2019190509180/mjaldurinn-liklega-ekki-njosnari-heldur-throskathjalfi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Önnur (lemma annar))
@@ -298,7 +298,7 @@
         (grm .))
 
 (META (ID-CORPUS 7f837976-a03b-11e6-bea3-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00319_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00319.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2016/11/01/enn_verid_ad_auka_a_ojofnud_i_landinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_nh_gm Skilgreina (lemma skilgreina)))

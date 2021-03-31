@@ -1,5 +1,5 @@
 (META (ID-CORPUS aa644d4c-7b61-11e6-a2c1-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00334.psd,.1)
         (URL http://www.visir.is/i-beinni--fjolnir---throttur---stor-leikur-fyrir-baedi-lid-a-sitthvorum-endanum/article/2016160919286)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Viðureignir (lemma viðureign))
@@ -39,7 +39,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f86ab4f-4533-11e6-8429-04014c605401.59)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00334.psd,.2)
         (URL http://www.ruv.is/frett/utiskor-opid-sar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (eo Nær (lemma nær))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS fd9978d4-f460-11e6-8e96-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00334.psd,.3)
         (URL http://www.visir.is/uefa-rannsakar-tengsl-a-milli-fotbolta-og-heilabilunar/article/2017170219183)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -124,7 +124,7 @@
         (grm .))
 
 (META (ID-CORPUS 9bf4a1fa-b5ee-11e7-b91d-04014c605401.41)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00334.psd,.4)
         (URL http://www.visir.is/g/2017171029921/umfjollun-og-vidtol-njardvik-stjarnan-91-81-ljonin-bitu-fra-ser)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -169,7 +169,7 @@
           (grm .))
 
 (META (ID-CORPUS c0814af5-51ce-11e7-b815-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00334.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/06/15/skipar_starfshop_um_nyskopunarsjod/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (no_et_þf_kk_gr Starfshópinn (lemma starfshópur)))
@@ -206,7 +206,7 @@
         (grm .))
 
 (META (ID-CORPUS 3fd8b178-f38b-11e6-8e94-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00334.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2017/02/15/myndu_thurfa_leyfi_karlmanns_fyrir_fostureydingu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk Höfundur (lemma höfundur))
@@ -243,7 +243,7 @@
         (grm .))
 
 (META (ID-CORPUS e8f88b03-f148-11e8-9a0e-04014c605401.25)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00334.psd,.7)
         (URL http://www.mbl.is/frettir/erlent/2018/11/26/nynasisti_a_leid_fyrir_dom/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (dagsafs 27. október (lemma 27. október)))
@@ -283,7 +283,7 @@
         (grm .))
 
 (META (ID-CORPUS ed54e330-3036-11e9-9b8c-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00334.psd,.8)
         (URL http://www.ruv.is/frett/faer-semenya-ad-keppa-afram-i-kvennaflokki)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -324,7 +324,7 @@
         (grm .))
 
 (META (ID-CORPUS 26903f0a-81f0-11e7-b896-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00334.psd,.9)
         (URL http://eyjan.pressan.is/frettir/2017/08/15/eru-ad-gera-sig-tilbuna-ad-skjota-eldflaug-a-loft)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -363,7 +363,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS a4e57827-6500-11e8-adc4-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00334_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00334.psd,.10)
         (URL http://www.mbl.is/smartland/tiska/2018/05/31/kventhjodin_logar_yfir_bikiniradleggingum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kvk_gr Fjöllistakonan (lemma fjöllistakona)

@@ -1,5 +1,5 @@
 (META (ID-CORPUS b332b9e5-c7db-11e7-b94f-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00037.psd,.1)
+        (ID-LOCAL greynir_corpus_00037.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2017/11/12/28_hjolreidamenn_slosudust_alvarlega/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_esb_sb Næstflest (lemma næstflestur))
@@ -14,7 +14,7 @@
       (grm .))
 
 (META (ID-CORPUS cf0dfbdf-a7a1-11e6-bead-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00037.psd,.2)
+        (ID-LOCAL greynir_corpus_00037.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2016/11/10/vindasamt_i_reykjavik_i_fyrramalid/)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (eo_fst Bara (lemma bara))
@@ -28,7 +28,7 @@
       (grm .))
 
 (META (ID-CORPUS db78941c-107c-11e7-aa27-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00037.psd,.3)
+        (ID-LOCAL greynir_corpus_00037.psd,.3)
         (URL http://www.visir.is/sara-fekk-salinn-til-ad-skellihlaeja--gengid-svo-vel-eftir-ad-eg-haetti-med-thjalfara/article/2017170329355)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p1 Ég (lemma ég)))
@@ -41,7 +41,7 @@
       (grm .))
 
 (META (ID-CORPUS 38997ce6-3f6a-11e8-b088-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00037.psd,.4)
+        (ID-LOCAL greynir_corpus_00037.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/04/13/nyjar_logreglubifreidar_komnar_a_gotuna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Vélin (lemma vél)))
@@ -56,7 +56,7 @@
       (grm .))
 
 (META (ID-CORPUS 51dc2165-8e4c-11e7-b8c5-04014c605401.51)
-        (ID-LOCAL reynir_corpus_00037.psd,.5)
+        (ID-LOCAL greynir_corpus_00037.psd,.5)
         (URL http://www.visir.is/g/2017170839748/modir-drengs-sem-reyndi-sjalfsvig-mikid-ad-thegar-tiu-ara-born-thurfa-ad-reyna-sjalfsmord-til-ad-fa-hjalp-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -71,7 +71,7 @@
       (grm .))
 
 (META (ID-CORPUS a99c5000-0318-11e9-9a96-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00037.psd,.6)
+        (ID-LOCAL greynir_corpus_00037.psd,.6)
         (URL http://www.ruv.is/frett/thridja-seria-a-ofaerd-nu-thegar-i-vinnslu-0)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_ef Vegna (lemma vegna)))
@@ -86,7 +86,7 @@
       (grm .))
 
 (META (ID-CORPUS ad8911a1-4a2b-11e8-b0ca-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00037.psd,.7)
+        (ID-LOCAL greynir_corpus_00037.psd,.7)
         (URL https://www.forsaetisraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/04/27/Stefnumotun-og-aaetlanagerd-Stjornarradsins-styrkist-verulega/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (no_et_þf_kvk Skýrslu (lemma skýrsla))
@@ -99,7 +99,7 @@
       (grm .))
 
 (META (ID-CORPUS 7df21478-9766-11e9-9852-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00037.psd,.8)
+        (ID-LOCAL greynir_corpus_00037.psd,.8)
         (URL http://www.ruv.is/frett/thetta-a-eftir-ad-jafna-sig)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Erling (lemma Erling)))
@@ -114,7 +114,7 @@
       (grm .))
 
 (META (ID-CORPUS 17e0abbc-be4a-11e8-98f4-04014c605401.144)
-        (ID-LOCAL reynir_corpus_00037.psd,.9)
+        (ID-LOCAL greynir_corpus_00037.psd,.9)
         (URL http://www.mbl.is/frettir/burdargrein/2018/09/22/eg_gat_ekkert_gert/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_mst Eldri (lemma gamall))
@@ -129,7 +129,7 @@
       (grm .))
 
 (META (ID-CORPUS 54159c15-59d4-11e9-9bd7-04014c605401.27)
-        (ID-LOCAL reynir_corpus_00037.psd,.10)
+        (ID-LOCAL greynir_corpus_00037.psd,.10)
         (URL https://www.frettabladid.is/timamot/frimurarar-fylltu-horpu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p1 Ég (lemma ég)))

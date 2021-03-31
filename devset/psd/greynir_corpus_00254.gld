@@ -1,5 +1,5 @@
 (META (ID-CORPUS 72b63439-6bd8-11e6-a2b3-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00254.psd,.1)
         (URL http://www.ruv.is/frett/reyndi-ad-kuga-fe-ut-ur-islensku-fyrirtaeki)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -20,7 +20,7 @@
         (grm .))
 
 (META (ID-CORPUS bb9ccec7-64d6-11e8-adc4-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00254.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2018/05/31/setja_sludurskatt_a_samfelagsmidla/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk Forseti (lemma forseti))
@@ -39,7 +39,7 @@
         (grm .))
 
 (META (ID-CORPUS 6164190c-1a38-11e8-8154-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00254.psd,.3)
         (URL http://www.mbl.is/smartland/stars/2018/02/25/i_hvada_aevintyri_er_eg/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Svo (lemma svo)))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS d159f34c-7bd2-11e6-a2c1-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00254.psd,.4)
         (URL http://www.mbl.is/vidskipti/frettir/2016/09/16/sprenging_i_gagnanotkun_ferdamanna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (töl_ft Átta (lemma átta))
@@ -81,7 +81,7 @@
         (grm .))
 
 (META (ID-CORPUS 240d9c56-fe98-11e6-8ea6-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00254.psd,.5)
         (URL http://www.ruv.is/frett/tugthusundir-flyja-bardaga-vid-mokka)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Stofnunin (lemma stofnun)))
@@ -102,7 +102,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d56efa4-dadb-11e8-998b-04014c605401.30)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00254.psd,.6)
         (URL https://kjarninn.is/skyring/2018-10-28-munu-islendingar-breyta-matarvenjum-sinum-i-von-um-ad-bjarga-jordinni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Verkefnastjórn (lemma verkefnastjórn)
@@ -125,7 +125,7 @@
         (grm .))
 
 (META (ID-CORPUS 3fdde3e9-a2de-11e8-9888-04014c605401.89)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00254.psd,.7)
         (URL http://www.mbl.is/smartland/samskipti/2018/08/18/kaerastinn_klaedir_sig_upp_hvad_er_til_rada/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -146,7 +146,7 @@
         (grm ?))
 
 (META (ID-CORPUS f2bbf4ac-9f11-11e8-9884-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00254.psd,.8)
         (URL http://www.visir.is/g/2018180819631/iniesta-kominn-a-blad-i-japan)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -167,7 +167,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d92423f-f034-11e8-9a09-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00254.psd,.9)
         (URL http://www.visir.is/g/2018181129271/beittu-taragasi-og-oflugum-vatnsbyssum-i-motmaelum-vegna-eldsneytisverds)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Alls (lemma alls)))
@@ -188,7 +188,7 @@
         (grm .))
 
 (META (ID-CORPUS 82e6e26e-8941-11e9-9836-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00254_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00254.psd,.10)
         (URL http://www.ruv.is/frett/sterku-drykkirnir-eru-ekki-jafn-vinsaelir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Margar (lemma margur))

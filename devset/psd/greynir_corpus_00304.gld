@@ -1,5 +1,5 @@
 (META (ID-CORPUS b3cf336f-0c9d-11e8-8120-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00304.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2018/02/08/bandarikjamenn_gerdu_aras_i_syrlandi/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (gr_ft_nf_kk Hinir (lemma hinn))
@@ -29,7 +29,7 @@
           (grm .))
 
 (META (ID-CORPUS 19fea6d8-3fd5-11e9-9ba4-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00304.psd,.2)
         (URL https://mbl.is/frettir/innlent/2019/03/06/fjordvik_i_sina_hinstu_ferd/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Þaðan (lemma þaðan)))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS e4516f26-8e00-11e9-983e-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00304.psd,.3)
         (URL http://www.hringbraut.is/frettir/frettamenn-a-ruv-fordaema-framgongu-bandarikjanna-gegn-julians-assange)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þgf Af (lemma af)))
@@ -90,7 +90,7 @@
         (grm .))
 
 (META (ID-CORPUS 3e544533-559f-11e7-b81b-04014c605401.2035)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00304.psd,.4)
         (URL https://www.innanrikisraduneyti.is/default.aspx?PageID=31b576f0-79b6-11e6-80c8-005056bc217f)
         (COMMENT ))
   (S0-X (S-MAIN (IP-INF (TO (nhm Að (lemma að)))
@@ -118,7 +118,7 @@
           (grm .))
 
 (META (ID-CORPUS 216f63d2-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00304.psd,.5)
         (URL http://www.mbl.is/sport/fotbolti/2016/04/30/gudmunda_skoradi_fyrir_klepp/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn Guðmunda Brynja (lemma Guðmunda Brynja))
@@ -145,7 +145,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 69a47800-7c37-11e8-aa04-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00304.psd,.6)
         (URL http://www.visir.is/g/2018180639968/luxusupplifun-a-landsbyggdinni-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -175,7 +175,7 @@
         (grm .))
 
 (META (ID-CORPUS a30f909a-1bf4-11e8-8158-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00304.psd,.7)
         (URL http://www.ruv.is/frett/aetla-bara-ad-hafa-gaman-og-njota)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Hann (lemma Hann)))
@@ -204,7 +204,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS 89911f4b-173b-11e9-9b1d-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00304.psd,.8)
         (URL http://www.visir.is/g/2019190119575/ellefu-ulpum-sem-stolid-var-ur-vesturbaejarskola-skilad)
         (COMMENT ))
   (S0-X (S-MAIN (VP (NP (lo_et_nf_kvk_sb Aðspurð (lemma aðspurður)))
@@ -234,7 +234,7 @@
                                                                                        (ADVP (ao aftur (lemma aftur)))))))))))))))))))
 
 (META (ID-CORPUS 20ac9750-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00304.psd,.9)
         (URL http://www.mbl.is/bill/frettir/2016/04/12/pontudu_276_000_bila_a_thremur_dogum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_nf_fh_p3_et_þt_gm Var (lemma vera)))
@@ -263,7 +263,7 @@
         (grm .))
 
 (META (ID-CORPUS 71e87e03-03ad-11e8-80f2-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00304_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00304.psd,.10)
         (URL http://www.visir.is/g/2018180129012/kalladur-kaktuspungur-og-perri-a-facebook-thetta-metoo-er-bara-komid-i-algjort-rugl-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 6808b71a-fdc2-11e6-8ea3-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00333.psd,.1)
         (URL http://www.visir.is/althingi-adstodadi-vid-tokur-a-black-mirror/article/2017170228782)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (PP (P (fs_ef Til (lemma til)))
@@ -42,7 +42,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d19fe56-6cb0-11e9-9c02-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00333.psd,.2)
         (URL https://www.visir.is/g/2019190509848/-i-klom-ofbeldis)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-ACK (C (st Þó (lemma þó))
@@ -83,7 +83,7 @@
         (grm .))
 
 (META (ID-CORPUS 9c9a868f-557b-11e6-843e-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00333.psd,.3)
         (URL http://www.mbl.is/sport/golf/2016/07/29/sogulegur_hringur_hja_jaeger/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Jaeger (lemma Jaeger)))
@@ -128,7 +128,7 @@
     (grm .))
 
 (META (ID-CORPUS 83e54c35-1007-11e9-9ae0-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00333.psd,.4)
         (URL http://www.mbl.is/bill/frettir/2019/01/04/rafbill_a_solutoppinn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Rafbílar (lemma rafbíll)))
@@ -168,7 +168,7 @@
         (grm .))
 
 (META (ID-CORPUS dd397bcc-bb44-11e7-b92d-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00333.psd,.5)
         (URL http://www.mbl.is/vidskipti/frettir/2017/10/27/ekki_bara_haegt_ad_benda_a_costco/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Orkan (lemma orka)))
@@ -211,7 +211,7 @@
         (grm .))
 
 (META (ID-CORPUS 6432b2a1-cbdc-11e8-9945-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00333.psd,.6)
         (URL https://kjarninn.is/skodun/2018-10-09-frelsid-til-ad-kvelja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -254,7 +254,7 @@
         (grm .))
 
 (META (ID-CORPUS 21e2f926-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00333.psd,.7)
         (URL http://www.ruv.is/frett/visar-fullyrdingum-sa-a-bug)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þetta)))
@@ -296,7 +296,7 @@
                  (grm .)))
 
 (META (ID-CORPUS eb14e90e-5a90-11e9-9bd7-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00333.psd,.8)
         (URL https://www.visir.is/g/2019190408878/likur-a-ad-likud-verdi-ekki-staerstur-en-styri-liklega-samt)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_vb Ísraelska (lemma ísraelskur))
@@ -339,7 +339,7 @@
         (grm .))
 
 (META (ID-CORPUS ad4d5e35-5900-11e8-b10b-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00333.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/05/16/landlaeknir_telur_heilsuveru_akjosanlegri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Landlæknir (lemma landlæknir)))
@@ -382,7 +382,7 @@
         (grm .))
 
 (META (ID-CORPUS b37169e9-d1cd-11e6-8e59-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00333_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00333.psd,.10)
         (URL http://www.visir.is/grindvikingar-fengu-ekki-goda-aramotagjof-fra-kananum-sinum--vonandi-blessun-i-dulargervi-/article/2017170109719)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_et_nf_kvk Ashley (lemma Ashley)))

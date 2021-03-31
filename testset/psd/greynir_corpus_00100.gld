@@ -1,5 +1,5 @@
 (META (ID-CORPUS c83d236a-43b8-11e7-8326-d43d7ee303b2.13)
-        (ID-LOCAL reynir_corpus_00100.psd,.1)
+        (ID-LOCAL greynir_corpus_00100.psd,.1)
         (URL http://reykjanes.local?id=4584162)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -21,7 +21,7 @@
       (grm .))
 
 (META (ID-CORPUS 893523ec-464c-11e9-9bb6-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00100.psd,.2)
+        (ID-LOCAL greynir_corpus_00100.psd,.2)
         (URL https://mbl.is/frettir/innlent/2019/03/14/hrikalega_er_mannkyn_tregt/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá))
@@ -43,7 +43,7 @@
       (grm .))
 
 (META (ID-CORPUS de7893db-7a48-11e6-a2c1-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00100.psd,.3)
+        (ID-LOCAL greynir_corpus_00100.psd,.3)
         (URL http://www.visir.is/gagnryna-sinnuleysi-gagnvart-kvalinni-tik-a-flotta/article/2016160919540)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-PCL (ao Úr (lemma úr)))
@@ -65,7 +65,7 @@
       (grm .))
 
 (META (ID-CORPUS c89cd01c-0764-11e8-8103-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00100.psd,.4)
+        (ID-LOCAL greynir_corpus_00100.psd,.4)
         (URL http://www.mbl.is/matur/frettir/2018/02/01/galdrakarlinn_faer_loksins_sinn_eigin_bordbunad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Galdrakarlinn (lemma galdrakarl)))
@@ -83,7 +83,7 @@
       (grm .))
 
 (META (ID-CORPUS ae562bee-8895-11e9-9835-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00100.psd,.5)
+        (ID-LOCAL greynir_corpus_00100.psd,.5)
         (URL https://www.visir.is/g/2019190609232/solar-stundir-i-juni-ordnar-fleiri-en-allan-manudinn-i-fyrra)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Sólin (lemma sól)))
@@ -106,7 +106,7 @@
       (grm .))
 
 (META (ID-CORPUS 60391a36-ec18-11e8-99f0-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00100.psd,.6)
+        (ID-LOCAL greynir_corpus_00100.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2018/11/19/rannsokn_a_nedri_haed_lokid/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -128,7 +128,7 @@
       (grm .))
 
 (META (ID-CORPUS 671563f0-dcaa-11e7-b981-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00100.psd,.7)
+        (ID-LOCAL greynir_corpus_00100.psd,.7)
         (URL http://www.visir.is/g/2017171208839/meirihluti-rohingja-a-flotta-eru-born)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (fn Þetta (lemma þessi)))
@@ -146,7 +146,7 @@
       (grm .))
 
 (META (ID-CORPUS 032303e1-97b4-11e6-a2dc-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00100.psd,.8)
+        (ID-LOCAL greynir_corpus_00100.psd,.8)
         (URL http://www.visir.is/vandraedi-med-internetid-i-kjolfar-arasar/article/2016161029717)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_ef Meðal (lemma meðal)))
@@ -169,7 +169,7 @@
         (grm .))
 
 (META (ID-CORPUS 0995f42d-a739-11e6-bead-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00100.psd,.9)
+        (ID-LOCAL greynir_corpus_00100.psd,.9)
         (URL http://www.visir.is/hvad-ef-og-hefdi/article/2016161119928)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (NP (fn Þessi (lemma þessi))
@@ -192,7 +192,7 @@
       (grm .))
 
 (META (ID-CORPUS 1fb6209b-84ae-11e6-a2cb-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00100.psd,.10)
+        (ID-LOCAL greynir_corpus_00100.psd,.10)
         (URL http://kvennabladid.is/2016/09/27/bjork-verdur-a-iceland-airwaves-2016/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn Hún (lemma hún)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 8e0581da-7fea-11e6-a2c6-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00302.psd,.1)
         (URL http://www.ruv.is/frett/framkvaemdir-vegna-theistareykjalinu-halda-afram)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Úrskurðarnefnd (lemma úrskurðarnefnd))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS 21bc9170-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00302.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2016/05/19/julius_segir_rangfaerslur_i_kastljosi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (fn_et_þf_hk Þetta (lemma þessi)))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS 84a577b6-f939-11e8-9a4a-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00302.psd,.3)
         (URL http://www.ruv.is/frett/fjarmalastjori-huawei-handtekinn-i-kanada)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_ft_þgf_hk_gr Skilaboðunum (lemma skilaboð)))
@@ -85,7 +85,7 @@
         (grm .))
 
 (META (ID-CORPUS 25764797-1f2c-11e9-9b56-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00302.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2019/01/23/ekkert_nytt_ad_fa_ser_bjor_a_vinnutima/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS 13d5f4c2-c301-11e6-8e2d-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00302.psd,.5)
         (URL http://www.ruv.is/frett/minni-thjodfelagsleg-ahrif-af-verkfalli-nuna)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_kvk_gr Útgerðin (lemma útgerð)))
@@ -141,7 +141,7 @@
         (grm .))
 
 (META (ID-CORPUS 2048eec4-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00302.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2016/01/10/reyndi_ad_smygla_flottabarni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Lawrie (lemma Lawrie)))
@@ -170,7 +170,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f447ad5-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00302.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2016/03/15/ein_af_kyrrsettum_flugvelum_sas/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk_gr Flugvélarnar (lemma flugvél)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS b5e46789-fcd7-11e6-8ea2-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00302.psd,.8)
         (URL http://www.mbl.is/bill/frettir/2017/02/27/tengiltvinnbillinn_uppistadan_naestu_arin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -226,7 +226,7 @@
         (grm .))
 
 (META (ID-CORPUS 20324689-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00302.psd,.9)
         (URL http://eyjan.pressan.is/frettir/2016/01/12/russaskyrsla-birt-ahrifin-gaetu-ordid-umtalverd-en-erfidar-adstaedur-i-russlandi-auka-a-ovissu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -256,7 +256,7 @@
         (grm .))
 
 (META (ID-CORPUS 273e7c80-294a-11e9-9b81-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00302_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00302.psd,.10)
         (URL http://www.ruv.is/frett/tekur-undir-krofu-um-baetta-thjonustu-vid-fanga)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Jón Jacobsen (lemma Jón Jacobsen))

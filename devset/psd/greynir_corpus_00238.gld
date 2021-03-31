@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1fbf0869-4533-11e6-8429-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00238.psd,.1)
         (URL http://www.mbl.is/sport/efstadeild/2016/06/30/thrir_leikir_i_1_deild_karla_bein_lysing_5/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (to_ft_nf_kk Þrír (lemma þrír))
@@ -17,7 +17,7 @@
         (grm .))
 
 (META (ID-CORPUS 691985f9-7a96-11e7-b87f-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00238.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/08/06/storafallalaus_thjodhatid/)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (fn_et_nf_kk Einn (lemma einn))
@@ -35,7 +35,7 @@
         (grm .))
 
 (META (ID-CORPUS 5e724933-2889-11e9-9b81-04014c605401.66)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00238.psd,.3)
         (URL http://www.visir.is/g/2019190209886/zuistar-topudu-taepum-atta-milljonum-arid-2017)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -51,7 +51,7 @@
         (grm .))
 
 (META (ID-CORPUS 3e4f62cb-ac78-11e7-b90e-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00238.psd,.4)
         (URL http://www.mbl.is/frettir/kosning/2017/10/08/vill_haekka_skatta_a_tha_audugustu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Skattbyrði (lemma skattbyrði))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS b1b59b71-4483-11e7-b7fd-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00238.psd,.5)
         (URL http://www.visir.is/g/2017170528891/malin-afryjar-til-haestarettar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_hk Mín (lemma minn))
@@ -85,7 +85,7 @@
         (grm .))
 
 (META (ID-CORPUS 41f9509a-1986-11e7-aa3f-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00238.psd,.6)
         (URL http://www.visir.is/g/2017170409529/fannst-undir-rumi-eftir-umfangsmikla-leit)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -103,7 +103,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f7e0fff-5036-11e6-8437-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00238.psd,.7)
         (URL http://www.mbl.is/frettir/erlent/2016/07/22/arasarmennirnir_ganga_lausir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Lögregla (lemma lögregla)))
@@ -121,7 +121,7 @@
         (grm .))
 
 (META (ID-CORPUS adf0f0a9-90ba-11e8-985d-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00238.psd,.8)
         (URL http://www.ruv.is/frett/aldrei-faerri-solarstundir-i-reykjavik)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (fn_et_þf_hk Þetta (lemma þessi)))
@@ -138,7 +138,7 @@
         (grm .))
 
 (META (ID-CORPUS 99fb9620-ff93-11e6-8ea9-04014c605401.70)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00238.psd,.9)
         (URL http://www.visir.is/umfjollun-kr---keflavik-82-80-meistararnir-sluppu-med-skrekkinn/article/2017170309742)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -154,7 +154,7 @@
         (grm .))
 
 (META (ID-CORPUS cb7aed22-389a-11e8-b06e-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00238_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00238.psd,.10)
         (URL http://www.visir.is/g/2018180409610/-mastersmot-fyrir-konur-a-augusta-en-olafia-okkar-ma-ekki-ad-taka-thatt)
         (COMMENT ))
   (S0-X (S-HEADING (NP (NP-PREFIX (sérnafn Chairman Fred Ridley (lemma Chairman Fred Ridley)))

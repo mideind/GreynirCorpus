@@ -1,5 +1,5 @@
 (META (ID-CORPUS 2db98ead-1b7d-11e7-aa46-04014c605401.32)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00230.psd,.1)
         (URL http://www.visir.is/g/2017170409185/kolefnisbinding-er-natturuvernd-)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Auðvitað (lemma auðvitað)))
@@ -16,7 +16,7 @@
         (grm .))
 
 (META (ID-CORPUS fe8162f5-fae4-11e8-9a54-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00230.psd,.2)
         (URL http://www.ruv.is/frett/johann-naut-sin-ekki-i-svidsljosi-hollywood)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi))
@@ -31,7 +31,7 @@
         (grm .))
 
 (META (ID-CORPUS 5da0d4ba-dceb-11e8-998f-04014c605401.42)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00230.psd,.3)
         (URL http://www.visir.is/g/2018181039938/red-dead-redemption-2-liklega-besti-leikur-thessarar-kynslodar)
         (COMMENT ))
   (S0 (S-HEADING (IP-INF (VP (VP (so_1_þf_fh_p3_ft_nt_gm Raka (lemma raka)))
@@ -48,7 +48,7 @@
         (grm .))
 
 (META (ID-CORPUS a7fff29f-677d-11e6-844e-04014c605401.66)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00230.psd,.4)
         (URL http://www.mbl.is/vidskipti/frettir/2016/08/21/styrir_staersta_samheitalyfjafyrirtaeki_heims/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_fh_p3_et_nt_gm Nefnir (lemma nefna)))
@@ -65,7 +65,7 @@
         (grm .))
 
 (META (ID-CORPUS d29bbcb0-8fb6-11e6-a2d5-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00230.psd,.5)
         (URL http://www.visir.is/epli-laekkar-verd-vegna-gengislaekkana/article/2016161019763)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -81,7 +81,7 @@
         (grm .))
 
 (META (ID-CORPUS b74fd376-f118-11e7-b8a0-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00230.psd,.6)
         (URL http://www.visir.is/g/2018180109642/thorskurinn-minni-en-adur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -98,7 +98,7 @@
         (grm .))
 
 (META (ID-CORPUS d5e13007-a36e-11e7-b8f6-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00230.psd,.7)
         (URL http://www.mbl.is/vidskipti/frettir/2017/09/27/bokum_a_hvern_islending_faekkar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Útgefnar (lemma útgefinn))
@@ -113,7 +113,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f727ad8-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00230.psd,.8)
         (URL http://www.ruv.is/frett/ein-mesta-visindauppgotvun-sidari-tima)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk_gr Bylgjurnar (lemma bylgja)))
@@ -131,7 +131,7 @@
         (grm .))
 
 (META (ID-CORPUS 73e810a8-486f-11e8-b0c4-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00230.psd,.9)
         (URL http://www.ruv.is/frett/sindri-urskurdadur-i-19-daga-gaesluvardhald)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Upplýsingafulltrúi (lemma upplýsingafulltrúi))
@@ -148,7 +148,7 @@
         (grm .))
 
 (META (ID-CORPUS ff7fb58b-4314-11e8-b0a2-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00230_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00230.psd,.10)
         (URL http://www.ruv.is/frett/greida-skolagjold-fyrir-karla-i-hjukrunarfraedi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))

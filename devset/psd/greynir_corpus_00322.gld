@@ -1,5 +1,5 @@
 (META (ID-CORPUS bc3ff952-45e3-11e7-b801-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00322.psd,.1)
         (URL http://www.ruv.is/frett/sex-bikarleikir-i-kvold-skagamenn-afram)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Grótta (lemma Grótta))
@@ -32,7 +32,7 @@
         (grm .))
 
 (META (ID-CORPUS dd38ccd9-e4ad-11e6-8e79-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00322.psd,.2)
         (URL http://www.ruv.is/frett/stadinn-ad-verki-vid-thjofnad)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -66,7 +66,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 0d4bd54f-8d55-11e7-b8bf-04014c605401.44)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00322.psd,.3)
         (URL http://www.visir.is/g/2017170828839/ottast-enn-eitt-hofrungarhlaupid-i-launahaekkunum-i-vetur)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_fh_p3_et_þt_gm Sá (lemma sjá)))
@@ -100,7 +100,7 @@
         (grm .))
 
 (META (ID-CORPUS 365d6097-0e08-11e7-aa1f-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00322.psd,.4)
         (URL http://www.visir.is/fbi-segir-ekkert-stydja-asakanir-trumps-/article/2017170329874)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -131,7 +131,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fd4849c-4533-11e6-8429-04014c605401.207)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00322.psd,.5)
         (URL http://www.visir.is/section/IDROTTIR06)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_mst Eystri (lemma eystri))
@@ -167,7 +167,7 @@
         (grm .))
 
 (META (ID-CORPUS c87aaf37-0dbc-11e9-9ad8-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00322.psd,.6)
         (URL https://kvennabladid.is/2016/10/11/thjodfylkingin-leid-a-rasistastimplinum-takid-eftir-ad-islenska-thjodfylkingin-er-ekki-haldin-utlendingaandud/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS 1d02fa51-f088-11e6-8e90-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00322.psd,.7)
         (URL http://www.ruv.is/frett/man-utd-osigrad-i-sidustu-16-leikjum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Anthony Martial (lemma Anthony Martial)))
@@ -230,7 +230,7 @@
         (grm .))
 
 (META (ID-CORPUS a1082732-9a95-11e8-9878-04014c605401.61)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00322.psd,.8)
         (URL http://www.visir.is/g/2018180809313/umfjollun-vidtol-og-einkunnir-breidablik-kr-1-0-fjordi-sigur-blika-i-rod)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -263,7 +263,7 @@
         (grm .))
 
 (META (ID-CORPUS 6bfbd9ef-2ddb-11e7-b7c9-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00322.psd,.9)
         (URL http://www.visir.is/g/2017170439951/telur-edlilegt-ad-einkafyrirtaeki-i-heilbrigdisthjonustu-hagnist-a-grundvelli-samninga-vid-rikid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Bjarni Benediktsson (lemma Bjarni Benediktsson))
@@ -297,7 +297,7 @@
         (grm .))
 
 (META (ID-CORPUS e93acd8f-574e-11e7-b81f-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00322_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00322.psd,.10)
         (URL http://www.visir.is/g/2017170629640/bandariskir-vedurfraedingar-setja-ofan-i-vid-radherra-vegna-loftslagsbreytinga)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))

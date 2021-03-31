@@ -1,5 +1,5 @@
 (META (ID-CORPUS 7df2147b-9766-11e9-9852-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00317.psd,.1)
         (URL http://www.ruv.is/frett/strokkvartettinn-siggi-med-sina-fyrstu-plotu)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_vb Nýi (lemma nýr))
@@ -24,7 +24,7 @@
           (grm .))
 
 (META (ID-CORPUS 387fd468-6a1c-11e8-ade1-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00317.psd,.2)
         (URL http://www.visir.is/g/2018180609228/veik-rok-fyrir-innflaedishoftum-)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -58,7 +58,7 @@
         (grm .))
 
 (META (ID-CORPUS c6d9e53a-1fd3-11e7-aa55-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00317.psd,.3)
         (URL http://www.mbl.is/200milur/frettir/2017/04/12/skinney_inganes_opnar_bar_a_hofn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kvk Skinney (lemma Skinney)))
@@ -92,7 +92,7 @@
         (grm .))
 
 (META (ID-CORPUS bbabb4ce-280d-11e8-b024-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00317.psd,.4)
         (URL http://www.ruv.is/frett/astralir-vilja-hvita-flottamenn-fra-s-afriku)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Peter Dutton (lemma Peter Dutton)))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS 505e578f-52f8-11e9-9bcc-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00317.psd,.5)
         (URL https://www.visir.is/g/2019190339963/modric-og-ronaldo-ekki-inn-a-topp-fimm-hja-messi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (lo_et_nf_hk_vb Spænska (lemma spænskur))
@@ -153,7 +153,7 @@
         (grm .))
 
 (META (ID-CORPUS 496ff58c-4c89-11e9-9bc5-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00317.psd,.6)
         (URL https://mbl.is/frettir/innlent/2019/03/22/i_hondum_icelandair_og_wow/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
@@ -185,7 +185,7 @@
         (grm .))
 
 (META (ID-CORPUS 7b66a556-96e2-11e8-986c-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00317.psd,.7)
         (URL http://www.mbl.is/vidskipti/frettir/2018/08/03/minni_hagnadur_bankanna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Jafnframt (lemma jafnframt)))
@@ -220,7 +220,7 @@
         (grm .))
 
 (META (ID-CORPUS b4c7155d-659b-11e8-adc7-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00317.psd,.8)
         (URL http://www.visir.is/g/2018180609923/gerir-rad-fyrir-aukinni-horku-a-naesta-kjortimabili)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Menn (lemma maður)))
@@ -254,7 +254,7 @@
         (grm .))
 
 (META (ID-CORPUS a8c06109-70bf-11e9-981e-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00317.psd,.9)
         (URL https://www.visir.is/g/2019190509209/engin-sameiginleg-yfirlysing-nordurskautsradsins-vegna-andstodu-bandarikjanna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Leiðtogar (lemma leiðtogi))
@@ -289,7 +289,7 @@
         (grm .))
 
 (META (ID-CORPUS 78c2f206-75ca-11e9-9823-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00317_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00317.psd,.10)
         (URL https://www.frettabladid.is/frettir/forstodukona-nesvalla-tvaer-hlidar-alltaf-a-ollum-malum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))

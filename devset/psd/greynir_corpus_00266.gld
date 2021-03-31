@@ -1,5 +1,5 @@
 (META (ID-CORPUS 4964a48d-ca39-11e6-8e4c-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00266.psd,.1)
         (URL http://www.ruv.is/frett/slokkvilid-hefur-i-nogu-ad-snuast)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_hk_p3 Þau (lemma það)))
@@ -21,7 +21,7 @@
         (grm .))
 
 (META (ID-CORPUS e7558bca-44b3-11e8-b0ae-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00266.psd,.2)
         (URL http://www.ruv.is/frett/sigurdur-i-farbann-i-stad-gaesluvardhalds)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kvk_gr Lögreglan (lemma lögregla))
@@ -43,7 +43,7 @@
         (grm .))
 
 (META (ID-CORPUS dca86814-eb05-11e7-b894-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00266.psd,.3)
         (URL http://www.visir.is/g/2017171229218/flug-elda-syningin-vikur-fyrir-leysi-geisla-syningu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Yfirvöld (lemma yfirvald))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS 8001a62f-c127-11e6-8e28-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00266.psd,.4)
         (URL http://www.ruv.is/frett/haelisleitandi-hotadi-ad-kveikja-i-ser-1)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Slökkviliðið (lemma slökkvilið)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS 411944a8-e96d-11e6-8e82-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00266.psd,.5)
         (URL https://www.innanrikisraduneyti.is/frettir/raeda-um-taekifaeri-og-leidir-til-ad-styrkja-sveitarstjornarstigid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Verkefnisstjórnin (lemma verkefnisstjórn)
@@ -113,7 +113,7 @@
         (grm .))
 
 (META (ID-CORPUS c0309bae-b750-11e8-98c8-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00266.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2018/09/13/skrida_fell_i_ferdamannaparadis/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_kk_p3 Þeir (lemma hann)))
@@ -135,7 +135,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 27307b9e-4eed-11e9-9bc8-04014c605401.20)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00266.psd,.7)
         (URL https://www.visir.is/g/2019190329258/mildum-hoggid-verjum-storfin-og-faum-ferdamenn-til-ad-stoppa-lengur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Engin (lemma enginn))
@@ -158,7 +158,7 @@
         (grm .))
 
 (META (ID-CORPUS 824bda6f-a5a2-11e6-beab-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00266.psd,.8)
         (URL http://www.visir.is/snapchat-stjarnan-aronmola-opnar-sig-um-thunglyndi--var-mjog-nalaegt-thvi-ad-fyrirfara-mer-/article/2016161108998)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -180,7 +180,7 @@
         (grm .))
 
 (META (ID-CORPUS 205d2732-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00266.psd,.9)
         (URL http://www.ruv.is/frett/hnifjafnt-i-peru)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (to_ft_nf_kvk Þrjár (lemma þrír))
@@ -202,7 +202,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 4a7693e2-ac37-11e8-98a2-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00266_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00266.psd,.10)
         (URL http://www.visir.is/g/2018180839963/fleiri-skitugir-fifa-storlaxar-sendir-i-fangelsi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Marin (lemma Marin)))

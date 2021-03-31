@@ -1,5 +1,5 @@
 (META (ID-CORPUS 11def81c-7aa5-11e6-a2c1-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00306.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2016/09/14/hefur_ekki_studning_frakka/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_mst Fleiri (lemma margur))
@@ -30,7 +30,7 @@
         (grm .))
 
 (META (ID-CORPUS 3ad5f1f0-342f-11e8-b052-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00306.psd,.2)
         (URL http://www.visir.is/g/2018180339969/klopp-allir-moguleikar-opnir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS ef907cab-810f-11e8-aa0e-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00306.psd,.3)
         (URL http://www.mbl.is/vidskipti/frettir/2018/07/06/thorsteinn_yfir_til_wow_air_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þf Í (lemma í)))
@@ -88,7 +88,7 @@
         (grm .))
 
 (META (ID-CORPUS 1435f757-9682-11e8-986c-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00306.psd,.4)
         (URL http://www.ruv.is/frett/islenskumaelandi-bornum-faekkar-i-fellaskola)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (ADVP-DIR (ao Inn (lemma inn)))
@@ -119,7 +119,7 @@
         (grm .))
 
 (META (ID-CORPUS 8e341beb-b269-11e7-b917-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00306.psd,.5)
         (URL http://www.mbl.is/frettir/taekni/2017/10/16/nyr_galli_i_thradlausum_nettengingum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Krack (lemma Krack))
@@ -144,7 +144,7 @@
         (grm .))
 
 (META (ID-CORPUS d2c1c0c9-15f8-11e7-aa35-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00306.psd,.6)
         (URL https://www.fjarmalaraduneyti.is/frettir/fjarmalaaaetlun-2018-2022)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_evb Stærstu (lemma stór))
@@ -173,7 +173,7 @@
           (grm .))
 
 (META (ID-CORPUS 512ac136-9478-11e9-984b-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00306.psd,.7)
         (URL https://www.frettabladid.is/sport/eftirmadur-patreks-selfossi-fundinn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -204,7 +204,7 @@
         (grm .))
 
 (META (ID-CORPUS 201f3604-4533-11e6-8429-04014c605401.42)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00306.psd,.8)
         (URL http://kjarninn.is/skyring/2016-06-02-tiu-stadreyndir-um-efnahagshorfur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Þessi (lemma þessi))
@@ -235,7 +235,7 @@
         (grm .))
 
 (META (ID-CORPUS 5b02122b-97a5-11e7-b8dd-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00306.psd,.9)
         (URL http://www.mbl.is/smartland/pistlar/eddajonsdottir/2202198/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Margir (lemma margur))
@@ -267,7 +267,7 @@
         (grm .))
 
 (META (ID-CORPUS 3b46258f-9d4b-11e7-b8e9-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00306_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00306.psd,.10)
         (URL http://www.mbl.is/bill/frettir/2017/09/19/margfalda_smidi_t_roc_jeppans/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP (entity_et_nf_kk T-Roc (lemma T-Roc)))

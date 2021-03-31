@@ -1,5 +1,5 @@
 (META (ID-CORPUS 32e855b1-5c38-11e7-b82b-04014c605401.22)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00245.psd,.1)
         (URL http://www.visir.is/g/2017170628919/hvorki-saksott-ne-daemt-i-mansalsmalum)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Sérstaklega (lemma sérstaklega)))
@@ -17,7 +17,7 @@
           (grm .))
 
 (META (ID-CORPUS 23cf958d-bc94-11e7-b932-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00245.psd,.2)
         (URL http://www.visir.is/g/2017171028694/lokatolur-i-nordvesturkjordaemi-sjalfstaedisflokkurinn-missir-mann-og-piratar-detta-ut)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kk_gr Miðflokkurinn (lemma miðflokkur)))
@@ -35,7 +35,7 @@
         (grm .))
 
 (META (ID-CORPUS 780e2057-ffa6-11e7-b8b7-04014c605401.63)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00245.psd,.3)
         (URL http://www.ruv.is/frett/gjaldthrota-en-sagt-godur-fjarfestingarkostur)
         (COMMENT ))
   (S0-X (S-MAIN (IP (VP (VP (so_0_fh_p3_et_þt_gm Sagði (lemma segja)))
@@ -54,7 +54,7 @@
           (grm .))
 
 (META (ID-CORPUS 821c7a4e-a51e-11e7-b8f9-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00245.psd,.4)
         (URL https://www.forsaetisraduneyti.is/efst-a-baugi/frettir/stok-frett/2017/09/29/Afnam-tolla-og-vorugjalda-skiladi-ser-til-neytenda/)
         (COMMENT ))
   (S0 (S-HEADING (IP (NP (no_et_nf_hk Áhrif (lemma áhrif))
@@ -72,7 +72,7 @@
                        (ADVP-DATE-REL (dagsafs september 2017 (lemma september 2017))))))
 
 (META (ID-CORPUS 1ed8c1cd-ad3b-11e8-98a3-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00245.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/08/31/auknar_forvarnir_gegn_kynferdisofbeldi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Framkvæmdastjóri (lemma framkvæmdastjóri))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS ff76a9fa-cebd-11e8-9952-04014c605401.84)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00245.psd,.6)
         (URL http://www.visir.is/g/2018181019525/karlar-a-midjum-aldri-mestu-donarnir)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -110,7 +110,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f9a1282-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00245.psd,.7)
         (URL http://www.ruv.is/frett/stefnt-ad-kosningum-a-krimskaga-i-sumar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_et_nf_kk Sergei Lavrov (lemma Sergei Lavrov)))
@@ -128,7 +128,7 @@
         (grm .))
 
 (META (ID-CORPUS d79ec895-9324-11e9-9847-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00245.psd,.8)
         (URL https://www.visir.is/g/2019190629998/tiu-milljonir-an-matar-i-nordur-koreu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Þessi (lemma þessi))
@@ -148,7 +148,7 @@
         (grm .))
 
 (META (ID-CORPUS ed42c971-859a-11e7-b8a7-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00245.psd,.9)
         (URL http://www.visir.is/g/2017170829993/lid-evropu-tharf-kraftaverk-til-ad-hirda-solheim-bikarinn-af-lidi-bandarikjanna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (VP (so_0_lhþt_et_nf_hk Sýnt (lemma sýna))))
@@ -166,7 +166,7 @@
                         (ADVP-TIMESTAMP-REL (tími klukkan 16:00 (lemma klukkan 16:00)))))))
 
 (META (ID-CORPUS 7699447c-e737-11e6-8e80-04014c605401.46)
-        (ID-LOCAL greynir_corpus_00245_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00245.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/01/30/strakarnir_sem_landa_aflanum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Fólk (lemma fólk)))

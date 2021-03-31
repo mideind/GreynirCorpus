@@ -1,5 +1,5 @@
 (META (ID-CORPUS a6c738af-48cb-11e8-b0c6-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00103.psd,.1)
+        (ID-LOCAL greynir_corpus_00103.psd,.1)
         (URL http://www.ruv.is/frett/real-kom-til-baka-og-vann-i-thyskalandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_ft_nf_kk Bæjarar (lemma Bæjari)))
@@ -20,7 +20,7 @@
       (grm .))
 
 (META (ID-CORPUS ba72cfb7-7bfc-11e6-a2c1-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00103.psd,.2)
+        (ID-LOCAL greynir_corpus_00103.psd,.2)
         (URL http://www.mbl.is/sport/golf/2016/09/16/aldrei_fleiri_reynt_vid_evropumotarodina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Haraldur Franklín Magnús (lemma Haraldur Franklín Magnús)))
@@ -39,7 +39,7 @@
       (grm .))
 
 (META (ID-CORPUS 7bb8d975-b9c7-11e7-b928-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00103.psd,.3)
+        (ID-LOCAL greynir_corpus_00103.psd,.3)
         (URL http://www.ruv.is/frett/hafarnarstofninn-ekki-staerri-sidan-um-1900)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -62,7 +62,7 @@
       (grm .))
 
 (META (ID-CORPUS 9b25d25f-5a32-11e6-8441-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00103.psd,.4)
+        (ID-LOCAL greynir_corpus_00103.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2016/08/04/ny_vatnslogn_undir_miklubraut/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (PP (P (fs_þf Um (lemma um)))
@@ -85,7 +85,7 @@
       (grm .))
 
 (META (ID-CORPUS bb327bcf-8a79-11e8-aa18-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00103.psd,.5)
+        (ID-LOCAL greynir_corpus_00103.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2018/07/18/myndudu_hver_annan_ad_naudga/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Stúlkan (lemma stúlka)))
@@ -108,7 +108,7 @@
       (grm .))
 
 (META (ID-CORPUS ae1e3bd2-a15c-11e8-9886-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00103.psd,.6)
+        (ID-LOCAL greynir_corpus_00103.psd,.6)
         (URL http://www.visir.is/g/2018180819187/johann-berg-engar-ahyggjur-af-thvi-ad-spila-tvisvar-i-viku)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -130,7 +130,7 @@
       (grm .))
 
 (META (ID-CORPUS b018cb4f-c248-11e8-9904-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00103.psd,.7)
+        (ID-LOCAL greynir_corpus_00103.psd,.7)
         (URL http://www.mbl.is/frettir/erlent/2018/09/27/thar_sem_ringulreid_er_hid_hefdbundna/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_nf_kk Trump (lemma Trump)))
@@ -153,7 +153,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f5bca24-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00103.psd,.8)
+        (ID-LOCAL greynir_corpus_00103.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2016/02/10/hotar_ad_haetta_ad_adstoda_ukrainu/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -175,7 +175,7 @@
       (grm .))
 
 (META (ID-CORPUS 465f68a5-914b-11e9-9846-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00103.psd,.9)
+        (ID-LOCAL greynir_corpus_00103.psd,.9)
         (URL https://www.frettabladid.is/frettir/italskur-george-clooney-handtekinn-fyrir-fjarsvik/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_et_nf_hk Galdelli (lemma Galdelli)))
@@ -199,7 +199,7 @@
         (grm .))
 
 (META (ID-CORPUS 1d1265c1-cf9c-11e6-8e56-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00103.psd,.10)
+        (ID-LOCAL greynir_corpus_00103.psd,.10)
         (URL http://kvennabladid.is/2016/12/31/dropar-i-hafid-volvuspa-ars-herrans-2017/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Hér (lemma hér))

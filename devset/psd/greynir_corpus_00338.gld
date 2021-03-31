@@ -1,5 +1,5 @@
 (META (ID-CORPUS 88a89d26-f9bd-11e7-b8af-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00338.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2018/01/15/hellisheidi_og_threngsli_ofaer/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Lokun (lemma lokun))
@@ -47,7 +47,7 @@
         (grm .))
 
 (META (ID-CORPUS 0fb839e5-36a8-11e8-b061-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00338.psd,.2)
         (URL http://www.visir.is/g/2018180409904/ljosmaedur-ad-bugast)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -95,7 +95,7 @@
         (grm .))
 
 (META (ID-CORPUS e9eac8ee-98fa-11e8-9874-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00338.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2018/08/05/lokagrein_heimsleikanna_i_beinni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Katrín Tanja (lemma Katrín Tanja)))
@@ -144,7 +144,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 4e9a5f31-b8a6-11e7-b923-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00338.psd,.4)
         (URL http://www.ruv.is/frett/finn-ekkert-fyrir-pressu-fra-odrum)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-SOURCE (IP (NP (lo_et_nf_kk_sb Aðspurður (lemma aðspurður))
@@ -192,7 +192,7 @@
                      (grm . (lemma .)))))
 
 (META (ID-CORPUS 5a1edbd9-4557-11e8-b0b1-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00338.psd,.5)
         (URL https://kjarninn.is/skodun/2018-04-20-katrin-og-bjarni-ekki-nota-kolefnisgjaldid-til-ad-borga-bensinreikninginn-hans-asmundar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá))
@@ -242,7 +242,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS d311d7c2-10e9-11e9-9ae6-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00338.psd,.6)
         (URL http://www.ruv.is/frett/ihugar-ad-beita-neydarlogum-til-ad-reisa-mur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Fundur (lemma fundur))
@@ -289,7 +289,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS ad20a29d-a472-11e7-b8f8-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00338.psd,.7)
         (URL http://www.mbl.is/frettir/erlent/2017/09/28/starfsmadur_hjo_hofud_af_vidskiptavini/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk_gr Starfsmaðurinn (lemma starfsmaður))
@@ -340,7 +340,7 @@
         (grm .))
 
 (META (ID-CORPUS 96e48faa-9285-11e9-9846-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00338.psd,.8)
         (URL http://www.hringbraut.is/frettir/dora-bjort-eg-sakadi-eythor-ekki-um-eitt-ne-neitt-vigdis-til-aevarandi-skammar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -394,7 +394,7 @@
         (grm .))
 
 (META (ID-CORPUS 9157fde2-742b-11e9-9822-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00338.psd,.9)
         (URL http://www.hringbraut.is/frettir/sigga-beinteins-thessi-leikaraskapur-for-svo-gjorsamlega-ur-bondunum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -448,7 +448,7 @@
         (grm .))
 
 (META (ID-CORPUS 7cc81d38-4b18-11e9-9bc2-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00338_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00338.psd,.10)
         (URL https://mbl.is/frettir/innlent/2019/03/20/katrin_guggladi_hamingjuna/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st Og (lemma og))))

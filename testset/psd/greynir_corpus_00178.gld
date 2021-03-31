@@ -1,5 +1,5 @@
 (META (ID-CORPUS 20c31c10-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00178.psd,.1)
+        (ID-LOCAL greynir_corpus_00178.psd,.1)
         (URL http://kjarninn.is/frettir/2016-04-05-katrin-jakobs-kosningar-og-bein-adkoma-almennings/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Eins og kunnugt er (lemma eins og kunnugt er)))
@@ -28,7 +28,7 @@
       (grm .))
 
 (META (ID-CORPUS c048ab6c-4e34-11e9-9bc8-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00178.psd,.2)
+        (ID-LOCAL greynir_corpus_00178.psd,.2)
         (URL http://www.ruv.is/frett/vantar-vidbrogd-vid-afollum-i-fjarmalaaaetlun)
         (COMMENT ))
   (S0-X (S-PREFIX (C (st En (lemma en))))
@@ -64,7 +64,7 @@
         (grm .))
 
 (META (ID-CORPUS d2eb7f06-904f-11e9-9842-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00178.psd,.3)
+        (ID-LOCAL greynir_corpus_00178.psd,.3)
         (URL https://www.dv.is/fokus/2019/06/16/elly-kvedur-synir-ellyjar-fengu-aletrun-modur-sinnar-ad-gjof-eg-er-gifurlega-thakklat-fyrir-ad-hafa-verid-treyst-fyrir-thvi-ad-leika-thessa-mognudu-konu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Fljótlega (lemma fljótlega)))
@@ -98,7 +98,7 @@
       (grm .))
 
 (META (ID-CORPUS 1ddce86f-859f-11e9-9831-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00178.psd,.4)
+        (ID-LOCAL greynir_corpus_00178.psd,.4)
         (URL http://www.ruv.is/frett/tveir-motmaelendur-vegnir-og-tiu-saerdir-i-sudan)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (eo_est Minnst (lemma lítið))
@@ -135,7 +135,7 @@
       (grm .))
 
 (META (ID-CORPUS 0d1d1e3a-df4b-11e8-999e-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00178.psd,.5)
+        (ID-LOCAL greynir_corpus_00178.psd,.5)
         (URL http://www.visir.is/g/2018181109688/sagdur-haettulegur-islamisti-og-likid-leyst-upp-i-syru-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Mike Pompeo (lemma Mike Pompeo))
@@ -168,7 +168,7 @@
       (grm .))
 
 (META (ID-CORPUS d4bf3743-9499-11e7-b8d1-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00178.psd,.6)
+        (ID-LOCAL greynir_corpus_00178.psd,.6)
         (URL http://www.ruv.is/frett/rottuger-redist-a-unglingsstulku)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Faðir (lemma faðir))
@@ -204,7 +204,7 @@
       (grm .))
 
 (META (ID-CORPUS 256344a2-44cf-11e9-9baf-04014c605401.73)
-        (ID-LOCAL reynir_corpus_00178.psd,.7)
+        (ID-LOCAL greynir_corpus_00178.psd,.7)
         (URL https://kjarninn.is/skyring/2019-03-12-mogulegur-glundrodi-framundan-eftir-afellisdom-mannrettindadomstols/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kk Héraðsdómur (lemma Héraðsdómur)))
@@ -237,7 +237,7 @@
               (grm .)))
 
 (META (ID-CORPUS a5078f63-30b4-11e7-b7ce-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00178.psd,.8)
+        (ID-LOCAL greynir_corpus_00178.psd,.8)
         (URL http://www.ruv.is/frett/makedonia-island-i-kvold-a-ruv)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (NP (no_et_þgf_kvk Viku (lemma vika))
@@ -275,7 +275,7 @@
       (grm .))
 
 (META (ID-CORPUS 21e2f7af-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00178.psd,.9)
+        (ID-LOCAL greynir_corpus_00178.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/05/28/fjolmenning_i_horpu_i_dag/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -313,7 +313,7 @@
       (grm .))
 
 (META (ID-CORPUS e2bbdc76-aa09-11e8-989e-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00178.psd,.10)
+        (ID-LOCAL greynir_corpus_00178.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2018/08/27/almenningssamgongur_gerdar_adgengilegri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Ásmundur Einar Daðason (lemma Ásmundur Einar Daðason))

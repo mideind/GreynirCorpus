@@ -1,5 +1,5 @@
 (META (ID-CORPUS 40915637-0576-11e8-80fa-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00142.psd,.1)
+        (ID-LOCAL greynir_corpus_00142.psd,.1)
         (URL http://www.ruv.is/frett/kolumbiustjorn-sleit-fridarvidraedum-vid-eln)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_lhþt_et Vitað (lemma vita)))
@@ -28,7 +28,7 @@
       (grm .))
 
 (META (ID-CORPUS e3ae78e7-5f1b-11e6-8447-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00142.psd,.2)
+        (ID-LOCAL greynir_corpus_00142.psd,.2)
         (URL http://www.ruv.is/frett/segist-ekki-vera-ad-skora-radherrann-a-holm)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -55,7 +55,7 @@
       (grm .))
 
 (META (ID-CORPUS 3b117eff-ef99-11e6-8e8d-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00142.psd,.3)
+        (ID-LOCAL greynir_corpus_00142.psd,.3)
         (URL http://www.visir.is/ungir-midverdir-og-markvordur-fjolnis-skelltu-i-las-a-leid-i-urslitaleikinn/article/2017170219939)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -82,7 +82,7 @@
       (grm .))
 
 (META (ID-CORPUS 0ca9d72e-3457-11e9-9b96-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00142.psd,.4)
+        (ID-LOCAL greynir_corpus_00142.psd,.4)
         (URL https://www.frettabladid.is/frettir/handtindu-22-tonn-af-lambahornum-eftir-bilveltu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Meðlimir (lemma meðlimur))
@@ -111,7 +111,7 @@
       (grm .))
 
 (META (ID-CORPUS e1ecaa8e-9508-11e6-a2d9-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00142.psd,.5)
+        (ID-LOCAL greynir_corpus_00142.psd,.5)
         (URL http://kjarninn.is/frettir/2016-10-18-bakkavararbraedur-reyna-ad-eignast-lysingu-ny/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (PP (P (fs_þgf Í (lemma í)))
@@ -139,7 +139,7 @@
       (grm .))
 
 (META (ID-CORPUS 1ee4f9b4-73e0-11e7-b86e-04014c605401.67)
-        (ID-LOCAL reynir_corpus_00142.psd,.6)
+        (ID-LOCAL greynir_corpus_00142.psd,.6)
         (URL http://www.mbl.is/vidskipti/frettir/2017/07/28/vorumerkid_staerra_en_budin_a_regent_street/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st Og (lemma og))))
@@ -167,7 +167,7 @@
       (grm .))
 
 (META (ID-CORPUS 7c795f59-a2f9-11e7-b8f6-04014c605401.41)
-        (ID-LOCAL reynir_corpus_00142.psd,.7)
+        (ID-LOCAL greynir_corpus_00142.psd,.7)
         (URL http://eyjan.pressan.is/frettir/2017/09/26/uppreist-aeru-politiskar-akvardanir-eda-almennar-lagareglur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS 59ccbf37-b040-11e7-b915-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00142.psd,.8)
+        (ID-LOCAL greynir_corpus_00142.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2017/10/13/greidi_2_milljonir_i_vangoldin_laun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Forsvarsmaður (lemma forsvarsmaður))
@@ -224,7 +224,7 @@
       (grm .))
 
 (META (ID-CORPUS 0623f0b3-21e8-11e7-aa57-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00142.psd,.9)
+        (ID-LOCAL greynir_corpus_00142.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2017/04/15/thrju_i_haldi_vegna_hnifstungu_2/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (to_ft_nf_hk Þrjú (lemma þrír)))
@@ -252,7 +252,7 @@
         (grm .))
 
 (META (ID-CORPUS 7e7a2b31-59ac-11e6-843f-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00142.psd,.10)
+        (ID-LOCAL greynir_corpus_00142.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2016/08/03/bannid_hefur_ekki_borid_arangur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Kristinn (lemma Kristinn)))

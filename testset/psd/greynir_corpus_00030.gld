@@ -1,5 +1,5 @@
 (META (ID-CORPUS 88b7b01c-1908-11e7-aa3d-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00030.psd,.1)
+        (ID-LOCAL greynir_corpus_00030.psd,.1)
         (URL http://www.visir.is/g/2017170409674/hinn-grunadi-talinn-vera-fra-kyrgistan)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -13,7 +13,7 @@
       (grm .))
 
 (META (ID-CORPUS a7fc74a1-23d8-11e8-b019-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00030.psd,.2)
+        (ID-LOCAL greynir_corpus_00030.psd,.2)
         (URL http://www.visir.is/g/2018180308742/bjarni-hilmar-lagdi-rikid-vegna-ologmaetrar-handtoku)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Bjarni (lemma Bjarni)))
@@ -27,7 +27,7 @@
       (grm .))
 
 (META (ID-CORPUS c6500bfb-7b0b-11e9-9828-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00030.psd,.3)
+        (ID-LOCAL greynir_corpus_00030.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/05/20/vekjaraklukka_sem_aetti_ad_vekja_okkur_oll/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -40,7 +40,7 @@
       (grm .))
 
 (META (ID-CORPUS 1e65d11e-196d-11e7-aa3f-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00030.psd,.4)
+        (ID-LOCAL greynir_corpus_00030.psd,.4)
         (URL http://www.visir.is/g/2017170409565/dyralaeknir-fiskisjukdoma-hja-mast-hefur-personulegan-hag-af-vexti-laxeldis)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Umræddur (lemma umræddur))
@@ -53,7 +53,7 @@
       (grm .))
 
 (META (ID-CORPUS b0e8426a-9cfd-11e6-bea1-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00030.psd,.5)
+        (ID-LOCAL greynir_corpus_00030.psd,.5)
         (URL http://kvennabladid.is/2016/10/28/bjarni-segir-70-folks-i-raun-bagga-a-rikinu-er-vardar-tekjuskatt/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (eo Aðeins (lemma aðeins))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS ac2244d4-41ae-11e9-9baa-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00030.psd,.6)
+        (ID-LOCAL greynir_corpus_00030.psd,.6)
         (URL http://www.visir.is/g/2019190308935/thing-madur-saenska-mid-flokksins-haettir-a-thingi-vegna-o-a-saettan-legrar-hegdunar-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -80,7 +80,7 @@
       (grm .))
 
 (META (ID-CORPUS 6f93f965-18ae-11e8-814f-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00030.psd,.7)
+        (ID-LOCAL greynir_corpus_00030.psd,.7)
         (URL https://www.fjarmalaraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/02/23/Rikissjodur-selur-13-hlut-i-Arion-banka-til-Kaupskila-/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Áætlaður (lemma áætlaður))
@@ -93,7 +93,7 @@
                               (no_ft_þf_kk 150 milljarða króna (lemma 150 milljarðar króna))))))))
 
 (META (ID-CORPUS 2099cbba-4533-11e6-8429-04014c605401.100)
-        (ID-LOCAL reynir_corpus_00030.psd,.8)
+        (ID-LOCAL greynir_corpus_00030.psd,.8)
         (URL http://www.mbl.is/sport/enski/2016/02/14/arsenal_tryggdi_ser_sigur_a_sidustu_sekundunni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Jamie Vardy (lemma Jamie Vardy)))
@@ -106,7 +106,7 @@
       (grm .))
 
 (META (ID-CORPUS ec18ca4b-5438-11e8-b0f4-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00030.psd,.9)
+        (ID-LOCAL greynir_corpus_00030.psd,.9)
         (URL http://www.visir.is/g/2018180519945/braud-oftar-i-ruslid-thvi-svinabu-vilja-thad-ekki)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Íþróttafélög (lemma íþróttafélag)))
@@ -119,7 +119,7 @@
       (grm .))
 
 (META (ID-CORPUS 6939cbcd-5668-11e7-b81c-04014c605401.31)
-        (ID-LOCAL reynir_corpus_00030.psd,.10)
+        (ID-LOCAL greynir_corpus_00030.psd,.10)
         (URL http://www.visir.is/g/2017170629824/undur-ad-upplifa-lifid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Líf (lemma líf))

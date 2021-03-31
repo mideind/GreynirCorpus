@@ -1,5 +1,5 @@
 (META (ID-CORPUS f8d62253-0c1f-11e8-811e-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00294.psd,.1)
         (URL https://kjarninn.is/skodun/2018-02-06-olinulegar-samgongur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þessa dagana (lemma þessa dagana)))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS 94879df4-98b1-11e9-9855-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00294.psd,.2)
         (URL https://www.frettabladid.is/lifid/kongur-poppsins-og-tiskunnar/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -55,7 +55,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 1ff7ee68-4533-11e6-8429-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00294.psd,.3)
         (URL http://www.mbl.is/smartland/heimili/2016/03/22/158_milljonir_fyrir_klikkad_utsyni/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þgf Í (lemma í)))
@@ -82,7 +82,7 @@
         (grm .))
 
 (META (ID-CORPUS abfbe006-01cf-11e8-b8bf-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00294.psd,.4)
         (URL http://www.visir.is/g/2018180129315/till-fludi-til-brasiliu-eftir-ad-hafa-verid-stunginn-i-bakid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá))
@@ -110,7 +110,7 @@
         (grm .))
 
 (META (ID-CORPUS 17981991-87d9-11e9-9835-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00294.psd,.5)
         (URL https://www.dv.is/frettir/2019/06/05/hrafnhildur-er-brjalud-ur-vis-ofnalagnir-sprungu-mannleg-samskipti-eru-ekki-inni-hja-thessu-skitafyrirtaeki/)
         (COMMENT ))
   (S0-X (S-MAIN (PP (P (fs_þgf Með (lemma Með)))
@@ -130,7 +130,7 @@
                   (grm … (lemma …))))
 
 (META (ID-CORPUS 1fe7b298-4533-11e6-8429-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00294.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2016/06/14/island_hafdi_getu_og_vilja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (ADVP (ao Hins vegar (lemma hins vegar)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS 84f3858d-ec31-11e6-8e84-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00294.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/02/06/engir_fundir_i_sjonmali/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-ES (fn_et_nf_hk Það (lemma sá)))
@@ -180,7 +180,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 38efa176-4163-11e7-b7f8-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00294.psd,.8)
         (URL http://www.visir.is/g/2017170529331/sandra-maria-med-fyrsta-markid-sitt-og-thor-ka-vann-sjotta-leikinn-i-rod))
   (S0 (S-MAIN (NP (entity_et_nf_kk Þór (lemma Þór))
                     (grm / (lemma /))
@@ -207,7 +207,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS e5baf63d-13a9-11e7-aa2e-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00294.psd,.9)
         (URL http://www.visir.is/okeypis-fraedslukvold-um-thunglyndi/article/2017170328868)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þgf Eftir (lemma eftir)))
@@ -235,7 +235,7 @@
         (grm .))
 
 (META (ID-CORPUS ee0615b5-38df-11e7-b7e4-04014c605401.56)
-        (ID-LOCAL reynir_corpus_00294_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00294.psd,.10)
         (URL http://eyjan.pressan.is/frettir/2017/05/14/80-ar-fra-strandi-loch-morar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ártal Árið 2012 (lemma Árið 2012)))

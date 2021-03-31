@@ -1,5 +1,5 @@
 (META (ID-CORPUS 126d55ae-bbf9-11e7-b930-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00206.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2017/10/28/tvaer_sprengjur_sprungu_i_somaliu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Ekki (lemma ekki)))
@@ -10,7 +10,7 @@
         (grm .))
 
 (META (ID-CORPUS d23ba17d-b01e-11e7-b915-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00206.psd,.2)
         (URL http://www.visir.is/g/2017171019460/thrir-mosfellsbaeir-a-leid-i-framkvaemd)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kvk Aðrar (lemma annar))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS b47d2c05-9504-11e8-9868-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00206.psd,.3)
         (URL http://www.visir.is/g/2018180739774/fyrsti-sigur-u18-strakanna-kom-gegn-luxemborg)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -34,7 +34,7 @@
         (grm .))
 
 (META (ID-CORPUS 8440654c-d8a5-11e6-8e62-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00206.psd,.4)
         (URL http://www.visir.is/hjartnaemt-bref-ronaldinho--fardu-thina-eigin-leid-og-vertu-frjals/article/2017170119602)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Ronaldinho (lemma Ronaldinho)))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS 4edd4cab-992f-11e7-b8dd-04014c605401.181)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00206.psd,.5)
         (URL https://www.fjarmalaraduneyti.is/rikisstjorn/thingmalaskra/)
         (COMMENT ))
   (S0 (S-HEADING (NP (no_et_nf_kvk Skýrsla (lemma skýrsla))
@@ -56,7 +56,7 @@
         (grm .))
 
 (META (ID-CORPUS 32376fd3-402f-11e8-b08f-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00206.psd,.6)
         (URL http://www.visir.is/g/2018180419462/leik-lokid-kr-haukar-85-79-kr-i-urslit-i-fimmta-arid-i-rod)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (no_et_nf_kk Eyrbekkingur (lemma Eyrbekkingur)))
@@ -67,7 +67,7 @@
                                         (NP (sérnafn_et_þgf_hk Suðurlandi (lemma Suðurland))))))))
 
 (META (ID-CORPUS fef4a63f-fb10-11e7-b8b0-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00206.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2018/01/16/threngslin_og_hellisheidi_opin_fyrir_umferd/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk Lyngdalsheiði (lemma Lyngdalsheiði)))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS bbffd9bd-1e1b-11e9-9b4e-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00206.psd,.8)
         (URL http://www.mbl.is/vidskipti/frettir/2019/01/22/metfjoldi_skemmtiferdaskipa/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Sögulegur (lemma sögulegur))
@@ -88,7 +88,7 @@
         (grm .))
 
 (META (ID-CORPUS 13e0958a-7a21-11e9-9828-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00206.psd,.9)
         (URL https://mbl.is/ferdalog/frettir/2019/05/19/svipmyndir_fra_saltey/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -100,7 +100,7 @@
         (grm .))
 
 (META (ID-CORPUS 26758a94-ae43-11e8-98a9-04014c605401.59)
-        (ID-LOCAL greynir_corpus_00206_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00206.psd,.10)
         (URL http://www.mbl.is/smartland/samskipti/2018/09/01/hversu_oft_er_edlilegt_ad_hafa_mok/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Börn (lemma barn))

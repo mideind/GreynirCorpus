@@ -1,5 +1,5 @@
 (META (ID-CORPUS 2c12f6cf-423d-11e9-9baa-04014c605401.164)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00270.psd,.1)
         (URL https://www.frettabladid.is/frettir/hvernig-gat-etta-komi-fyrir-okkur)
         (COMMENT ))
   (S0 (S-MAIN (VP (NP-SUBJ (no_et_nf_hk_gr Slysið (lemma Slys)))
@@ -23,7 +23,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS ec4fb3e2-7dcd-11e6-a2c3-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00270.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2016/09/18/sprengingin_i_new_york_hrydjuverk/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (PP (P (fs_þgf Með (lemma Með)))
@@ -46,7 +46,7 @@
     (grm .))
 
 (META (ID-CORPUS 85b76d60-44ab-11e8-b0ae-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00270.psd,.3)
         (URL http://www.ruv.is/frett/dagur-aftur-i-stjornuna-hlynur-framlengir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (to_ft_nf_kk Tveir (lemma tveir))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 9f6a2118-5b7b-11e9-9bd8-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00270.psd,.4)
         (URL https://mbl.is/vidskipti/frettir/2019/04/10/taka_757_200_a_leigu_og_fella_nidur_flug/)
         (COMMENT ))
   (S0 (S-MAIN (VP (NP-PRD (so_0_lhþt_et Gert (lemma gera)))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS da23c3b4-553e-11e7-b819-04014c605401.212)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00270.psd,.5)
         (URL https://www.forsaetisraduneyti.is/default.aspx?PageID=eee58454-2976-11e6-80c7-005056bc217f)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Niðurstöður (lemma niðurstaða))
@@ -116,7 +116,7 @@
         (grm .))
 
 (META (ID-CORPUS 9bc5acf7-cb73-11e6-8e4c-04014c605401.110)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00270.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2016/12/26/grimmd_manneskjunar_situr_eftir_5/)
         (COMMENT ))
   (S0 (S-PREFIX (C (ao Þannig (lemma þannig))
@@ -139,7 +139,7 @@
         (grm .))
 
 (META (ID-CORPUS 084f2698-84d8-11e6-a2cb-04014c605401.53)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00270.psd,.7)
         (URL http://www.ruv.is/reykholahreppur)
         (COMMENT ))
   (S0 (S-MAIN (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -162,7 +162,7 @@
         (grm .))
 
 (META (ID-CORPUS 22b7adb3-b97e-11e6-b578-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00270.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2016/12/03/graenmetisfaedi_gott_fyrir_ithrottafolk/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Íþróttamenn (lemma íþróttamaður))
@@ -184,7 +184,7 @@
                                               (grm .))))))))
 
 (META (ID-CORPUS b63e6b9e-adf7-11e8-98a8-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00270.psd,.9)
         (URL http://www.visir.is/g/2018180909950/leystu-radgatuna-um-draugaskipid-i-mjanmar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -207,7 +207,7 @@
         (grm .))
 
 (META (ID-CORPUS 2070c322-4533-11e6-8429-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00270_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00270.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2016/02/05/jatadi_eftir_ad_hafa_thekkt_sig_a_upptoku/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þf Við (lemma við)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS a5a03e09-f8fa-11e6-8e9b-04014c605401.86)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00222.psd,.1)
         (URL http://www.visir.is/upphafsmadur-ananas-pizzunnar--forseti-islands-var-ekki-faeddur-thegar-fyrsta-ananas-pizzan-for-i-ofninn/article/2017170229644)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -14,7 +14,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d8caa88-de75-11e6-8e6d-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00222.psd,.2)
         (URL http://www.visir.is/umfjollun-makedonia---island-27-27-strakarnir-kostudu-fra-ser-sigrinum/article/2017170118511)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-OBJ (lo_et_þf_hk_vb Fyrsta (lemma fyrstur))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS c4c9a0c7-86ca-11e8-aa10-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00222.psd,.3)
         (URL http://www.visir.is/g/2018180719487/bein-utsending-kvoldfrettir-stodvar-2)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Heimasætan (lemma heimasæta))
@@ -43,7 +43,7 @@
         (grm .))
 
 (META (ID-CORPUS 1337b353-9656-11e7-b8d9-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00222.psd,.4)
         (URL http://www.mbl.is/smartland/heilsa/2017/09/10/mest_stressandi_ad_eiga_thrju_born/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Hins vegar (lemma Hins vegar)))
@@ -57,7 +57,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS a243be5a-7a59-11e6-a2c1-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00222.psd,.5)
         (URL http://www.visir.is/kvikmyndahatidin-northern-wave-faerd-i-frystiklefann-a-rifi-/article/2016160919581)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Kvikmyndagerðarkonan (lemma kvikmyndagerðarkona)
@@ -71,7 +71,7 @@
                 (grm .)))
 
 (META (ID-CORPUS 64470336-fd3e-11e7-b8b4-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00222.psd,.6)
         (URL http://www.visir.is/g/2018180118603/snua-ser-ad-kina-og-russlandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -86,7 +86,7 @@
         (grm .))
 
 (META (ID-CORPUS b41308f5-ccbe-11e8-994b-04014c605401.44)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00222.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2018/10/10/hver_er_eg_og_hvar_a_eg_heima/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Því (lemma því)))
@@ -101,7 +101,7 @@
         (grm .))
 
 (META (ID-CORPUS 9861eabf-64e9-11e7-b843-04014c605401.35)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00222.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2017/07/09/a_bolakafi_um_bord_i_vopni_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -115,7 +115,7 @@
         (grm .))
 
 (META (ID-CORPUS 8a181001-b35a-11e8-98bb-04014c605401.105)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00222.psd,.9)
         (URL http://www.visir.is/g/2018180909092/heldu-ad-eg-vaeri-klikkadur-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_vb Fyrstu (lemma fyrstur))
@@ -130,7 +130,7 @@
         (grm .))
 
 (META (ID-CORPUS 21bc91c6-4533-11e6-8429-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00222_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00222.psd,.10)
         (URL http://kjarninn.is/frettir/2016-06-19-karlifornia-er-ordid-sjotta-staersta-hagkerfi-i-heimi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Bandaríkin (lemma bandaríki))

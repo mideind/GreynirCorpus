@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1f15aa38-4533-11e6-8429-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00113.psd,.1)
+        (ID-LOCAL greynir_corpus_00113.psd,.1)
         (URL http://www.mbl.is/vidburdir/tonlist/vidburdur/10246/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_nf_kk Einar Ágúst (lemma Einar Ágúst))
@@ -24,7 +24,7 @@
         (grm .))
 
 (META (ID-CORPUS 070d4864-af32-11e6-963f-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00113.psd,.2)
+        (ID-LOCAL greynir_corpus_00113.psd,.2)
         (URL http://www.ruv.is/frett/hef-verid-heimtur-ur-helju-vidtal)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Þyrla (lemma þyrla))
@@ -49,7 +49,7 @@
       (grm .))
 
 (META (ID-CORPUS c367e238-347c-11e9-9b96-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00113.psd,.3)
+        (ID-LOCAL greynir_corpus_00113.psd,.3)
         (URL https://kjarninn.is/frettir/2019-02-19-hvalveidar-heimiladar-naestu-fimm-arin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Við (lemma við)))
@@ -75,7 +75,7 @@
       (grm .))
 
 (META (ID-CORPUS 84653a69-13a1-11e7-aa2e-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00113.psd,.4)
+        (ID-LOCAL greynir_corpus_00113.psd,.4)
         (URL http://www.mbl.is/vidskipti/frettir/2017/03/28/elon_musk_stofnar_nytt_fyrirtaeki/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Fyrirtækið (lemma fyrirtæki)))
@@ -100,7 +100,7 @@
       (grm .))
 
 (META (ID-CORPUS d645b36c-f8fe-11e6-8e9b-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00113.psd,.5)
+        (ID-LOCAL greynir_corpus_00113.psd,.5)
         (URL http://www.ruv.is/frett/sjarmatroll-og-olikindatol)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Kannanir (lemma könnun)))
@@ -125,7 +125,7 @@
       (grm .))
 
 (META (ID-CORPUS d953b3d1-1533-11e7-aa34-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00113.psd,.6)
+        (ID-LOCAL greynir_corpus_00113.psd,.6)
         (URL http://www.mbl.is/bill/frettir/2017/03/30/bl_frumsynir_verdlaunabil/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kk Hyundai (lemma Hyundai))
@@ -150,7 +150,7 @@
         (grm .))
 
 (META (ID-CORPUS c852792a-643d-11e9-9bee-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00113.psd,.7)
+        (ID-LOCAL greynir_corpus_00113.psd,.7)
         (URL https://mbl.is/frettir/erlent/2019/04/21/taldi_sri_lanka_oruggan_stad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Hótelið (lemma hótel))
@@ -175,7 +175,7 @@
       (grm .))
 
 (META (ID-CORPUS 779d43ec-87e1-11e7-b8ac-04014c605401.160)
-        (ID-LOCAL reynir_corpus_00113.psd,.8)
+        (ID-LOCAL greynir_corpus_00113.psd,.8)
         (URL http://www.visir.is/g/2017170818840/game-of-throne-kukur-maetir-viftu)
         (COMMENT ))
   (S0 (S-QUOTE (CP-SOURCE (NP-SUBJ (abbrev S (lemma S)))
@@ -198,7 +198,7 @@
                          (grm “))))
 
 (META (ID-CORPUS 6da0c793-f64d-11e7-b8a7-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00113.psd,.9)
+        (ID-LOCAL greynir_corpus_00113.psd,.9)
         (URL http://www.visir.is/g/2018180119860/okkar-menn-maettir-til-split-myndband)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kk Vísir (lemma Vísir)))
@@ -222,7 +222,7 @@
         (grm .))
 
 (META (ID-CORPUS 046260c2-b1c4-11e8-98b6-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00113.psd,.10)
+        (ID-LOCAL greynir_corpus_00113.psd,.10)
         (URL http://www.visir.is/g/2018180909338/kim-pirradur-a-thvi-ad-heimurinn-trui-honum-ekki)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk_gr Embættismennirnir (lemma embættismaður)))

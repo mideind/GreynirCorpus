@@ -1,5 +1,5 @@
 (META (ID-CORPUS 4ffcab35-57af-11e9-9bd2-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00292.psd,.1)
         (URL https://www.visir.is/g/2019190409264/stud-a-forsyningu-pet-sematary)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Kötturinn (lemma köttur))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS 105686ff-508c-11e9-9bc9-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00292.psd,.2)
         (URL https://mbl.is/bill/frettir/2019/03/27/nyr_mazda3_frumsyndur/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -56,7 +56,7 @@
                                             (NP-SOURCE (no_et_þgf_kvk_gr tilkynningunni (lemma tilkynning))))))))))
 
 (META (ID-CORPUS 89c92625-0749-11e7-8eb8-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00292.psd,.3)
         (URL http://www.mbl.is/frettir/erlent/2017/03/12/otholinmodir_ad_hefja_vidraedur_vid_trump/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Peskov (lemma Peskov)))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS 652fbb1d-7845-11e8-a9f9-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00292.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/06/25/ekkert_ferdavedur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Hæg (lemma hægur))
@@ -109,7 +109,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 5395b100-8cab-11e8-aa1d-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00292.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/07/21/dagur_med_sjaldgaefan_gigtarsjukdom/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Dagur (lemma dagur)))
@@ -137,7 +137,7 @@
         (grm .))
 
 (META (ID-CORPUS 9cf6a674-c7d9-11e8-992a-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00292.psd,.6)
         (URL http://www.visir.is/g/2018181009871/island-i-mannrettindaradinu-umbaetur-koma-innan-fra)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Guðlaugur Þór (lemma Guðlaugur Þór)))
@@ -165,7 +165,7 @@
         (grm .))
 
 (META (ID-CORPUS 16044ecc-5d53-11e8-b124-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00292.psd,.7)
         (URL http://www.mbl.is/smartland/samskipti/2018/05/21/thessu_verdur_thu_ad_fylgjast_med/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -193,7 +193,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS f1cf866e-3454-11e8-b052-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00292.psd,.8)
         (URL http://www.visir.is/g/2018180339949/59-sendiradsstarfsmonnum-til-vidbotar-visad-fra-russlandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_ft_nf_kk Rússar (lemma Rússi)))
@@ -222,7 +222,7 @@
         (grm .))
 
 (META (ID-CORPUS aa04cc2b-6075-11e9-9be1-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00292.psd,.9)
         (URL https://www.frettabladid.is/frettir/gerir-upp-byltinguna-og-40-ar-a-thingi-madur-var-stundum-hraeddur-um-sig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -250,7 +250,7 @@
         (grm .))
 
 (META (ID-CORPUS ce51d319-b10f-11e8-98b5-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00292_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00292.psd,.10)
         (URL http://www.mbl.is/smartland/tiska/2018/09/05/i_buxum_vid_jakkann_i_thetta_skiptid/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (CP-QUE (C (st H vort (lemma hvort))

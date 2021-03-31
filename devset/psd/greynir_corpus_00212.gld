@@ -1,5 +1,5 @@
 (META (ID-CORPUS f51f8ffc-3e72-11e8-b085-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00212.psd,.1)
         (URL http://www.ruv.is/frett/fjoldi-karla-upplifir-metoo-sem-aras)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Menn (lemma maður)))
@@ -12,7 +12,7 @@
         (grm .))
 
 (META (ID-CORPUS 772fec7e-4e5a-11e9-9bc8-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00212.psd,.2)
         (URL https://www.visir.is/g/2019190329350/ka-bikarmeistari-annad-arid-i-rod)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf KA (lemma KA)))
@@ -25,7 +25,7 @@
         (grm .))
 
 (META (ID-CORPUS de73a8fe-8a66-11e7-b8b5-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00212.psd,.3)
         (URL http://www.visir.is/g/2017170829293/i-beinni-huddersfield-southampton-tekst-southampton-ad-stodva-huddersfield-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Píratar (lemma pírati)))
@@ -38,7 +38,7 @@
                             (NP-OBJ (no_ft_þgf_kk aðalfundi (lemma aðalfundur))))))))
 
 (META (ID-CORPUS 249245a7-3df3-11e9-9b9d-04014c605401.22)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00212.psd,.4)
         (URL https://mbl.is/smartland/frami/2019/03/03/sandra_vinnur_a_lyftara_og_elskar_thad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -50,7 +50,7 @@
         (grm .))
 
 (META (ID-CORPUS 62c5a1db-62ec-11e6-844c-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00212.psd,.5)
         (URL http://www.visir.is/er-ekki-naesta-bolt-eda-phelps-heldur-fyrsta-simone-biles/article/2016160819377)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -63,7 +63,7 @@
         (grm .))
 
 (META (ID-CORPUS cb061d8f-e04c-11e7-b98d-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00212.psd,.6)
         (URL http://www.ruv.is/frett/bokaupplestur-a-sundlaugarbakkanum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -76,7 +76,7 @@
         (grm .))
 
 (META (ID-CORPUS b0515fe6-d7a1-11e8-997b-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00212.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2018/10/24/tharf_ekki_ad_mata_ulpuna_i_domsal/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_fh_p3_et_þt_gm Hringdi (lemma hringja)))
@@ -89,7 +89,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 63efcad3-81df-11e9-982f-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00212.psd,.8)
         (URL https://www.visir.is/g/2019190528766/alftagerdisbraedur-kvedja-stora-svidid-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ao Þá (lemma þá)))
@@ -102,7 +102,7 @@
         (grm .))
 
 (META (ID-CORPUS 47d8237e-6c00-11e9-9c01-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00212.psd,.9)
         (URL https://www.visir.is/g/2019190509956/hatara-spad-attunda-saeti-i-storu-konnun-euro-vision-ad-da-enda-klubbanna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Sameiginleg (lemma sameiginlegur))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS 5d0e36a6-6b52-11e8-ade4-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00212_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00212.psd,.10)
         (URL http://www.ruv.is/frett/erum-ad-sumu-leyti-komin-a-byrjunarreit)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Mikil (lemma mikill))

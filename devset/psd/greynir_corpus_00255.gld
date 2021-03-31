@@ -1,5 +1,5 @@
 (META (ID-CORPUS e59f0bd0-5529-11e7-b819-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00255.psd,.1)
         (URL http://www.visir.is/g/2017170618883/aron-for-i-naflaskodun-fyrir-ukrainuleikinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Aron Pálmarsson (lemma Aron Pálmarsson)))
@@ -19,7 +19,7 @@
         (grm .))
 
 (META (ID-CORPUS 0c3809d5-c851-11e7-b94f-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00255.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/11/13/thrjar_astaedur_til_ad_hefja_vidraedur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -39,7 +39,7 @@
         (grm .))
 
 (META (ID-CORPUS 84ac13ac-96a1-11e9-9850-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00255.psd,.3)
         (URL https://kjarninn.is/skodun/2019-06-24-thorf-rannsoknum-ofbeldi-i-gard-kennara-her-landi/)
         (COMMENT ))
   (S0 (S-MAIN (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -58,7 +58,7 @@
         (grm .))
 
 (META (ID-CORPUS c39d5903-4351-11e9-9bab-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00255.psd,.4)
         (URL http://www.ruv.is/frett/icelandair-fylgist-grannt-med-gangi-mala)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS 8c7551ae-cfbb-11e7-b966-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00255.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/11/22/mikill_ahugi_a_jafnrettisthingi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -98,7 +98,7 @@
         (grm .))
 
 (META (ID-CORPUS 4f9bbe4f-ebd5-11e6-8e84-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00255.psd,.6)
         (URL http://www.ruv.is/frett/orbirgd-og-ringulreid-i-venesuela)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Hugo Chavez (lemma Hugo Chavez)))
@@ -117,7 +117,7 @@
         (grm .))
 
 (META (ID-CORPUS 474c1c9f-016f-11e8-b8be-04014c605401.63)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00255.psd,.7)
         (URL http://www.visir.is/g/2014704129971/kollud-islenska-horkutolid-a-bbc)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -138,7 +138,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fcaed2f-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00255.psd,.8)
         (URL http://www.mbl.is/bill/frettir/2016/03/18/afmaelisgjofin_er_ofur_golf/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -158,7 +158,7 @@
         (grm .))
 
 (META (ID-CORPUS 20ac9576-4533-11e6-8429-04014c605401.295)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00255.psd,.9)
         (URL http://www.mbl.is/sport/efstadeild/2016/03/10/breytingar_i_islenska_fotboltanum/)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (NP-PERSON (person Vladimir (lemma Vladimir))
@@ -178,7 +178,7 @@
                                  (grm &#41; (lemma &#41;)))))
 
 (META (ID-CORPUS 402a9496-6b24-11e8-ade3-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00255_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00255.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2018/06/08/50_kannabisplontur_i_ibud_i_fjolbyli/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_þgf_kvk Ábendingum (lemma ábending))

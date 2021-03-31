@@ -1,5 +1,5 @@
 (META (ID-CORPUS b1921b59-fdf4-11e6-8ea6-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00315.psd,.1)
         (URL http://www.ruv.is/frett/itolsk-haetta-vofir-yfir-evrusvaedinu)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (lo_et_nf_hk_sb Þrennt (lemma þrennur)))
@@ -29,7 +29,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fbf06af-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00315.psd,.2)
         (URL http://www.ruv.is/frett/munur-a-stodu-sigmundar-og-hinna-radherranna)
         (COMMENT ))
   (S0 (S-MAIN (ADVP (ao Já (lemma já)))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS 94ee483a-b687-11e8-98c7-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00315.psd,.3)
         (URL http://www.ruv.is/frett/ekki-tilefni-til-ad-loka-fyrir-vidskipti)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP (eo Mögulega (lemma mögulega))
@@ -92,7 +92,7 @@
           (grm .))
 
 (META (ID-CORPUS 68670dd5-f6e6-11e8-9a39-04014c605401.48)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00315.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2018/12/03/felldu_hattsettan_foringja_rikis_islams/)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Hins vegar (lemma hins vegar)))
@@ -124,7 +124,7 @@
         (grm .))
 
 (META (ID-CORPUS 9e420bb0-ffeb-11e8-9a78-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00315.psd,.5)
         (URL http://www.visir.is/g/2018181219199/ivar-oliver-spilar-ekki-fleiri-leiki-med-okkur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS e7a48b94-1a2d-11e9-9b36-04014c605401.44)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00315.psd,.6)
         (URL http://www.visir.is/g/2019190119022/harden-eftir-58-stiga-leikinn-sinn-i-nott-thetta-er-mjog-pirrandi-)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (sérnafn Davis Bertans (lemma Davis Bertans)))
@@ -186,7 +186,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS 19609ffc-cd4b-11e7-b961-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00315.psd,.7)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2017/11/19/Minutu-thogn-i-minningu-theirra-sem-latist-hafa-i-umferdarslysum/)
         (COMMENT ))
   (S0 (IP (VP (PP (P (fs_þf Í (lemma í)))
@@ -221,7 +221,7 @@
         (grm .))
 
 (META (ID-CORPUS 1acacec0-99f0-11e9-9856-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00315.psd,.8)
         (URL https://mbl.is/frettir/erlent/2019/06/28/4_milljonir_hafa_fluid_venesuela/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Fulltrúar (lemma fulltrúi))
@@ -254,7 +254,7 @@
         (grm .))
 
 (META (ID-CORPUS 8a0812a7-8f58-11e7-b8c6-04014c605401.104)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00315.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2017/09/01/tok_langan_tima_ad_skilja_frelsid/)
         (COMMENT ))
   (S0 (S-MAIN (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -287,7 +287,7 @@
         (grm .))
 
 (META (ID-CORPUS 2b0a476e-3026-11e9-9b8c-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00315_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00315.psd,.10)
         (URL https://www.frettabladid.is/frettir/vanekking-a-loegum-orsoek-brotsins)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Þá (lemma þá)))

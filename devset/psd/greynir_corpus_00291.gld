@@ -1,5 +1,5 @@
 (META (ID-CORPUS c6ffa48c-784d-11e8-a9f9-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00291.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2018/06/25/tiu_ofgamenn_handteknir_i_frakklandi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_vb Franska (lemma franskur))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS 30f6c2f7-72da-11e8-a9ef-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00291.psd,.2)
         (URL http://www.visir.is/g/2018180619503/thekktu-raudu-ljosin-eg-matti-ekki-fara-i-skolann-)
         (COMMENT ))
   (S0 (S-MAIN (NP (no_et_nf_kvk_gr Herferðin (lemma Herferð))
@@ -50,7 +50,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS b69d1a66-904d-11e8-9859-04014c605401.36)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00291.psd,.3)
         (URL http://www.ruv.is/frett/haettur-a-twitter-vegna-grins-um-barnanid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -76,7 +76,7 @@
         (grm .))
 
 (META (ID-CORPUS 68be2898-00d8-11e8-b8ba-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00291.psd,.4)
         (URL http://www.visir.is/g/2018180129561/-metoo-a-thinum-vinnustad-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -103,7 +103,7 @@
         (grm .))
 
 (META (ID-CORPUS f7500525-a162-11e7-b8f2-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00291.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2017/09/24/saka_endurskodandann_um_njosnir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -130,7 +130,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fbf09d3-4533-11e6-8429-04014c605401.43)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00291.psd,.6)
         (URL http://kjarninn.is/skodun/2016-03-08-hagraedi-og-einkarekstur-heilbrigdisthjonustu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Spilling (lemma spilling))
@@ -157,7 +157,7 @@
         (grm .))
 
 (META (ID-CORPUS 5d677967-ef5a-11e6-8e8b-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00291.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/02/10/olvadir_og_illa_attadir_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Við (lemma við)))
@@ -186,7 +186,7 @@
         (grm .))
 
 (META (ID-CORPUS 539c51ae-c65e-11e7-b94a-04014c605401.216)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00291.psd,.8)
         (URL http://www.visir.is/g/2017171119897/leik-lokid-valur-stjarnan-110-104-fyrsti-heimasigur-vals)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Einnig (lemma einnig)))
@@ -214,7 +214,7 @@
         (grm .))
 
 (META (ID-CORPUS 02df9372-86e6-11e9-9833-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00291.psd,.9)
         (URL https://www.visir.is/g/2019190609655/vidbrogd-varamanna-liverpool-i-leikslok-i-madrid-syndu-hvad-klopp-hefur-buid-til)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn Jim White (lemma JimWhite)))
@@ -240,7 +240,7 @@
                                                 (grm .))))))))))
 
 (META (ID-CORPUS 1efe4634-4533-11e6-8429-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00291_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00291.psd,.10)
         (URL http://www.ruv.is/frett/skytur-fostum-skotum-a-forsetann)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Bjarni Benediktsson (lemma Bjarni Benediktsson))

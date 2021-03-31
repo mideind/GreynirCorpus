@@ -1,5 +1,5 @@
 (META (ID-CORPUS 4f3a9ab1-9303-11e7-b8cb-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00237.psd,.1)
         (URL http://www.ruv.is/frett/kosid-um-sameiningu-11-november)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Íbúar (lemma íbúi))
@@ -16,7 +16,7 @@
         (grm .))
 
 (META (ID-CORPUS 219fe893-2842-11e9-9b81-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00237.psd,.2)
         (URL https://mbl.is/frettir/innlent/2019/02/04/eins_og_tifandi_timasprengja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_vb Íslenska (lemma íslenskur))
@@ -34,7 +34,7 @@
         (grm .))
 
 (META (ID-CORPUS 9cc917be-bfb4-11e7-b93a-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00237.psd,.3)
         (URL http://www.visir.is/g/2017171109798/conor-vill-eignast-hlut-i-ufc)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn McGregor Promotions (lemma McGregor Promotions)))
@@ -50,7 +50,7 @@
         (grm .))
 
 (META (ID-CORPUS d490bad8-5b12-11e7-b828-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00237.psd,.4)
         (URL http://www.visir.is/g/2017170629157/valls-yfirgefur-sosialistaflokkinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Fyrrverandi (lemma fyrrverandi))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS b7e71a2d-81d0-11e8-aa0e-04014c605401.83)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00237.psd,.5)
         (URL http://www.visir.is/g/2018180709178/folk-hleypur-ekkert-i-burtu-ad-gamni-sinu)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Svo (lemma svo)))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS d35837cc-fed2-11e8-9a72-04014c605401.16)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00237.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2018/12/13/fimm_utlendingar_handteknir_a_bali/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Dauðarefsing (lemma dauðarefsing)))
@@ -102,7 +102,7 @@
         (grm .))
 
 (META (ID-CORPUS 6bfe12dd-af66-11e7-b915-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00237.psd,.7)
         (URL http://www.visir.is/g/2017171019574/jolageit-ikea-komin-upp-staerri-en-nokkru-sinni-fyrr)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samhliða (lemma samhliða)))
@@ -120,7 +120,7 @@
         (grm .))
 
 (META (ID-CORPUS dd45908c-43bb-11e7-8326-d43d7ee303b2.10)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00237.psd,.8)
         (URL http://reykjanes.local?id=4631510)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -138,7 +138,7 @@
         (grm .))
 
 (META (ID-CORPUS e4fc95bc-6a82-11e7-b853-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00237.psd,.9)
         (URL http://www.ruv.is/frett/fadir-uppvakningahryllingsins-latinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn Romero (lemma Romero)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS 1efe4647-4533-11e6-8429-04014c605401.65)
-        (ID-LOCAL greynir_corpus_00237_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00237.psd,.10)
         (URL http://www.ruv.is/frett/tjalda-ekki-til-einnar-naetur-i-nigeriu)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þgf Eftir (lemma eftir)))

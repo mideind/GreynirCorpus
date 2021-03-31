@@ -1,5 +1,5 @@
 (META (ID-CORPUS 5d1f86b3-40cc-11e9-9ba7-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00231.psd,.1)
         (URL https://www.frettabladid.is/lifid/svansvotta-sveitahotel-i-fallegri-islenskri-natturu)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Hérna (lemma hérna)))
@@ -16,7 +16,7 @@
         (grm .))
 
 (META (ID-CORPUS b9c4c371-c716-11e7-b94b-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00231.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/11/11/raeddu_framtidina_i_skolastofum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_evb Helstu (lemma heldri))
@@ -33,7 +33,7 @@
         (grm .))
 
 (META (ID-CORPUS 57bf4fed-d0a8-11e8-995e-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00231.psd,.3)
         (URL http://www.visir.is/g/2018181019273/ottast-skadabotakrofur-i-kjotmalinu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Héraðsdómur (lemma héraðsdómur))
@@ -50,7 +50,7 @@
         (grm .))
 
 (META (ID-CORPUS 6b8bcbaa-d052-11e7-b967-04014c605401.16)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00231.psd,.4)
         (URL https://kjarninn.is/skyring/2017-11-22-er-kynjahalli-i-namsefni-ahyggjuefni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Ekki (lemma ekki)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 215c1378-4533-11e6-8429-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00231.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2016/07/08/keflavikurflugvollur_sa_besti_i_evropu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þgf Á (lemma á)))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS f1f4c14a-70c5-11e8-a9ec-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00231.psd,.6)
         (URL http://www.ruv.is/frett/hundur-i-hong-kong-spair-islandi-sigri-a-hm)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_nh_gm Sjá (lemma sjá)))
@@ -98,7 +98,7 @@
         (grm .))
 
 (META (ID-CORPUS 5729de49-f361-11e6-8e93-04014c605401.46)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00231.psd,.7)
         (URL http://www.visir.is/allt-sem-thu-tharft-ad-vita-um-hollensku-thingkosningarnar/article/2017170219458)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Flokkurinn (lemma flokkur)))
@@ -115,7 +115,7 @@
         (grm .))
 
 (META (ID-CORPUS 73226f50-1fe2-11e8-8163-04014c605401.30)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00231.psd,.8)
         (URL http://www.ruv.is/frett/haettum-of-snemma-ad-lesa-upphatt-fyrir-born)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (S-PREFIX (C (st Eða (lemma eða))))
@@ -131,7 +131,7 @@
         (grm .))
 
 (META (ID-CORPUS 56546a71-a113-11e7-b8f1-04014c605401.71)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00231.psd,.9)
         (URL http://www.visir.is/g/2017170929769/erla-kolbrun-gafst-upp-og-reyndi-sjalfsvig-ovinnufaer-med-verki-allt-lifid-vegna-laeknamistaka)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Erla Kolbrún (lemma Erla Kolbrún)))
@@ -146,7 +146,7 @@
         (grm .))
 
 (META (ID-CORPUS 89db1c03-4dd8-11e7-b811-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00231_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00231.psd,.10)
         (URL http://www.mbl.is/smartland/samskipti/2017/06/10/mamma_er_ad_sturlast_ur_stjornsemi/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st Og (lemma og))))

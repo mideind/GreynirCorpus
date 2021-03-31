@@ -1,5 +1,5 @@
 (META (ID-CORPUS e1afb252-e6a6-11e7-b889-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00220.psd,.1)
         (URL http://www.visir.is/g/2017171229704/svona-er-ad-fara-a-vollinn-i-nordur-koreu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (pfn_et_þf_hk_p3 Það (lemma það)))
@@ -13,7 +13,7 @@
         (grm .))
 
 (META (ID-CORPUS 84d30b04-db8f-11e8-998b-04014c605401.60)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00220.psd,.2)
         (URL http://www.visir.is/g/2018181028908/alskyjad-thegar-thomas-segist-hafa-verid-vid-stjornuskodun)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS 2070c419-4533-11e6-8429-04014c605401.85)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00220.psd,.3)
         (URL http://www.ruv.is/seltjarnarnesbaer)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk Ríkisendurskoðun (lemma ríkisendurskoðun)))
@@ -44,7 +44,7 @@
         (grm .))
 
 (META (ID-CORPUS d7e2583a-895e-11e7-b8b1-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00220.psd,.4)
         (URL http://www.visir.is/g/2017170829399/hollendingar-a-nalum-vegna-yfirvofandi-hrydjuverkahaettu)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS b99c8298-d567-11e8-996d-04014c605401.24)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00220.psd,.5)
         (URL https://kvennabladid.is/2018/10/21/drepdu-thig-allir-verda-glathir-eg-vilgdi-ad-theta-trompolin-mundi-rifna-og-thu-mundir-deija/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -74,7 +74,7 @@
         (grm .))
 
 (META (ID-CORPUS bc255bb0-40a8-11e8-b094-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00220.psd,.6)
         (URL http://www.visir.is/g/2018180419278/smalan-eru-ekki-rot-vandans)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS c745f5ba-6320-11e7-b83d-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00220.psd,.7)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2017/07/07/Tillaga-ad-islenskri-krabbameinsaaetlun-forgangsrodun-og-framkvaemd-verkefna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk_gr Alþjóðaheilbrigðismálastofnunin (lemma Alþjóðaheilbrigðismálastofnun)))
@@ -104,7 +104,7 @@
         (grm .))
 
 (META (ID-CORPUS 330458d7-ceee-11e7-b964-04014c605401.25)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00220.psd,.8)
         (URL http://www.visir.is/g/2017171129701/vegum-lokad-vida-um-land-vegna-vedurs)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Snjóþekja (lemma snjóþekja))
@@ -119,7 +119,7 @@
         (grm .))
 
 (META (ID-CORPUS 071498b3-d676-11e7-b971-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00220.psd,.9)
         (URL http://www.ruv.is/frett/tilkynnti-um-slagsmal-og-vildi-far-heim)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -134,7 +134,7 @@
         (grm .))
 
 (META (ID-CORPUS 21331ffd-4533-11e6-8429-04014c605401.127)
-        (ID-LOCAL greynir_corpus_00220_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00220.psd,.10)
         (URL http://www.mbl.is/folk/frettir/2016/05/01/svartir_limonadi_galdrar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

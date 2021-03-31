@@ -1,5 +1,5 @@
 (META (ID-CORPUS 6320ec64-f68e-11e6-8e99-04014c605401.41)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00223.psd,.1)
         (URL http://www.visir.is/traustasti-gjaldmidillinn/article/2017170218915)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Allir (lemma allur))
@@ -14,7 +14,7 @@
         (grm .))
 
 (META (ID-CORPUS 8afb7ab9-7039-11e7-b865-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00223.psd,.2)
         (URL http://eyjan.pressan.is/frettir/2017/07/24/saenska-rikisstjornin-ridar-til-falls-opinberun-vidkvaemra-upplysinga-skekur-stjornkerfid/)
         (COMMENT ))
   (S0 (S-HEADING (NP (eo Einnig (lemma einnig))
@@ -29,7 +29,7 @@
                    (grm .)))
 
 (META (ID-CORPUS 0af7c8ad-c658-11e8-991d-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00223.psd,.3)
         (URL http://www.ruv.is/frett/krefjast-baettra-kjara-aldradra-og-oryrkja)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -44,7 +44,7 @@
         (grm .))
 
 (META (ID-CORPUS 731e7409-5995-11e7-b826-04014c605401.21)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00223.psd,.4)
         (URL http://www.visir.is/g/2017170629353/harry-bretaprins-ihugadi-ad-snua-baki-vid-krununni)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Meðlimir (lemma meðlimur))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS b09b7b03-55be-11e8-b0fc-04014c605401.208)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00223.psd,.5)
         (URL http://www.visir.is/g/2018180519678/mamma-kom-til-baka-tha-get-eg-thad-lika-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Siðgæðishnignunin (lemma siðgæðishnignun)
@@ -75,7 +75,7 @@
         (grm .))
 
 (META (ID-CORPUS 3a2888b7-636c-11e9-9beb-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00223.psd,.6)
         (URL http://www.ruv.is/frett/islenskar-kartoflur-ad-klarast-i-verslunum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Skortur (lemma skortur)))
@@ -90,7 +90,7 @@
         (grm .))
 
 (META (ID-CORPUS 469f5b93-fa93-11e7-b8b0-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00223.psd,.7)
         (URL http://www.visir.is/g/2018180119176/hagtak-krefst-174-milljona-vegna-borhola-i-sjo-nedan-klepps-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Fyrirtækið (lemma fyrirtæki)))
@@ -105,7 +105,7 @@
         (grm .))
 
 (META (ID-CORPUS bb350c46-040b-11e7-8eb0-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00223.psd,.8)
         (URL http://www.visir.is/felipe-massa-fljotastur-a-fyrsta-degi-seinni-aefingalotu/article/2017170308964)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Daniel Ricciardo (lemma Daniel Ricciardo)))
@@ -118,7 +118,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS 24d29e2a-4eed-11e7-b812-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00223.psd,.9)
         (URL http://www.visir.is/g/2017170619846/heimir-thetta-var-svo-asnalegt-mark)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Hörður Björgvin Magnússon (lemma Hörður Björgvin Magnússon)))
@@ -131,7 +131,7 @@
         (grm .))
 
 (META (ID-CORPUS 64e8aa89-b02b-11e7-b915-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00223_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00223.psd,.10)
         (URL http://www.visir.is/g/2017171019417/thralyndi-milli-rikis-og-borgar-er-sjalfstaett-vandamal)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Ásakanir (lemma ásökun))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 0a78bf16-c6b0-11e6-8e46-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00224.psd,.1)
         (URL http://www.visir.is/tok-sjalfan-sig-upp-sofandi-i-heilt-ar--tharna-fer-allt-prumpid-mitt-/article/2016161229937)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Sumir (lemma sumur)))
@@ -15,7 +15,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fbf0683-4533-11e6-8429-04014c605401.51)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00224.psd,.2)
         (URL http://www.mbl.is/greinasafn/minningargreinar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -30,7 +30,7 @@
         (grm .))
 
 (META (ID-CORPUS 9d15a354-6f8b-11e6-a2b4-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00224.psd,.3)
         (URL http://www.visir.is/adsoknarmetid-var-slegid-i-hverri-einustu-viku/article/2016160839758)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS 0b1a25f7-6877-11e9-9bf8-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00224.psd,.4)
         (URL https://www.frettabladid.is/frettir/dregur-til-baka-undirskrift-vid-samning-sth-um-vopnavidskipti/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Myndskeið (lemma myndskeið))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f727a64-4533-11e6-8429-04014c605401.21)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00224.psd,.5)
         (URL http://www.ruv.is/frett/haestirettur-ber-ad-loka-umdeildri-flugbraut)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_mst Seinni (lemma seinn))
@@ -75,7 +75,7 @@
         (grm .))
 
 (META (ID-CORPUS 20f1e126-4533-11e6-8429-04014c605401.102)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00224.psd,.6)
         (URL http://kjarninn.is/skyring/2016-05-06-topp-10-tonleikar-islandi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kk_sb Fáir (lemma fár)))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS ee8355ce-7bd4-11e9-9829-04014c605401.24)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00224.psd,.7)
         (URL http://www.ruv.is/frett/sagdi-midflokkinn-hafa-hertekid-thingsalinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -107,7 +107,7 @@
         (grm .))
 
 (META (ID-CORPUS bba30a76-c28b-11e6-8e2d-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00224.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/12/15/snyst_um_thrif_a_gotum_ekki_nagla/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS 57da43e4-1421-11e8-8139-04014c605401.336)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00224.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/02/17/er_thetta_ekki_bara_frekja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Það (lemma það))
@@ -139,7 +139,7 @@
         (grm .))
 
 (META (ID-CORPUS 7730ca84-b23b-11e7-b917-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00224_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00224.psd,.10)
         (URL http://www.visir.is/g/2017171019180/thrju-laxapor-flutt-a-ofiskgeng-svaedi-i-von-um-ad-thau-hrygni-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma Það)))

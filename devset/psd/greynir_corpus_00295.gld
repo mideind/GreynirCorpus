@@ -1,5 +1,5 @@
 (META (ID-CORPUS 21e2f612-4533-11e6-8429-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00295.psd,.1)
         (URL http://www.mbl.is/frettir/kosning/2016/06/20/thu_ert_ekki_ad_styra_her/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_fh_p3_et_þt_gm Sagði (lemma segja)))
@@ -27,7 +27,7 @@
         (grm .))
 
 (META (ID-CORPUS 8bce9e99-05a8-11e8-80fa-04014c605401.50)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00295.psd,.2)
         (URL http://www.mbl.is/bill/domar/2018/01/30/engar_malamidlanir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Annars (lemma annars)))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS df1cd5ce-1925-11e7-aa3d-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00295.psd,.3)
         (URL http://www.visir.is/g/2017170409651/borgarfulltrui-pirata-skorar-a-olaf-olafsson-ad-syna-idrun)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Halldór Auðar Svansson (lemma Halldór Auðar Svansson)))
@@ -82,7 +82,7 @@
         (grm .))
 
 (META (ID-CORPUS 5aa26623-21ad-11e7-aa57-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00295.psd,.4)
         (URL http://www.visir.is/g/2017170419422/rannsoknir-a-fiskeldi-styrktar-um-86-milljonir)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Stofnunin (lemma stofnun)))
@@ -110,7 +110,7 @@
           (grm .))
 
 (META (ID-CORPUS 523477d7-d6a8-11e7-b971-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00295.psd,.5)
         (URL http://www.visir.is/g/2017171209999/sa-aldrei-nema-taekifaerin-og-hafdi-thad-ad-leidarljosi)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_kvk Auður (lemma Auður))
@@ -136,7 +136,7 @@
         (grm .))
 
 (META (ID-CORPUS 79c7846f-468d-11e8-b0b7-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00295.psd,.6)
         (URL http://www.visir.is/g/2018180429707/birti-mynd-af-ser-med-sindra-thor-i-amsterdam)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_nf_kk Hafþór (lemma Hafþór)))
@@ -162,7 +162,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS 6d2c6186-1031-11e9-9ae0-04014c605401.25)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00295.psd,.7)
         (URL http://www.visir.is/g/2019190109591/-eg-kynnist-sjalfri-mer-alveg-uppa-nytt-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (eo Megin (lemma megin))
@@ -191,7 +191,7 @@
         (grm .))
 
 (META (ID-CORPUS c19ad505-745b-11e8-a9f4-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00295.psd,.8)
         (URL http://www.visir.is/g/2018180629958/bein-utsending-helgi-alfred-og-hannes-sitja-fyrir-svorum-i-kabardinka)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kk Vísir (lemma Vísir)))
@@ -219,7 +219,7 @@
         (grm .))
 
 (META (ID-CORPUS 1495e76a-9682-11e8-986c-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00295.psd,.9)
         (URL http://www.mbl.is/fjolskyldan/frettir/2018/08/02/svona_geta_foreldrar_komid_ser_i_form/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -247,7 +247,7 @@
         (grm .))
 
 (META (ID-CORPUS 69f7fd99-7e5c-11e6-a2c6-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00295_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00295.psd,.10)
         (URL http://www.visir.is/i-hvada-borg-evropu-er-hjoli-fyrst-stolid-/article/2016160918806)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))

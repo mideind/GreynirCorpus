@@ -1,5 +1,5 @@
 (META (ID-CORPUS d8f27b7c-84a7-11e7-b8a3-04014c605401.163)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00253.psd,.1)
         (URL http://www.visir.is/g/2017170818860/gefast-ekki-upp-thott-a-moti-blasi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Vinnustaðurinn (lemma vinnustaður))
@@ -20,7 +20,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 0c28914b-da3c-11e6-8e63-04014c605401.88)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00253.psd,.2)
         (URL http://www.visir.is/thakklat-kvennaathvarfinu-/article/2017170119280)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -40,7 +40,7 @@
         (grm .))
 
 (META (ID-CORPUS 1b9c6460-d962-11e6-8e63-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00253.psd,.3)
         (URL http://www.visir.is/fleiri-utkoll-fra-utlendingum/article/2017170119469)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Símtöl (lemma símtal))
@@ -60,7 +60,7 @@
         (grm .))
 
 (META (ID-CORPUS 103729b5-7345-11e9-981f-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00253.psd,.4)
         (URL https://www.visir.is/g/2019190519909/ekkert-nema-ast-a-milli-blika-og-hk-inga-i-astridunni)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Stefán Árni (lemma Stefán Árni)))
@@ -79,7 +79,7 @@
         (grm .))
 
 (META (ID-CORPUS e320541a-78ff-11e7-b87b-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00253.psd,.5)
         (URL http://kjarninn.is/skodun/2017-08-03-ad-hengja-innflytjendur-fyrir-elitu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Fréttin (lemma frétt)))
@@ -98,7 +98,7 @@
         (grm .))
 
 (META (ID-CORPUS c5171a84-8388-11e8-aa10-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00253.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2018/07/09/bjorgunaradgerdum_frestad_i_bili/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Skólabörn (lemma skólabarn))
@@ -119,7 +119,7 @@
         (grm .))
 
 (META (ID-CORPUS 3db46cee-3cd8-11e8-b07d-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00253.psd,.7)
         (URL https://kjarninn.is/frettir/2018-04-10-greco-gerir-atjan-tillogur-ad-urbotum-vegna-spillingar-til-islenskra-stjornvalda/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_lhþt_ft Settar (lemma setja)))
@@ -140,7 +140,7 @@
         (grm .))
 
 (META (ID-CORPUS a57b3171-c547-11e8-9914-04014c605401.23)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00253.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2018/10/01/svikalogn_inni_i_laegdarmidjum/)
         (COMMENT ))
   (S0 (S-HEADING (NP (no_et_nf_kvk Slydda (lemma slydda))
@@ -161,7 +161,7 @@
         (grm .))
 
 (META (ID-CORPUS 330b20d5-4aa5-11e6-8432-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00253.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2016/07/15/dur_komist_i_kast_vid_login/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Einnig (lemma einnig)))
@@ -182,7 +182,7 @@
         (grm .))
 
 (META (ID-CORPUS e5af73c1-3920-11e8-b06e-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00253_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00253.psd,.10)
         (URL http://www.visir.is/g/2018180409403/-thad-ogedslegasta-sem-gerst-hefur-i-sogu-ufc)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

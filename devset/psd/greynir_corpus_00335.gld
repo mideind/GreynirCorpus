@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3341bebb-c045-11e8-98ff-04014c605401.40)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00335.psd,.1)
         (URL http://www.visir.is/g/2018180929498/umfjollun-og-vidtol-stjarnan-valur-21-37-stjornumenn-nidurlaegdir-a-heimavelli)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -41,7 +41,7 @@
         (grm .))
 
 (META (ID-CORPUS d066a7b9-5f9d-11e6-844a-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00335.psd,.2)
         (URL http://www.visir.is/mannrettindi-groflega-brotin-a-naru/article/2016160819849)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-IOBJ (no_ft_þgf_hk_gr Flóttafólkinu (lemma flóttafólk)))
@@ -86,7 +86,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 9c19fcd7-cb1b-11e8-993e-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00335.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2018/10/08/konan_aftur_i_gaesluvardhald/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Fram (lemma fram)))
@@ -131,7 +131,7 @@
           (grm .))
 
 (META (ID-CORPUS 43fd9d50-358f-11e8-b05b-04014c605401.95)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00335.psd,.4)
         (URL http://www.visir.is/g/2018180318970/-eg-held-hann-tali-ekki-islensku-thessi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -177,7 +177,7 @@
         (grm .))
 
 (META (ID-CORPUS bfb86010-fdb3-11e7-b8b5-04014c605401.118)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00335.psd,.5)
         (URL http://www.visir.is/g/2018180129982/thakklat-fyrir-ad-vera-laus-ur-verkjahelviti)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP (ao Síðan (lemma síðan)))
@@ -221,7 +221,7 @@
         (grm .))
 
 (META (ID-CORPUS 7eb6e10a-9b00-11e7-b8e2-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00335.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2017/09/16/urskurdarnefnd_ekki_afgreidslustofnun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Páll (lemma Páll)))
@@ -268,7 +268,7 @@
         (grm .))
 
 (META (ID-CORPUS 20d88170-4533-11e6-8429-04014c605401.82)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00335.psd,.7)
         (URL http://kjarninn.is/skyring/2016-04-07-pizzarikisstjornin-mun-roa-lifrodur-naestu-daga/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kvk Sú (lemma sá))
@@ -311,7 +311,7 @@
         (grm .))
 
 (META (ID-CORPUS dd2e832d-cd5b-11e7-b961-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00335.psd,.8)
         (URL http://www.visir.is/g/2017171118697/bidin-skyrist-af-thvi-ad-flokkarnir-seu-ad-vanda-sig)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -355,7 +355,7 @@
         (grm .))
 
 (META (ID-CORPUS b75e653f-0b80-11e8-811c-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00335.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/02/06/abyrgdin_theirra_sem_deila_myndinni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -399,7 +399,7 @@
         (grm .))
 
 (META (ID-CORPUS 45600bc2-c2d9-11e7-b940-04014c605401.32)
-        (ID-LOCAL reynir_corpus_00335_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00335.psd,.10)
         (URL http://www.ruv.is/frett/faerri-laeknar-flytja-heim-eftir-nam)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Með (lemma með)))

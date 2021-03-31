@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1f2a6ea8-4533-11e6-8429-04014c605401.27)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00214.psd,.1)
         (URL http://eyjan.pressan.is/frettir/2015/12/06/vigdis-segir-ad-stadid-hafi-verid-vid-ad-styrkja-heilbrigdiskerfid-asta-segir-fjarlagavinnuna-gamaldags/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Málið (lemma mál)))
@@ -13,7 +13,7 @@
         (grm .))
 
 (META (ID-CORPUS debf8aa1-e67a-11e6-8e7e-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00214.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2017/01/29/fordaema_ologlega_akvordun_trumps/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -27,7 +27,7 @@
         (grm .))
 
 (META (ID-CORPUS 2183fb3b-4533-11e6-8429-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00214.psd,.3)
         (URL http://kjarninn.is/skodun/2016-04-30-fer-bandarikjadalur-i-100-kronur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ártal Árið 2007 (lemma Árið 2007)))
@@ -39,7 +39,7 @@
         (grm .))
 
 (META (ID-CORPUS cf4ebb72-ce8d-11e7-b963-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00214.psd,.4)
         (URL http://www.visir.is/g/2017171129881/eiturefnahernadur-i-arnarfirdi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-PRD (lo_et_nf_hk_sb Harðbannað (lemma harðbannaður)))
@@ -53,7 +53,7 @@
         (grm .))
 
 (META (ID-CORPUS 88fb9a29-eeae-11e6-8e8a-04014c605401.36)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00214.psd,.5)
         (URL http://www.visir.is/brynjar-og-lilja-raeda-afengisfrumvarpid-mjolkurbudir-a-hverju-horni/article/2017170208902)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Þjónusta (lemma þjónusta))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS ec78a559-810f-11e6-a2c7-04014c605401.32)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00214.psd,.6)
         (URL http://www.visir.is/tekist-a-um-storaukid-laxeldi-a-austfjordum/article/2016160929517)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Veiðifélag (lemma veiðifélag))
@@ -81,7 +81,7 @@
         (grm .))
 
 (META (ID-CORPUS ff76a9fa-cebd-11e8-9952-04014c605401.152)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00214.psd,.7)
         (URL http://www.visir.is/g/2018181019525/karlar-a-midjum-aldri-mestu-donarnir)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_fh_p3_ft_nt_mm Segjast (lemma segja)))
@@ -95,7 +95,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 92850f32-c04d-11e6-b589-04014c605401.25)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00214.psd,.8)
         (URL http://www.mbl.is/smartland/tiska/2016/12/12/birta_snyr_aftur_med_nytt_merki/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þgf Á (lemma á)))
@@ -109,7 +109,7 @@
         (grm .))
 
 (META (ID-CORPUS 16b72e62-6d71-11e9-9c02-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00214.psd,.9)
         (URL https://www.frettabladid.is/timamot/helgi-larusson3/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS 3c20be4a-e8bd-11e8-99d1-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00214_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00214.psd,.10)
         (URL http://www.visir.is/g/2018181119338/-ledurblokumadurinn-bjargar-islenskunni-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Markmiðið (lemma markmið)))

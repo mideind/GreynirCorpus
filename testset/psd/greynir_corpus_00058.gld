@@ -1,5 +1,5 @@
 (META (ID-CORPUS 19a1cbcc-34c6-11e8-b055-04014c605401.113)
-        (ID-LOCAL reynir_corpus_00058.psd,.1)
+        (ID-LOCAL greynir_corpus_00058.psd,.1)
         (URL http://www.visir.is/g/2018180339913/ekki-feiminn-vid-ad-raeda-tilfinningar-sinar)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -16,7 +16,7 @@
       (grm .))
 
 (META (ID-CORPUS ed57290d-232e-11e9-9b78-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00058.psd,.2)
+        (ID-LOCAL greynir_corpus_00058.psd,.2)
         (URL http://www.ruv.is/frett/kvoldfrettir-og-kastljos-i-beinni-utsendingu-1)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_mm Krafist (lemma krefja)))
@@ -34,7 +34,7 @@
       (grm .))
 
 (META (ID-CORPUS 0aa8e4d8-e577-11e8-99c2-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00058.psd,.3)
+        (ID-LOCAL greynir_corpus_00058.psd,.3)
         (URL http://www.mbl.is/smartland/stars/2018/11/11/leiddist_hraedilega_11_ara_i_noregi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Ágústa Eva Erlendsdóttir (lemma Ágústa Eva Erlendsdóttir))
@@ -49,7 +49,7 @@
       (grm .))
 
 (META (ID-CORPUS 0562f7b5-3206-11e8-b044-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00058.psd,.4)
+        (ID-LOCAL greynir_corpus_00058.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/03/27/motmaela_gjaldtoku_a_salerni_i_mjodd/)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (no_ft_nf_hk Almenningssalerni (lemma Almenningssalerni)))
@@ -66,7 +66,7 @@
               (grm .)))
 
 (META (ID-CORPUS 3e21a9d9-20fb-11e8-8167-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00058.psd,.5)
+        (ID-LOCAL greynir_corpus_00058.psd,.5)
         (URL http://www.ruv.is/frett/framtid-700-thusund-manna-i-ovissu)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -84,7 +84,7 @@
       (grm .))
 
 (META (ID-CORPUS 05c57b8a-9981-11e8-9875-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00058.psd,.6)
+        (ID-LOCAL greynir_corpus_00058.psd,.6)
         (URL http://www.ruv.is/frett/gontur-thvottabretti-og-hair-hryggir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Vegagerðin (lemma vegagerð)))
@@ -103,7 +103,7 @@
       (grm .))
 
 (META (ID-CORPUS 82114c42-02ff-11e7-8eae-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00058.psd,.7)
+        (ID-LOCAL greynir_corpus_00058.psd,.7)
         (URL http://www.visir.is/einn-gedlyfjaskammtur-a-mann-a-mork/article/2017170309139)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar))
@@ -120,7 +120,7 @@
               (grm .)))
 
 (META (ID-CORPUS 3c67484c-9a8d-11e6-a2e5-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00058.psd,.8)
+        (ID-LOCAL greynir_corpus_00058.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/10/25/etta_gera_bara_salarlausir_menn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Framendinn (lemma Framendi)))
@@ -138,7 +138,7 @@
               (grm .)))
 
 (META (ID-CORPUS 1896d32e-bb34-11e7-b92d-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00058.psd,.9)
+        (ID-LOCAL greynir_corpus_00058.psd,.9)
         (URL http://www.visir.is/g/2017171028887/stefna-flokkanna-heilbrigdismal)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_sb Mikilvægt (lemma mikilvægur)))
@@ -156,7 +156,7 @@
       (grm .))
 
 (META (ID-CORPUS 5915560b-db1e-11e6-8e65-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00058.psd,.10)
+        (ID-LOCAL greynir_corpus_00058.psd,.10)
         (URL http://www.visir.is/fadir-arnars-freys-strakurinn-er-buinn-ad-massa-sig-upp/article/2017170119138)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0 Heldurðu (lemma halda)))

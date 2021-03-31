@@ -1,5 +1,5 @@
 (META (ID-CORPUS 7b1569b7-8239-11e6-a2c8-04014c605401.125)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00309.psd,.1)
         (URL http://www.visir.is/fleiri-velja-ad-dyljast-a-netinu/article/2016160929377)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -29,7 +29,7 @@
         (grm .))
 
 (META (ID-CORPUS e0d3edc4-9ab0-11e9-9856-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00309.psd,.2)
         (URL https://www.dv.is/frettir/2019/06/29/baldur-haedist-af-hagkvaemu-ibudum-dags-kirkjusandi-90-milljonir-fyrir-2-svefnherbergi/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_nf_kk Baldur Borgþórsson (lemma Baldur Borgþórsson))
@@ -61,7 +61,7 @@
           (grm .))
 
 (META (ID-CORPUS 35440122-43f5-11e7-b7fb-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00309.psd,.3)
         (URL http://www.visir.is/g/2017170529210/umfjollun-vidtol-og-einkunnir-grindavik-valur-1-0-valsmenn-stodvadir-i-grindavik)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Eftir (lemma eftir)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS 065e95c0-e809-11e8-99cc-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00309.psd,.4)
         (URL http://www.visir.is/g/2018181119515/lit-frekar-a-mig-sem-midvord-nuna-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Haukur (lemma haukur)))
@@ -126,7 +126,7 @@
         (grm .))
 
 (META (ID-CORPUS 8012aa8c-5e8f-11e7-b832-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00309.psd,.5)
         (URL http://www.ruv.is/frett/islandspostur-ma-ekki-afnema-afslaetti)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Þeir (lemma sá))
@@ -158,7 +158,7 @@
           (grm .))
 
 (META (ID-CORPUS f3b08e2d-bb1a-11e7-b92d-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00309.psd,.6)
         (URL http://www.visir.is/g/2017171028926/iraksher-og-kurdar-semja-um-vopnahle)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Sveitir (lemma sveit))
@@ -188,7 +188,7 @@
           (grm .))
 
 (META (ID-CORPUS 10ebfff0-8272-11e7-b898-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00309.psd,.7)
         (URL http://www.ruv.is/frett/ulfljotsvatn-von-a-nidurstodu-i-vikunni)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-CMP (C (ao Eins (lemma eins))
@@ -220,7 +220,7 @@
         (grm .))
 
 (META (ID-CORPUS 0a100f8f-3115-11e7-b7d1-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00309.psd,.8)
         (URL http://www.visir.is/g/2017170509506/umfjollun-fram-valur-21-31-valsmenn-komnir-i-urslit-eftir-ouggan-sigur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Liðin (lemma lið)))
@@ -253,7 +253,7 @@
         (grm .))
 
 (META (ID-CORPUS ab244122-9f37-11e8-9884-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00309.psd,.9)
         (URL http://www.visir.is/g/2018180819547/radleggja-folki-ad-halda-sig-fjarri-fagraskogarfjalli)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Veðurstofan (lemma veðurstofa)))
@@ -283,7 +283,7 @@
         (grm .))
 
 (META (ID-CORPUS fc080e60-ccf0-11e6-8e51-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00309_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00309.psd,.10)
         (URL http://kjarninn.is/skodun/2016-12-28-kjarninn-med-naest-minnst-vantraust-eftir-midlum-ruv/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-PRD (lo_et_nf_hk_esb Mest (lemma mikill)))

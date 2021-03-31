@@ -1,5 +1,5 @@
 (META (ID-CORPUS 670881f8-aeb6-11e7-b915-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00265.psd,.1)
         (URL http://www.ruv.is/frett/langt-i-land-ad-kynin-verdi-jofn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -21,7 +21,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 93c997f1-8eeb-11e7-b8c5-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00265.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/09/01/husin_of_ha_og_hofundur_spar_a_huldu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Svo (lemma svo)))
@@ -44,7 +44,7 @@
         (grm .))
 
 (META (ID-CORPUS 25b22d2a-9775-11e6-a2dc-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00265.psd,.3)
         (URL http://www.visir.is/ntc-fagnar-40-ara-afmaeli-/article/2016161029802)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Verslanir (lemma verslun))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 2099c9fa-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00265.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2016/02/12/gera_skuldina_upp_med_baenum/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -90,7 +90,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d31756a-c09f-11e7-b93b-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00265.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/11/03/ferdamenn_fleiri_en_allt_arid_i_fyrra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (eo Um (lemma um))
@@ -112,7 +112,7 @@
         (grm .))
 
 (META (ID-CORPUS 2032438e-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00265.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2016/01/10/vongodur_um_esb_kosningu_arid_2017/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (IP (VP (VP (so_0_vh_p3_et_nt_gm Verði (lemma verða)))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS b0b39b68-4715-11e9-9bb9-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00265.psd,.7)
         (URL https://kjarninn.is/frettir/2019-03-15-solveig-anna-algjort-smamal-ad-laekka-laun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -157,7 +157,7 @@
         (grm .))
 
 (META (ID-CORPUS 172851c9-ea71-11e8-99e4-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00265.psd,.8)
         (URL http://www.visir.is/g/2018181118968/fljugandi-trampolin-i-hofudborginni-en-hlytt-og-milt-fyrir-nordan-og-austan)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_sb Mikið (lemma mikill))
@@ -176,7 +176,7 @@
         (grm .))
 
 (META (ID-CORPUS d2f4c428-e34d-11e6-8e76-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00265.psd,.9)
         (URL http://www.ruv.is/frett/yfirheyrslum-lokid-yfir-badum-skipverjunum)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ao Á morgun (lemma á morgun)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS 8743f4ce-9725-11e8-986c-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00265_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00265.psd,.10)
         (URL http://www.visir.is/g/2018180809650/grunadur-hrydjuverkamadur-fludi-ur-donsku-fangelsi-eftir-ad-hafa-thost-vera-gestur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

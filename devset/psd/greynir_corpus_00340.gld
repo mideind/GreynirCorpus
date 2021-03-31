@@ -1,5 +1,5 @@
 (META (ID-CORPUS 0cf1336a-4984-11e8-b0c6-04014c605401.39)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00340.psd,.1)
         (URL http://www.ruv.is/frett/einn-strandveidipottur-bitni-a-akvednum-svaedum)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -54,7 +54,7 @@
         (grm .))
 
 (META (ID-CORPUS 3f3a81d3-50e8-11e7-b814-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00340.psd,.2)
         (URL http://www.mbl.is/frettir/erlent/2017/06/14/sadiq_khan_tjair_sig_um_eldsvodann/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (PP (P (fs_ef Meðal (lemma meðal)))
@@ -111,7 +111,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 918c2443-26c0-11e9-9b7e-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00340.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/02/02/haegagangur_i_vidraedum_og_ovissa/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -169,7 +169,7 @@
         (grm .))
 
 (META (ID-CORPUS f06ce2c5-7099-11e9-981e-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00340.psd,.4)
         (URL https://www.visir.is/g/2019190509257/fotlud-born-af-erlendum-uppruna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -228,7 +228,7 @@
         (grm .))
 
 (META (ID-CORPUS 394a34dd-ba71-11e8-98d9-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00340.psd,.5)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/09/17/Vidurkenningar-veittar-i-tengslum-vid-Dag-islenskrar-natturu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Tómas (lemma Tómas))
@@ -292,7 +292,7 @@
         (grm .))
 
 (META (ID-CORPUS f4b2162e-56e1-11e9-9bd0-04014c605401.27)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00340.psd,.6)
         (URL http://www.ruv.is/frett/spegli-brugdid-ad-blodugri-skopunarsogu-thjodar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (gr_et_nf_hk Hið (lemma hinn))
@@ -356,7 +356,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS a1230f9c-6b2c-11e8-ade3-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00340.psd,.7)
         (URL http://www.visir.is/g/2018180609003/marcelo-pirradur-ut-i-umraeduna-eftir-meistaradeildarsigur-real-madrid)
         (COMMENT ))
   (S0-X (S-QUOTE (IP (CP-QUOTE (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -422,7 +422,7 @@
           (grm .))
 
 (META (ID-CORPUS 60454497-9bef-11e7-b8e4-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00340.psd,.8)
         (URL http://www.visir.is/g/2017170919021/forstodumadur-kviabryggju-og-baejarstjori-skrifudu-medmaeli-arna-johnsen)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_ef Á (lemma á))
@@ -494,7 +494,7 @@
         (grm .))
 
 (META (ID-CORPUS 8cac0018-8958-11e6-a2cf-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00340.psd,.9)
         (URL http://kvennabladid.is/2016/10/03/leikhusgaldur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -594,7 +594,7 @@
         (grm ! (lemma !)))
 
 (META (ID-CORPUS 17981991-87d9-11e9-9835-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00340_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00340.psd,.10)
         (URL https://www.dv.is/frettir/2019/06/05/hrafnhildur-er-brjalud-ur-vis-ofnalagnir-sprungu-mannleg-samskipti-eru-ekki-inni-hja-thessu-skitafyrirtaeki/))
   (S0 (C (st En (lemma en)))
           (S-MAIN (IP (NP-SUBJ (pfn_et_þgf_p1 mér (lemma ég)))

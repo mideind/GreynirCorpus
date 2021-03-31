@@ -1,5 +1,5 @@
 (META (ID-CORPUS c996d05a-a699-11e8-988f-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00272.psd,.1)
         (URL http://www.visir.is/g/2018180829553/trump-segir-sekt-cohens-smamal-)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Miðað (lemma miðað))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS 43c28626-6866-11e7-b84b-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00272.psd,.2)
         (URL http://www.visir.is/g/2017170719518/rikisstjorn-breta-leggur-fram-lykilfrumvarp-vegna-brexit-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Samanlagt (lemma samanlagt)))
@@ -46,7 +46,7 @@
         (grm .))
 
 (META (ID-CORPUS 76b60f4a-4cb9-11e8-b0cf-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00272.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2018/04/30/dagskra_1_mai/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-COMPANY (fyrirtæki_et_nf_kvk Efling (lemma Efling)))
@@ -70,7 +70,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 96bf3a89-1fa3-11e8-8163-04014c605401.43)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00272.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/03/04/visindin_eiga_mig_alla/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS cdad84f0-3cb8-11e7-b7ee-04014c605401.32)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00272.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/05/19/ber_ekki_ad_tilkynna_ranga_lyfjaavisun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Magnús (lemma Magnús)))
@@ -116,7 +116,7 @@
         (grm .))
 
 (META (ID-CORPUS f672a9a4-1c3d-11e7-aa47-04014c605401.42)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00272.psd,.6)
         (URL http://kvennabladid.is/2013/10/22/thad-er-ohaett-ad-borda-fitu-segir-hildur-tomasdottir-svaefingalaeknir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Með (lemma með)))
@@ -137,7 +137,7 @@
         (grm .))
 
 (META (ID-CORPUS 2effa043-91cd-11e7-b8c8-04014c605401.25)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00272.psd,.7)
         (URL http://www.visir.is/g/2017170909458/umhverfisstofnun-trump-redst-a-bladamann-vegna-frettar-um-ahrif-harvey)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (fn_et_nf_kk Sjálfur (lemma sjálfur)))
@@ -161,7 +161,7 @@
         (grm .))
 
 (META (ID-CORPUS 84fbf048-c85b-11e6-8e4b-04014c605401.23)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00272.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2016/12/22/fundu_fingrafar_amri_a_bilnum/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf Bild (lemma Bild)))
@@ -185,7 +185,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS a7760b09-84cf-11e6-a2cb-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00272.psd,.9)
         (URL http://www.visir.is/brettamenningunni-bjargad-i-gotlandi/article/2016160928968)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (lo_ft_nf_hk_mst Fleiri (lemma margur))
@@ -209,7 +209,7 @@
         (grm .))
 
 (META (ID-CORPUS b0336b29-02ab-11e7-8ead-04014c605401.63)
-        (ID-LOCAL greynir_corpus_00272_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00272.psd,.10)
         (URL http://kjarninn.is/skyring/2017-03-06-tifaldast-ardgreidsla-landsvirkjunar-innan-orfarra-ara/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))

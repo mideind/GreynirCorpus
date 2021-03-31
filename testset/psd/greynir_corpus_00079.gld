@@ -1,5 +1,5 @@
 (META (ID-CORPUS b0683469-e334-11e8-99b5-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00079.psd,.1)
+        (ID-LOCAL greynir_corpus_00079.psd,.1)
         (URL http://www.visir.is/g/2018181109029/aron-einar-gefur-ut-bok-eg-hef-fullordnast-i-svidsljosinu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -19,7 +19,7 @@
       (grm .))
 
 (META (ID-CORPUS 5acd3d91-7c4c-11e6-a2c2-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00079.psd,.2)
+        (ID-LOCAL greynir_corpus_00079.psd,.2)
         (URL http://www.mbl.is/veidi/frettir/2016/09/16/veidi_lokid_i_thvera_kjarra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (ADVP-LOC (ao Neðarlega (lemma neðarlega)))
@@ -40,7 +40,7 @@
       (grm .))
 
 (META (ID-CORPUS e393ca9e-8124-11e8-aa0e-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00079.psd,.3)
+        (ID-LOCAL greynir_corpus_00079.psd,.3)
         (URL http://www.ruv.is/frett/stillir-upp-listaverkum-og-laetur-thau-hverfa)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Á (lemma á)))
@@ -60,7 +60,7 @@
       (grm .))
 
 (META (ID-CORPUS 97be3ddb-e52b-11e6-8e79-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00079.psd,.4)
+        (ID-LOCAL greynir_corpus_00079.psd,.4)
         (URL http://www.mbl.is/vidskipti/frettir/2017/01/28/frosti_haettir_hja_vi_og_tekur_vid_orfi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -76,7 +76,7 @@
       (grm .))
 
 (META (ID-CORPUS 9617a2bf-7366-11e7-b86c-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00079.psd,.5)
+        (ID-LOCAL greynir_corpus_00079.psd,.5)
         (URL http://www.visir.is/g/2017170728981/orad)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Hagsveiflan (lemma hagsveifla))
@@ -96,7 +96,7 @@
       (grm .))
 
 (META (ID-CORPUS 99b0907a-70a8-11e8-a9ec-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00079.psd,.6)
+        (ID-LOCAL greynir_corpus_00079.psd,.6)
         (URL http://www.mbl.is/matur/frettir/2018/06/15/helgarpizza_med_karamelludum_lauk/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_bh_ft_gm Skerið (lemma skera)))
@@ -117,7 +117,7 @@
       (grm .))
 
 (META (ID-CORPUS 3ee4b190-d5e1-11e6-8e61-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00079.psd,.7)
+        (ID-LOCAL greynir_corpus_00079.psd,.7)
         (URL http://www.visir.is/prest%25C2%25ADur-inn%25C2%25ADflytj%25C2%25ADend%25C2%25ADa-glimd%25C2%25ADi-vid-thung%25C2%25ADlynd%25C2%25ADi-vegn%25C2%25ADa-fjold%25C2%25ADa-hael%25C2%25ADis%25C2%25ADleit%25C2%25ADend%25C2%25ADa-sem-var-vis%25C2%25ADad-ur-land%25C2%25ADi/article/2017170109025)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Toma (lemma Toma)))
@@ -137,7 +137,7 @@
       (grm .))
 
 (META (ID-CORPUS a66e5202-8c9c-11e7-b8be-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00079.psd,.8)
+        (ID-LOCAL greynir_corpus_00079.psd,.8)
         (URL http://www.mbl.is/vidskipti/frettir/2017/08/29/drifkraftar_gefa_eftir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Með (lemma með)))
@@ -159,7 +159,7 @@
       (grm .))
 
 (META (ID-CORPUS 429af49d-3a72-11e7-b7e6-04014c605401.61)
-        (ID-LOCAL reynir_corpus_00079.psd,.9)
+        (ID-LOCAL greynir_corpus_00079.psd,.9)
         (URL http://www.mbl.is/smartland/frami/2017/05/16/lestu_einn_kafla_ur_litla_bakariinu_vid_strandgotu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Polly (lemma Polly)))
@@ -178,7 +178,7 @@
       (grm .))
 
 (META (ID-CORPUS c17eb4c8-8646-11e9-9831-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00079.psd,.10)
+        (ID-LOCAL greynir_corpus_00079.psd,.10)
         (URL https://www.visir.is/g/2019190609711/balreidir-netverjar-herja-a-sjomennina-tvo-er-allt-i-lagi-ad-limlesta-bornin-min-og-drekkja-theim-af-thvi-ad-eg-er-svo-ogedslegur-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))

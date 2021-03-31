@@ -1,5 +1,5 @@
 (META (ID-CORPUS ba214111-0071-11e9-9a78-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00279.psd,.1)
         (URL http://www.visir.is/g/2018181219188/soknarthungi-liverpool-maetir-miglekri-vorn-manchester-united-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki Manchester United (lemma Manchester United)))
@@ -21,7 +21,7 @@
         (grm .))
 
 (META (ID-CORPUS 583444ed-3d06-11e8-b081-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00279.psd,.2)
         (URL http://www.visir.is/g/2018180419869/a-verkstaedinu-a-saudarkroki-segjast-their-geta-gert-vid-allt)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -45,7 +45,7 @@
                             (grm .))))
 
 (META (ID-CORPUS 8feb45f0-2ba3-11e8-b032-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00279.psd,.3)
         (URL http://www.ruv.is/frett/thjalfari-cavaliers-a-leid-i-veikindaleyfi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Gengi (lemma gengi))
@@ -70,7 +70,7 @@
         (grm .))
 
 (META (ID-CORPUS 5487796d-6593-11e8-adc7-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00279.psd,.4)
         (URL http://www.ruv.is/frett/tollstjori-skipadur-skattstjori-an-auglysingar)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -94,7 +94,7 @@
         (grm .))
 
 (META (ID-CORPUS ecc69186-4c13-11e9-9bc5-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00279.psd,.5)
         (URL https://www.visir.is/g/2019190329687/frum-varp-um-orugg-neyslu-rymi-sprautu-fikla-verdur-lik-lega-ad-logum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Neyslurými (lemma neyslurými)
@@ -120,7 +120,7 @@
         (grm .))
 
 (META (ID-CORPUS 236eb575-469c-11e7-b804-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00279.psd,.6)
         (URL http://www.visir.is/g/2017170609980/sa-yngsti-og-naestelsti-starfa-a-somu-stofunni)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -145,7 +145,7 @@
         (grm .))
 
 (META (ID-CORPUS d424bdca-7c2a-11e6-a2c1-04014c605401.37)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00279.psd,.7)
         (URL http://kjarninn.is/skyring/2016-09-16-segir-ummaeli-i-vigdisarskyrslunni-vera-atvinnurog-meidyrdi-og-svivirdingar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -169,7 +169,7 @@
         (grm .))
 
 (META (ID-CORPUS 2d31ba4a-fdff-11e7-b8b5-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00279.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2018/01/20/eg_vildi_ekki_vera_a_lifi/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -193,7 +193,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 1f9a121e-4533-11e6-8429-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00279.psd,.9)
         (URL http://eyjan.pressan.is/frettir/2016/03/30/vilhjalmur-reidur-getur-stjornmalamadur-upplyst-hvada-fjandans-steypa-er-i-gangi/)
         (COMMENT ))
   (S0 (S-MAIN (VP (VP-AUX (so_0_fh_p3_et_nt_gm Getur (lemma Getur)))
@@ -218,7 +218,7 @@
                                         (grm ? (lemma ?))))))))
 
 (META (ID-CORPUS 560fd350-4557-11e6-8429-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00279_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00279.psd,.10)
         (URL http://eyjan.pressan.is/frettir/2016/07/08/vigdis-hefdi-viljad-leggja-nidur-umhverfisraduneytid-og-gera-landid-ad-einu-kjordaemi)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Eftir (lemma eftir))

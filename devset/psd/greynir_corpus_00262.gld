@@ -1,5 +1,5 @@
 (META (ID-CORPUS 44bb0cd5-db74-11e7-b97b-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00262.psd,.1)
         (URL http://www.mbl.is/200milur/frettir/2017/12/07/thridja_og_sidasta_systirin_logd_af_stad/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_ef_nh_gm Vænta (lemma vænta)))
@@ -21,7 +21,7 @@
         (grm .))
 
 (META (ID-CORPUS 82a64cf4-b7b9-11e6-b576-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00262.psd,.2)
         (URL http://www.visir.is/fjogurra-barna-fadir-vann-milljonir-i-lotto--er-thetta-virkilega-rett--/article/2016161209918)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (no_et_nf_hk Starfsfólk (lemma starfsfólk))
@@ -42,7 +42,7 @@
         (grm .))
 
 (META (ID-CORPUS 39ffaa09-35d0-11e7-b7db-04014c605401.55)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00262.psd,.3)
         (URL http://www.visir.is/g/2017170519882/umfjollun-og-vidtol-fh-valur-24-28-valur-vann-fyrstu-orrustuna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Gústi (lemma Gústi)))
@@ -64,7 +64,7 @@
         (grm .))
 
 (META (ID-CORPUS 45a4c887-0994-11e7-8ebd-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00262.psd,.4)
         (URL http://www.mbl.is/vidskipti/frettir/2017/03/15/velta_fataverslana_dregst_saman/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Velta (lemma velta))
@@ -86,7 +86,7 @@
         (grm .))
 
 (META (ID-CORPUS 60ac3089-ec18-11e8-99f0-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00262.psd,.5)
         (URL http://www.visir.is/g/2018181118768/fagnar-uttektinni-en-segir-eigin-uppsogn-overdskuldada-og-meidandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -107,7 +107,7 @@
         (grm .))
 
 (META (ID-CORPUS f9303882-eef9-11e6-8e8a-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00262.psd,.6)
         (URL http://www.ruv.is/frett/engar-visbendingar-um-saknaeman-verknad)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -129,7 +129,7 @@
         (grm .))
 
 (META (ID-CORPUS 7a3f3f08-674d-11e9-9bf4-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00262.psd,.7)
         (URL https://www.visir.is/g/2019190429439/osvifni-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -151,7 +151,7 @@
         (grm .))
 
 (META (ID-CORPUS b1a0ec6b-4adb-11e8-b0cb-04014c605401.74)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00262.psd,.8)
         (URL http://www.mbl.is/smartland/samskipti/2018/04/28/gott_hjonaband_snyst_um_ad_vera_godur_maki/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -172,7 +172,7 @@
         (grm .))
 
 (META (ID-CORPUS a92c90af-7ea3-11e6-a2c6-04014c605401.72)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00262.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/09/19/eg_geri_aldrei_leidinlegar_myndir/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -194,7 +194,7 @@
         (grm ?))
 
 (META (ID-CORPUS 9471b18a-8d76-11e7-b8bf-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00262_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00262.psd,.10)
         (URL http://www.visir.is/g/2017170828839)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Viðmælendur (lemma viðmælandi))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS c0d88ee7-53c7-11e6-843c-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00318.psd,.1)
         (URL http://www.mbl.is/sport/efstadeild/2016/07/27/ondo_kemur_ekki_austur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person Gilles Mbang Ondo (lemma Gilles Mbang Ondo))
@@ -29,7 +29,7 @@
         (grm .))
 
 (META (ID-CORPUS da5ed59c-660c-11e6-844e-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00318.psd,.2)
         (URL http://www.visir.is/grunadur-um-tvaer-naudganir--a-litla-hrauni-naestu-fjorar-vikurnar/article/2016160818744)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Maðurinn (lemma maður)))
@@ -62,7 +62,7 @@
           (grm .))
 
 (META (ID-CORPUS 360fde3c-546b-11e8-b0f4-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00318.psd,.3)
         (URL http://www.visir.is/g/2018180519974/sok-bitur-seka...-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Ólíkar (lemma ólíkur))
@@ -92,7 +92,7 @@
         (grm .))
 
 (META (ID-CORPUS d0079b67-92a0-11e6-a2d7-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00318.psd,.4)
         (URL http://www.ruv.is/frett/haetta-a-notkun-haettulegra-lofttegunda)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Fulltrúar (lemma fulltrúi))
@@ -126,7 +126,7 @@
         (grm .))
 
 (META (ID-CORPUS a62239a0-e8b0-11e6-8e82-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00318.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2017/02/01/sigurlikur_le_pen_aukast/)
         (COMMENT ))
   (S0 (S-MAIN (NP (person_et_nf_kk Evans-Pritchard (lemma Evans-Pritchard)))
@@ -158,7 +158,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS 20f1e151-4533-11e6-8429-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00318.psd,.6)
         (URL http://www.mbl.is/sport/handbolti/2016/04/15/omar_ingi_a_leid_til_aarhus_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -189,7 +189,7 @@
         (grm .))
 
 (META (ID-CORPUS c535d11d-60a3-11e9-9be1-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00318.psd,.7)
         (URL https://mbl.is/frettir/erlent/2019/04/16/aukin_vidbunadur_vid_columbine_skolann/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Viðvaranir (lemma viðvörun))
@@ -224,7 +224,7 @@
         (grm .))
 
 (META (ID-CORPUS f524ba9f-34d8-11e7-b7db-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00318.psd,.8)
         (URL http://www.ruv.is/frett/stadfesta-vidraedur-um-nordur-koreudeiluna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Utanríkisráðuneytið (lemma utanríkisráðuneyti))
@@ -258,7 +258,7 @@
         (grm .))
 
 (META (ID-CORPUS 201f3969-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00318.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2016/06/28/15_milljarda_dollara_baetur_vw/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (entity Volkswagen (lemma Volkswagen)))
@@ -290,7 +290,7 @@
         (grm .))
 
 (META (ID-CORPUS 21065c05-4533-11e6-8429-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00318_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00318.psd,.10)
         (URL http://www.visir.is/umfjollun--frakkland---island-5-2---aevintyrinu-lokid-i-frakklandi/article/2016160709896)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

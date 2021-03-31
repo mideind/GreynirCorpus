@@ -1,5 +1,5 @@
 (META (ID-CORPUS 696849f9-b0db-11e7-b915-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00236.psd,.1)
         (URL http://www.ruv.is/frett/vigamenn-gefast-upp-i-raqqa)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Útlendingar (lemma útlendingur))
@@ -17,7 +17,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fbf066d-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00236.psd,.2)
         (URL http://kjarninn.is/frettir/2016-03-07-bloomberg-bydur-sig-ekki-fram-til-forseta-bandarikjanna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -33,7 +33,7 @@
         (grm .))
 
 (META (ID-CORPUS 0164c31c-089d-11e7-8ebb-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00236.psd,.3)
         (URL http://www.mbl.is/folk/frettir/2017/03/14/katrin_og_vilhjalmur_staekka_hollina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PREFIX (entity Kensington (lemma Kensington)))
@@ -51,7 +51,7 @@
         (grm .))
 
 (META (ID-CORPUS a05451a0-bcf6-11e8-98eb-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00236.psd,.4)
         (URL http://www.mbl.is/200milur/frettir/2018/09/20/sau_sild_alveg_upp_vid_land/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Jón Gunnar Sigurjónsson (lemma Jón Gunnar Sigurjónsson)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 21496f0d-4533-11e6-8429-04014c605401.22)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00236.psd,.5)
         (URL http://www.visir.is/mikil-mildi-ad-ekki-hafi-ordid-slys-a-folk-/article/2016160709131)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk_gr Gaskútarnir (lemma gaskútur)))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS fba37c46-ce65-11e6-8e53-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00236.psd,.6)
         (URL http://www.visir.is/tiundi-hver-er-oskradur/article/2016161239988)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þgf Frá (lemma frá)))
@@ -102,7 +102,7 @@
         (grm .))
 
 (META (ID-CORPUS 6e90536c-5835-11e9-9bd2-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00236.psd,.7)
         (URL https://mbl.is/frettir/innlent/2019/04/06/rikid_stydji_vid_ibudakaup/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -122,7 +122,7 @@
         (grm .))
 
 (META (ID-CORPUS 86632055-2785-11e7-b7ba-04014c605401.141)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00236.psd,.8)
         (URL http://www.visir.is/g/2017170429750/and-voku-naetur-log-reglu-manns)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -140,7 +140,7 @@
         (grm .))
 
 (META (ID-CORPUS e9c7935e-98ce-11e9-9855-04014c605401.20)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00236.psd,.9)
         (URL http://www.ruv.is/frett/vesturverk-heldur-sinu-striki-thratt-fyrir-kaeru)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Birna (lemma Birna)))
@@ -158,7 +158,7 @@
         (grm .))
 
 (META (ID-CORPUS 94396479-7650-11e9-9823-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00236_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00236.psd,.10)
         (URL https://www.visir.is/g/2019190519455/islenskur-studningur-vid-konur-frid-og-oryggi-i-malavi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Fréttin (lemma frétt)))

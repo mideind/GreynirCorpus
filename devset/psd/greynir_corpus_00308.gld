@@ -1,5 +1,5 @@
 (META (ID-CORPUS cb952fb4-f0c2-11e8-9a0b-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00308.psd,.1)
         (URL http://www.ruv.is/frett/daemdur-fyrir-einkar-ofyrirleitinn-fjardratt)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Aðalmeðferð (lemma aðalmeðferð)
@@ -29,7 +29,7 @@
         (grm .))
 
 (META (ID-CORPUS f8fe4666-71f9-11e7-b868-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00308.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/07/26/rafmagnslausir_med_brotid_mastur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -58,7 +58,7 @@
         (grm .))
 
 (META (ID-CORPUS a3103f3f-c76c-11e6-8e48-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00308.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2016/12/21/ljosid_og_vonin_ad_leidarljosi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -88,7 +88,7 @@
         (grm .))
 
 (META (ID-CORPUS 234a7648-84da-11e7-b8a3-04014c605401.27)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00308.psd,.4)
         (URL http://www.ruv.is/frett/kaeru-spencer-gegn-frettamanni-ruv-visad-fra)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Spencer (lemma Spencer)))
@@ -119,7 +119,7 @@
         (grm .))
 
 (META (ID-CORPUS 8b7efaa9-6d7b-11e6-a2b3-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00308.psd,.5)
         (URL http://www.visir.is/umfjollun%2C-vidtol%2C-einkunnir-og-myndir--valur---kr-2-0---kristinn-freyr-er-ostodvandi-og-sa-um-kr/article/2016160829104)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Hjá (lemma hjá)))
@@ -148,7 +148,7 @@
         (grm .))
 
 (META (ID-CORPUS 991d4e61-b596-11e7-b91d-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00308.psd,.6)
         (URL http://www.ruv.is/frett/thaer-donsku-bunar-ad-semja)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Leikmenn (lemma leikmaður)))
@@ -179,7 +179,7 @@
         (grm .))
 
 (META (ID-CORPUS 015df112-d0e3-11e6-8e58-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00308.psd,.7)
         (URL http://www.visir.is/bestu-kvikmyndir-arsins-2016/article/2017161239810)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Hér (lemma hér)))
@@ -210,7 +210,7 @@
         (grm .))
 
 (META (ID-CORPUS 901115f9-8af9-11e9-9839-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00308.psd,.8)
         (URL https://www.dv.is/fokus/2019/06/09/madur-aetti-ad-skipta-um-starf-thegar-madur-situr-med-gratandi-folki-og-thad-snertir-ekkert-vid-manni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_þgf_p1 Mér (lemma ég)))
@@ -241,7 +241,7 @@
         (grm .))
 
 (META (ID-CORPUS 6dcef148-8e7a-11e9-983e-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00308.psd,.9)
         (URL https://www.frettabladid.is/lifid/jon-jonsson-og-sverrir-bergmann-a-johati/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -270,7 +270,7 @@
         (grm .))
 
 (META (ID-CORPUS 43011ab4-c088-11e8-9900-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00308_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00308.psd,.10)
         (URL http://www.ruv.is/frett/sosialistar-i-ia-ekki-i-stjorn-med-siumut)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Þingmenn (lemma þingmaður))

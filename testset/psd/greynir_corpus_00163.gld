@@ -1,5 +1,5 @@
 (META (ID-CORPUS 20f1e275-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00163.psd,.1)
+        (ID-LOCAL greynir_corpus_00163.psd,.1)
         (URL http://www.mbl.is/vidskipti/frettir/2016/04/14/mf_nyttist_vid_bankakaup/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-PCL (ao Fram (lemma fram)))
@@ -31,7 +31,7 @@
       (grm .))
 
 (META (ID-CORPUS ee21b905-75d4-11e6-a2bc-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00163.psd,.2)
+        (ID-LOCAL greynir_corpus_00163.psd,.2)
         (URL http://www.visir.is/bein-utsending--addaendur-justin-bieber-streyma-i-korinn/article/2016160908979)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Þessi (lemma þessi))
@@ -62,7 +62,7 @@
         (grm .))
 
 (META (ID-CORPUS ab5da155-f835-11e6-8e9b-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00163.psd,.3)
+        (ID-LOCAL greynir_corpus_00163.psd,.3)
         (URL http://www.visir.is/milo-yiannopoulos--umdeildasti-madur-internetsins/article/2017170229791)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -91,7 +91,7 @@
       (grm .))
 
 (META (ID-CORPUS 7bed16d3-4a27-11e8-b0ca-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00163.psd,.4)
+        (ID-LOCAL greynir_corpus_00163.psd,.4)
         (URL http://www.mbl.is/frettir/innlent/2018/04/27/ljost_ad_hann_sagdi_ekki_rett_fra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Halldóra (lemma Halldóra)))
@@ -122,7 +122,7 @@
       (grm .))
 
 (META (ID-CORPUS 3ce6b54d-7b42-11e7-b880-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00163.psd,.5)
+        (ID-LOCAL greynir_corpus_00163.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2017/08/07/konur_gerdar_ad_skiptimynt/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Ákvörðun (lemma ákvörðun))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS 5c01f3d2-7a53-11e9-9828-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00163.psd,.6)
+        (ID-LOCAL greynir_corpus_00163.psd,.6)
         (URL https://www.visir.is/g/2019190518765/krasnodar-nadi-meistaradeildarsaeti-sandhausen-slapp-vid-umspil)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Krasnodar (lemma Krasnodar)))
@@ -188,7 +188,7 @@
       (grm .))
 
 (META (ID-CORPUS eb2cc240-8dbf-11e8-aa1e-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00163.psd,.7)
+        (ID-LOCAL greynir_corpus_00163.psd,.7)
         (URL http://www.ruv.is/frett/feminiskt-frelsi-blomstrar-i-visindaskaldskap)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (sérnafn_nf Kindred (lemma Kindred)))
@@ -222,7 +222,7 @@
         (grm .))
 
 (META (ID-CORPUS 59434c58-ba32-11e6-b57c-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00163.psd,.8)
+        (ID-LOCAL greynir_corpus_00163.psd,.8)
         (URL http://www.visir.is/runar-a-skotskonum-i-langthradum-sigri/article/2016161209501)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_nf_fh_p3_et_þt_gm Var (lemma vera)))
@@ -252,7 +252,7 @@
       (grm .))
 
 (META (ID-CORPUS 522ca53d-9ec2-11e6-bea2-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00163.psd,.9)
+        (ID-LOCAL greynir_corpus_00163.psd,.9)
         (URL http://www.visir.is/sigurdur-ingi--erfid-stjornarmyndun-fram-undan/article/2016161039912)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -284,7 +284,7 @@
         (grm .))
 
 (META (ID-CORPUS c4bbfaa0-92b5-11e6-a2d7-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00163.psd,.10)
+        (ID-LOCAL greynir_corpus_00163.psd,.10)
         (URL http://kjarninn.is/frettir/2016-10-15-segir-bjarna-bisnissmann-rongum-stad-sem-eigi-ad-segja-af-ser/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))

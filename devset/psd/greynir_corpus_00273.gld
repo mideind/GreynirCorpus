@@ -1,5 +1,5 @@
 (META (ID-CORPUS a0783573-fb8c-11e6-8e9e-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00273.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2017/02/25/thetta_eru_erfidar_adstaedur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (P (fs_þgf Frá (lemma frá)))
@@ -23,7 +23,7 @@
         (grm .))
 
 (META (ID-CORPUS f63566eb-7058-11e6-a2b6-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00273.psd,.2)
         (URL http://www.visir.is/yngri-born-en-adur-a-leikskolum-i-hafnarfirdi/article/2016160909883)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -46,7 +46,7 @@
         (grm .))
 
 (META (ID-CORPUS ee999be6-e206-11e6-8e73-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00273.psd,.3)
         (URL http://www.visir.is/trump-hyggst-laekka-skatta-og-draga-ur-reglugerdum/article/2017170129550)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (PP (P (fs_þgf Frá (lemma frá)))
@@ -69,7 +69,7 @@
         (grm .))
 
 (META (ID-CORPUS 11a0b11f-561f-11e8-b0fc-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00273.psd,.4)
         (URL http://www.visir.is/g/2018180519823/umfjollun-og-vidtol-grindavik-kr-1-1-jafntefli-sudur-med-sjo)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk KR (lemma KR)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS 40037024-2803-11e7-b7ba-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00273.psd,.5)
         (URL http://www.mbl.is/matur/frettir/2017/04/23/thetta_borda_stjornurnar_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Á (lemma á)))
@@ -116,7 +116,7 @@
       (grm .))
 
 (META (ID-CORPUS 1d7fa08a-6821-11e8-addb-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00273.psd,.6)
         (URL http://www.ruv.is/frett/segir-moskvu-ekki-brenna-a-nyrri-mynd-ksi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Guðmundur Oddur Magnússon (lemma Guðmundur Oddur Magnússon))
@@ -138,7 +138,7 @@
       (grm .))
 
 (META (ID-CORPUS 1ee1320f-d336-11e6-8e59-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00273.psd,.7)
         (URL http://www.mbl.is/frettir/innlent/2017/01/05/laegdagangur_fram_i_naestu_viku/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Ekkert (lemma enginn)))
@@ -159,7 +159,7 @@
         (grm .))
 
 (META (ID-CORPUS fba0b6cb-1b20-11e9-9b3d-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00273.psd,.8)
         (URL http://www.visir.is/g/2019190118835/danir-missa-einn-besta-linu-og-varnarmann-heims)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn René Toft (lemma René Toft)))
@@ -182,7 +182,7 @@
         (grm .))
 
 (META (ID-CORPUS becc5031-f5e6-11e6-8e98-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00273.psd,.9)
         (URL http://www.ruv.is/frett/tillaga-um-sameiningu-logd-fram-i-vor)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_evb Næstu (lemma næstur))
@@ -208,7 +208,7 @@
         (grm .))
 
 (META (ID-CORPUS de6a62b3-5f88-11e8-ada1-04014c605401.35)
-        (ID-LOCAL reynir_corpus_00273_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00273.psd,.10)
         (URL http://www.mbl.is/frettir/kosning/2018/05/24/borgarbuar_munu_kjosa_um_borgarlinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þess (lemma þess))

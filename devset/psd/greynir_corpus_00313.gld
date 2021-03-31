@@ -1,5 +1,5 @@
 (META (ID-CORPUS 84d66d6c-16e3-11e7-aa37-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00313.psd,.1)
         (URL http://www.visir.is/i-beinni--man-united---west-brom---naer-united-ad-klara-wba-an-zlatans-/article/2017170339734)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -29,7 +29,7 @@
         (grm .))
 
 (META (ID-CORPUS c01dfe5e-742f-11e7-b86e-04014c605401.91)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00313.psd,.2)
         (URL http://kvennabladid.is/2017/07/29/mer-fannst-eg-vera-skitug-drusla/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS 30d4884a-2f09-11e9-9b88-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00313.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/02/12/thurfa_ekki_lengur_syna_island_a_kortinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (P (fs_þgf Á (lemma á)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS da6fbaed-514c-11e9-9bcc-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00313.psd,.4)
         (URL https://mbl.is/smartland/heilsa/2019/03/28/geggjud_rad_til_ad_losna_vid_keto_flensuna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-ACK (C (st Þó (lemma Þó))
@@ -121,7 +121,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS f93f1ccc-1b20-11e7-aa45-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00313.psd,.5)
         (URL http://www.ruv.is/frett/vildi-fa-frett-og-mynd-fjarlaegda-af-timaritis)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -151,7 +151,7 @@
         (grm .))
 
 (META (ID-CORPUS 216f611d-4533-11e6-8429-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00313.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2016/05/04/kosningar_kunna_ad_skyra_fylgistapid/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -183,7 +183,7 @@
         (grm .))
 
 (META (ID-CORPUS 7b5fab34-a416-11e7-b8f7-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00313.psd,.7)
         (URL http://www.visir.is/g/2017170929031/rakel-radum-ekki-orlogum-okkar)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao_est Fyrst (lemma snemma)))
@@ -212,7 +212,7 @@
         (grm .))
 
 (META (ID-CORPUS 4d593541-eb51-11e7-b894-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00313.psd,.8)
         (URL http://www.visir.is/g/2017171229166/helt-uppa-jolin-i-fimm-hundrud-thusund-krona-yfirhofn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Elton (lemma Elton)))
@@ -244,7 +244,7 @@
         (grm .))
 
 (META (ID-CORPUS e1e4a6a1-2343-11e9-9b78-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00313.psd,.9)
         (URL http://www.visir.is/g/2019190128863/robert-isak-tok-tvo-islandsmet-af-olympiumeistaranum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Róbert (lemma Róbert))
@@ -277,7 +277,7 @@
         (grm .))
 
 (META (ID-CORPUS 1818bc32-b142-11e8-98b5-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00313_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00313.psd,.10)
         (URL http://www.visir.is/g/2018180909417/atjan-islensk-mork-i-thyskalandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Guðjón Valur Sigurðsson (lemma Guðjón Valur Sigurðsson))

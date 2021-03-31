@@ -1,5 +1,5 @@
 (META (ID-CORPUS 6057b204-9bc3-11e8-987e-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00298.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2018/08/09/skjot_vidbrogd_vegfarenda_skiptu_skopum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -27,7 +27,7 @@
         (grm .))
 
 (META (ID-CORPUS 3f38860d-858c-11e6-a2cc-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00298.psd,.2)
         (URL http://www.visir.is/cumberbatch-tok-vidtal-vid-hiddleston--skautadi-fimlega-fram-hja-thvi-ad-minnast-a-taylor-swift/article/2016160928815)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS 205d26a3-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00298.psd,.3)
         (URL http://kjarninn.is/frettir/2016-06-24-david-cameron-haettir-sem-forsaetisradherra-bretlands/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS 8cb72c0e-788a-11e9-9827-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00298.psd,.4)
         (URL http://www.ruv.is/frett/folkid-a-gotunni-bjartsynt-fyrir-hond-hatara)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Fólkið (lemma fólk))
@@ -113,7 +113,7 @@
         (grm .))
 
 (META (ID-CORPUS a7b16b61-47ae-11e8-b0bf-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00298.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/04/24/tafir_i_naudgunarmali/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Óli Ingi Ólason (lemma Óli Ingi Ólason))
@@ -139,7 +139,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS d29becb4-40aa-11e7-b7f8-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00298.psd,.6)
         (URL http://www.visir.is/g/2017170529419/aron-med-mark-beint-ur-aukaspyrnu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -169,7 +169,7 @@
         (grm .))
 
 (META (ID-CORPUS b2be0c50-8fc9-11e7-b8c6-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00298.psd,.7)
         (URL http://www.mbl.is/vidskipti/frettir/2017/09/02/nota_kuldann_til_ad_hreinsa_vatn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-POSS (pfn_ft_ef_p1 Okkar (lemma ég)))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS c4066836-6f20-11e9-981e-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00298.psd,.8)
         (URL https://mbl.is/frettir/erlent/2019/05/05/netanyahu_fyrirskipar_fleiri_arasir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Vopnahlé (lemma vopnahlé))
@@ -225,7 +225,7 @@
         (grm .))
 
 (META (ID-CORPUS 292018f3-90f1-11e8-985e-04014c605401.33)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00298.psd,.9)
         (URL http://www.visir.is/g/2018180729271/hitabylgja-i-bretlandi-eg-thrai-ad-komast-heim-til-islands-i-rigninguna-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (fn_et_þf_hk Annað (lemma annar))
@@ -255,7 +255,7 @@
         (grm .))
 
 (META (ID-CORPUS 66c35c61-fedf-11e8-9a72-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00298_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00298.psd,.10)
         (URL http://www.visir.is/g/2018181219420/vonast-enn-til-ad-geta-dregid-storan-hluta-uppsagna-a-flugvellinum-til-baka)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Eftir (lemma eftir))

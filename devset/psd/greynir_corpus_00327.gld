@@ -1,5 +1,5 @@
 (META (ID-CORPUS 9f434c6c-9920-11e6-a2e0-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00327.psd,.1)
         (URL http://www.ruv.is/frett/stadalmynd-forritara-enn-karlkyns-nord)
         (COMMENT ))
   (S0-X (S-QUOTE (CP-QUOTE (S-MAIN (IP (VP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))
@@ -36,7 +36,7 @@
                      (grm .)))
 
 (META (ID-CORPUS cafbb430-7f81-11e8-aa0a-04014c605401.22)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00327.psd,.2)
         (URL http://www.mbl.is/smartland/tiska/2018/07/04/10_fegrunarrad_sem_eru_ekki_god_fyrir_thig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -73,7 +73,7 @@
         (grm .))
 
 (META (ID-CORPUS 52035aec-a59e-11e6-beab-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00327.psd,.3)
         (URL http://www.mbl.is/bill/domar/2016/11/08/italir_myndu_kalla_thad_malamidlun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -111,7 +111,7 @@
         (grm .))
 
 (META (ID-CORPUS d65c0f7b-d9b3-11e7-b979-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00327.psd,.4)
         (URL https://kjarninn.is/frettir/2017-12-05-endalok-kebabsins-hugsanlega-i-nand-i-evropu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Ástæðan (lemma ástæða))
@@ -149,7 +149,7 @@
         (grm .))
 
 (META (ID-CORPUS b41679b4-151a-11e7-aa34-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00327.psd,.5)
         (URL http://www.visir.is/fullyrda-enn-ad-thyski-hauck--og--aufh%25C3%25A4user-hafi-keypt-hlut/article/2017170339978)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Guðmundur (lemma Guðmundur)))
@@ -185,7 +185,7 @@
         (grm .))
 
 (META (ID-CORPUS c354fbb9-750b-11e6-a2bc-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00327.psd,.6)
         (URL http://www.ruv.is/frett/ny-fridaraaetlun-logd-fram)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person Assad (lemma Assad))
@@ -223,7 +223,7 @@
         (grm .))
 
 (META (ID-CORPUS 87f645ff-80af-11e6-a2c6-04014c605401.85)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00327.psd,.7)
         (URL http://www.visir.is/islendingar-blekktir--duldar-auglysingar-daglegt-braud-a-snapchat/article/2016160929962)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (P (fs_þf Eftir (lemma eftir)))
@@ -260,7 +260,7 @@
         (grm .))
 
 (META (ID-CORPUS 080e7da3-de9b-11e8-9994-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00327.psd,.8)
         (URL https://kjarninn.is/frettir/2018-11-02-logmadur-tekjur-svarar-brefi-personuverndar/)
         (COMMENT ))
   (S0 (S-MAIN (ADVP (ao Því (lemma Því)))
@@ -299,7 +299,7 @@
     (grm .))
 
 (META (ID-CORPUS b9b4ff3a-06f5-11e9-9ab2-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00327.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/12/23/meira_en_bara_thurrt_salat/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -334,7 +334,7 @@
                  (grm .)))
 
 (META (ID-CORPUS ff69e8f0-7ec0-11e6-a2c6-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00327_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00327.psd,.10)
         (URL http://www.mbl.is/sport/efstadeild/2016/09/19/vonbrigdi_hja_throtturum_2/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Allt (lemma allur)))

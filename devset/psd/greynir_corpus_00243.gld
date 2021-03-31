@@ -1,5 +1,5 @@
 (META (ID-CORPUS 0e20b8f0-15bc-11e8-813f-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00243.psd,.1)
         (URL http://www.ruv.is/frett/vilja-refsa-thumalputtathjofi)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Eftir (lemma eftir)))
@@ -18,7 +18,7 @@
         (grm .))
 
 (META (ID-CORPUS 6c21ca74-b449-11e8-98c0-04014c605401.1)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00243.psd,.2)
         (URL http://www.visir.is/g/2018180908954/sif-lek-allan-leikinn-i-sigri-kristianstad)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (entity Kristianstad (lemma Kristianstad)))
@@ -37,7 +37,7 @@
         (grm .))
 
 (META (ID-CORPUS 18b630a3-4b10-11e9-9bc2-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00243.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/03/20/pakkid_mun_sigrad/)
         (COMMENT ))
   (S0 (S-QUOTE (CP-QUOTE (NP (eo Engu að síður (lemma engu að síður))
@@ -53,7 +53,7 @@
                  (grm .)))
 
 (META (ID-CORPUS e841f9e0-4bbb-11e7-b80d-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00243.psd,.4)
         (URL http://www.ruv.is/frett/vida-slaemt-adgengi-ad-brunahonum)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (PP (P (fs_þf Við (lemma við)))
@@ -73,7 +73,7 @@
         (grm .))
 
 (META (ID-CORPUS a18d19ba-1286-11e8-8135-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00243.psd,.5)
         (URL http://www.visir.is/g/2018180219194/landsbankinn-hagnast-um-19-8-milljarda)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS 4ac9a60b-90b2-11e6-a2d6-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00243.psd,.6)
         (URL http://www.visir.is/aetlum-ad-negla-oll-stokkin-okkar/article/2016161019504)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -108,7 +108,7 @@
         (grm .))
 
 (META (ID-CORPUS 33038700-b67f-11e8-98c7-04014c605401.27)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00243.psd,.7)
         (URL http://www.visir.is/g/2018180919626/forstjori-personuverndar-segir-mogulegt-ad-simarnir-hlusti-til-ad-snida-auglysingar-ad-ther)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þar (lemma þar)))
@@ -127,7 +127,7 @@
         (grm .))
 
 (META (ID-CORPUS e934c826-8eb0-11e9-983f-04014c605401.29)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00243.psd,.8)
         (URL http://www.ruv.is/frett/skrytid-ad-fa-ad-heita-karl-en-ekki-kona)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -146,7 +146,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fd484b7-4533-11e6-8429-04014c605401.414)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00243.psd,.9)
         (URL http://www.visir.is/section/IDROTTIR01)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Ísland (lemma ísland)))
@@ -163,7 +163,7 @@
                         (NP-OBJ (no_et_þf_hk England (lemma England)))))))
 
 (META (ID-CORPUS a100db52-1d95-11e9-9b4b-04014c605401.40)
-        (ID-LOCAL greynir_corpus_00243_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00243.psd,.10)
         (URL http://www.visir.is/g/2019190129829/naumhyggja-marie-kondo-a-ekki-upp-a-pallbordid-hja-margreti)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 21496c12-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00246.psd,.1)
         (URL http://www.visir.is/notkun-sterkra-verkjalyfja-mest-a-islandi-af-nordurlondunum/article/2016160709337)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Leifur Bárðarson (lemma Leifur Bárðarson))
@@ -17,7 +17,7 @@
         (grm .))
 
 (META (ID-CORPUS 048ee82a-7211-11e6-a2bb-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00246.psd,.2)
         (URL http://www.visir.is/kari-em-er-geymt-en-ekki-gleymt/article/2016160909623)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk EM (lemma EM)))
@@ -36,7 +36,7 @@
         (grm .))
 
 (META (ID-CORPUS 1fcaecc1-4533-11e6-8429-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00246.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2016/06/30/byssueigendum-faekkar-a-sama-tima-og-sala-a-skotvopnum-er-i-sogulegu-hamarki/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Greining (lemma greining))
@@ -56,7 +56,7 @@
         (grm .))
 
 (META (ID-CORPUS 58687934-77d6-11e9-9825-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00246.psd,.4)
         (URL https://www.dv.is/frettir/2019/05/16/logi-segist-vinna-ad-nektardagatali-thingmanna-thingmenn-med-vomb/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Af (lemma af)))
@@ -76,7 +76,7 @@
         (grm .))
 
 (META (ID-CORPUS 8dde9fe7-1193-11e8-8130-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00246.psd,.5)
         (URL http://www.visir.is/g/2018180219499/10-myndir-sem-thu-getur-horft-a-a-valentinusardaginn-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_sb Íslensk (lemma íslenskur))
@@ -96,7 +96,7 @@
         (grm .))
 
 (META (ID-CORPUS ebc66316-3036-11e7-b7ce-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00246.psd,.6)
         (URL http://www.visir.is/g/2017170509607/bjarki-audveldara-en-eg-atti-von-a)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS 29b11c77-d780-11e8-997b-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00246.psd,.7)
         (URL http://www.visir.is/g/2018181029497/hr-aetlar-i-hart-i-malid-kristins-sigurjonssonar)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (VP-AUX (so_0_fh_p3_et_nt_gm Hefur (lemma hafa)))
@@ -134,7 +134,7 @@
         (grm .))
 
 (META (ID-CORPUS 2099c998-4533-11e6-8429-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00246.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2016/06/09/taka_leyfi_palestinumanna_ur_gildi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Á sama tíma (lemma á sama tíma)))
@@ -152,7 +152,7 @@
         (grm .))
 
 (META (ID-CORPUS 3c0c4d3e-bfd8-11e8-98fb-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00246.psd,.9)
         (URL http://www.mbl.is/fjolskyldan/frettir/2018/09/24/get_eg_haett_ad_nota_hvita_lygi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Svona (lemma svona))
@@ -171,7 +171,7 @@
         (grm .))
 
 (META (ID-CORPUS 9939a52c-ce31-11e7-b963-04014c605401.17)
-        (ID-LOCAL greynir_corpus_00246_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00246.psd,.10)
         (URL https://kjarninn.is/skodun/2017-11-20-hernadurinn-gegn-hafnartorgi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_þgf_kk Þessum (lemma þessi))

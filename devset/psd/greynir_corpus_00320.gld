@@ -1,5 +1,5 @@
 (META (ID-CORPUS f4a0f9cd-c055-11e6-b589-04014c605401.54)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00320.psd,.1)
         (URL http://kvennabladid.is/2016/12/12/a-ferd-og-flugi-med-pennann-a-lofti/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -33,7 +33,7 @@
         (grm .))
 
 (META (ID-CORPUS ea655407-e498-11e6-8e79-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00320.psd,.2)
         (URL http://www.visir.is/valdis-thora--fjoldi-fylgjenda-a-samfelagsmidlum-skiptir-styrktaradila-miklu-mali/article/2017170128989)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (sérnafn_nf_kvk Paige Spiranac (lemma Paige Spiranac)))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS a273c548-554f-11e9-9bd0-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00320.psd,.3)
         (URL https://mbl.is/frettir/erlent/2019/04/02/einn_a_moti_hertri_vopnaloggjof/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -99,7 +99,7 @@
         (grm .))
 
 (META (ID-CORPUS dcad25bd-81bd-11e7-b895-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00320.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2017/08/15/snjoll_og_astridufull_bladakona/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -126,7 +126,7 @@
         (grm .))
 
 (META (ID-CORPUS 51a4a715-e3dc-11e6-8e79-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00320.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/01/26/um_fimmtiu_konur_komu_a_sidasta_ari/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi))
@@ -158,7 +158,7 @@
         (grm .))
 
 (META (ID-CORPUS 86ede199-35aa-11e9-9b98-04014c605401.58)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00320.psd,.6)
         (URL https://mbl.is/frettir/innlent/2019/02/21/undrast_hvad_liggi_a/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Frestur (lemma frestur))
@@ -192,7 +192,7 @@
         (grm .))
 
 (META (ID-CORPUS 55105bc0-25e0-11e8-b01e-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00320.psd,.7)
         (URL http://www.visir.is/g/2018180319774/elizabeth-warren-bydur-sig-ekki-fram-til-forseta)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -223,7 +223,7 @@
         (grm .))
 
 (META (ID-CORPUS 3151a123-e92a-11e8-99d4-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00320.psd,.8)
         (URL http://www.ruv.is/frett/lofa-ad-vefja-lifeyristhega-i-bomull)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -258,7 +258,7 @@
         (grm .))
 
 (META (ID-CORPUS 0971d6c4-bc92-11e6-b57e-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00320.psd,.9)
         (URL http://www.mbl.is/vidskipti/frettir/2016/12/07/kaupir_meirihluta_i_inkasso/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -290,7 +290,7 @@
         (grm .))
 
 (META (ID-CORPUS 60622ec8-adda-11e8-98a8-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00320_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00320.psd,.10)
         (URL http://www.ruv.is/frett/heilinn-hans-arnars-ulfs)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

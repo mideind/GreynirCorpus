@@ -1,5 +1,5 @@
 (META (ID-CORPUS 1b1a3c42-6145-11e8-ada5-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00169.psd,.1)
+        (ID-LOCAL greynir_corpus_00169.psd,.1)
         (URL http://www.mbl.is/frettir/kosning/2018/05/27/munu_lata_malefnin_rada/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -33,7 +33,7 @@
         (grm .))
 
 (META (ID-CORPUS 061449a3-8dc2-11e9-983d-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00169.psd,.2)
+        (ID-LOCAL greynir_corpus_00169.psd,.2)
         (URL https://www.visir.is/g/2019190619602/skelfilegt-gengi-islands-a-utivelli-heldur-afram)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (töl_ft_nf_kk Sex (lemma sex))
@@ -66,7 +66,7 @@
       (grm .))
 
 (META (ID-CORPUS 088c353b-0cbb-11e8-8122-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00169.psd,.3)
+        (ID-LOCAL greynir_corpus_00169.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2018/02/08/mestur-hagvoxtur-a-islandi-af-nordurlondunum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -99,7 +99,7 @@
       (grm .))
 
 (META (ID-CORPUS 10b4481e-47a2-11e6-842d-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00169.psd,.4)
+        (ID-LOCAL greynir_corpus_00169.psd,.4)
         (URL http://www.visir.is/41-ars-hlaupari-mun-setja-nytt-bandariskt-met-a-ol-i-rio/article/2016160719889)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Bernard Lagat (lemma Bernard Lagat)))
@@ -132,7 +132,7 @@
       (grm .))
 
 (META (ID-CORPUS 8e16948e-d4ca-11e7-b96e-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00169.psd,.5)
+        (ID-LOCAL greynir_corpus_00169.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/11/28/folk_farid_ad_ganga_med_grimur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (grm „)
@@ -166,7 +166,7 @@
         (grm .))
 
 (META (ID-CORPUS 3dd93130-86a9-11e8-aa10-04014c605401.509)
-        (ID-LOCAL reynir_corpus_00169.psd,.6)
+        (ID-LOCAL greynir_corpus_00169.psd,.6)
         (URL https://www.forsaetisraduneyti.is/default.aspx?PageID=a496498d-6ce4-40b2-b339-fd61987a9918)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Umsóknir (lemma umsókn))
@@ -204,7 +204,7 @@
               (grm .)))
 
 (META (ID-CORPUS 215c15d4-4533-11e6-8429-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00169.psd,.7)
+        (ID-LOCAL greynir_corpus_00169.psd,.7)
         (URL http://www.ruv.is/frett/eigur-flottamanna-a-danska-thjodminjasafnid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_nf Politiken (lemma Politiken)))
@@ -237,7 +237,7 @@
       (grm .))
 
 (META (ID-CORPUS d3c32afc-d10a-11e7-b96a-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00169.psd,.8)
+        (ID-LOCAL greynir_corpus_00169.psd,.8)
         (URL http://www.visir.is/g/2017171129282/fostudagsplaylistinn-steinthor-helgi-arnsteinsson-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Drengurinn (lemma drengur)))
@@ -271,7 +271,7 @@
       (grm .))
 
 (META (ID-CORPUS ad397c41-1d80-11e9-9b4b-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00169.psd,.9)
+        (ID-LOCAL greynir_corpus_00169.psd,.9)
         (URL http://www.visir.is/g/2019190129833/kamala-harris-bydur-sig-fram-til-forseta-bandarikjanna)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -304,7 +304,7 @@
         (grm .))
 
 (META (ID-CORPUS ec0a0006-39fc-11e9-9b99-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00169.psd,.10)
+        (ID-LOCAL greynir_corpus_00169.psd,.10)
         (URL http://www.visir.is/g/2019190229082/vilja-skoda-hvort-loka-thurfi-fyrir-adgengi-ad-olfusa)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Páll (lemma Páll)))

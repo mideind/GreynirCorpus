@@ -1,5 +1,5 @@
 (META (ID-CORPUS 46ca3fdd-55f7-11e9-9bd0-04014c605401.31)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00337.psd,.1)
         (URL https://mbl.is/ferdalog/frettir/2019/04/03/brynt_ad_laga_reidhjolid_ad_likamshlutfollum_notand/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP (fn_et_nf_kk Sjálfur (lemma sjálfur)))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f86a905-4533-11e6-8429-04014c605401.30)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00337.psd,.2)
         (URL http://www.ruv.is/frett/andad-med-lungum-annarra)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Annar (lemma annar))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS 2099cc9b-4533-11e6-8429-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00337.psd,.3)
         (URL http://www.ruv.is/frett/russar-vilja-ad-syrlenskir-kurdar-verdi-med)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Lavrov (lemma Lavrov)))
@@ -139,7 +139,7 @@
         (grm .))
 
 (META (ID-CORPUS 71d9ceb6-0a5d-11e9-9ac6-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00337.psd,.4)
         (URL http://www.ruv.is/frett/afhjupadi-sersveitarmenn-og-studadi-iraka)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Þingmenn (lemma þingmaður))
@@ -186,7 +186,7 @@
         (grm .))
 
 (META (ID-CORPUS 586a2607-41e9-11e9-9baa-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00337.psd,.5)
         (URL http://www.visir.is/g/2019190308892/-algjorlega-storkostlegur-dagur-)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (PP-LOC (P (fs_þgf Á (lemma á)))
@@ -234,7 +234,7 @@
         (grm .))
 
 (META (ID-CORPUS 049d2518-c71d-11e8-9924-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00337.psd,.6)
         (URL http://www.visir.is/g/2018181009577/hakkarar-kim-sakadir-um-fjolda-stafraenna-bankarana)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Sandra Joyce (lemma Sandra Joyce))
@@ -283,7 +283,7 @@
         (grm .))
 
 (META (ID-CORPUS 619ae25f-1bad-11e8-8157-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00337.psd,.7)
         (URL http://www.visir.is/g/2018180229004/krofdu-syrlenskar-konur-um-kynlif-i-skiptum-fyrir-neydaradstod)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -333,7 +333,7 @@
         (grm .))
 
 (META (ID-CORPUS 7c6dfb21-58fc-11e8-b10b-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00337.psd,.8)
         (URL http://www.visir.is/g/2018180519182/loksins-tekur-ellidavatn-vid-ser)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -380,7 +380,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS a959f840-deea-11e8-9999-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00337.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2018/11/02/fyrirskipun_ur_haestu_haedum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -426,7 +426,7 @@
         (grm .))
 
 (META (ID-CORPUS 3cf4673e-aaab-11e7-b908-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00337_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00337.psd,.10)
         (URL http://www.visir.is/g/2017171009249/-mer-finnst-timasetningin-merkileg-)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Það (lemma sá)))

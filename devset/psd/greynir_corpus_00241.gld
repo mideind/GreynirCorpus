@@ -1,5 +1,5 @@
 (META (ID-CORPUS 6facc064-5c27-11e7-b82a-04014c605401.28)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00241.psd,.1)
         (URL http://www.visir.is/g/2017170628951/tuttugu-ar-fra-bitbardaga-tysons-og-holyfields)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Bitvargurinn (lemma bitvargur)))
@@ -17,7 +17,7 @@
         (grm .))
 
 (META (ID-CORPUS 9cf6a66b-c7d9-11e8-992a-04014c605401.29)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00241.psd,.2)
         (URL http://www.visir.is/p/throunarsamvinna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Síminn (lemma sími)))
@@ -37,7 +37,7 @@
                                                         (VP (so_1_þgf_nh_gm fylgja (lemma fylgja))))))))))))
 
 (META (ID-CORPUS 3e54453a-559f-11e7-b81b-04014c605401.260)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00241.psd,.3)
         (URL https://www.innanrikisraduneyti.is/default.aspx?PageID=94a3977b-8199-11e6-80c8-005056bc217f)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Sigríður Vilhjálmsdóttir (lemma Sigríður Vilhjálmsdóttir))
@@ -55,7 +55,7 @@
         (grm .))
 
 (META (ID-CORPUS 20d883c9-4533-11e6-8429-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00241.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2016/06/17/thrir_russar_daemdir_i_fangelsi_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_1_nf_fh_p3_et_þt_gm Var (lemma vera)))
@@ -74,7 +74,7 @@
         (grm .))
 
 (META (ID-CORPUS 08509474-f78e-11e6-8e9a-04014c605401.42)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00241.psd,.5)
         (URL http://www.mbl.is/vidskipti/frettir/2017/02/20/kvordun_um_saestreng_fyrir_naesta_ar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_0_fh_p3_et_nt_mm Segist (lemma segja)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS 59ae02e2-807f-11e9-982f-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00241.psd,.6)
         (URL https://www.visir.is/g/2019190529005/islenskur-fjarsvikari-og-flugstjori-finnst-ekki)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Framburður (lemma framburður))
@@ -112,7 +112,7 @@
         (grm .))
 
 (META (ID-CORPUS 216f6382-4533-11e6-8429-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00241.psd,.7)
         (URL http://www.mbl.is/sport/handbolti/2016/05/09/sigurbergur_samdi_vid_bv_til_tveggja_ara/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -131,7 +131,7 @@
                   (grm . (lemma .))))
 
 (META (ID-CORPUS 4eb8284d-64e3-11e8-adc4-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00241.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2018/05/31/orugg_medferd_trunadargagna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_kvk_gr Hagstofan (lemma hagstofa)))
@@ -151,7 +151,7 @@
         (grm .))
 
 (META (ID-CORPUS 22e3fa3c-c4b9-11e8-9913-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00241.psd,.9)
         (URL http://www.ruv.is/frett/islenskir-unglingar-drekka-minnst-af-afengi)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (lo_et_þf_hk_sb Heilt (lemma heill))
@@ -170,7 +170,7 @@
         (grm .))
 
 (META (ID-CORPUS 45239030-9686-11e8-986c-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00241_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00241.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2018/08/02/held_ad_allir_thurfi_ad_baeta_sig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

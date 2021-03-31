@@ -1,5 +1,5 @@
 (META (ID-CORPUS f3c5ec37-505d-11e7-b813-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00211.psd,.1)
         (URL http://www.visir.is/g/2017170619633/i-beinni-island-brasilia-tekst-stelpunum-ad-stodva-mortu-)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (no_et_nf_kk Starfshópur (lemma starfshópur))
@@ -13,7 +13,7 @@
                                                                                           (exp_seg ferða-þjónustustarfsemi)))))))))))
 
 (META (ID-CORPUS b4234603-d36e-11e7-b96d-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00211.psd,.2)
         (URL http://www.ruv.is/frett/eg-er-bara-brott-fyrir-thann-fund)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Formannafundur (lemma formannafundur))
@@ -26,7 +26,7 @@
         (grm .))
 
 (META (ID-CORPUS 60507f30-7cfc-11e6-a2c3-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00211.psd,.3)
         (URL http://www.mbl.is/sport/korfubolti/2016/09/17/island_belgia_stadan_er_53_49/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Sigur (lemma sigur)))
@@ -39,7 +39,7 @@
         (grm .))
 
 (META (ID-CORPUS 6d5ecf11-003f-11e7-8eab-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00211.psd,.4)
         (URL http://eyjan.pressan.is/frettir/2017/03/03/eg-hefdi-aldrei-truad-thvi-ad-samfylkingin-aetti-ekki-thingmann-a-hofudborgarsvaedinu-thad-er-med-olikindum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Kristrún (lemma Kristrún)))
@@ -52,7 +52,7 @@
         (grm .))
 
 (META (ID-CORPUS 0bf8e106-5543-11e7-b819-04014c605401.256)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00211.psd,.5)
         (URL https://www.fjarmalaraduneyti.is/verkefni/neytendamal/)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (no_et_nf_kvk Þingsályktunartillaga (lemma þingsályktunartillaga))
@@ -65,7 +65,7 @@
                                         (NP (no_ft_þgf_hk neytendamálum (lemma neytendamál)))))))))
 
 (META (ID-CORPUS 8175ef39-1007-11e7-aa26-04014c605401.28)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00211.psd,.6)
         (URL http://eyjan.pressan.is/frettir/2017/03/23/bryndis-mamma-vann-aldrei-uti/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -79,7 +79,7 @@
         (grm .))
 
 (META (ID-CORPUS 48d5bb70-9dba-11e6-bea1-04014c605401.101)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00211.psd,.7)
         (URL http://www.visir.is/ferdirnar-hafa-lengst-og-fjollin-haekkad/article/2016161028707)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Leifur Örn (lemma Leifur Örn)))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS ada0412a-92df-11e6-a2d7-04014c605401.118)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00211.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/10/15/gera_ser_ekki_grein_fyrir_moguleikunum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Oliver (lemma Oliver))
@@ -104,7 +104,7 @@
         (grm .))
 
 (META (ID-CORPUS 6c1ffb77-a90e-11e6-beb1-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00211.psd,.9)
         (URL http://www.visir.is/hannes-var-moguleiki-ad-fa-eitthvad-ut-ur-thessu/article/2016161119591)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -116,7 +116,7 @@
         (grm .))
 
 (META (ID-CORPUS 14180efe-0938-11e9-9abc-04014c605401.34)
-        (ID-LOCAL greynir_corpus_00211_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00211.psd,.10)
         (URL http://www.mbl.is/smartland/heimili/2018/12/26/joladrottningin_katrin_bjork_i_new_york/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Á (lemma á)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 34edd56e-e014-11e6-8e71-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00267.psd,.1)
         (URL http://www.visir.is/geir-ekki-bodlegt-ad-lata-somu-domarana-daema-helming-leikja-okkar/article/2017170129772)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS 4fcdbfe7-4e6d-11e6-8437-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00267.psd,.2)
         (URL http://eyjan.pressan.is/frettir/2016/07/20/haettir-a-thingi-og-gerist-bondi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_fh_p3_ft_nt_gm Ætla (lemma ætla)))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS 6d55809a-5a5a-11e7-b828-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00267.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2017/06/26/thetta_er_ekki_miklabrautin_4/)
         (COMMENT ))
   (S0 (S-MAIN (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS def09776-0bf1-11e8-811c-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00267.psd,.4)
         (URL http://www.visir.is/g/2018180209105/satt-um-uppbyggingu-studentagarda)
         (COMMENT ))
   (S0 (S-HEADING (NP (person_nf_kvk Ragna Sigurðardóttir (lemma Ragna Sigurðardóttir))
@@ -90,7 +90,7 @@
                                                                   (person_þf_kk Garð (lemma Garður)))))))))))))
 
 (META (ID-CORPUS 84702299-e77a-11e6-8e80-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00267.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/01/31/ruv_2_afram_i_haskerpu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_0_fh_p3_ft_nt_gm Hafa (lemma hafa)))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS ecefd0a0-8960-11e6-a2cf-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00267.psd,.6)
         (URL http://kjarninn.is/frettir/2016-10-03-raett-um-thinglok-i-hadeginu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -138,7 +138,7 @@
         (grm .))
 
 (META (ID-CORPUS 9f2c0ca6-9b86-11e9-9856-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00267.psd,.7)
         (URL https://mbl.is/vidskipti/frettir/2019/06/30/enn_fjolgar_friverslunarsamningum_esb/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_nf_fh_p3_et_nt_gm Er (lemma vera)))
@@ -161,7 +161,7 @@
         (grm .))
 
 (META (ID-CORPUS 45b13958-2edf-11e9-9b87-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00267.psd,.8)
         (URL http://www.hringbraut.is/frettir/listeria-fannst-einnig-i-reyktum-laxi-og-bleikjuafurdum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Fyrirtækið (lemma fyrirtæki)))
@@ -184,7 +184,7 @@
         (grm .))
 
 (META (ID-CORPUS f712fed6-e199-11e6-8e72-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00267.psd,.9)
         (URL http://www.visir.is/sverre-vill-ad-dansk-islensku-markverdirnir-fai-ad-syna-sig-med-landslidinu/article/2017170129563)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Tomas (lemma Tomas))
@@ -205,7 +205,7 @@
         (grm .))
 
 (META (ID-CORPUS 9371e97b-5d31-11e8-b123-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00267_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00267.psd,.10)
         (URL http://www.ruv.is/frett/mai-hefur-sjaldan-verid-laklegri)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS d7000bae-d019-11e6-8e56-04014c605401.44)
-        (ID-LOCAL reynir_corpus_00051.psd,.1)
+        (ID-LOCAL greynir_corpus_00051.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2017/01/01/barnid_er_i_godum_hondum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -16,7 +16,7 @@
       (grm .))
 
 (META (ID-CORPUS 5fe2e5de-9bc3-11e8-987e-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00051.psd,.2)
+        (ID-LOCAL greynir_corpus_00051.psd,.2)
         (URL http://www.visir.is/g/2018180809087/ingvar-jonsson-faerir-sig-fra-noregi-til-danmerkur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn Hann (lemma Hann)))
@@ -31,7 +31,7 @@
               (grm .)))
 
 (META (ID-CORPUS de6844ca-5421-11e7-b819-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00051.psd,.3)
+        (ID-LOCAL greynir_corpus_00051.psd,.3)
         (URL http://www.visir.is/g/2017170619035/fjogurra-saknad-eftir-flodbylgjuna-a-graenlandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_þf_kk Hún (lemma hún)))
@@ -47,7 +47,7 @@
       (grm .))
 
 (META (ID-CORPUS a7135a74-59c5-11e8-b111-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00051.psd,.4)
+        (ID-LOCAL greynir_corpus_00051.psd,.4)
         (URL http://www.visir.is/g/2018180518977/logmannafelagid-syknad-af-stefnu-jons-steinars)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk_gr Tölvupóstarnir (lemma tölvupóstur)
@@ -65,7 +65,7 @@
       (grm .))
 
 (META (ID-CORPUS 7c618782-d069-11e8-995d-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00051.psd,.5)
+        (ID-LOCAL greynir_corpus_00051.psd,.5)
         (URL https://kvennabladid.is/2018/10/15/100-heimilislausir-fa-skjol-i-radhusi-parisarborgar/)
         (COMMENT ))
   (S0 (S-HEADING (NP (no_et_nf_hk_gr Ráðhúsið (lemma ráðhús))
@@ -83,7 +83,7 @@
       (grm .))
 
 (META (ID-CORPUS 62766ec5-e41f-11e8-99b8-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00051.psd,.6)
+        (ID-LOCAL greynir_corpus_00051.psd,.6)
         (URL http://www.mbl.is/frettir/innlent/2018/11/09/algjor_fasinna_af_halfu_akaeruvaldsins/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_hk RÚV (lemma RÚV)))
@@ -99,7 +99,7 @@
       (grm .))
 
 (META (ID-CORPUS 776bee41-7455-11e7-b86e-04014c605401.22)
-        (ID-LOCAL reynir_corpus_00051.psd,.7)
+        (ID-LOCAL greynir_corpus_00051.psd,.7)
         (URL http://www.visir.is/g/2017170728857/ad-hlaupa-uti-i-vidattunni-fyllir-mig-frelsistilfinningu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ao Þá (lemma þá)))
@@ -116,7 +116,7 @@
       (grm .))
 
 (META (ID-CORPUS 0ce1db81-9c56-11e6-bea1-04014c605401.45)
-        (ID-LOCAL reynir_corpus_00051.psd,.8)
+        (ID-LOCAL greynir_corpus_00051.psd,.8)
         (URL http://www.mbl.is/matur/frettir/2016/10/27/veitingahusaryni_geiri_smart/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_mst Minni (lemma lítill))
@@ -133,7 +133,7 @@
       (grm .))
 
 (META (ID-CORPUS b0cb195b-f88d-11e8-9a47-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00051.psd,.9)
+        (ID-LOCAL greynir_corpus_00051.psd,.9)
         (URL http://www.mbl.is/k100/frettir/2018/12/05/afsogn_er_eina_leidin_til_fyrirgefningar/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP (ao Og (lemma og)))
@@ -149,7 +149,7 @@
       (grm .))
 
 (META (ID-CORPUS 4b631ee2-7d26-11e8-aa05-04014c605401.22)
-        (ID-LOCAL reynir_corpus_00051.psd,.10)
+        (ID-LOCAL greynir_corpus_00051.psd,.10)
         (URL https://kjarninn.is/skodun/2018-06-29-ellilifeyrir-er-tekjutengdur-personuafslattur-lausnin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_evb Stærsta (lemma stór))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 89e1189d-74f0-11e9-9822-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00277.psd,.1)
         (URL http://www.ruv.is/frett/a-godri-leid-med-ad-breyta-breskum-stjornmalum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Viðbrögð (lemma viðbragð))
@@ -24,7 +24,7 @@
         (grm .))
 
 (META (ID-CORPUS d6fbea60-5d63-11e6-8444-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00277.psd,.2)
         (URL http://www.ruv.is/frett/hafnar-asokunum-hreidars-mas)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -46,7 +46,7 @@
         (grm .))
 
 (META (ID-CORPUS e7227c2a-0e9a-11e9-9add-04014c605401.59)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00277.psd,.3)
         (URL http://www.visir.is/g/2019190109864/hitamal-arsins-hatidarfundur-a-thingvollum-hjukrunarkona-i-kjol-og-banksy)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Davíð Snær (lemma Davíð Snær)))
@@ -67,7 +67,7 @@
         (grm .))
 
 (META (ID-CORPUS 3dd93130-86a9-11e8-aa10-04014c605401.389)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00277.psd,.4)
         (URL https://www.forsaetisraduneyti.is/default.aspx?PageID=a496498d-6ce4-40b2-b339-fd61987a9918)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -92,7 +92,7 @@
         (grm .))
 
 (META (ID-CORPUS 8087df5f-8b3a-11e6-a2d0-04014c605401.52)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00277.psd,.5)
         (URL http://www.ruv.is/frett/radi-hvort-thau-greida-skatta)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (ao Eftir (lemma eftir))
@@ -116,7 +116,7 @@
         (grm .))
 
 (META (ID-CORPUS 8ab0e22b-455b-11e8-b0b1-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00277.psd,.6)
         (URL http://www.mbl.is/frettir/kosning/2018/04/21/husnaedi_heilbrigdismal_og_samgongur/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Umræðan (lemma umræða)))
@@ -140,7 +140,7 @@
           (grm .))
 
 (META (ID-CORPUS e650036c-4996-11e9-9bc0-04014c605401.46)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00277.psd,.7)
         (URL http://www.ruv.is/frett/bjargarlaus-ef-eitthvad-kemur-upp-a)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Sums staðar (lemma sums staðar)))
@@ -162,7 +162,7 @@
         (grm .))
 
 (META (ID-CORPUS 427d1c3f-4ff7-11e6-8437-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00277.psd,.8)
         (URL http://www.mbl.is/sport/em_fotbolta/2016/07/22/skrytid_ad_lata_rooney_dekka_mig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Síðan (lemma síðan)))
@@ -186,7 +186,7 @@
         (grm .))
 
 (META (ID-CORPUS 3660f9fd-d288-11e7-b96b-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00277.psd,.9)
         (URL http://www.visir.is/g/2017171129087/hlynar-um-midja-viku)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -212,7 +212,7 @@
         (grm .))
 
 (META (ID-CORPUS 5cfd1826-a589-11e6-beab-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00277_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00277.psd,.10)
         (URL http://www.ruv.is/frett/thingmadur-hotar-ad-draga-kjararad-fyrir-dom)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))

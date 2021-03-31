@@ -1,5 +1,5 @@
 (META (ID-CORPUS 97909b3f-2653-11e9-9b7c-04014c605401.34)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00268.psd,.1)
         (URL http://www.ruv.is/frett/kristofer-laet-thetta-ekki-brjota-mig-nidur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -22,7 +22,7 @@
         (grm .))
 
 (META (ID-CORPUS 1efe4490-4533-11e6-8429-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00268.psd,.2)
         (URL http://kjarninn.is/frettir/2015-12-20-umbodsmadur-althingis-fekk-ekki-aukaframlag-til-frumkvaedisrannsokna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Tryggvi (lemma Tryggvi)))
@@ -44,7 +44,7 @@
         (grm .))
 
 (META (ID-CORPUS 374c1920-5ee1-11e6-8447-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00268.psd,.3)
         (URL http://eyjan.pressan.is/frettir/2016/08/10/kari-hafnar-alfarid-aras-a-vinstrimenn-eg-er-ekki-i-nokkrum-vafa-um-ad-johanna-hefdi-viljad-vidhalda-velferdarkerfinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS b8ede702-47c5-11e9-9bbd-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00268.psd,.4)
         (URL https://mbl.is/frettir/innlent/2019/03/16/hvalarvirkjun_eykur_afhendingaroryggi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kk Íbúar (lemma íbúi))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS 676702ab-2848-11e8-b026-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00268.psd,.5)
         (URL http://www.visir.is/g/2018180319314/segja-umskurdarfrumvarpid-skilabod-um-ad-gydingar-og-muslimar-seu-ovelkomnir-a-islandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Aðgerðin (lemma aðgerð)))
@@ -112,7 +112,7 @@
         (grm .))
 
 (META (ID-CORPUS 53639b96-8a19-11e6-a2cf-04014c605401.48)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00268.psd,.6)
         (URL http://kjarninn.is/skyring/2016-10-04-hinir-riku-halda-afram-ad-verda-miklu-rikari-islandi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-ACK (C (st Þótt (lemma þótt)))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS 13780668-448c-11e7-b7fd-04014c605401.38)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00268.psd,.7)
         (URL http://www.ruv.is/frett/15-ara-vid-bjorgunarstorf-eftir-flugslys)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS 40b056f3-dfd3-11e7-b98a-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00268.psd,.8)
         (URL http://www.ruv.is/frett/kolnandi-vedur-i-dag-og-el)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_nh_mm Búast (lemma búa)))
@@ -179,7 +179,7 @@
         (grm .))
 
 (META (ID-CORPUS 21496cb1-4533-11e6-8429-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00268.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/07/06/tilkynnti_ser_og_eiginkonunni_um_afsogn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þetta (lemma þetta)))
@@ -201,7 +201,7 @@
         (grm .))
 
 (META (ID-CORPUS 8dc39758-99ce-11e7-b8de-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00268_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00268.psd,.10)
         (URL https://kjarninn.is/frettir/2017-09-15-vidreisn-bodad-verdi-til-kosninga-sem-fyrst/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Vinnubrögð (lemma vinnubragð))

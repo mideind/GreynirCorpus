@@ -1,5 +1,5 @@
 (META (ID-CORPUS 67490553-4793-11e7-b805-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00331.psd,.1)
         (URL http://www.ruv.is/frett/thorskurinn-kemur-thorskurinn-kemur)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -38,7 +38,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS f6668f13-4a05-11e8-b0ca-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00331.psd,.2)
         (URL http://www.visir.is/g/2018180429108/bein-utsending-verndarsvaedi-og-throun-byggdar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (töl_ft_nf_kk Sex (lemma sex))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS fdfd06c0-2421-11e7-aa5d-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00331.psd,.3)
         (URL http://www.ruv.is/frett/haglabyssa-og-dop-i-husinu-vid-laugarnesveg)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Grímur Grímsson (lemma Grímur Grímsson))
@@ -117,7 +117,7 @@
         (grm .))
 
 (META (ID-CORPUS da23c3e3-553e-11e7-b819-04014c605401.3719)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00331.psd,.4)
         (URL https://www.forsaetisraduneyti.is/raduneyti/nefndir/?filter=&raduneyti=Fors%c3%a6tisr%c3%a1%c3%b0uneyti%c3%b0)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))
@@ -146,7 +146,7 @@
           (grm .))
 
 (META (ID-CORPUS d9a5cd9c-6d81-11e9-9c02-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00331.psd,.5)
         (URL https://kjarninn.is/skyring/2019-05-02-tilvistarkrisa-hins-goda-neytanda/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (lo_et_nf_hk_vb Bandaríska (lemma bandarískur))
@@ -186,7 +186,7 @@
         (grm .))
 
 (META (ID-CORPUS 71c3db28-55cf-11e8-b0fc-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00331.psd,.6)
         (URL http://www.visir.is/g/2018180519664/grunnskolakennarinn-og-imynd-hans-i-samfelaginu)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Að (lemma að)))
@@ -227,7 +227,7 @@
         (grm .))))
 
 (META (ID-CORPUS 2502977a-8365-11e7-b89d-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00331.psd,.7)
         (URL http://www.mbl.is/folk/frettir/2017/08/17/bubbi_veitti_litlum_unga_afallahjalp/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk_gr Tónlistarmaðurinn (lemma tónlistarmaður)))
@@ -268,7 +268,7 @@
         (grm .))
 
 (META (ID-CORPUS b3c66267-c63a-11e8-991c-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00331.psd,.8)
         (URL http://www.visir.is/g/2018181009785/slaemt-hogg-koepka-i-ryder-bikarnum-blindadi-ahorfanda-a-odru-auga)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_nf_kk Koepka (lemma Koepka)))
@@ -307,7 +307,7 @@
         (grm .))
 
 (META (ID-CORPUS 6a236cdd-e1e5-11e8-99af-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00331.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2018/11/06/adkoma_einkaadila_flyti_framkvaemdum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (stt Er (lemma er)))
@@ -345,7 +345,7 @@
         (grm .))
 
 (META (ID-CORPUS 9ff73afc-e91d-11e8-99d4-04014c605401.106)
-        (ID-LOCAL reynir_corpus_00331_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00331.psd,.10)
         (URL http://www.mbl.is/vidskipti/frettir/2018/11/15/vid_gaetum_opnad_sendirad_i_120_londum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-LOC (ao Þar (lemma þar)))

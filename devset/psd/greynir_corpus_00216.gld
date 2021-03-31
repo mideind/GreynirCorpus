@@ -1,5 +1,5 @@
 (META (ID-CORPUS edfe31a7-861e-11e6-a2cd-04014c605401.29)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00216.psd,.1)
         (URL http://kvennabladid.is/2016/09/29/alag-kulnun-og-framtidin/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_hk_sb Vinnutengd (lemma vinnutengdur)
@@ -14,7 +14,7 @@
         (grm .))
 
 (META (ID-CORPUS b8aafcc1-023e-11e7-8ead-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00216.psd,.2)
         (URL http://kjarninn.is/frettir/2017-03-06-gudni-th-vill-landsdom-burt/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -27,7 +27,7 @@
         (grm .))
 
 (META (ID-CORPUS 863707a1-3e53-11e9-9b9d-04014c605401.16)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00216.psd,.3)
         (URL http://www.visir.is/g/2019190309655/bouteflika-situr-afram-en-lofar-ad-sitja-ekki-ut-kjortimabilid-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Mótmælin (lemma mótmæli)))
@@ -40,7 +40,7 @@
         (grm .))
 
 (META (ID-CORPUS de6a3823-0dbe-11e8-8124-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00216.psd,.4)
         (URL https://kjarninn.is/frettir/2018-02-09-furdulitil-umraeda-um-laekkun-raunvaxta/)
         (COMMENT ))
   (S0 (S-MAIN (NP-PRD (lo_et_nf_hk_sb Hægt (lemma hægur)))
@@ -54,7 +54,7 @@
         (grm .))
 
 (META (ID-CORPUS 1ff7efd9-4533-11e6-8429-04014c605401.75)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00216.psd,.5)
         (URL http://kjarninn.is/skodun/2016-03-22-tiu-spurningar-leikmanns-um-landbunad-og-buvorusamninga/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Efnahagsframfarir (lemma efnahagsframfarir)))
@@ -68,7 +68,7 @@
         (grm .)))
 
 (META (ID-CORPUS ab7037b3-42f7-11e8-b0a2-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00216.psd,.6)
         (URL http://www.ruv.is/frett/fjallad-um-flotta-sindra-i-erlendum-midlum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Verðmæti (lemma verðmæti))
@@ -81,7 +81,7 @@
         (grm .))
 
 (META (ID-CORPUS 11bc7c2b-48eb-11e9-9bbf-04014c605401.16)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00216.psd,.7)
         (URL http://www.ruv.is/frett/radgreiningar-hafa-bjargad-mannslifum)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (NP-OBJ (fn_et_þgf_kvk Þessari (lemma þessi))
@@ -96,7 +96,7 @@
         (grm .))
 
 (META (ID-CORPUS 81c926de-f59f-11e8-9a2c-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00216.psd,.8)
         (URL http://www.visir.is/g/2018181139936/i-beinni-real-madrid-valencia-storleikur-i-hofudborginni)
         (COMMENT ))
   (S0 (S-HEADING (S-MAIN (VP (VP (so_1_ef_fh_p3_ft_nt_mm Krefjast (lemma krefja)))
@@ -111,7 +111,7 @@
                                                (no_ft_þgf_hk lögbrotum (lemma lögbrot)))))))))
 
 (META (ID-CORPUS 5675e4ab-6301-11e6-844c-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00216.psd,.9)
         (URL http://www.mbl.is/bill/frettir/2016/08/15/ford_ranger_stormar_fram/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (entity_et_nf_hk Ford Ranger (lemma Ford Ranger)))
@@ -123,7 +123,7 @@
         (grm .))
 
 (META (ID-CORPUS 32d96f1e-a7aa-11e8-9893-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00216_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00216.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2018/08/24/krefst_aframhaldandi_farbanns/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_gm Talið (lemma telja)))

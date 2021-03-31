@@ -1,5 +1,5 @@
 (META (ID-CORPUS 5eb76b40-a07a-11e8-9885-04014c605401.7)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00257.psd,.1)
         (URL http://www.mbl.is/frettir/erlent/2018/08/15/tveggja_ara_tyndur_i_skogi_i_3_daga/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -15,7 +15,7 @@
                  (grm .)))
 
 (META (ID-CORPUS a810d33c-b0f6-11e8-98b5-04014c605401.63)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00257.psd,.2)
         (URL http://www.visir.is/g/2018180909506/gummi-ben-hitti-eric-hamren-sagdur-galinn-fyrir-ad-taka-vid-islandi-a-thessum-timapunkti)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Þessir (lemma þessi))
@@ -36,7 +36,7 @@
         (grm .))
 
 (META (ID-CORPUS c88004c9-64c1-11e8-adc4-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00257.psd,.3)
         (URL http://www.visir.is/g/2018180539765/spa-adrift-thridja-saeti-a-lista-yfir-ad-soknar-mestu-myndirnar-vestan-hafs)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Myndin (lemma mynd)))
@@ -57,7 +57,7 @@
         (grm .))
 
 (META (ID-CORPUS d9f23a30-5b6a-11e9-9bd8-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00257.psd,.4)
         (URL https://www.frettabladid.is/lifid/golluu-grinistarnir-stefna-a-heimsyfirra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (ao Þá (lemma þá)))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f3ee9e2-f3ca-11e8-9a18-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00257.psd,.5)
         (URL http://www.mbl.is/vidskipti/frettir/2018/11/29/hagnadur_festar_nam_891_milljon_krona/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Eignir (lemma eign))
@@ -96,7 +96,7 @@
         (grm .))
 
 (META (ID-CORPUS 7f2036fa-4aab-11e7-b80b-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00257.psd,.6)
         (URL http://www.visir.is/g/2017170609415/thad-reyndist-erfitt-ad-finna-efni-til-ad-vinna-med)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -117,7 +117,7 @@
         (grm .))
 
 (META (ID-CORPUS cea5ed8e-72a5-11e7-b86a-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00257.psd,.7)
         (URL http://www.visir.is/g/2017170729082/stokk-ut-i-iskaldan-sjo-til-ad-bjarga-felaga-sinum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_þgf_hk_gr Skipinu (lemma skip)))
@@ -136,7 +136,7 @@
         (grm .))
 
 (META (ID-CORPUS 9a25c988-d02a-11e6-8e56-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00257.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2017/01/01/fadmadu_heiminn_elskadu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_fh_p3_et_nt_gm Er (lemma vera)))
@@ -157,7 +157,7 @@
         (grm .))
 
 (META (ID-CORPUS 20dfa66e-3093-11e9-9b8c-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00257.psd,.9)
         (URL http://www.visir.is/g/2019190219341/bankastjori-arion-segir-stjornvold-fara-offari-i-alogum-a-bankana)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Bankastjórinn (lemma bankastjóri)))
@@ -178,7 +178,7 @@
         (grm .))
 
 (META (ID-CORPUS b79262cf-227a-11e9-9b73-04014c605401.2)
-        (ID-LOCAL greynir_corpus_00257_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00257.psd,.10)
         (URL http://www.ruv.is/frett/sama-lagid-hljomar-til-eilifdarnons-i-eydimork)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk_gr Namíb-eyðimörkin (lemma Namíb-eyðimörk)))

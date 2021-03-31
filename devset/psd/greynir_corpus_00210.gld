@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3bc3797e-2a95-11e7-b7bf-04014c605401.11)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00210.psd,.1)
         (URL http://www.visir.is/g/2017170429208/man.-city-aetlar-ekki-ad-kaupa-alli)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (fn_ft_nf_hk Við (lemma Við)))
@@ -10,7 +10,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS 0f67c608-5fb9-11e7-b835-04014c605401.20)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00210.psd,.2)
         (URL http://www.visir.is/g/2017170709853/sogulegur-sparnadur-)
         (COMMENT ))
   (S0 (S-QUE (IP (VP (VP (VP (so_0_fh_p3_et_nt_gm Þarf (lemma þurfa)))
@@ -22,7 +22,7 @@
                (grm ?)))
 
 (META (ID-CORPUS e93fa18b-1f3c-11e9-9b56-04014c605401.67)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00210.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2019/01/23/skyringar_a_averkum_oft_faranlegar/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -34,7 +34,7 @@
           (grm .))
 
 (META (ID-CORPUS f7593bdf-80fa-11e6-a2c7-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00210.psd,.4)
         (URL http://www.mbl.is/smartland/pistlar/ksvava/2180615/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Maður (lemma maður)))
@@ -46,7 +46,7 @@
         (grm ?))
 
 (META (ID-CORPUS b39baece-2b90-11e9-9b85-04014c605401.116)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00210.psd,.5)
         (URL https://kjarninn.is/skodun/2019-02-07-opid-bref-fyrrverandi-innri-endurskodanda-kaupthings/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -57,7 +57,7 @@
         (grm .))
 
 (META (ID-CORPUS 3cd49afb-e7a0-11e6-8e80-04014c605401.145)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00210.psd,.6)
         (URL http://www.visir.is/alitsgjafar-um-songvakeppnina-engin-jurosnilld-en-slagarar-inn-a-milli/article/2017170139906)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-OBJ (no_et_nf_hk_gr Viðlagið (lemma viðlag)))
@@ -69,7 +69,7 @@
         (grm .))
 
 (META (ID-CORPUS ef7d9d79-8767-11e7-b8ab-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00210.psd,.7)
         (URL http://www.visir.is/g/2017170829729/mayweather-faer-ser-burger-king-en-conor-for-i-laser-tag)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -80,7 +80,7 @@
         (grm .))
 
 (META (ID-CORPUS 2679fa78-c6b2-11e7-b94a-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00210.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2017/11/11/ekid_a_konu_a_bergstadastraeti/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Ekki (lemma ekki)))
@@ -93,7 +93,7 @@
         (grm .))
 
 (META (ID-CORPUS a9e256f8-832e-11e7-b89d-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00210.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2017/08/17/stela_dyragardsdyrum_til_matar/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Borgin (lemma borg)))
@@ -106,7 +106,7 @@
         (grm .))
 
 (META (ID-CORPUS afd28156-ab4e-11e7-b909-04014c605401.5)
-        (ID-LOCAL greynir_corpus_00210_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00210.psd,.10)
         (URL http://www.visir.is/g/2017171009209/frumsamin-log-i-afmaelinu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Auðvitað (lemma auðvitað)))

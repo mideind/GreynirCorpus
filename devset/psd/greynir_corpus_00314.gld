@@ -1,5 +1,5 @@
 (META (ID-CORPUS f9753871-54d3-11e6-843d-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00314.psd,.1)
         (URL http://www.visir.is/islenska-stulknalandslidid-a-tvo-af-fjorum-bestu-frakosturum-evropumotsins/article/2016160729031)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Elín Sóley Hrafnkelsdóttir (lemma Elín Sóley Hrafnkelsdóttir)))
@@ -30,7 +30,7 @@
         (grm .))
 
 (META (ID-CORPUS c3b4ea20-189f-11e9-9b28-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00314.psd,.2)
         (URL http://www.mbl.is/born/frettir/2019/01/15/pabbi_sem_ottast_ekki_tilfinningar/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -63,7 +63,7 @@
           (grm .))
 
 (META (ID-CORPUS 2d6c6077-db72-11e8-998b-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00314.psd,.3)
         (URL http://www.ruv.is/frett/i-hrollvekjandi-husi-crain-fjolskyldunnar)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-PRD (no_et_nf_kk Leikstjóri (lemma leikstjóri))
@@ -95,7 +95,7 @@
           (grm .))
 
 (META (ID-CORPUS 914570e6-70e9-11e9-981e-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00314.psd,.4)
         (URL https://kjarninn.is/skodun/2019-05-06-karlar-eiga-ekki-ad-rada-thessu-med-thungun/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kk_sb Fyrrverandi (lemma fyrrverandi))
@@ -128,7 +128,7 @@
         (grm .))
 
 (META (ID-CORPUS 9144618d-e8da-11e8-99d2-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00314.psd,.5)
         (URL http://www.ruv.is/frett/island-5-spann-7)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Guðmundur Guðmundsson (lemma Guðmundur Guðmundsson)))
@@ -156,7 +156,7 @@
         (grm .))
 
 (META (ID-CORPUS ccd34008-8cb5-11e9-983b-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00314.psd,.6)
         (URL https://www.ruv.is/frett/lysti-oanaegju-sinni-i-simtali-vid-gudlaug-thor)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Miðillinn (lemma miðill)))
@@ -187,7 +187,7 @@
         (grm .))
 
 (META (ID-CORPUS cb39eae4-a8be-11e6-beaf-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00314.psd,.7)
         (URL http://www.visir.is/irska-peningavelin-conor-mcgregor-/article/2016161119709)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Conor (lemma Conor)))
@@ -220,7 +220,7 @@
         (grm .))
 
 (META (ID-CORPUS 5c34777e-7d95-11e7-b886-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00314.psd,.8)
         (URL http://www.ruv.is/frett/bjartvidri-sunnan-heida)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Norðan (lemma norðan))
@@ -252,7 +252,7 @@
         (grm .))
 
 (META (ID-CORPUS 02021287-f1a3-11e7-b8a1-04014c605401.17)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00314.psd,.9)
         (URL http://www.mbl.is/frettir/erlent/2018/01/04/gafu_bokar_um_trump_flytt/)
         (COMMENT ))
   (S0-X (S-QUOTE (IP (CP-QUOTE (IP (VP (VP-AUX (so_0_vh_p1_et_þt_gm Gæti (lemma geta)))
@@ -278,7 +278,7 @@
                    (grm .)))
 
 (META (ID-CORPUS c83d05e4-eb5b-11e8-99ec-04014c605401.18)
-        (ID-LOCAL reynir_corpus_00314_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00314.psd,.10)
         (URL http://www.mbl.is/smartland/frami/2018/11/18/hvada_smaforrit_bjarga_lifinu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))

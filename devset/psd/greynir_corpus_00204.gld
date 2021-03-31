@@ -1,5 +1,5 @@
 (META (ID-CORPUS 3af68c00-b2a4-11e7-b917-04014c605401.351)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00204.psd,.1)
         (URL http://www.visir.is/g/2017171019098/i-beinni-stjarnan-vikingur-stjornumenn-vilja-gera-sig-gildandi-i-toppbarattunni)
         (COMMENT ))
   (S0 (S-QUE (IP (VP (VP (so_1_þf_op_subj_þgf_fh_et_þt_mm Barst (lemma bera)))
@@ -9,7 +9,7 @@
                (grm ?)))
 
 (META (ID-CORPUS 3ce57372-74ea-11e6-a2bc-04014c605401.44)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00204.psd,.2)
         (URL http://www.visir.is/bida-brottvisunar-vid-erum-ordin-hluti-af-samfelaginu-/article/2016160909160)
         (COMMENT ))
   (S0 (S-MAIN (IP-INF (ADVP (ao Hér (lemma hér)))
@@ -18,7 +18,7 @@
         (grm .))
 
 (META (ID-CORPUS 21bc9117-4533-11e6-8429-04014c605401.49)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00204.psd,.3)
         (URL http://www.mbl.is/smartland/samskipti/2016/06/19/er_eg_vond_eda_god_manneskja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -28,7 +28,7 @@
         (grm .))
 
 (META (ID-CORPUS e2281ffe-6cbc-11e9-9c02-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00204.psd,.4)
         (URL https://mbl.is/k100/frettir/2019/05/02/hjola_fra_danmorku_til_frakklands/)
         (COMMENT ))
   (S0 (S-HEADING (NP-PRD (lo_et_nf_hk_mst Þægilegra (lemma þægilegur)))
@@ -38,7 +38,7 @@
                        (NP (no_et_þgf_kvk Evrópu (lemma Evrópa))))))
 
 (META (ID-CORPUS c2a8eff7-0179-11e9-9a86-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00204.psd,.5)
         (URL http://www.visir.is/g/2018181219079/kaupin-a-gula-vestinu-ekki-i-nafni-vr)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -48,7 +48,7 @@
                (grm ?)))
 
 (META (ID-CORPUS f0d7f1f5-51d2-11e7-b815-04014c605401.36)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00204.psd,.6)
         (URL http://www.mbl.is/smartland/frami/2017/06/15/sjalfstraustid_kemur_konum_langt/)
         (COMMENT ))
   (S0 (S-QUE (NP (fn_et_þf_hk Hvað (lemma hver)))
@@ -58,7 +58,7 @@
                (grm ?)))
 
 (META (ID-CORPUS fb36482a-26b3-11e9-9b7e-04014c605401.16)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00204.psd,.7)
         (URL http://www.visir.is/g/2019190209871/klopp-get-ekki-gagnrynt-thetta-thvi-eg-skil-thetta-ekki)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-SUBJ (pfn_et_þgf_p1 Mér (lemma ég)))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS 272c7655-6188-11e6-844a-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00204.psd,.8)
         (URL http://www.ruv.is/frett/boga-thema-i-sex-ara-afmaelisveislunni)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -78,7 +78,7 @@
         (grm .))
 
 (META (ID-CORPUS e4ecb8ce-e273-11e6-8e74-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00204.psd,.9)
         (URL http://kjarninn.is/frettir/2017-01-24-forsaetisradherra-menntun-er-lykillinn-ad-arangri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Menntun (lemma menntun)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS b8c1f6cf-a2bc-11e8-9888-04014c605401.57)
-        (ID-LOCAL greynir_corpus_00204_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00204.psd,.10)
         (URL http://www.visir.is/g/2018180818961/vid-erum-kollud-til-ad-lifa-lifinu-lifandi-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Krabbamein (lemma krabbamein)))

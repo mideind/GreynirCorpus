@@ -1,5 +1,5 @@
 (META (ID-CORPUS 5344e52e-adc3-11e7-b90f-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00287.psd,.1)
         (URL http://www.ruv.is/frett/jon-sendir-bjartri-framtid-kaldar-kvedjur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Björt Ólafsdóttir (lemma Björt Ólafsdóttir)))
@@ -25,7 +25,7 @@
         (grm .))
 
 (META (ID-CORPUS b65d2be2-8828-11e7-b8ad-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00287.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2017/08/23/ljosanott_haldin_i_18_skipti/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -50,7 +50,7 @@
         (grm .))
 
 (META (ID-CORPUS 585e9bba-3cda-11e9-9b9c-04014c605401.103)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00287.psd,.3)
         (URL https://stundin.is/grein/8420/hagfraedingur-vidskiptarads-stydur-krofuna-um-skemmri-vinnuviku-naestum-thvi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Nokkuð (lemma nokkuð)))
@@ -77,7 +77,7 @@
         (grm .))
 
 (META (ID-CORPUS a562851b-a9ee-11e7-b906-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00287.psd,.4)
         (URL http://www.visir.is/g/2017171009380/arctica-hafnar-thvi-ad-hafa-brotid-reglur-um-kaupauka-og-stefnir-fme-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_et_nf_hk Arctica (lemma Arctica)))
@@ -103,7 +103,7 @@
         (grm .))
 
 (META (ID-CORPUS 5d759623-d325-11e8-9968-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00287.psd,.5)
         (URL http://www.visir.is/g/2018181018840/umfjollun-og-vidtol-njardvik-valur-85-80-njardvik-a-flugi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_kk_p3 Þeir (lemma hann)))
@@ -129,7 +129,7 @@
         (grm .))
 
 (META (ID-CORPUS 88dbd025-836d-11e9-982f-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00287.psd,.6)
         (URL https://www.frettabladid.is/frettir/formlegt-samstarf-um-eldsvoda-sjo-ekki-til-stadar/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (ADVP (ao Hins vegar (lemma hins vegar)))
@@ -154,7 +154,7 @@
         (grm .))
 
 (META (ID-CORPUS 0a748983-d9e4-11e6-8e63-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00287.psd,.7)
         (URL http://www.visir.is/umfjollun-og-vidtol--njardvik---snaefell-99-70---langthradur-njardvikursigur/article/2017170119328)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (P (fs_þgf Í (lemma í)))
@@ -181,7 +181,7 @@
         (grm .))
 
 (META (ID-CORPUS e6de0f8a-5b55-11e9-9bd8-04014c605401.19)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00287.psd,.8)
         (URL https://mbl.is/k100/frettir/2019/04/10/draumavinnuferdir/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Jóhann (lemma Jóhann)))
@@ -208,7 +208,7 @@
         (grm .))
 
 (META (ID-CORPUS a12add8c-7b4a-11e9-9828-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00287.psd,.9)
         (URL https://www.visir.is/g/2019190529857/gudlaugur-haettur-hja-val)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fyrirtæki_nf_kk Valur (lemma Valur)))
@@ -233,7 +233,7 @@
         (grm .))
 
 (META (ID-CORPUS a327f33e-4c39-11e7-b80e-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00287_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00287.psd,.10)
         (URL http://www.ruv.is/frett/reykur-i-flugvel-ekki-thaegileg-upplifun)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))

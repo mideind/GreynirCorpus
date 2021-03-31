@@ -1,5 +1,5 @@
 (META (ID-CORPUS 936fbf06-9aaa-11e6-a2e5-04014c605401.181)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00276.psd,.1)
         (URL http://kvennabladid.is/2016/10/25/audsofnun-farra-utgerda-hefur-leitt-af-ser-politisk-itok-sem-eru-haesta-mata-oedlileg/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-COND (C (st Ef (lemma ef)))
@@ -23,7 +23,7 @@
         (grm .))
 
 (META (ID-CORPUS d568cb52-1b07-11e9-9b3a-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00276.psd,.2)
         (URL http://www.ruv.is/frett/er-hjartad-raedur-for)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_mst Fleira (lemma margur))
@@ -45,7 +45,7 @@
         (grm .))
 
 (META (ID-CORPUS 7fbf9944-f547-11e8-9a29-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00276.psd,.3)
         (URL http://www.visir.is/g/2018181209971/ruv-faer-tapid-baett)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP (lo_et_nf_kvk_sb Aðspurð (lemma aðspurður))
@@ -69,7 +69,7 @@
         (grm .))
 
 (META (ID-CORPUS 5f6dd1af-d717-11e6-8e62-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00276.psd,.4)
         (URL http://www.ruv.is/frett/margir-ad-hugsa-malid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_kk Sá (lemma sá))
@@ -91,7 +91,7 @@
                                           (grm .)))))))
 
 (META (ID-CORPUS aabc0d41-0d0a-11e8-8123-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00276.psd,.5)
         (URL http://www.visir.is/g/2018180208819/sidustu-bitlarnir-i-haldi-kurda)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Utanríkisráðuneyti (lemma utanríkisráðuneyti))
@@ -114,7 +114,7 @@
         (grm .))
 
 (META (ID-CORPUS a8b111ab-5b66-11e9-9bd8-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00276.psd,.6)
         (URL https://www.visir.is/g/2019190419991/hundaraektendur-telja-stjornsysluna-i-feluleik)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Skýrslan (lemma skýrsla))
@@ -138,7 +138,7 @@
         (grm .))
 
 (META (ID-CORPUS 3ad89390-e54f-11e7-b880-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00276.psd,.7)
         (URL http://www.visir.is/g/2017171229980/eru-samborgarar-kvenna-en-ekki-herrar-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Helgi Hrafn Gunnarsson (lemma Helgi Hrafn Gunnarsson)))
@@ -161,7 +161,7 @@
         (grm .))
 
 (META (ID-CORPUS e393ec3d-098b-11e7-8ebd-04014c605401.37)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00276.psd,.8)
         (URL http://www.mbl.is/matur/frettir/2017/03/15/thetta_bordar_katrin_hertogaynja/)
         (COMMENT ))
   (S0 (S-MAIN (NP-SUBJ (no_et_nf_kvk Hún (lemma Hún)))
@@ -188,7 +188,7 @@
                 (grm . (lemma .))))
 
 (META (ID-CORPUS bd462e48-57a2-11e9-9bd2-04014c605401.14)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00276.psd,.9)
         (URL http://www.ruv.is/frett/einn-var-med-annar-a-moti-en-thridji-sat-hja)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Flugvöllurinn (lemma flugvöllur)))
@@ -211,7 +211,7 @@
                                 (grm .))))))
 
 (META (ID-CORPUS ae0c1562-ac97-11e6-9637-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00276_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00276.psd,.10)
         (URL http://www.visir.is/i-von-um-veika-rikisstjorn/article/2016161119017)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (ADVP (ao Öfugt (lemma öfugt)))

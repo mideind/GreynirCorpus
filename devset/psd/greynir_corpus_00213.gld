@@ -1,5 +1,5 @@
 (META (ID-CORPUS 84cce57e-28fa-11e7-b7bc-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00213.psd,.1)
         (URL http://www.visir.is/g/2017170429520/eldraeda-thjalfarans-kom-memphis-i-gang-smjattid-a-thessum-upplysingum-)
         (COMMENT ))
   (S0-X (S-MAIN (NP-SUBJ (no_et_nf_kvk_gr Dómgæslan (lemma Dómgæslan))
@@ -11,7 +11,7 @@
                   (grm . (lemma .))))
 
 (META (ID-CORPUS 0e357b39-d0ce-11e8-995f-04014c605401.3)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00213.psd,.2)
         (URL http://www.ruv.is/frett/paul-allen-latinn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Allen (lemma Allen)))
@@ -24,7 +24,7 @@
         (grm .))
 
 (META (ID-CORPUS 19bedb19-eb21-11e6-8e84-04014c605401.21)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00213.psd,.3)
         (URL http://www.mbl.is/frettir/innlent/2017/02/04/lystu_yfir_vanthoknun_a_starfshattum_braga/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -36,7 +36,7 @@
         (grm .))
 
 (META (ID-CORPUS 30f3843d-a77e-11e7-b8fd-04014c605401.9)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00213.psd,.4)
         (URL http://www.mbl.is/frettir/kosning/2017/10/02/gerir_thad_sem_er_best_fyrir_lidid/)
         (COMMENT ))
   (S0 (S-PREFIX (C (st En (lemma en))))
@@ -49,7 +49,7 @@
                (grm ?)))
 
 (META (ID-CORPUS 5402ae47-c2c4-11e7-b940-04014c605401.70)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00213.psd,.5)
         (URL http://www.ruv.is/frett/konur-i-sokn-hja-sumum-en-stadna-annars)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_kvk Konur (lemma kona)))
@@ -62,7 +62,7 @@
         (grm .))
 
 (META (ID-CORPUS 429d77e3-ed5f-11e6-8e87-04014c605401.35)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00213.psd,.6)
         (URL http://eyjan.pressan.is/frettir/2017/02/07/naumur-meirihluti-kallar-a-aukid-samstarf-unnur-bra-konradsdottir-forseti-althingis-i-vidtali/)
         (COMMENT ))
   (S0 (S-QUE (ADVP (ao Hvernig (lemma hvernig)))
@@ -75,7 +75,7 @@
                (grm ?)))
 
 (META (ID-CORPUS 3a3ac6bc-6539-11e7-b843-04014c605401.18)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00213.psd,.7)
         (URL http://www.mbl.is/smartland/samskipti/2017/07/10/hvad_segir_forsidumyndin_um_thig/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk Lesgleraugu (lemma lesgleraugu)))
@@ -89,7 +89,7 @@
         (grm .))
 
 (META (ID-CORPUS 460e0f0e-5198-11e9-9bcc-04014c605401.8)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00213.psd,.8)
         (URL http://www.ruv.is/frett/madur-verdur-klokkur-og-sorgmaeddur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -103,7 +103,7 @@
         (grm .))
 
 (META (ID-CORPUS 21e12d0e-a22c-11e7-b8f4-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00213.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2017/09/25/kennir_tulkun_tarotspila/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -116,7 +116,7 @@
         (grm .))
 
 (META (ID-CORPUS aa12bc26-7e4b-11e8-aa08-04014c605401.13)
-        (ID-LOCAL greynir_corpus_00213_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00213.psd,.10)
         (URL http://www.mbl.is/frettir/erlent/2018/07/02/fundu_500_ara_gamalt_sverd/)
         (COMMENT ))
   (S0 (S-MAIN (ADVP-LOC (ao Hér (lemma Hér)))

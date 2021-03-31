@@ -1,5 +1,5 @@
 (META (ID-CORPUS 5a192d86-4f49-11e9-9bc8-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00310.psd,.1)
         (URL http://www.ruv.is/frett/thetta-var-bara-lelegt)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -28,7 +28,7 @@
                        (grm .))))
 
 (META (ID-CORPUS 2032226b-6f29-11e7-b861-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00310.psd,.2)
         (URL http://www.mbl.is/200milur/frettir/2017/07/22/smidar_bata_fyrir_fiskeldi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Síðan (lemma síðan)))
@@ -59,7 +59,7 @@
         (grm .))
 
 (META (ID-CORPUS fb606fb5-831f-11e6-a2c9-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00310.psd,.3)
         (URL http://www.mbl.is/frettir/erlent/2016/09/25/svisslendingar_heimila_aukid_eftirlit/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Varnarmálaráðherrann (lemma varnarmálaráðherra))
@@ -91,7 +91,7 @@
         (grm .))
 
 (META (ID-CORPUS 51139f4a-02a3-11e9-9a91-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00310.psd,.4)
         (URL http://www.visir.is/g/2018181218906/ottast-ad-nidurstodum-fyrstu-kosninganna-fra-valdarani-verdi-hagraett-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person Chan-o-cha (lemma Chan-o-cha)))
@@ -117,7 +117,7 @@
         (grm .))
 
 (META (ID-CORPUS 152537d6-af75-11e6-963f-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00310.psd,.5)
         (URL https://www.innanrikisraduneyti.is/frettir/minnst-theirra-sem-hafa-latist-i-umferdarslysum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Jafnframt (lemma jafnframt)))
@@ -149,7 +149,7 @@
         (grm .))
 
 (META (ID-CORPUS 442adb60-29fc-11e8-b02c-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00310.psd,.6)
         (URL http://www.mbl.is/k100/frettir/2018/03/17/tha_var_ollum_drullusama/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Andri Ólafsson (lemma Andri Ólafsson))
@@ -178,7 +178,7 @@
         (grm .))
 
 (META (ID-CORPUS 7ffeab96-707a-11e8-a9ec-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00310.psd,.7)
         (URL http://www.visir.is/g/2018180619234/fyrrum-landslidsthjalfari-argentinu-tekinn-vid-leeds)
         (COMMENT ))
   (S0-X (S-QUOTE (CP-QUOTE (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -209,7 +209,7 @@
                    (grm .)))
 
 (META (ID-CORPUS 7e80e0e1-7364-11e8-a9f1-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00310.psd,.8)
         (URL http://kvennabladid.is/2018/06/19/starfsfolk-taeknirisa-ris-upp-gegn-samstarfi-vid-her-og-innflytjendaeftirlit/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (fn_et_þf_kk Þann (lemma sá))
@@ -242,7 +242,7 @@
         (grm .))
 
 (META (ID-CORPUS 201c4606-3743-11e8-b065-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00310.psd,.9)
         (URL https://kjarninn.is/frettir/2018-04-03-um-20-starfa-hja-ruv-vid-tekjuoflun-flestir-vid-auglysingasolu/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Stjórn (lemma stjórn))
@@ -268,7 +268,7 @@
         (grm .))
 
 (META (ID-CORPUS 0078c996-0503-11e9-9aa9-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00310_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00310.psd,.10)
         (URL http://www.visir.is/g/2018181229783/-ef-brodir-minn-gerdi-thetta-tha-a-hann-skilid-ad-deyja-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_þf_hk Said (lemma Said)))

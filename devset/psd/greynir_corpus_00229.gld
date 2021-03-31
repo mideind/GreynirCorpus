@@ -1,5 +1,5 @@
 (META (ID-CORPUS 259f0db0-2c34-11e9-9b86-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00229.psd,.1)
         (URL https://www.frettabladid.is/frettir/ovenjulegt-frambo-prinsessunnar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -15,7 +15,7 @@
         (grm .))
 
 (META (ID-CORPUS 22eca7aa-9357-11e9-984a-04014c605401.4)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00229.psd,.2)
         (URL https://kjarninn.is/frettir/2019-06-20-spa-thvi-ad-styrivextir-laekki-um-eitt-prosentustig-i-vidbot/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -31,7 +31,7 @@
         (grm .))
 
 (META (ID-CORPUS 1ee10363-4533-11e6-8429-04014c605401.15)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00229.psd,.3)
         (URL http://www.ruv.is/frett/thrir-kostir-i-stodunni-i-landeyjahofn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (IP-INF (TO (nhm Að (lemma að)))
@@ -49,7 +49,7 @@
         (grm .))
 
 (META (ID-CORPUS 91af5a62-53c3-11e6-843c-04014c605401.21)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00229.psd,.4)
         (URL http://www.visir.is/islenskir-saksoknarar-og-althjodleg-mannrettindi/article/2016160729208)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Vel (lemma vel)))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS 7520ad72-931c-11e7-b8cb-04014c605401.12)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00229.psd,.5)
         (URL http://www.visir.is/g/2017170909215/thegar-ungur-hordur-bjorgvin-thrumadi-i-andlitid-a-landslidsmarkverdinum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -83,7 +83,7 @@
         (grm .))
 
 (META (ID-CORPUS ee2c1a3f-c5a5-11e7-b948-04014c605401.29)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00229.psd,.6)
         (URL http://www.visir.is/g/2017171108702/segir-throngsyni-a-thingi-standa-i-vegi-fyrir-eftirliti-med-haettulegustu-kynferdisbrotamonnum)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Dóttirin (lemma dóttir)))
@@ -100,7 +100,7 @@
         (grm .))
 
 (META (ID-CORPUS ab640073-2772-11e8-b022-04014c605401.45)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00229.psd,.7)
         (URL http://www.visir.is/g/2018180319496/gummi-gumm-velur-fyrsta-hopinn-koma-ferskir-vindar-inn-i-islenska-landslidid-i-dag-)
         (COMMENT ))
   (S0 (S-HEADING (NP (lo_et_nf_kvk_sb Selfossþrenna (lemma Selfossþrennur)
@@ -118,7 +118,7 @@
                                         (person_ef_kk Patta (lemma Patti)))))))))
 
 (META (ID-CORPUS b0ad6cbf-a838-11e8-9896-04014c605401.19)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00229.psd,.8)
         (URL http://www.visir.is/g/2018180829277/segir-thurfa-ad-taka-markvisst-a-misskiptingunni-i-samfelaginu-)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS 831ccd00-4b2f-11e8-b0cc-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00229.psd,.9)
         (URL http://www.visir.is/g/2018180428937/fundu-staerdarinnar-fjoldagrof-barna-i-peru)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_lhþt_et_nf_hk_sb Talið (lemma telja)))
@@ -152,7 +152,7 @@
         (grm .))
 
 (META (ID-CORPUS 88586f37-f9e9-11e6-8e9b-04014c605401.26)
-        (ID-LOCAL greynir_corpus_00229_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00229.psd,.10)
         (URL http://www.visir.is/hvad-vaerum-vid-lengi-ad-fara-til-trappist-1-/article/2017170229430)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Geimfarið (lemma geimfar))

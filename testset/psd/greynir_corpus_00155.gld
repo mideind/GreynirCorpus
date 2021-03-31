@@ -1,5 +1,5 @@
 (META (ID-CORPUS 55ed1da0-1f30-11e9-9b56-04014c605401.22)
-        (ID-LOCAL reynir_corpus_00155.psd,.1)
+        (ID-LOCAL greynir_corpus_00155.psd,.1)
         (URL http://www.visir.is/g/2019190129487/gudmundur-brasilia-med-betra-lid-en-island-i-dag)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -29,7 +29,7 @@
       (grm .))
 
 (META (ID-CORPUS 739a5b50-59c1-11e6-8440-04014c605401.66)
-        (ID-LOCAL reynir_corpus_00155.psd,.2)
+        (ID-LOCAL greynir_corpus_00155.psd,.2)
         (URL http://www.visir.is/umfjollun%2C-vidtol-og-einkunnir--ibv---fjolnir-0-2---loksins-sigur-hja-fjolni---sjadu-morkin/article/2016160809764)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Gunni (lemma Gunni)))
@@ -58,7 +58,7 @@
       (grm .))
 
 (META (ID-CORPUS a8d5abb6-271a-11e8-b021-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00155.psd,.3)
+        (ID-LOCAL greynir_corpus_00155.psd,.3)
         (URL http://www.visir.is/g/2018180319547/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -90,7 +90,7 @@
       (grm .))
 
 (META (ID-CORPUS 57603bfe-6d1f-11e6-a2b3-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00155.psd,.4)
+        (ID-LOCAL greynir_corpus_00155.psd,.4)
         (URL http://www.ruv.is/frett/trump-med-1-fylgi-medal-svartra-kjosenda)
         (COMMENT ))
   (S0 (S-QUOTE (IP (NP-SUBJ (NP-TITLE (no_et_nf_kk_gr Forsetaframbjóðandinn (lemma forsetaframbjóðandi)))
@@ -119,7 +119,7 @@
       (grm .))
 
 (META (ID-CORPUS afcfd7fd-f068-11e7-b89e-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00155.psd,.5)
+        (ID-LOCAL greynir_corpus_00155.psd,.5)
         (URL http://www.ruv.is/frett/thorskur-vid-islandsstrendur-i-hamarki)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -149,7 +149,7 @@
         (grm .))
 
 (META (ID-CORPUS 52897c9c-fdec-11e8-9a6d-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00155.psd,.6)
+        (ID-LOCAL greynir_corpus_00155.psd,.6)
         (URL https://kjarninn.is/frettir/2018-12-12-lysa-yfir-vantrausti-a-may/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -181,7 +181,7 @@
       (grm .))
 
 (META (ID-CORPUS d518aec3-269a-11e7-b7b9-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00155.psd,.7)
+        (ID-LOCAL greynir_corpus_00155.psd,.7)
         (URL http://www.visir.is/g/2017170429813/hringdi-hundrad-sinnum-i-112-ad-tilefnislausu)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP-AUX (so_1_þgf_fh_p3_et_þt_gm Var (lemma vera)))
@@ -212,7 +212,7 @@
       (grm .))
 
 (META (ID-CORPUS e8a0b4f9-2fde-11e7-b7ce-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00155.psd,.8)
+        (ID-LOCAL greynir_corpus_00155.psd,.8)
         (URL http://www.visir.is/g/2017170509792/lifsvon-)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Einmitt (lemma einmitt)))
@@ -243,7 +243,7 @@
       (grm .))
 
 (META (ID-CORPUS 1f86ac74-4533-11e6-8429-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00155.psd,.9)
+        (ID-LOCAL greynir_corpus_00155.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/06/10/oflugt_vopn_gegn_loftslagsvanda_2/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -274,7 +274,7 @@
       (grm .))
 
 (META (ID-CORPUS d7ad5029-8191-11e6-a2c8-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00155.psd,.10)
+        (ID-LOCAL greynir_corpus_00155.psd,.10)
         (URL http://www.visir.is/nyjar-vikutolur-ur-laxveidinni/article/2016160929435)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (sérnafn_et_nf_kvk Laxá (lemma Laxá))

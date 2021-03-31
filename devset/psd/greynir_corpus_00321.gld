@@ -1,5 +1,5 @@
 (META (ID-CORPUS 61b4a25c-5393-11e9-9bcc-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00321.psd,.1)
         (URL https://kjarninn.is/skyring/2019-03-31-lars-lokke-barst-bref/))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_vb Bandaríska (lemma bandarískur))
                              (no_et_nf_hk_gr fyrirtækið (lemma fyrirtæki))
@@ -32,7 +32,7 @@
                                         (grm .))
 
 (META (ID-CORPUS 52a97d1b-c65e-11e7-b94a-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00321.psd,.2)
         (URL http://www.visir.is/g/2017171119808/ellen-page-sakar-brett-ratnar-um-fordoma-og-areitni))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk L.A. Times (lemma L.A. Times)))
                     (VP (VP (so_1_þf_fh_p3_et_þt_gm tók (lemma taka)))
@@ -63,7 +63,7 @@
         (grm .))
 
 (META (ID-CORPUS 8784d2b4-6138-11e6-844a-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00321.psd,.3)
         (URL http://www.visir.is/telur-ms-geta-hindrad-voxt-samkeppnisadila-/article/2016160819583)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -97,7 +97,7 @@
         (grm .))
 
 (META (ID-CORPUS 4aee8c2c-cd7b-11e8-994e-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00321.psd,.4)
         (URL http://www.ruv.is/frett/skaupid-i-ar-i-hondum-landsthekktra-grinista)
         (COMMENT ))
   (S0 (S-PREFIX (C (ao Þannig (lemma þannig))
@@ -132,7 +132,7 @@
         (grm .))
 
 (META (ID-CORPUS 4ace73f5-d232-11e8-9963-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00321.psd,.5)
         (URL https://www.forsaetisraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/10/17/Forsaetisradherra-avarpar-45.-thing-BSRB-/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (VP (PP (P (fs_þgf Í (lemma í)))
@@ -167,7 +167,7 @@
     (grm . (lemma .)))
 
 (META (ID-CORPUS a86f7d98-e59a-11e7-b881-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00321.psd,.6)
         (URL https://kjarninn.is/frettir/2017-12-20-austurriki-gripur-til-refsiadgerda-gegn-innflytjendum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -201,7 +201,7 @@
         (grm .))
 
 (META (ID-CORPUS 0105dae8-9929-11e6-a2e0-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00321.psd,.7)
         (URL http://www.ruv.is/frett/klammyndaleikkona-sakar-trump-um-areitni)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao_mst Heldur (lemma gjarna)))
@@ -234,7 +234,7 @@
         (grm .))
 
 (META (ID-CORPUS 1f727a5f-4533-11e6-8429-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00321.psd,.8)
         (URL http://www.mbl.is/frettir/taekni/2016/02/11/opnar_heim_thyngdaraflsbylgja/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_sagnb_gm Spáð (lemma spá)))
@@ -270,7 +270,7 @@
         (grm .))
 
 (META (ID-CORPUS 71c2afbb-eed8-11e6-8e8a-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00321.psd,.9)
         (URL http://www.ruv.is/frett/brimnesbaendur-akaerdir-fyrir-itrekud-brot)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (to_ft_nf_kvk Tvær (lemma tveir))
@@ -305,7 +305,7 @@
         (grm .))
 
 (META (ID-CORPUS f7b39f33-cc40-11e6-8e4d-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00321_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00321.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2016/12/27/dux_taekniskolans_med_9_73/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Í (lemma í)))

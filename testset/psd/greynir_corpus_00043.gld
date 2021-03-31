@@ -1,5 +1,5 @@
 (META (ID-CORPUS 050e3b9d-681f-11e7-b84b-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00043.psd,.1)
+        (ID-LOCAL greynir_corpus_00043.psd,.1)
         (URL http://www.visir.is/g/2017170719534/i-beinni-ordastrid-mayweather-og-mcgregor-heldur-afram-i-brooklyn)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_0_nh_mm Fylgjast (lemma fylgja)))
@@ -13,7 +13,7 @@
       (grm .))
 
 (META (ID-CORPUS 09edfd18-fad0-11e8-9a52-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00043.psd,.2)
+        (ID-LOCAL greynir_corpus_00043.psd,.2)
         (URL https://kjarninn.is/frettir/2018-12-07-edf-algjorlega-misbodid-og-gattud-hryllilegum-ummaelum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Umfjöllun (lemma umfjöllun))
@@ -29,7 +29,7 @@
       (grm .))
 
 (META (ID-CORPUS 1af6e32b-e63e-11e7-b886-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00043.psd,.3)
+        (ID-LOCAL greynir_corpus_00043.psd,.3)
         (URL http://www.ruv.is/frett/verdbolga-undir-tveimur-prosentum-allt-arid)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Verðbólgan (lemma verðbólga)))
@@ -43,7 +43,7 @@
       (grm .))
 
 (META (ID-CORPUS 1e9f690e-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00043.psd,.4)
+        (ID-LOCAL greynir_corpus_00043.psd,.4)
         (URL http://www.mbl.is/sport/em_fotbolta/2016/06/22/storglaesilegt_mark_ronaldos_og_nytt_met_myndskeid/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (sérnafn_ft_nf_kk Ungverjar (lemma Ungverji)))
@@ -59,7 +59,7 @@
       (grm .))
 
 (META (ID-CORPUS 4b11dbb8-4a7b-11e6-8432-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00043.psd,.5)
+        (ID-LOCAL greynir_corpus_00043.psd,.5)
         (URL http://eyjan.pressan.is/frettir/2016/07/15/pall-magnusson-ad-ihuga-frambod-tveir-flokkar-hafa-falast-eftir-kroftum-hans/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_nf_hk Þetta (lemma þessi)))
@@ -76,7 +76,7 @@
       (grm .))
 
 (META (ID-CORPUS f025206d-9809-11e9-9853-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00043.psd,.6)
+        (ID-LOCAL greynir_corpus_00043.psd,.6)
         (URL https://www.visir.is/g/2019190629130/katrin-vill-kanna-afstodu-almennings-til-stjornarskrarinnar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_sb Ljóst (lemma ljós)))
@@ -92,7 +92,7 @@
       (grm .))
 
 (META (ID-CORPUS f356f488-8360-11e7-b89d-04014c605401.59)
-        (ID-LOCAL reynir_corpus_00043.psd,.7)
+        (ID-LOCAL greynir_corpus_00043.psd,.7)
         (URL http://www.ruv.is/frett/bokathjodin-ad-verda-snjalltaekjathjod)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Aukin (lemma aukinn))
@@ -109,7 +109,7 @@
       (grm .))
 
 (META (ID-CORPUS e28cbde9-54d1-11e7-b819-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00043.psd,.8)
+        (ID-LOCAL greynir_corpus_00043.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2017/06/19/aras_vid_mosku_i_london_4/)
         (COMMENT ))
   (S0 (S-HEADING (NP-SUBJ (no_ft_nf_kk Múslímar (lemma múslími))
@@ -124,7 +124,7 @@
                  (grm .)))
 
 (META (ID-CORPUS d59de3c3-ed6b-11e6-8e88-04014c605401.24)
-        (ID-LOCAL reynir_corpus_00043.psd,.9)
+        (ID-LOCAL greynir_corpus_00043.psd,.9)
         (URL http://www.mbl.is/matur/frettir/2017/02/07/kanilsnudar_med_pekanhnetum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (VP (so_1_þgf_bh_ft_gm Blandið (lemma blanda)))
@@ -140,7 +140,7 @@
       (grm .))
 
 (META (ID-CORPUS 1ff7ee69-4533-11e6-8429-04014c605401.401)
-        (ID-LOCAL reynir_corpus_00043.psd,.10)
+        (ID-LOCAL greynir_corpus_00043.psd,.10)
         (URL http://www.mbl.is/sport/efstadeild/2016/03/22/breytingar_i_islenska_fotboltanum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Admir Kubat (lemma Admir Kubat)))

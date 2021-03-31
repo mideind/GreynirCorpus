@@ -1,5 +1,5 @@
 (META (ID-CORPUS f7d92b10-1953-11e7-aa3e-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00280.psd,.1)
         (URL http://www.ruv.is/frett/hreindyrin-alltaf-verid-oraefaborn-a-islandi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Hreindýrin (lemma hreindýr))
@@ -24,7 +24,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS c8d5665a-7563-11e8-a9f5-04014c605401.29)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00280.psd,.2)
         (URL http://www.visir.is/g/2018180629764/17-fyrir-manndrap-og-tilraun-til-manndraps-akaerdi-virdist-hafa-verid-hamslaus-)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (VP (so_0_lhþt_et Vísað (lemma vísa))))
@@ -46,7 +46,7 @@
         (grm .))
 
 (META (ID-CORPUS 8501c015-5c29-11e6-8444-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00280.psd,.3)
         (URL http://www.mbl.is/sport/golf/2016/08/06/runar_i_44_saeti_a_em/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Rúnar Arnórsson (lemma Rúnar Arnórsson))
@@ -70,7 +70,7 @@
         (grm .))
 
 (META (ID-CORPUS 30a83af6-4ae6-11e9-9bc2-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00280.psd,.4)
         (URL https://mbl.is/frettir/innlent/2019/03/20/virtu_ekki_lokanir_og_rett_sluppu_vid_snjoflod/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (to_ft_nf_kk Tveir (lemma tveir))
@@ -94,7 +94,7 @@
         (grm .))
 
 (META (ID-CORPUS 688b8aec-4fb8-11e8-b0e1-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00280.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2018/05/04/framlog_til_rannsokna_skorta_gagnsaei/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (no_et_nf_kk Hluti (lemma hluti))
@@ -119,7 +119,7 @@
           (grm .))
 
 (META (ID-CORPUS ca3dab14-6887-11e7-b84d-04014c605401.26)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00280.psd,.6)
         (URL http://kjarninn.is/frettir/2017-07-14-hrydjuverkaognin-sameinar-loftslagsmal-skila-i-sundur/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-SOURCE (IP (NP-SUBJ (NP-SOURCE (pfn_et_nf_kk_p3 Hann (lemma hann))))
@@ -142,7 +142,7 @@
         (grm .))
 
 (META (ID-CORPUS 188fbdcb-fead-11e6-8ea7-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00280.psd,.7)
         (URL http://www.ruv.is/frett/island-noregur)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Freyr Alexandersson (lemma Freyr Alexandersson))
@@ -168,7 +168,7 @@
         (grm .))
 
 (META (ID-CORPUS 4db93e45-f3a2-11e7-b8a3-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00280.psd,.8)
         (URL http://www.mbl.is/smartland/heilsa/2018/01/07/mer_finnst_eg_alltaf_bara_25/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_et_nf_kvk Anna (lemma Anna)))
@@ -193,7 +193,7 @@
         (grm .))
 
 (META (ID-CORPUS 1e9f6590-4533-11e6-8429-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00280.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/06/08/andlat_arnfinnur_unnar_jonsson_fyrrv_skolastjori/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -219,7 +219,7 @@
         (grm .))
 
 (META (ID-CORPUS 216f6455-4533-11e6-8429-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00280_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00280.psd,.10)
         (URL http://kjarninn.is/skodun/2016-05-16-er-gudni-frambjodandi-valdsins/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Að (lemma að))

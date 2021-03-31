@@ -1,5 +1,5 @@
 (META (ID-CORPUS 010163d9-9730-11e7-b8da-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00072.psd,.1)
+        (ID-LOCAL greynir_corpus_00072.psd,.1)
         (URL http://www.ruv.is/frett/sottu-folk-i-spilasali-til-ad-profa-spilakassa)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kvk_p3 Hún (lemma hún)))
@@ -18,7 +18,7 @@
       (grm .))
 
 (META (ID-CORPUS e9d76ce5-a461-11e7-b8f8-04014c605401.242)
-        (ID-LOCAL reynir_corpus_00072.psd,.2)
+        (ID-LOCAL greynir_corpus_00072.psd,.2)
         (URL http://www.visir.is/p/heilsa)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_ft_nf_kvk_sb Góðar (lemma góður))
@@ -37,7 +37,7 @@
       (grm .))
 
 (META (ID-CORPUS 74034381-2cbe-11e9-9b86-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00072.psd,.3)
+        (ID-LOCAL greynir_corpus_00072.psd,.3)
         (URL https://mbl.is/frettir/innlent/2019/02/09/halka_eda_halkublettir_um_allt_land/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_sb Þungfært (lemma þungfær)))
@@ -56,7 +56,7 @@
       (grm .))
 
 (META (ID-CORPUS 7e57f69a-74ad-11e9-9822-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00072.psd,.4)
+        (ID-LOCAL greynir_corpus_00072.psd,.4)
         (URL https://mbl.is/ferdalog/frettir/2019/05/12/greta_salome_allslaus_a_indlandi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það))
@@ -75,7 +75,7 @@
       (grm .))
 
 (META (ID-CORPUS 1967129f-c526-11e8-9914-04014c605401.82)
-        (ID-LOCAL reynir_corpus_00072.psd,.5)
+        (ID-LOCAL greynir_corpus_00072.psd,.5)
         (URL http://www.visir.is/g/2014140918794/engin-haldbaer-rok-fyrir-aframhaldandi-logbanni-a-kannabis)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_þf_kk Fylgjendur (lemma fylgjandi))
@@ -94,7 +94,7 @@
       (grm .))
 
 (META (ID-CORPUS 2048eeaf-4533-11e6-8429-04014c605401.22)
-        (ID-LOCAL reynir_corpus_00072.psd,.6)
+        (ID-LOCAL greynir_corpus_00072.psd,.6)
         (URL http://kjarninn.is/skyring/2016-06-04-russar-ognin-ur-austri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Endanleg (lemma endanlegur))
@@ -114,7 +114,7 @@
       (grm .))
 
 (META (ID-CORPUS 0652f4d2-87c2-11e6-a2ce-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00072.psd,.7)
+        (ID-LOCAL greynir_corpus_00072.psd,.7)
         (URL http://www.visir.is/draumur-sveitastelpu-raetist/article/2016161009998)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Síðan (lemma síðan)))
@@ -133,7 +133,7 @@
       (grm .))
 
 (META (ID-CORPUS 5fa68790-7fba-11e9-982e-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00072.psd,.8)
+        (ID-LOCAL greynir_corpus_00072.psd,.8)
         (URL https://www.visir.is/g/2019190529144/thordur-med-gull-a-gautaborg-open)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þf Í (lemma í)))
@@ -150,7 +150,7 @@
       (grm .))
 
 (META (ID-CORPUS d3cfd020-a50f-11e6-beab-04014c605401.21)
-        (ID-LOCAL reynir_corpus_00072.psd,.9)
+        (ID-LOCAL greynir_corpus_00072.psd,.9)
         (URL http://www.mbl.is/frettir/innlent/2016/11/07/kornid_sem_fyllti_maelinn/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs Í (lemma Í)))
@@ -170,7 +170,7 @@
       (grm .))
 
 (META (ID-CORPUS 201f36c7-4533-11e6-8429-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00072.psd,.10)
+        (ID-LOCAL greynir_corpus_00072.psd,.10)
         (URL http://kjarninn.is/skodun/2015-12-22-adsent-arsins/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Fyrst (lemma snemma)))

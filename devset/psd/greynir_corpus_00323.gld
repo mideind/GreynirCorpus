@@ -1,5 +1,5 @@
 (META (ID-CORPUS e39a7647-9a17-11e6-a2e5-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00323.psd,.1)
         (URL http://www.mbl.is/matur/frettir/2016/10/24/noi_med_nytt_lakkris_godgaeti/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -32,7 +32,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 1f86a98c-4533-11e6-8429-04014c605401.40)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00323.psd,.2)
         (URL http://eyjan.pressan.is/frettir/2016/03/06/verdum-ad-haetta-ad-halda-thvi-fram-ad-allt-verdi-dyrt-og-osanngjarnt-thangad-til-vid-faum-evruna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -68,7 +68,7 @@
         (grm .))
 
 (META (ID-CORPUS e19d45a1-8241-11e8-aa0e-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00323.psd,.3)
         (URL http://www.visir.is/g/2018180709113/thakklatir-thjalfaranum-fyrir-ad-sja-um-drengina-i-hellinum)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP (no_ft_nf_kk Foreldrar (lemma foreldrar))
@@ -103,7 +103,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS ba1d1b2b-ae7b-11e7-b914-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00323.psd,.4)
         (URL http://www.mbl.is/frettir/erlent/2017/10/11/almennur_fridagur_eftir_ad_hm_saeti_var_tryggt/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p2 Þið (lemma þú)))
@@ -136,7 +136,7 @@
                  (grm .)))
 
 (META (ID-CORPUS 55bd4849-2fd2-11e7-b7ce-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00323.psd,.5)
         (URL http://www.mbl.is/frettir/erlent/2017/05/03/ekki_akaert_fyrir_drap_a_sterling/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Síðan (lemma síðan)))
@@ -172,7 +172,7 @@
         (grm .))
 
 (META (ID-CORPUS 1ee66e4e-e54d-11e6-8e79-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00323.psd,.6)
         (URL http://www.ruv.is/frett/skyrslan-var-tilbuin-fyrir-kosningar)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DATE-REL (fs_þf Í (lemma í))
@@ -207,7 +207,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS ac2f6788-f4c7-11e7-b8a5-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00323.psd,.7)
         (URL http://www.visir.is/g/2018180109033/hodgson-hrosar-myndbandsdomurum-tho-their-vaeru-ekki-nyttir)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-PERSON (person_nf_kk Andre Marriner (lemma Andre Marriner)))
@@ -241,7 +241,7 @@
         (grm .))
 
 (META (ID-CORPUS c09d53d7-96bc-11e8-986c-04014c605401.15)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00323.psd,.8)
         (URL http://www.visir.is/g/2011453043304/misnotkun-talna-um-framandi-tegundir)
         (COMMENT ))
   (S0-X (S-MAIN (IP (PP (P (fs_þgf Í (lemma Í)))
@@ -276,7 +276,7 @@
           (grm . (lemma .)))
 
 (META (ID-CORPUS a6f2f3df-3764-11e8-b066-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00323.psd,.9)
         (URL http://eyjan.pressan.is/frettir/2018/04/03/timamot-i-starfi-fristundaheimila/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Leiðarljós (lemma leiðarljós))
@@ -311,7 +311,7 @@
         (grm .))
 
 (META (ID-CORPUS aa2d5b4e-310c-11e9-9b8e-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00323_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00323.psd,.10)
         (URL http://www.ruv.is/frett/sakbitnir-saenskir-flugfarthegar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (NP-TITLE (no_et_nf_hk_gr Orðið (lemma orð)))

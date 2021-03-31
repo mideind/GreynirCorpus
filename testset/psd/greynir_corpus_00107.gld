@@ -1,5 +1,5 @@
 (META (ID-CORPUS 2070c3c9-4533-11e6-8429-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00107.psd,.1)
+        (ID-LOCAL greynir_corpus_00107.psd,.1)
         (URL http://www.ruv.is/frett/euphoria-hefur-ekki-glatad-ljoma-sinum)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -21,7 +21,7 @@
         (grm .))
 
 (META (ID-CORPUS 3eb74879-858c-11e6-a2cc-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00107.psd,.2)
+        (ID-LOCAL greynir_corpus_00107.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2016/09/28/broddstafavandinn_oleystur/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Líkt (lemma líkt))
@@ -45,7 +45,7 @@
       (grm .))
 
 (META (ID-CORPUS 5931b97a-3998-11e9-9b99-04014c605401.43)
-        (ID-LOCAL reynir_corpus_00107.psd,.3)
+        (ID-LOCAL greynir_corpus_00107.psd,.3)
         (URL https://mbl.is/ferdalog/frettir/2019/02/26/i_utivist_verdur_orkan_til/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -69,7 +69,7 @@
       (grm .))
 
 (META (ID-CORPUS b17b0c8f-1e88-11e7-aa4e-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00107.psd,.4)
+        (ID-LOCAL greynir_corpus_00107.psd,.4)
         (URL http://www.visir.is/g/2017170419840/panamaskjolin-fengu-pulitzer)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_hk_mst Meira (lemma mikill))
@@ -93,7 +93,7 @@
       (grm .))
 
 (META (ID-CORPUS 1e1a7405-8ca7-11e6-a2d2-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00107.psd,.5)
+        (ID-LOCAL greynir_corpus_00107.psd,.5)
         (URL http://www.visir.is/hvenaer-er-vanlidan-of-mikil-/article/2016161008988)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-ES (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -117,7 +117,7 @@
       (grm .))
 
 (META (ID-CORPUS d0911451-fb64-11e7-b8b1-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00107.psd,.6)
+        (ID-LOCAL greynir_corpus_00107.psd,.6)
         (URL http://eyjan.pressan.is/frettir/2018/01/17/kjartan-vill-endurskoda-samnings-rikis-og-borgar-um-samgongumal/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Nú (lemma nú)))
@@ -140,7 +140,7 @@
       (grm .))
 
 (META (ID-CORPUS 27d039c4-5287-11e7-b816-04014c605401.45)
-        (ID-LOCAL reynir_corpus_00107.psd,.7)
+        (ID-LOCAL greynir_corpus_00107.psd,.7)
         (URL http://www.visir.is/g/2017170619196/forsetinn-midur-sin-vegna-mals-roberts-downey)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Þá (lemma þá)))
@@ -163,7 +163,7 @@
       (grm .))
 
 (META (ID-CORPUS ae12f382-335d-11e8-b04c-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00107.psd,.8)
+        (ID-LOCAL greynir_corpus_00107.psd,.8)
         (URL http://www.visir.is/g/2018180328777/mal-thungudu-konunnar-hefur-verid-tilkynnt-til-logreglu)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk_gr Málið (lemma mál)))
@@ -186,7 +186,7 @@
       (grm .))
 
 (META (ID-CORPUS 2fb2a6f5-521a-11e7-b815-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00107.psd,.9)
+        (ID-LOCAL greynir_corpus_00107.psd,.9)
         (URL http://www.ruv.is/frett/algorlega-otholandi)
         (COMMENT ))
   (S0-X (S-MAIN (IP (ADVP (ao Einnig (lemma einnig)))
@@ -210,7 +210,7 @@
         (grm .))
 
 (META (ID-CORPUS c71d5e25-acf1-11e7-b90e-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00107.psd,.10)
+        (ID-LOCAL greynir_corpus_00107.psd,.10)
         (URL http://www.mbl.is/frettir/innlent/2017/10/09/28_hafa_greinst_med_sarasott/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Áhættuhegðun (lemma áhættuhegðun)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 6c92d3f8-1540-11e7-aa34-04014c605401.11)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00301.psd,.1)
         (URL http://www.visir.is/einkavidtal-vid-michael-mcintyre--gylfi-sig-hin-eina-sanna-ast-sem-slapp/article/2017170339928)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -26,7 +26,7 @@
         (grm .))
 
 (META (ID-CORPUS a55111a8-30b4-11e7-b7ce-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00301.psd,.2)
         (URL http://www.mbl.is/vidskipti/frettir/2017/05/04/skyrgerd_hefst_aftur_i_skyrgerdinni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Elfa Dögg Þórðardóttir (lemma Elfa Dögg Þórðardóttir)))
@@ -51,7 +51,7 @@
         (grm .))
 
 (META (ID-CORPUS 96d0f357-4713-11e8-b0bb-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00301.psd,.3)
         (URL http://www.mbl.is/vidskipti/frettir/2018/04/23/haesta_medalverdid_var_530_000_kr_a_fermetra/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-PRD (lo_ft_nf_hk_evb Ódýrustu (lemma ódýr))
@@ -80,7 +80,7 @@
         (grm .))
 
 (META (ID-CORPUS e50515a0-539d-11e8-b0ef-04014c605401.16)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00301.psd,.4)
         (URL http://www.ruv.is/frett/bod-um-ad-klaedast-kjol-komi-ad-utan)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP-LOC (P (fs_þgf Í (lemma í)))
@@ -109,7 +109,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS a15d83ca-3463-11e9-9b96-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00301.psd,.5)
         (URL https://mbl.is/frettir/erlent/2019/02/19/grofust_undir_snjoflodi_i_olpunum/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (VP (so_0_lhþt_et_nf_hk Óttast (lemma óttast))))
@@ -135,7 +135,7 @@
         (grm .))
 
 (META (ID-CORPUS 10b98c1d-cc17-11e8-9947-04014c605401.2)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00301.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2018/10/09/vill_ekki_vera_sakadur_um_fraendhygli/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_kk_p3 Hann (lemma hann)))
@@ -164,7 +164,7 @@
         (grm .))
 
 (META (ID-CORPUS f376d0f9-4ee8-11e7-b812-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00301.psd,.7)
         (URL http://kjarninn.is/frettir/2017-06-11-island-vann-kroatiu-med-marki-lokaminutunni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-TIMESTAMP-REL (P (fs_þf Eftir (lemma eftir)))
@@ -194,7 +194,7 @@
         (grm .))
 
 (META (ID-CORPUS 2a24a639-4e54-11e6-8437-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00301.psd,.8)
         (URL http://www.mbl.is/frettir/innlent/2016/07/20/nytt_umferdarmet_i_hofudborginni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Bílaumferð (lemma bílaumferð))
@@ -225,7 +225,7 @@
         (grm .))
 
 (META (ID-CORPUS 44232b8d-821e-11e9-982f-04014c605401.6)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00301.psd,.9)
         (URL https://mbl.is/frettir/erlent/2019/05/29/mueller_tjair_sig_loks_um_skyrsluna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (PP (P (fs_þgf Samkvæmt (lemma samkvæmt)))
@@ -253,7 +253,7 @@
         (grm .))
 
 (META (ID-CORPUS 60029ae6-e92e-11e6-8e82-04014c605401.9)
-        (ID-LOCAL reynir_corpus_00301_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00301.psd,.10)
         (URL http://www.ruv.is/frett/langtimaatvinnuleysi-thad-minnsta-i-atta-ar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_hk Langtímaatvinnuleysi (lemma langtímaatvinnuleysi)

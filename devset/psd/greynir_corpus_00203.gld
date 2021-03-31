@@ -1,5 +1,5 @@
 (META (ID-CORPUS dc162702-6155-11e6-844a-04014c605401.38)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00203.psd,.1)
         (URL http://www.mbl.is/sport/enski/2016/08/13/hull_city_leicester_city_stadan_er_2_1/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Leikurinn (lemma leikur)))
@@ -8,7 +8,7 @@
         (grm .))
 
 (META (ID-CORPUS faf28e91-2d63-11e8-b03b-04014c605401.20)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00203.psd,.2)
         (URL http://www.visir.is/g/2018180329699/patrekur-madur-var-ad-gaela-vid-fimmta-til-sjotta-saeti)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
@@ -18,7 +18,7 @@
         (grm .))
 
 (META (ID-CORPUS d08bd1d5-523d-11e8-b0ec-04014c605401.127)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00203.psd,.3)
         (URL http://www.visir.is/g/2018180509205/leik-lokid-vikingur-valur-0-0-meistararnir-nadu-ekki-ad-skora-i-vikinni)
         (COMMENT ))
   (S0 (S-QUE (IP (VP (VP (so_1_þf_op_subj_þgf_fh_et_þt_mm Barst (lemma bera)))
@@ -28,7 +28,7 @@
     (grm ?)
 
 (META (ID-CORPUS 5cf3fe52-f753-11e6-8e9a-04014c605401.6)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00203.psd,.4)
         (URL http://kvennabladid.is/2017/02/20/ibudir-fyrir-almenning-hamarksleiga-100-000-kronur-a-manudi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Atburðurinn (lemma atburður)))
@@ -38,7 +38,7 @@
         (grm .))
 
 (META (ID-CORPUS 8b967d66-f874-11e6-8e9b-04014c605401.124)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00203.psd,.5)
         (URL http://www.ruv.is/frett/frarennslismal-vid-myvatn-eru-i-lamasessi)
         (COMMENT ))
   (S0 (S-QUE (NP (fn_et_nf_hk Hvað (lemma hver)))
@@ -48,7 +48,7 @@
         (grm ?))
 
 (META (ID-CORPUS da23c38e-553e-11e7-b819-04014c605401.438)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00203.psd,.6)
         (URL https://www.forsaetisraduneyti.is/gogn/stefnur/)
         (COMMENT ))
   (S0 (S-HEADING (NP (no_et_nf_kvk Stefna (lemma stefna))
@@ -56,7 +56,7 @@
                            (NP (no_et_þf_hk net- og upplýsingaöryggi (lemma net- og upplýsingaöryggi)))))))
 
 (META (ID-CORPUS 4cf4ae60-786f-11e6-a2be-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00203.psd,.7)
         (URL http://www.visir.is/umfjollun--stjarnan---valur-2-3---dramatik-a-lokasekundunum-i-fjorda-sigri-valsmanna-i-rod/article/2016160908782)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -66,7 +66,7 @@
         (grm .))
 
 (META (ID-CORPUS d1044be8-b193-11e7-b916-04014c605401.10)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00203.psd,.8)
         (URL http://www.visir.is/g/2017171019375/geta-buid-til-sinn-eigin-tolvuleik-)
         (COMMENT ))
   (S0 (S-QUE (NP (fn_et_nf_hk Hvaða (lemma hvaða))
@@ -76,7 +76,7 @@
         (grm ?))
 
 (META (ID-CORPUS 34af3cb1-a68d-11e6-bead-04014c605401.23)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00203.psd,.9)
         (URL http://www.mbl.is/matur/frettir/2016/11/09/svona_velur_thu_fullkomid_avokado/)
         (COMMENT ))
   (S0 (S-QUE (NP (fn_et_nf_kk Hver (lemma hver)))
@@ -87,7 +87,7 @@
         (grm ?))
 
 (META (ID-CORPUS d4fd85a6-0fcc-11e7-aa26-04014c605401.14)
-        (ID-LOCAL greynir_corpus_00203_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00203.psd,.10)
         (URL http://www.mbl.is/frettir/erlent/2017/03/23/bill_sem_vopn_hvers_vegna/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kk_gr Árásarmaðurinn (lemma árásarmaður)))

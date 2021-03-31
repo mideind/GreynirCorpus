@@ -1,5 +1,5 @@
 (META (ID-CORPUS bf8d1993-1197-11e8-8130-04014c605401.12)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.1)
+        (ID-LOCAL greynir_corpus_00297.psd,.1)
         (URL http://www.mbl.is/frettir/innlent/2018/02/14/sveitir_ur_reykjavik_adstoda/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (CP-ADV-TEMP (C (st Skömmu eftir (lemma skammur eftir))
@@ -27,7 +27,7 @@
                   (grm . (lemma .))))
 
 (META (ID-CORPUS 601d0acb-89ac-11e8-aa16-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.2)
+        (ID-LOCAL greynir_corpus_00297.psd,.2)
         (URL http://www.visir.is/g/2018180719128/fundu-engan-mann-med-eggvopn-i-heimahverfi)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Lögreglan (lemma lögregla))
@@ -57,7 +57,7 @@
         (grm . (lemma .)))
 
 (META (ID-CORPUS 719c894e-82a6-11e6-a2c9-04014c605401.28)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.3)
+        (ID-LOCAL greynir_corpus_00297.psd,.3)
         (URL http://www.mbl.is/frettir/erlent/2016/09/24/hvorugu_spad_afgerandi_sigri/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_et_þgf_kk Engum (lemma enginn))
@@ -84,7 +84,7 @@
         (grm .))
 
 (META (ID-CORPUS 63fd9ec6-177a-11e7-aa38-04014c605401.51)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.4)
+        (ID-LOCAL greynir_corpus_00297.psd,.4)
         (URL http://eyjan.pressan.is/frettir/2017/04/02/vegagjold-landsbyggdarskattur-eda-flytileid-framkvaemda-frettaskyring/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_et_nf_kk Sigurður Ingi Jóhannsson (lemma Sigurður Ingi Jóhannsson))
@@ -111,7 +111,7 @@
                         (grm . (lemma .))))))
 
 (META (ID-CORPUS 6685d172-9c9f-11e7-b8e5-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.5)
+        (ID-LOCAL greynir_corpus_00297.psd,.5)
         (URL http://www.mbl.is/frettir/innlent/2017/09/18/thrjatiu_tonna_skepna_synti_undir_batinn/)
         (COMMENT ))
   (S0-X (S-MAIN (IP (NP-SUBJ (person_nf_kk Hreinn Ásgeir (lemma Hreinn Ásgeir)))
@@ -139,7 +139,7 @@
           (grm .))
 
 (META (ID-CORPUS e6e68bae-49ee-11e7-b809-04014c605401.4)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.6)
+        (ID-LOCAL greynir_corpus_00297.psd,.6)
         (URL http://www.mbl.is/frettir/erlent/2017/06/05/hjuggu_fingur_af_bingospilara/)
         (COMMENT ))
   (S0 (S-MAIN (IP (CP-ADV-TEMP (C (st Þegar (lemma þegar)))
@@ -168,7 +168,7 @@
         (grm .))
 
 (META (ID-CORPUS 4917798e-bea6-11e6-b580-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.7)
+        (ID-LOCAL greynir_corpus_00297.psd,.7)
         (URL http://www.ruv.is/frett/westbrook-heggur-naerri-meti)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-PRD (lo_et_nf_kk_evb Síðasti (lemma síðari))
@@ -197,7 +197,7 @@
         (grm .))
 
 (META (ID-CORPUS 67f9b393-8b0c-11e6-a2d0-04014c605401.20)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.8)
+        (ID-LOCAL greynir_corpus_00297.psd,.8)
         (URL http://www.visir.is/nokkur-ord-um-jafnretti/article/2016161009358)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_hk_p3 Það (lemma það)))
@@ -224,7 +224,7 @@
         (grm .))
 
 (META (ID-CORPUS aa4b75a5-f610-11e8-9a31-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.9)
+        (ID-LOCAL greynir_corpus_00297.psd,.9)
         (URL http://www.visir.is/g/2018181209890/tveir-forust-thegar-flugvel-brotlenti-a-medferdarstod-fyrir-einhverf-born)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP (no_et_nf_hk Húsnæði (lemma Húsnæði))
@@ -253,7 +253,7 @@
                     (grm . (lemma .)))))
 
 (META (ID-CORPUS 343e8453-7191-11e9-981e-04014c605401.3)
-        (ID-LOCAL reynir_corpus_00297_00001.psd,.10)
+        (ID-LOCAL greynir_corpus_00297.psd,.10)
         (URL https://www.visir.is/g/2019190509034/umsoknarfrestur-um-ungmennarad-heimsmarkmidanna-ad-renna-ut)
         (COMMENT ))
   (S0 (S-MAIN (IP (VP (NP-PRD (so_0_lhþt_et Opnað (lemma opna)))

@@ -1,5 +1,5 @@
 (META (ID-CORPUS 863abfd7-605c-11e9-9be1-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00094.psd,.1)
+        (ID-LOCAL greynir_corpus_00094.psd,.1)
         (URL https://mbl.is/frettir/innlent/2019/04/16/verdmerkingar_hja_18_af_33_i_lagi/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP-DUR-REL (no_ft_þf_kk_gr Dagana (lemma dagur))
@@ -22,7 +22,7 @@
       (grm .))
 
 (META (ID-CORPUS 69ce2a53-e527-11e8-99c0-04014c605401.10)
-        (ID-LOCAL reynir_corpus_00094.psd,.2)
+        (ID-LOCAL greynir_corpus_00094.psd,.2)
         (URL http://www.mbl.is/frettir/innlent/2018/11/10/safn_og_folk_i_samtali/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk Ástæða (lemma ástæða)))
@@ -42,7 +42,7 @@
       (grm .))
 
 (META (ID-CORPUS b2ffde14-19d1-11e7-aa40-04014c605401.1)
-        (ID-LOCAL reynir_corpus_00094.psd,.3)
+        (ID-LOCAL greynir_corpus_00094.psd,.3)
         (URL http://www.visir.is/g/2017170409520/westbrook-buinn-ad-jafna-oscar-robertson)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (lo_et_nf_kvk_sb Þreföld (lemma þrefaldur))
@@ -63,7 +63,7 @@
       (grm .))
 
 (META (ID-CORPUS ae6819b2-8f9d-11e6-a2d5-04014c605401.13)
-        (ID-LOCAL reynir_corpus_00094.psd,.4)
+        (ID-LOCAL greynir_corpus_00094.psd,.4)
         (URL http://www.visir.is/danshofundur-beyonce-kennir-islendingum-/article/2016161019805)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk Þessir (lemma þessi))
@@ -85,7 +85,7 @@
       (grm .))
 
 (META (ID-CORPUS a5e185cb-bda6-11e8-98ef-04014c605401.7)
-        (ID-LOCAL reynir_corpus_00094.psd,.5)
+        (ID-LOCAL greynir_corpus_00094.psd,.5)
         (URL http://www.visir.is/g/2018180929764/segir-svandisi-styrkja-stodu-sigarettunnar)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Reglugerðin (lemma reglugerð)))
@@ -110,7 +110,7 @@
       (grm .))
 
 (META (ID-CORPUS 71c8b588-4a3c-11e8-b0ca-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00094.psd,.6)
+        (ID-LOCAL greynir_corpus_00094.psd,.6)
         (URL https://www.innanrikisraduneyti.is/efst-a-baugi/frettir/stok-frett/2018/04/27/Rikisstjornin-uthlutar-fjorum-milljordum-krona-til-brynna-vegaframkvaemda-/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_nf_kvk_gr Þörfin (lemma þörf)))
@@ -130,7 +130,7 @@
       (grm .))
 
 (META (ID-CORPUS 2876083b-5fe7-11e7-b838-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00094.psd,.7)
+        (ID-LOCAL greynir_corpus_00094.psd,.7)
         (URL http://kjarninn.is/frettir/2017-07-03-thorsteinn-einarsson-hrl-skiptastjori-morgundags/)
         (COMMENT ))
   (S0 (S-MAIN (IP (ADVP (ao Fljótlega (lemma fljótlega)))
@@ -152,7 +152,7 @@
       (grm .))
 
 (META (ID-CORPUS 3e53e419-6af8-11e7-b853-04014c605401.8)
-        (ID-LOCAL reynir_corpus_00094.psd,.8)
+        (ID-LOCAL greynir_corpus_00094.psd,.8)
         (URL http://www.mbl.is/frettir/erlent/2017/07/17/huga_frekari_vidskiptathvinganir/)
         (COMMENT ))
   (S0 (S-QUOTE (IP (CP-QUOTE (IP (NP-SUBJ (pfn_ft_nf_p1 Við (lemma ég)))
@@ -173,7 +173,7 @@
       (grm .))
 
 (META (ID-CORPUS 0a7bc544-51d5-11e8-b0eb-04014c605401.83)
-        (ID-LOCAL reynir_corpus_00094.psd,.9)
+        (ID-LOCAL greynir_corpus_00094.psd,.9)
         (URL http://www.visir.is/g/2018180509529/holottar-gotur-atvinnuskortur-kvenna-og-haekkun-fasteignaverds-i-huga-skagamanna)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kk Stefán (lemma Stefán)))
@@ -195,7 +195,7 @@
       (grm .))
 
 (META (ID-CORPUS 75ea14ac-6b54-11e9-9bfe-04014c605401.5)
-        (ID-LOCAL reynir_corpus_00094.psd,.10)
+        (ID-LOCAL greynir_corpus_00094.psd,.10)
         (URL https://mbl.is/folk/frettir/2019/04/30/veistu_hvar_rurik_og_soliani_fundu_astina/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_ft_nf_hk_gr Skötuhjúin (lemma skötuhjú)))
