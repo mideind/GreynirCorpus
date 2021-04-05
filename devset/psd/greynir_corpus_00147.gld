@@ -10,7 +10,7 @@
                               (NP-POSS (fn_et_ef_hk þess (lemma sá))
                                        (no_et_ef_hk samfélagsástands (lemma samfélagsástand))
                                        (CP-REL (C (stt sem (lemma sem)))
-                                               (S-MAIN (IP (NP-SUBJ (pfn_ft_nf_p1 við (lemma ég)))
+                                               (IP (NP-SUBJ (pfn_ft_nf_p1 við (lemma ég)))
                                                            (VP (VP (so_1_þf_fh_p1_ft_nt_gm búum (lemma búa)))
                                                                (ADVP-PCL (ao við (lemma við)))
                                                                (ADVP-LOC (ao þar (lemma þar))
@@ -24,7 +24,7 @@
                                                                                      (VP (VP (so_1_þf_fh_p3_ft_nt_gm einkenna (lemma einkenna)))
                                                                                          (NP-OBJ (lo_et_þf_kk_sb hversdagslegan (lemma hversdagslegur))
                                                                                                  (no_et_þf_kk raunveruleika (lemma raunveruleiki))
-                                                                                                 (NP-POSS (pfn_ft_ef_p1 okkar (lemma ég)))))))))))))))))
+                                                                                                 (NP-POSS (pfn_ft_ef_p1 okkar (lemma ég))))))))))))))))
       (grm .))
 
 (META (ID-CORPUS a444df83-6333-11e8-adb8-04014c605401.1)

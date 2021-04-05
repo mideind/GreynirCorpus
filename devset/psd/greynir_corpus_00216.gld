@@ -99,7 +99,7 @@
         (ID-LOCAL greynir_corpus_00216.psd,.8)
         (URL http://www.visir.is/g/2018181139936/i-beinni-real-madrid-valencia-storleikur-i-hofudborginni)
         (COMMENT ))
-  (S0 (S-HEADING (S-MAIN (VP (VP (so_1_ef_fh_p3_ft_nt_mm Krefjast (lemma krefja)))
+  (S0 (S-HEADING (VP (VP (so_1_ef_fh_p3_ft_nt_mm Krefjast (lemma krefja)))
                                (NP-OBJ (lo_et_ef_kvk_sb tafarlausrar (lemma tafarlaus))
                                        (no_et_ef_kvk afsagnar (lemma afsögn))
                                        (NP-POSS (no_et_ef_kk_gr Klausturshópsins (lemma Klausturshópur)
@@ -108,7 +108,7 @@
                                (NP-OBJ (no_et_ef_kvk rannsóknar (lemma rannsókn))
                                        (PP (P (fs_þgf á (lemma á)))
                                            (NP (lo_ft_þgf_hk_sb mögulegum (lemma mögulegur))
-                                               (no_ft_þgf_hk lögbrotum (lemma lögbrot)))))))))
+                                               (no_ft_þgf_hk lögbrotum (lemma lögbrot))))))))
 
 (META (ID-CORPUS 5675e4ab-6301-11e6-844c-04014c605401.12)
         (ID-LOCAL greynir_corpus_00216.psd,.9)

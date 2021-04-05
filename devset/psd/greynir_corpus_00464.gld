@@ -64,7 +64,7 @@
         (ID-LOCAL greynir_corpus_00464.psd,.3)
         (URL http://url_vantar.is)
         (COMMENT ))
-  (S0 (S-MAIN (IP (S-MAIN (IP (NP-SUBJ (person_nf_kvk Jennifer (lemma Jennifer))
+  (S0 (S-MAIN (IP (NP-SUBJ (person_nf_kvk Jennifer (lemma Jennifer))
                                        (person_nf_kvk Gonzalez (lemma Gonzalez)))
                               (VP (VP (so_1_þf_fh_p3_et_nt_gm segir (lemma segir)))
                                   (NP-OBJ (CP-THT (C (st að (lemma að)))
@@ -89,7 +89,7 @@
                                                       (VP (VP-AUX (so_0_fh_p3_ft_nt_gm fá (lemma fá)))
                                                           (PP (P (fs_þgf að (lemma að)))
                                                               (NP (lo_et_þgf_hk_sb fullu (lemma fullu))))
-                                                          (VP (so_0_sagnb_gm endurgreitt (lemma endurgreitt))))))))))))
+                                                          (VP (so_0_sagnb_gm endurgreitt (lemma endurgreitt))))))))))
       (grm . (lemma .)))
 
 (META (ID-CORPUS 2048ecb6-4533-11e6-8429-04014c605401.32)

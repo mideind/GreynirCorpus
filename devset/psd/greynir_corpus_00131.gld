@@ -181,9 +181,9 @@
                                                   (CP-QUE (PP (P (fs_þgf með (lemma með)))
                                                               (NP (fn_et_þgf_kk hvaða (lemma hvaða))
                                                                   (no_et_þgf_kk hætti (lemma háttur))))
-                                                          (IP (S-MAIN (IP (NP-SUBJ (no_ft_þgf_kk Norður-Kóreumönnum (lemma Norður-Kóreumaður)))
+                                                          (IP (NP-SUBJ (no_ft_þgf_kk Norður-Kóreumönnum (lemma Norður-Kóreumaður)))
                                                                           (VP (VP-AUX (so_0_op_subj_þgf_vh_p3_et_nt_gm skuli (lemma skulu)))
-                                                                              (VP (so_0_sagnb_gm refsað (lemma refsa))))))))))))))))
+                                                                              (VP (so_0_sagnb_gm refsað (lemma refsa))))))))))))))
       (grm .))
 
 (META (ID-CORPUS f486b590-1d86-11e8-815b-04014c605401.100)

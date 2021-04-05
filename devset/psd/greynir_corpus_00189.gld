@@ -92,7 +92,7 @@
                               (VP (VP (so_1_þf_nh_gm hreyfa (lemma hreyfa)))
                                   (PP (P (fs_þgf við (lemma við)))
                                       (NP (no_et_þgf_hk_gr stjórnarsamstarfinu (lemma stjórnarsamstarf)
-                                                                               (exp_seg stjórnar-samstarf)))))
+                                                                               (exp_seg stjórnar-samstarf))))))
                               (CP-ADV-ACK (C (st þó (lemma þó))
                                              (st að (lemma að)))
                                           (IP (NP-SUBJ (pfn_et_nf_hk_p3 það (lemma það)))
@@ -114,7 +114,7 @@
                                                                                       (C (st og (lemma og)))
                                                                                       (NP (no_et_þgf_kk varnarsamningi (lemma varnarsamningur))
                                                                                           (P (fs við (lemma við)))
-                                                                                          (NP (no_ft_þf_hk_gr Bandaríkin (lemma Bandaríkin))))))))))))))))))
+                                                                                          (NP (no_ft_þf_hk_gr Bandaríkin (lemma Bandaríkin)))))))))))))))))
       (grm .))
 
 (META (ID-CORPUS ca39b4dc-5018-11e6-8437-04014c605401.23)

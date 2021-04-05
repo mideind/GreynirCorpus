@@ -67,7 +67,7 @@
                                            (no_ft_nf_hk göt (lemma gat)))
                                   (VP (VP (so_0_fh_p3_ft_þt_gm voru (lemma vera)))
                                       (PP (P (fs_þgf á (lemma á)))
-                                          (NP (no_et_þgf_kvk_gr kvínni (lemma kví))))))))
+                                          (NP (no_et_þgf_kvk_gr kvínni (lemma kví))))))))))
                   (C (st og (lemma og)))
                   (S-MAIN (IP (VP (VP (so_1_nf_fh_p3_ft_þt_gm voru (lemma vera)))
                                   (NP (pfn_ft_nf_hk_p3 þau (lemma það))
@@ -75,7 +75,7 @@
                                   (PP (P (fs_þf um (lemma um)))
                                       (NP (no_et_þf_hk meter (lemma meter))
                                           (PP (P (fs_þgf á (lemma á)))
-                                              (NP (no_et_þgf_kvk breidd (lemma breidd)))))))))))
+                                              (NP (no_et_þgf_kvk breidd (lemma breidd)))))))))
       (grm . (lemma .)))
 
 (META (ID-CORPUS d0347fb1-ec8f-11e7-b895-04014c605401.51)
