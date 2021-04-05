@@ -1,4 +1,4 @@
-(META (ID-CORPUS e0ea8312-a4fa-11e6-beab-04014c605401.50)
+( (META (ID-CORPUS e0ea8312-a4fa-11e6-beab-04014c605401.50)
         (ID-LOCAL greynir_corpus_00007.psd,.1)
         (URL http://kvennabladid.is/2016/11/07/kvennabladid-thriggja-ara/)
         (COMMENT ))
@@ -6,9 +6,9 @@
                   (VP (VP (so_1_þf_et_fh_gm_nt_p1 þoli (lemma þola)))
                       (ADVP (ao ekki (lemma ekki)))
                       (NP-OBJ (no_et_gr_kvk_þf vigtina (lemma vigt))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS cbe1ef51-569c-11e8-b0fe-04014c605401.62)
+( (META (ID-CORPUS cbe1ef51-569c-11e8-b0fe-04014c605401.62)
         (ID-LOCAL greynir_corpus_00007.psd,.2)
         (URL
   http://www.visir.is/g/2018180519656/oddvitaaskorunin-besti-hrekkurinn-hefur-ekki-enn-uppgotvast)
@@ -17,9 +17,9 @@
                      (IP-INF (TO (nhm að (lemma að)))
                              (VP (VP (so_1_þf_gm_nh banna (lemma banna)))
                                  (NP-OBJ (no_ft_kk_þf flugelda (lemma flugeldur))))))
-                 (grm ?))))
+                 (grm ?)))))
 
-(META (ID-CORPUS 21d071f7-4533-11e6-8429-04014c605401.18)
+( (META (ID-CORPUS 21d071f7-4533-11e6-8429-04014c605401.18)
         (ID-LOCAL greynir_corpus_00007.psd,.3)
         (URL
   http://www.mbl.is/frettir/innlent/2016/05/25/stundum_pirrud_en_annars_fullkomin/)
@@ -28,9 +28,9 @@
                      (NP-PRD (no_et_nf_kk_gr grunnurinn (lemma grunnur))
                              (PP (P (fs_þgf að (lemma að)))
                                  (NP (lo_þgf_hk_sb_et góðu (lemma góðu))
-                                     (no_þgf_hk_et samfélagi (lemma samfélag))))))))
+                                     (no_þgf_hk_et samfélagi (lemma samfélag)))))))))
 
-(META (ID-CORPUS a13921cc-6e42-11e9-9c02-04014c605401.125)
+( (META (ID-CORPUS a13921cc-6e42-11e9-9c02-04014c605401.125)
         (ID-LOCAL greynir_corpus_00007.psd,.4)
         (URL
   https://www.visir.is/g/2019190509554/thad-er-ekkert-sport-ad-lata-handtaka-sig)
@@ -38,9 +38,9 @@
   (S0 (S-MAIN (IP (VP (VP (so_1_þf_et_þt_fh_gm_p3 Menntaði (lemma mennta)))
                       (NP-SUBJ (fn_et_þf_hk sig (lemma sig))
                                (PP (P (fs_þf þrátt fyrir (lemma þrátt fyrir)))
-                                   (NP (no_ft_hk_þf veikindi (lemma veikindi)))))))))
+                                   (NP (no_ft_hk_þf veikindi (lemma veikindi))))))))))
 
-(META (ID-CORPUS 1f86aaaf-4533-11e6-8429-04014c605401.20)
+( (META (ID-CORPUS 1f86aaaf-4533-11e6-8429-04014c605401.20)
         (ID-LOCAL greynir_corpus_00007.psd,.5)
         (URL
   http://www.mbl.is/frettir/innlent/2016/02/22/kaerdur_fyrir_fjardratt_og_misneytingu/)
@@ -49,9 +49,9 @@
                          (NP-OBJ (no_et_gr_kk_þf félagsmanninn (lemma félagsmaður))
                                  (PP (ADVP (ao út (lemma út)))
                                      (P (fs_þgf úr (lemma úr)))
-                                     (NP (sérnafn_þgf_et_kk Hnjúki (lemma Hnjúkur)))))))))
+                                     (NP (sérnafn_þgf_et_kk Hnjúki (lemma Hnjúkur))))))))))
 
-(META (ID-CORPUS 80f86fc1-d4b3-11e8-996c-04014c605401.19)
+( (META (ID-CORPUS 80f86fc1-d4b3-11e8-996c-04014c605401.19)
         (ID-LOCAL greynir_corpus_00007.psd,.6)
         (URL
   http://www.visir.is/g/2018181018703/umfjollun-fh-selfoss-27-30-selfoss-hafdi-betur-i-toppslagnum)
@@ -59,9 +59,9 @@
   (S0 (S-QUE (IP (NP-SUBJ (fn_ft_kk_nf Hverjir (lemma hver)))
                  (VP (VP (so_0_fh_ft_gm_p3_þt stóðu (lemma standa)))
                      (ADVP (ao upp úr (lemma upp úr))))
-                 (grm ?))))
+                 (grm ?)))))
 
-(META (ID-CORPUS 205d2649-4533-11e6-8429-04014c605401.8)
+( (META (ID-CORPUS 205d2649-4533-11e6-8429-04014c605401.8)
         (ID-LOCAL greynir_corpus_00007.psd,.7)
         (URL
   http://www.mbl.is/frettir/innlent/2016/01/09/kari_stefansson_i_jotunmod/)
@@ -70,9 +70,9 @@
                   (VP (VP (so_1_nf_et_gm_p3_vh_þt væri (lemma vera)))
                       (NP-PRD (no_et_kvk_nf fjármögnun (lemma fjármögnun))
                               (NP-POSS (no_ef_et_gr_kk rekstursins (lemma rekstur)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS ecb6f426-2d20-11e8-b03b-04014c605401.22)
+( (META (ID-CORPUS ecb6f426-2d20-11e8-b03b-04014c605401.22)
         (ID-LOCAL greynir_corpus_00007.psd,.8)
         (URL http://www.ruv.is/frett/viti-a-vellinum-og-utan-hans)
         (COMMENT ))
@@ -80,9 +80,9 @@
                       (PP (P (fs_ef til (lemma til)))
                           (NP (sérnafn_ef_ft_kvk Eyja (lemma Eyjar))))
                       (PP (P (fs_þgf með (lemma með)))
-                          (NP (no_ft_kvk_þgf brellum (lemma brella))))))))
+                          (NP (no_ft_kvk_þgf brellum (lemma brella)))))))))
 
-(META (ID-CORPUS 758b2cf7-17e9-11e8-814c-04014c605401.12)
+( (META (ID-CORPUS 758b2cf7-17e9-11e8-814c-04014c605401.12)
         (ID-LOCAL greynir_corpus_00007.psd,.9)
         (URL http://www.ruv.is/frett/arnfridur-ekki-vanhaef)
         (COMMENT ))
@@ -90,9 +90,9 @@
                   (VP (VP-AUX (VP (so_0_et_fh_gm_nt_p3 hefur (lemma hafa)))
                               (VP (so_0_gm_sagnb verið (lemma vera))))
                       (NP-PRD (VP (so_et_kvk_lhþt_nf_sb uppfærð (lemma uppfæra)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS cb27be9a-532e-11e7-b816-04014c605401.39)
+( (META (ID-CORPUS cb27be9a-532e-11e7-b816-04014c605401.39)
         (ID-LOCAL greynir_corpus_00007.psd,.10)
         (URL
   http://www.visir.is/g/2017170619146/launakrafa-upp-a-tvaer-milljonir-a-islensk-sjalfbodalidasamtok)
@@ -101,4 +101,4 @@
                   (VP (VP (so_et_fh_gm_p1_þt var (lemma vera)))
                       (NP-PRD (eo gjörsamlega (lemma gjörsamlega))
                               (lo_et_nf_hk_sb úrvinda (lemma úrvinda))))))
-      (grm .))
+      (grm .)))

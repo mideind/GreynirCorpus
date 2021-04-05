@@ -1,4 +1,4 @@
-(META (ID-CORPUS 43bf66f3-51c4-11e6-8438-04014c605401.10)
+( (META (ID-CORPUS 43bf66f3-51c4-11e6-8438-04014c605401.10)
         (ID-LOCAL greynir_corpus_00003.psd,.1)
         (URL
   http://www.mbl.is/sport/efstadeild/2016/07/24/ia_ibv_stadan_er_1_0/)
@@ -6,9 +6,9 @@
   (S0 (S-HEADING (IP (NP-SUBJ (fn_ft_kk_nf Engir (lemma enginn))
                               (no_ft_kk_nf atburðir (lemma atburður)))
                      (NP-PRD (VP (so_ft_kk_lhþt_nf_sb skráðir (lemma skrá))))
-                     (ADVP (ao enn (lemma enn))))))
+                     (ADVP (ao enn (lemma enn)))))))
 
-(META (ID-CORPUS 99242aa1-0ace-11e9-9ac6-04014c605401.8)
+( (META (ID-CORPUS 99242aa1-0ace-11e9-9ac6-04014c605401.8)
         (ID-LOCAL greynir_corpus_00003.psd,.2)
         (URL
   http://www.visir.is/g/2018181229117/mannfall-i-sprengjutilraedi-vid-pyramidana-i-gisa)
@@ -16,9 +16,9 @@
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_gr_kvk_nf Fréttin (lemma frétt)))
                   (VP (VP (so_et_fh_gm_nt_p3 verður (lemma verða)))
                       (NP-PRD (VP (so_et_kvk_lhþt_nf_sb uppfærð (lemma uppfæra)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 64b3e51d-2965-11e8-b02b-04014c605401.18)
+( (META (ID-CORPUS 64b3e51d-2965-11e8-b02b-04014c605401.18)
         (ID-LOCAL greynir_corpus_00003.psd,.3)
         (URL
   http://www.visir.is/g/2018180319151/umfjollun-og-vidtol-haukar-keflavik-83-70-kari-maetti-med-latum)
@@ -26,18 +26,18 @@
   (S0 (S-QUE (IP (NP-SUBJ (fn_et_nf_hk Hvað (lemma hver)))
                  (VP (VP (so_0_et_þt_fh_gm_p3 gekk (lemma ganga)))
                      (ADVP (ao illa (lemma illa)))))
-             (grm ?)))
+             (grm ?))))
 
-(META (ID-CORPUS 03b09025-334f-11e9-9b92-04014c605401.16)
+( (META (ID-CORPUS 03b09025-334f-11e9-9b92-04014c605401.16)
         (ID-LOCAL greynir_corpus_00003.psd,.4)
         (URL http://www.visir.is/g/2019190218956/alls-kyns-kyn)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_gr_kvk_nf Veröldin (lemma veröld)))
                   (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (no_et_kk_nf litaskali (lemma litaskali))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 2a35696c-5b30-11e7-b828-04014c605401.11)
+( (META (ID-CORPUS 2a35696c-5b30-11e7-b828-04014c605401.11)
         (ID-LOCAL greynir_corpus_00003.psd,.5)
         (URL
   http://www.mbl.is/frettir/innlent/2017/06/27/studentar_eiga_thad_til_ad_gleymast/)
@@ -45,9 +45,9 @@
   (S0 (S-HEADING (IP (NP (lo_et_hk_mst_nf Lægra (lemma lágur))
                          (no_et_hk_nf leiguverð (lemma leiguverð) (exp_seg leigu-verð))
                          (PP (P (fs_þgf á (lemma á)))
-                             (NP (no_ft_hk_þgf herbergjum (lemma herbergi))))))))
+                             (NP (no_ft_hk_þgf herbergjum (lemma herbergi)))))))))
 
-(META (ID-CORPUS d9d31d0a-a3f2-11e8-988b-04014c605401.8)
+( (META (ID-CORPUS d9d31d0a-a3f2-11e8-988b-04014c605401.8)
         (ID-LOCAL greynir_corpus_00003.psd,.6)
         (URL
   http://www.mbl.is/smartland/heilsa/2018/08/19/23_rad_til_ad_hreyfa_thig_meira_daglega/)
@@ -58,18 +58,18 @@
                              (NP (no_ft_kk_þgf
   gönguferðarfundum
   (lemma gönguferðarfundur)
-  (exp_seg gönguferðar-fundur))))))))
+  (exp_seg gönguferðar-fundur)))))))))
 
-(META (ID-CORPUS 563b1cf8-9721-11e8-986c-04014c605401.5)
+( (META (ID-CORPUS 563b1cf8-9721-11e8-986c-04014c605401.5)
         (ID-LOCAL greynir_corpus_00003.psd,.7)
         (URL
   http://www.mbl.is/frettir/erlent/2018/08/03/segist_hafa_bedid_eftir_drottningunni/)
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-SUBJ (pfn_et_nf_p1 Ég (lemma ég)))
                   (VP (so_0_et_fh_gm_p1_þt beið (lemma bíða)))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS e4169bf3-b25a-11e6-b450-04014c605401.15)
+( (META (ID-CORPUS e4169bf3-b25a-11e6-b450-04014c605401.15)
         (ID-LOCAL greynir_corpus_00003.psd,.8)
         (URL
   http://www.ruv.is/frett/karl-vignir-i-reglubundnu-leyfi-fra-hrauninu)
@@ -77,9 +77,9 @@
   (S0 (S-HEADING (IP (NP-SUBJ (no_ft_gr_hk_nf Brotin (lemma brot)))
                      (NP-PRD (VP (so_ft_hk_lhþt_nf_sb afhjúpuð (lemma afhjúpa)))
                              (PP (P (fs_þgf í (lemma í)))
-                                 (NP (sérnafn_et_hk_þgf Kastljósi (lemma Kastljós))))))))
+                                 (NP (sérnafn_et_hk_þgf Kastljósi (lemma Kastljós)))))))))
 
-(META (ID-CORPUS f3491037-09fa-11e8-810f-04014c605401.25)
+( (META (ID-CORPUS f3491037-09fa-11e8-810f-04014c605401.25)
         (ID-LOCAL greynir_corpus_00003.psd,.9)
         (URL
   http://www.visir.is/g/2018180209723/umfjollun-fram-haukar-24-34-enn-bida-framarar-eftir-sigrinum)
@@ -87,9 +87,9 @@
   (S0 (S-QUE (IP (NP-SUBJ (fn_et_hk_nf Hvað (lemma hver)))
                  (VP (VP (so_0_et_fh_gm_p3_þt gekk (lemma ganga)))
                      (ADVP (ao illa (lemma illa)))))
-             (grm ?)))
+             (grm ?))))
 
-(META (ID-CORPUS b4bcf527-56c6-11e8-b0fe-04014c605401.62)
+( (META (ID-CORPUS b4bcf527-56c6-11e8-b0fe-04014c605401.62)
         (ID-LOCAL greynir_corpus_00003.psd,.10)
         (URL
   http://www.visir.is/g/2018180519816/i-beinni-fjolnir-fh-grafarvogsmenn-leita-ad-fyrsta-sigrinum)
@@ -100,4 +100,4 @@
                                      (NP (sérnafn_et_gr_hk_þgf
   Sólarfylkinu
   (lemma sólarfylki)
-  (exp_seg sólar-fylki)))))))))
+  (exp_seg sólar-fylki))))))))))

@@ -1,4 +1,4 @@
-(META (ID-CORPUS 1ffe0d5f-d845-11e6-8e62-04014c605401.26)
+( (META (ID-CORPUS 1ffe0d5f-d845-11e6-8e62-04014c605401.26)
         (ID-LOCAL greynir_corpus_00018.psd,.1)
         (URL
   http://www.visir.is/einar-segir-bjorn-val-hafa-stadid-i-vegi-fyrir-fimm-flokka-rikisstjorn---hans-ord-hljota-ad-hafa-einhverja-vigt-/article/2017170119649)
@@ -9,9 +9,9 @@
                                (fn_et_kk_nf neinn (lemma neinn)))
                       (VP (VP (so_1_þf_gm_sagnb átt (lemma eiga)))
                           (NP-OBJ (pfn_et_p1_þf_hk mig (lemma ég)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 862ec4c0-fe48-11e8-9a6e-04014c605401.4)
+( (META (ID-CORPUS 862ec4c0-fe48-11e8-9a6e-04014c605401.4)
         (ID-LOCAL greynir_corpus_00018.psd,.2)
         (URL
   http://www.mbl.is/frettir/innlent/2018/12/12/nikkan_leynivopn_i_skotuklubbnum/)
@@ -21,9 +21,9 @@
                                (NP (sérnafn_þgf_et_hk Akranesi (lemma Akranes)))))
                   (VP (VP (so_1_nf_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (no_et_kk_nf varaformaður (lemma varaformaður))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 68bc6873-fbf5-11e8-9a59-04014c605401.219)
+( (META (ID-CORPUS 68bc6873-fbf5-11e8-9a59-04014c605401.219)
         (ID-LOCAL greynir_corpus_00018.psd,.3)
         (URL
   http://www.visir.is/g/2018181209160/leik-lokid-breidablik-tindastoll-82-117-brynjar-med-48-stig-gegn-blikum)
@@ -32,9 +32,9 @@
                          (NP-IOBJ (lo_et_evb_hk_þf langstærsta (lemma langstærstur))
                                   (no_et_hk_þf sönnunargagn (lemma sönnunargagn))
                                   (NP-POSS (entity_ef_et_gr_hk Bitcoin-málsins (lemma Bitcoin-málsins))))
-                         (NP-OBJ (lo_et_hk_sb_þf ómarktækt (lemma ómarktækur) (exp_seg ó-marktækur)))))))
+                         (NP-OBJ (lo_et_hk_sb_þf ómarktækt (lemma ómarktækur) (exp_seg ó-marktækur))))))))
 
-(META (ID-CORPUS 6a988ed6-2f50-11e7-b7cc-04014c605401.5)
+( (META (ID-CORPUS 6a988ed6-2f50-11e7-b7cc-04014c605401.5)
         (ID-LOCAL greynir_corpus_00018.psd,.4)
         (URL
   https://www.innanrikisraduneyti.is/utgefid-efni/frettir-domsmalaraduneytis/logreglumenn-og-akaerendur-fa-thjalfun-vegna-hatursglaepa)
@@ -45,9 +45,9 @@
                               (ao að (lemma að)))
                         (PP (P (fs_þgf af (lemma af)))
                             (NP (no_et_gr_hk_þgf landinu (lemma land)))))))
-        (grm .))
+        (grm .)))
 
-(META (ID-CORPUS 5e948b66-dbce-11e6-8e66-04014c605401.5)
+( (META (ID-CORPUS 5e948b66-dbce-11e6-8e66-04014c605401.5)
         (ID-LOCAL greynir_corpus_00018.psd,.5)
         (URL
   http://www.mbl.is/folk/frettir/2017/01/16/kourtney_og_bieber_skemmtu_ser_saman/)
@@ -57,9 +57,9 @@
                       (NP-OBJ (CP-QUE (ADVP (ao hvar (lemma hvar)))
                                       (IP (NP-SUBJ (pfn_et_kk_nf_p3 hann (lemma hann)))
                                           (VP (so_0_et_fh_gm_p3_þt var (lemma vera)))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 9f06669d-f651-11e7-b8a7-04014c605401.27)
+( (META (ID-CORPUS 9f06669d-f651-11e7-b8a7-04014c605401.27)
         (ID-LOCAL greynir_corpus_00018.psd,.6)
         (URL
   http://www.mbl.is/frettir/innlent/2018/01/10/atti_ekki_ord_yfir_gjafmildinni/)
@@ -70,9 +70,9 @@
                                              (VP (VP (so_0_et_gm_p3_vh_þt væri (lemma vera)))
                                                  (IP-INF (TO (nhm að (lemma að)))
                                                          (VP (VP (so_0_gm_nh brenna (lemma brenna)))
-                                                             (ADVP (ao inni (lemma inni)))))))))))))
+                                                             (ADVP (ao inni (lemma inni))))))))))))))
 
-(META (ID-CORPUS 1c6bc63c-b9eb-11e8-98d6-04014c605401.30)
+( (META (ID-CORPUS 1c6bc63c-b9eb-11e8-98d6-04014c605401.30)
         (ID-LOCAL greynir_corpus_00018.psd,.7)
         (URL
   http://www.visir.is/k/48f922b6-9431-4e5b-9e18-700c84836b82-1537126133605)
@@ -83,9 +83,9 @@
                          (PP (P (fs_þgf úr (lemma úr)))
                              (NP (no_ft_hk_þgf býtum (lemma býti))))
                          (PP (P (fs_þgf í (lemma í)))
-                             (NP (sérnafn_þgf_hk_et Singapúr (lemma Singapúr))))))))
+                             (NP (sérnafn_þgf_hk_et Singapúr (lemma Singapúr)))))))))
 
-(META (ID-CORPUS 628bb7ee-5f52-11e8-ad9f-04014c605401.36)
+( (META (ID-CORPUS 628bb7ee-5f52-11e8-ad9f-04014c605401.36)
         (ID-LOCAL greynir_corpus_00018.psd,.8)
         (URL
   http://www.visir.is/g/2018180529428/frekari-tolvu-posts-sam-skipti-varpa-ljosi-a-endur-tekin-sam-rad-odd-vita-og-fram-kvaemda-adila)
@@ -96,9 +96,9 @@
                          (ADVP (ao ekki (lemma ekki)))
                          (IP-INF (TO (nhm að (lemma að)))
                                  (VP (VP (so_1_þf_gm_nh fella (lemma fella)))
-                                     (NP-OBJ (no_ft_kk_þf dóma (lemma dómur)))))))))
+                                     (NP-OBJ (no_ft_kk_þf dóma (lemma dómur))))))))))
 
-(META (ID-CORPUS 5235534e-b27a-11e7-b917-04014c605401.7)
+( (META (ID-CORPUS 5235534e-b27a-11e7-b917-04014c605401.7)
         (ID-LOCAL greynir_corpus_00018.psd,.9)
         (URL
   http://www.visir.is/g/2017171019151/-veit-ekki-einu-sinni-i-hvada-heimsalfu-eg-mun-spila)
@@ -108,9 +108,9 @@
                       (IP-INF (VP (VP (so_1_þf_gm_nh fá (lemma fá)))
                                   (NP-OBJ (pfn_et_p1_þf_hk mig (lemma ég)))
                                   (ADVP (ao aftur (lemma aftur))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 1ecd0580-4709-11e9-9bb9-04014c605401.8)
+( (META (ID-CORPUS 1ecd0580-4709-11e9-9bb9-04014c605401.8)
         (ID-LOCAL greynir_corpus_00018.psd,.10)
         (URL http://www.ruv.is/frett/hnika-til-eda-leigja-nyjar-velar)
         (COMMENT ))
@@ -120,4 +120,4 @@
                       (ADVP (ao nú (lemma nú)))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (no_et_hk_þgf uppnámi (lemma uppnám)))))))
-      (grm .))
+      (grm .)))

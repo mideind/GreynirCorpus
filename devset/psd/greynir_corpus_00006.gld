@@ -1,4 +1,4 @@
-(META (ID-CORPUS 1fcaed0b-4533-11e6-8429-04014c605401.261)
+( (META (ID-CORPUS 1fcaed0b-4533-11e6-8429-04014c605401.261)
         (ID-LOCAL greynir_corpus_00006.psd,.1)
         (URL
   http://www.mbl.is/sport/efstadeild/2016/03/15/breytingar_i_islenska_fotboltanum/)
@@ -6,9 +6,9 @@
   (S0 (S-HEADING (IP (NP-SUBJ (sérnafn_nf_kk_et Marko Andelkovic (lemma Marko Andelkovic)))
                      (PP (P (fs_þf í (lemma í)))
                          (NP (lo_et_hk_sb_þf serbneskt (lemma serbneskur))
-                             (no_et_hk_þf félag (lemma félag)))))))
+                             (no_et_hk_þf félag (lemma félag))))))))
 
-(META (ID-CORPUS 5a76545b-8878-11e9-9835-04014c605401.5)
+( (META (ID-CORPUS 5a76545b-8878-11e9-9835-04014c605401.5)
         (ID-LOCAL greynir_corpus_00006.psd,.2)
         (URL
   https://mbl.is/frettir/innlent/2019/06/06/skadabaetur_vegna_neitunar_a_fari/)
@@ -17,9 +17,9 @@
                          (ADVP (ao ekki (lemma ekki)))
                          (IP-INF (VP (VP (so_0_gm_nh fljúga (lemma fljúga)))
                                      (PP (P (fs_ef til (lemma til)))
-                                         (NP (entity_hk_et_ef Brussel (lemma Brussel))))))))))
+                                         (NP (entity_hk_et_ef Brussel (lemma Brussel)))))))))))
 
-(META (ID-CORPUS a9ea6d72-9203-11e7-b8c8-04014c605401.23)
+( (META (ID-CORPUS a9ea6d72-9203-11e7-b8c8-04014c605401.23)
         (ID-LOCAL greynir_corpus_00006.psd,.3)
         (URL
   http://www.mbl.is/smartland/heilsa/2017/09/05/fyrstu_skrefin_i_ad_minnka_sykurneyslu/)
@@ -28,9 +28,9 @@
                       (C (st eða (lemma eða)))
                       (VP (so_0_bh_et_gm_p2 dragðu (lemma draga)))
                       (PP (P (fs_þgf úr (lemma úr)))
-                          (NP (no_et_hk_þgf sælgætisáti (lemma sælgætisát) (exp_seg sælgætis-át))))))))
+                          (NP (no_et_hk_þgf sælgætisáti (lemma sælgætisát) (exp_seg sælgætis-át)))))))))
 
-(META (ID-CORPUS 7dfe0f4f-9792-11e6-a2dc-04014c605401.5)
+( (META (ID-CORPUS 7dfe0f4f-9792-11e6-a2dc-04014c605401.5)
         (ID-LOCAL greynir_corpus_00006.psd,.4)
         (URL
   http://www.visir.is/bein-utsending--inga-saeland-situr-fyrir-svorum-i-kosningaspjalli-visis/article/2016161029771)
@@ -38,9 +38,9 @@
   (S0 (S-MAIN (IP (NP-SUBJ (no_et_gr_kvk_nf Útsendingin (lemma útsending)))
                   (VP (VP (so_0_et_fh_mm_nt_p3 hefst (lemma hefja)))
                       (ADVP-TIMESTAMP-ABS (tími klukkan 13.40 (lemma klukkan 13.40))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS ac5e74e1-09f4-11e9-9ac3-04014c605401.263)
+( (META (ID-CORPUS ac5e74e1-09f4-11e9-9ac3-04014c605401.263)
         (ID-LOCAL greynir_corpus_00006.psd,.5)
         (URL
   http://www.visir.is/t/1303/Fr%C3%A9ttir%2520%C3%A1rsins%25202018)
@@ -49,9 +49,9 @@
                      (PP (P (fs_ef á (lemma á))
                             (fs_ef meðal (lemma meðal)))
                          (NP (pfn_ef_ft_hk_p3 þeirra (lemma það))
-                             (lo_ef_ft_kvk_vb látnu (lemma látinn)))))))
+                             (lo_ef_ft_kvk_vb látnu (lemma látinn))))))))
 
-(META (ID-CORPUS 555b5a40-e424-11e7-b87e-04014c605401.34)
+( (META (ID-CORPUS 555b5a40-e424-11e7-b87e-04014c605401.34)
         (ID-LOCAL greynir_corpus_00006.psd,.6)
         (URL
   http://www.visir.is/g/2017171218875/i-beinni-fh-haukar-hafnarfjardarslagur-i-krikanum)
@@ -60,9 +60,9 @@
                               (PP (P (fs_þgf í (lemma í)))
                                   (NP (entity_hk_þgf_et Icelandair (lemma Icelandair)))))
                      (VP (VP (so_1_þf_fh_ft_gm_nt_p3 lækka (lemma lækka)))
-                         (NP-OBJ (no_et_gr_hk_þf flugið (lemma flug)))))))
+                         (NP-OBJ (no_et_gr_hk_þf flugið (lemma flug))))))))
 
-(META (ID-CORPUS 1fcaeab9-4533-11e6-8429-04014c605401.825)
+( (META (ID-CORPUS 1fcaeab9-4533-11e6-8429-04014c605401.825)
         (ID-LOCAL greynir_corpus_00006.psd,.7)
         (URL
   http://www.mbl.is/sport/efstadeild/2016/03/09/breytingar_i_islenska_fotboltanum/)
@@ -71,9 +71,9 @@
   Agla María Albertsdóttir
   (lemma Agla María Albertsdóttir)))
                      (PP (P (fs_þf í (lemma í)))
-                         (NP (sérnafn_þf_et_kvk_gr Stjörnuna (lemma Stjarnan)))))))
+                         (NP (sérnafn_þf_et_kvk_gr Stjörnuna (lemma Stjarnan))))))))
 
-(META (ID-CORPUS 1ff7f1a8-4533-11e6-8429-04014c605401.22)
+( (META (ID-CORPUS 1ff7f1a8-4533-11e6-8429-04014c605401.22)
         (ID-LOCAL greynir_corpus_00006.psd,.8)
         (URL
   http://www.mbl.is/sport/fotbolti/2016/04/10/eidur_smari_hefur_rangt_fyrir_ser/)
@@ -82,9 +82,9 @@
                   (VP (VP (so_0_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (eo svo (lemma svo))
                               (lo_et_hk_nf_sb einfalt (lemma einfaldur))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 6bde3674-d9ec-11e8-9984-04014c605401.98)
+( (META (ID-CORPUS 6bde3674-d9ec-11e8-9984-04014c605401.98)
         (ID-LOCAL greynir_corpus_00006.psd,.9)
         (URL
   http://www.visir.is/g/2018181029175/i-beinni-liverpool-cardiff-aron-einar-faer-ad-reyna-sig-a-anfield)
@@ -93,9 +93,9 @@
                      (VP (VP (so_0_et_fh_gm_nt_p3 þarf (lemma þurfa)))
                          (ADVP (ao ekki (lemma ekki)))
                          (IP-INF (TO (nhm að (lemma að)))
-                                 (VP (so_0_gm_nh renna (lemma renna))))))))
+                                 (VP (so_0_gm_nh renna (lemma renna)))))))))
 
-(META (ID-CORPUS 32141232-dfbc-11e6-8e70-04014c605401.177)
+( (META (ID-CORPUS 32141232-dfbc-11e6-8e70-04014c605401.177)
         (ID-LOCAL greynir_corpus_00006.psd,.10)
         (URL
   http://kjarninn.is/skodun/2017-01-21-hlutabref-og-kvotar-af-himnum-ofan/)
@@ -104,4 +104,4 @@
                   (VP (VP (so_0_et_fh_gm_nt_p3 er (lemma vera)))
                       (NP-PRD (VP (so_et_hk_lhþt_nf_sb gert (lemma gera))))
                       (ADVP (ao nú (lemma nú))))))
-      (grm .))
+      (grm .)))

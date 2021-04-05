@@ -1,4 +1,4 @@
-(META (ID-CORPUS c304b5aa-09ca-11e9-9ac0-04014c605401.4)
+( (META (ID-CORPUS c304b5aa-09ca-11e9-9ac0-04014c605401.4)
         (ID-LOCAL greynir_corpus_00021.psd,.1)
         (URL
   http://www.mbl.is/matur/frettir/2018/12/27/medlaetid_sem_aerir_ostoduga/)
@@ -10,9 +10,9 @@
                              (VP (VP (so_0_gm_nh biðja (lemma biðja)))
                                  (ADVP (ao_mst frekar (lemma frekar)))
                                  (ADVP (ao um (lemma um)))))))
-             (grm ?)))
+             (grm ?))))
 
-(META (ID-CORPUS 21331e21-4533-11e6-8429-04014c605401.5)
+( (META (ID-CORPUS 21331e21-4533-11e6-8429-04014c605401.5)
         (ID-LOCAL greynir_corpus_00021.psd,.2)
         (URL
   http://www.visir.is/russell-crowe-veitti-ragnari-innblastur/article/2016160709613)
@@ -24,9 +24,9 @@
                       (NP-OBJ (no_et_kk_þf kaffibolla (lemma kaffibolli)))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (no_et_gr_kvk_þgf framtíðinni (lemma framtíð)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 16aed453-7e3f-11e8-aa07-04014c605401.16)
+( (META (ID-CORPUS 16aed453-7e3f-11e8-aa07-04014c605401.16)
         (ID-LOCAL greynir_corpus_00021.psd,.3)
         (URL
   http://www.ruv.is/frett/skip-amundsens-a-heimleid-100-arum-sidar)
@@ -38,9 +38,9 @@
                       (PP (ADVP-DIR (ao heim (lemma heima)))
                           (P (fs_þf á (lemma á)))
                           (NP (no_et_þf_kvk leið (lemma leið)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 9096cebb-a5e5-11e6-beab-04014c605401.12)
+( (META (ID-CORPUS 9096cebb-a5e5-11e6-beab-04014c605401.12)
         (ID-LOCAL greynir_corpus_00021.psd,.4)
         (URL
   http://www.visir.is/formadur-sjomannasambands-islands-telur-verkfall-liklegt/article/2016161108922)
@@ -52,9 +52,9 @@
                           (NP (eo ekki (lemma ekki))
                               (fn_et_þf_hk neitt (lemma neinn))))
                       (ADVP (ao sko (lemma sko))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 25ced5e8-f989-11e8-9a4b-04014c605401.6)
+( (META (ID-CORPUS 25ced5e8-f989-11e8-9a4b-04014c605401.6)
         (ID-LOCAL greynir_corpus_00021.psd,.5)
         (URL
   http://www.visir.is/g/2018181209256/frakkar-ekki-i-vandraedum-med-dani)
@@ -66,9 +66,9 @@
                               (no_ft_hk_þf stig (lemma stig))))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (no_et_gr_kk_þgf milliriðlinum (lemma milliriðill)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS d5cf8b67-12e2-11e8-8136-04014c605401.3)
+( (META (ID-CORPUS d5cf8b67-12e2-11e8-8136-04014c605401.3)
         (ID-LOCAL greynir_corpus_00021.psd,.6)
         (URL
   http://www.mbl.is/frettir/erlent/2018/02/16/seinheppnustu_thjofar_heims/)
@@ -80,9 +80,9 @@
                           (NP (no_ft_kk_þf múrsteina (lemma múrsteinn))))
                       (PP (P (fs_þgf í (lemma í)))
                           (NP (no_et_kvk_þgf hönd (lemma hönd)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 2ae08ed5-c92f-11e7-b953-04014c605401.22)
+( (META (ID-CORPUS 2ae08ed5-c92f-11e7-b953-04014c605401.22)
         (ID-LOCAL greynir_corpus_00021.psd,.7)
         (URL
   http://www.ruv.is/frett/mork-upplifdi-martrod-lifid-breyst-mikid)
@@ -94,9 +94,9 @@
                       (IP-INF (TO (nhm að (lemma að)))
                               (VP (VP (so_1_þf_gm_nh gera (lemma gera)))
                                   (NP-OBJ (pfn_et_hk_p3_þf það (lemma það))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 285ca2d1-5454-11e7-b819-04014c605401.15)
+( (META (ID-CORPUS 285ca2d1-5454-11e7-b819-04014c605401.15)
         (ID-LOCAL greynir_corpus_00021.psd,.8)
         (URL
   http://www.mbl.is/frettir/innlent/2017/06/18/tiu_thusund_hlupu_i_kvennahlaupinu/)
@@ -108,9 +108,9 @@
                                      (NP-PRD (VP (so_ft_kvk_lhþt_nf_sb komnar (lemma koma))))
                                      (PP (P (fs_þf í (lemma í)))
                                          (NP (no_et_hk_þf mark (lemma mark))))))))
-                 (grm .)))
+                 (grm .))))
 
-(META (ID-CORPUS aece0017-83de-11e7-b89f-04014c605401.14)
+( (META (ID-CORPUS aece0017-83de-11e7-b89f-04014c605401.14)
         (ID-LOCAL greynir_corpus_00021.psd,.9)
         (URL
   http://www.visir.is/g/2017170819012/kisilmalmverksmidja-united-silicon-annar-ekki-eftirspurn)
@@ -121,9 +121,9 @@
                       (NP-PRD (eo rúmlega (lemma rúmlega))
                               (töl_ft_hk_nf 23 þúsund (lemma 23 þúsund))
                               (no_ft_hk_nf tonn (lemma tonn))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 2032442a-4533-11e6-8429-04014c605401.7)
+( (META (ID-CORPUS 2032442a-4533-11e6-8429-04014c605401.7)
         (ID-LOCAL greynir_corpus_00021.psd,.10)
         (URL
   http://www.mbl.is/frettir/innlent/2016/01/19/nofn_ekki_birt_vegna_uppreistar_aeru/)
@@ -134,4 +134,4 @@
       (S-HEADING (IP (VP (VP (so_1_þf_p3 Segir (lemma segja)))
                          (NP-IOBJ (no_et_þf_hk mál (lemma mál))
                                   (NP-POSS (person_ef_kk_et Atla Helgasonar (lemma Atli Helgason))))
-                         (NP-OBJ (lo_þf_hk_sb_et sérstakt (lemma sérstakur)))))))
+                         (NP-OBJ (lo_þf_hk_sb_et sérstakt (lemma sérstakur))))))))

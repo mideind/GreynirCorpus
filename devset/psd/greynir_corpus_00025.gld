@@ -1,4 +1,4 @@
-(META (ID-CORPUS cadc341c-8ce1-11e6-a2d2-04014c605401.27)
+( (META (ID-CORPUS cadc341c-8ce1-11e6-a2d2-04014c605401.27)
         (ID-LOCAL greynir_corpus_00025.psd,.1)
         (URL
   http://www.visir.is/umfjollun-og-vidtol--haukar---skallagrimur-80-70---haukasigur-gegn-nylidunum/article/2016161009007)
@@ -10,9 +10,9 @@
                                   (NP-OBJ (lo_ft_kk_sb_þf nýja (lemma nýr))
                                           (no_ft_kk_þf menn (lemma maður)))
                                   (ADVP-PCL (ao inn (lemma inn))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS f75623f6-e141-11e8-99ac-04014c605401.42)
+( (META (ID-CORPUS f75623f6-e141-11e8-99ac-04014c605401.42)
         (ID-LOCAL greynir_corpus_00025.psd,.2)
         (URL
   http://www.visir.is/g/2018181109439/umfjollun-og-vidtol-ibv-valur-28-30-oflugur-sigur-vals-i-eyjum)
@@ -24,9 +24,9 @@
                       (PP (P (fs_þf í (lemma í)))
                           (NP (lo_et_kk_mst_þf síðari (lemma síðari))
                               (no_et_gr_kk_þf hálfleikinn (lemma hálfleikur)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS b72528f5-0bac-11e7-aa18-04014c605401.25)
+( (META (ID-CORPUS b72528f5-0bac-11e7-aa18-04014c605401.25)
         (ID-LOCAL greynir_corpus_00025.psd,.3)
         (URL
   http://www.visir.is/jatningar-fyrrverandi-fermingarbarns/article/2017170318886)
@@ -36,9 +36,9 @@
                       (NP-SUBJ (pfn_et_nf_p1_hk ég (lemma ég)))
                       (ADVP-DATE-REL (P (fs_þf um (lemma um)))
                                      (NP (no_et_hk_þf haust (lemma haust)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS a654d72f-a36a-11e7-b8f6-04014c605401.202)
+( (META (ID-CORPUS a654d72f-a36a-11e7-b8f6-04014c605401.202)
         (ID-LOCAL greynir_corpus_00025.psd,.4)
         (URL
   https://www.fjarmalaraduneyti.is/efst-a-baugi/laus-storf-a-starfatorgi/laust-starf/2017/09/30/Rafvirki-Landspitali-fasteignadeild-Reykjavik-201709-1530/)
@@ -50,9 +50,9 @@
                                  (PP (P (fs_þgf með (lemma með)))
                                      (NP (no_et_þgf_kvk staðsetningu (lemma staðsetning))
                                          (NP-POSS (fn_ef_ft_hk allra (lemma allur))
-                                                  (no_ef_ft_hk ráðuneyta (lemma ráðuneyti))))))))))
+                                                  (no_ef_ft_hk ráðuneyta (lemma ráðuneyti)))))))))))
 
-(META (ID-CORPUS 01abff18-4ed4-11e9-9bc8-04014c605401.14)
+( (META (ID-CORPUS 01abff18-4ed4-11e9-9bc8-04014c605401.14)
         (ID-LOCAL greynir_corpus_00025.psd,.5)
         (URL
   https://www.visir.is/g/2019190329321/maeta-stjornum-pryddu-lidi-frakka-i-dag-)
@@ -67,9 +67,9 @@
   knattspyrnuheimsins
   (lemma knattspyrnuheimur)
   (exp_seg knattspyrnu-heimur))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 9b1c7b76-b763-11e7-b922-04014c605401.3)
+( (META (ID-CORPUS 9b1c7b76-b763-11e7-b922-04014c605401.3)
         (ID-LOCAL greynir_corpus_00025.psd,.6)
         (URL
   http://www.visir.is/g/2017171029695/arnar-eigum-ad-spila-loftfimleikahandbolta-i-hverri-umferd)
@@ -81,9 +81,9 @@
                       (PP (P (fs_þgf með (lemma með)))
                           (NP (lo_et_hk_mst_þgf skárra (lemma skárri))
                               (no_et_hk_þgf móti (lemma mót)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 25c82ef4-4f71-11e6-8437-04014c605401.5)
+( (META (ID-CORPUS 25c82ef4-4f71-11e6-8437-04014c605401.5)
         (ID-LOCAL greynir_corpus_00025.psd,.7)
         (URL http://kjarninn.is/skodun/2016-07-20-samfelag-fyrir-suma/)
         (COMMENT ))
@@ -94,9 +94,9 @@
                              (C (st eða (lemma eða)))
                              (eo bara (lemma bara))
                              (fn_ft_þf_kk suma (lemma sumur)))))))
-      (grm ?))
+      (grm ?)))
 
-(META (ID-CORPUS 683a80b1-80c2-11e9-982f-04014c605401.13)
+( (META (ID-CORPUS 683a80b1-80c2-11e9-982f-04014c605401.13)
         (ID-LOCAL greynir_corpus_00025.psd,.8)
         (URL
   http://www.ruv.is/frett/nidursveifla-i-ferdathjonustu-mun-skarpari)
@@ -108,9 +108,9 @@
       (C (st eða (lemma eða)))
       (S-MAIN (IP (NP-SUBJ (fn_ft_nf_kk þeir (lemma hann)))
                   (NP-PRD (VP (so_0_lhþt_nf_ft_kk_sb afbókaðir (lemma afbóka))))))
-      (grm . (lemma .)))
+      (grm . (lemma .))))
 
-(META (ID-CORPUS 8f185340-dbd2-11e6-8e66-04014c605401.14)
+( (META (ID-CORPUS 8f185340-dbd2-11e6-8e66-04014c605401.14)
         (ID-LOCAL greynir_corpus_00025.psd,.9)
         (URL
   http://www.visir.is/naudalikir-listamenn-syna-i-newcastle/article/2017170119048)
@@ -123,9 +123,9 @@
                           (ADVP-PCL (ao saman (lemma saman)))
                           (PP (P (fs_þgf á (lemma á)))
                               (NP (no_et_gr_kvk_þgf sýningunni (lemma sýning))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 871ad67f-6647-11e6-844e-04014c605401.19)
+( (META (ID-CORPUS 871ad67f-6647-11e6-844e-04014c605401.19)
         (ID-LOCAL greynir_corpus_00025.psd,.10)
         (URL http://www.ruv.is/frett/auglysti-eftir-nyra)
         (COMMENT ))
@@ -137,4 +137,4 @@
                                               (VP (VP (so_1_þf_gm_sagnb fengið (lemma fá)))
                                                   (NP-OBJ (lo_ft_hk_sb_þf sterk (lemma sterkur))
                                                           (no_ft_hk_þf viðbrögð (lemma viðbragð)))))))))))
-      (grm .))
+      (grm .)))

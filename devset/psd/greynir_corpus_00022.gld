@@ -1,4 +1,4 @@
-(META (ID-CORPUS f4ea6f70-80a2-11e6-a2c6-04014c605401.26)
+( (META (ID-CORPUS f4ea6f70-80a2-11e6-a2c6-04014c605401.26)
         (ID-LOCAL greynir_corpus_00022.psd,.1)
         (URL http://kjarninn.is/skyring/2016-09-21-raeturnar-vokvadar/)
         (COMMENT ))
@@ -9,9 +9,9 @@
                               (no_ft_hk_þgf áhrifum (lemma áhrif))
                               (PP (P (fs_þgf frá (lemma frá)))
                                   (NP (sérnafn_þgf_et_kvk Asíu (lemma Asía)))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 21910426-5b71-11e8-b11c-04014c605401.49)
+( (META (ID-CORPUS 21910426-5b71-11e8-b11c-04014c605401.49)
         (ID-LOCAL greynir_corpus_00022.psd,.2)
         (URL
   http://www.mbl.is/matur/frettir/2018/05/19/djusi_ponnupitsa_med_gomsaetu_aleggi/)
@@ -23,9 +23,9 @@
                               (no_et_hk_þgf salti (lemma salt))
                               (C (st og (lemma og)))
                               (no_et_kk_þgf pipar (lemma pipar)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 3634408e-d2e0-11e7-b96c-04014c605401.135)
+( (META (ID-CORPUS 3634408e-d2e0-11e7-b96c-04014c605401.135)
         (ID-LOCAL greynir_corpus_00022.psd,.3)
         (URL
   http://www.visir.is/g/2017171129101/i-beinni-valencia-barcelona-toppslagur-tveggja-taplausra-lida)
@@ -36,9 +36,9 @@
                      (PP (P (fs_þgf í (lemma í)))
                          (NP (lo_et_þgf_kvk_sb nýrri (lemma nýr))
                              (no_et_þgf_kvk stuttmynd (lemma stuttmynd))
-                             (NP-POSS (person_ef_kvk_et Ísoldar Braga (lemma Ísold Braga))))))))
+                             (NP-POSS (person_ef_kvk_et Ísoldar Braga (lemma Ísold Braga)))))))))
 
-(META (ID-CORPUS da02964e-1700-11e7-aa37-04014c605401.229)
+( (META (ID-CORPUS da02964e-1700-11e7-aa37-04014c605401.229)
         (ID-LOCAL greynir_corpus_00022.psd,.4)
         (URL http://www.visir.is/c/frettir01)
         (COMMENT ))
@@ -49,9 +49,9 @@
                                  (PP (P (fs_þgf af (lemma af)))
                                      (NP (no_et_kvk_þgf hendi (lemma hönd))
                                          (NP-POSS (no_ef_et_kk barnsföður (lemma barnsfaðir))
-                                                  (fn_ef_et_kk síns (lemma sinn))))))))))
+                                                  (fn_ef_et_kk síns (lemma sinn)))))))))))
 
-(META (ID-CORPUS 6f1fd75d-b18b-11e7-b916-04014c605401.5)
+( (META (ID-CORPUS 6f1fd75d-b18b-11e7-b916-04014c605401.5)
         (ID-LOCAL greynir_corpus_00022.psd,.5)
         (URL
   http://www.mbl.is/smartland/frami/2017/10/15/gudbjorg_edda_er_min_fyrirmynd/)
@@ -62,9 +62,9 @@
                               (lo_et_hk_nf_sb fjölbreytt (lemma fjölbreyttur))
                               (C (st og (lemma og)))
                               (lo_et_hk_nf_sb skemmtilegt (lemma skemmtilegur))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 2070c557-4533-11e6-8429-04014c605401.26)
+( (META (ID-CORPUS 2070c557-4533-11e6-8429-04014c605401.26)
         (ID-LOCAL greynir_corpus_00022.psd,.6)
         (URL
   http://www.mbl.is/smartland/utlit/2016/06/07/haetti_ad_lita_harid_2013/)
@@ -75,9 +75,9 @@
                       (PP (P (fs_þf við (lemma við)))
                           (NP (fn_et_hk_þf hvert (lemma hver))
                               (no_et_hk_þf fótmál (lemma fótmál)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS c951d5c5-e6ce-11e8-99c3-04014c605401.2)
+( (META (ID-CORPUS c951d5c5-e6ce-11e8-99c3-04014c605401.2)
         (ID-LOCAL greynir_corpus_00022.psd,.7)
         (URL
   http://www.visir.is/g/2018181119696/andri-runar-alltaf-gaman-ad-eiga-afmaeli-en-veit-ekki-hvort-ad-their-viti-thad)
@@ -89,9 +89,9 @@
                           (NP-PRD (lo_ft_kvk_nf_sb góðar (lemma góður)))
                           (PP (P (fs_þf fyrir (lemma fyrir)))
                               (NP (person_kk_þf_et Andra (lemma Andri))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS e51d5582-abd6-11e8-98a1-04014c605401.184)
+( (META (ID-CORPUS e51d5582-abd6-11e8-98a1-04014c605401.184)
         (ID-LOCAL greynir_corpus_00022.psd,.8)
         (URL
   http://www.visir.is/k/94193504-b4b3-439d-8b07-8dce9b19bbe8-1535542201170)
@@ -106,9 +106,9 @@
                                (NP (no_et_gr_kk_þgf líkamanum (lemma líkami)))))
                   (VP (VP-AUX (so_0_et_fh_gm_nt_p3 getur (lemma geta)))
                       (VP (VP (so_1_nf_gm_sagnb verið (lemma vera)))
-                          (NP-PRD (lo_et_kvk_nf_sb varasöm (lemma varasamur))))))))
+                          (NP-PRD (lo_et_kvk_nf_sb varasöm (lemma varasamur)))))))))
 
-(META (ID-CORPUS 1fd484b7-4533-11e6-8429-04014c605401.381)
+( (META (ID-CORPUS 1fd484b7-4533-11e6-8429-04014c605401.381)
         (ID-LOCAL greynir_corpus_00022.psd,.9)
         (URL http://www.visir.is/section/IDROTTIR01)
         (COMMENT ))
@@ -119,9 +119,9 @@
                          (IP-INF (VP (VP (so_1_nf_gm_nh enda (lemma enda)))
                                      (NP-PRD (lo_nf_et_hk_sb eins (lemma eins))
                                              (CP-ADV-CMP (C (st og (lemma og)))
-                                                         (IP (NP-SUBJ (entity_hk_et_nf Leicester (lemma Leicester))))))))))))
+                                                         (IP (NP-SUBJ (entity_hk_et_nf Leicester (lemma Leicester)))))))))))))
 
-(META (ID-CORPUS abf7bbda-9a54-11e9-9856-04014c605401.47)
+( (META (ID-CORPUS abf7bbda-9a54-11e9-9856-04014c605401.47)
         (ID-LOCAL greynir_corpus_00022.psd,.10)
         (URL https://kjarninn.is/skodun/2019-06-28-saetir-skattar/)
         (COMMENT ))
@@ -132,4 +132,4 @@
                      (CP-ADV-TEMP (C (st þegar (lemma þegar)))
                                   (IP (NP-SUBJ (no_et_hk_nf verð (lemma verð)))
                                       (VP (so_0_fh_ft_gm_nt_p3 hækka (lemma hækka))))))))
-      (grm .))
+      (grm .)))

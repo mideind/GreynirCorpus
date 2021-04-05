@@ -1,4 +1,4 @@
-(META (ID-CORPUS cc8ad1de-11ae-11e9-9aea-04014c605401.20)
+( (META (ID-CORPUS cc8ad1de-11ae-11e9-9aea-04014c605401.20)
         (ID-LOCAL greynir_corpus_00020.psd,.1)
         (URL
   http://www.ruv.is/frett/gullhudud-steik-ribery-dregur-dilk-a-eftir-ser)
@@ -9,9 +9,9 @@
                           (IP-INF (TO (nhm að (lemma að)))
                                   (VP (VP (so_1_þf_gm_nh greiða (lemma greiða)))
                                       (NP-OBJ (no_et_gr_kvk_þf sektina (lemma sekt)))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS a2af4aee-ba0c-11e8-98d7-04014c605401.12)
+( (META (ID-CORPUS a2af4aee-ba0c-11e8-98d7-04014c605401.12)
         (ID-LOCAL greynir_corpus_00020.psd,.2)
         (URL
   http://www.mbl.is/smartland/frami/2018/09/16/allir_geta_laert_nyja_hluti/)
@@ -23,9 +23,9 @@
                           (NP-PRD (lo_et_hk_nf_sb lifandi (lemma lifandi))
                                   (C (st og (lemma og)))
                                   (lo_et_hk_nf_sb skemmtilegt (lemma skemmtilegur)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 08f4c290-3715-11e8-b064-04014c605401.49)
+( (META (ID-CORPUS 08f4c290-3715-11e8-b064-04014c605401.49)
         (ID-LOCAL greynir_corpus_00020.psd,.3)
         (URL
   http://www.visir.is/g/2018180409874/thad-oradi-engan-fyrir-thessu-)
@@ -37,9 +37,9 @@
                               (lo_et_kk_nf_sb hentugur (lemma hentugur))
                               (PP (P (fs_þf fyrir (lemma fyrir)))
                                   (NP (no_ft_kvk_þf barnafjölskyldur (lemma barnafjölskylda))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS cff997ee-f2bb-11e7-b8a3-04014c605401.3)
+( (META (ID-CORPUS cff997ee-f2bb-11e7-b8a3-04014c605401.3)
         (ID-LOCAL greynir_corpus_00020.psd,.4)
         (URL http://www.visir.is/g/2018180109319/halka-og-snjothekja-a-vegum)
         (COMMENT ))
@@ -50,9 +50,9 @@
                           (NP (no_et_þgf_kvk tilkynningu (lemma tilkynning))
                               (PP (P (fs_þgf frá (lemma frá)))
                                   (NP (sérnafn_et_gr_kvk_þgf Vegagerðinni (lemma Vegagerðin)))))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS a73dd44f-bc31-11e8-98e4-04014c605401.33)
+( (META (ID-CORPUS a73dd44f-bc31-11e8-98e4-04014c605401.33)
         (ID-LOCAL greynir_corpus_00020.psd,.5)
         (URL
   http://www.visir.is/g/2018180918681/i-beinni-stjarnan-ka-stjarnan-verdur-ad-vinna)
@@ -63,9 +63,9 @@
                                            (NP (sérnafn_þgf_et_kvk Eykt (lemma eykt))))))
                      (VP (VP (so_0_et_fh_mm_nt_p3 hagnast (lemma hagna)))
                          (PP (P (fs_þf um (lemma um)))
-                             (NP (töl_ft_kk_þf 2,2 milljarða (lemma 2,2 milljarðar))))))))
+                             (NP (töl_ft_kk_þf 2,2 milljarða (lemma 2,2 milljarðar)))))))))
 
-(META (ID-CORPUS 9457ecce-58fe-11e7-b826-04014c605401.4)
+( (META (ID-CORPUS 9457ecce-58fe-11e7-b826-04014c605401.4)
         (ID-LOCAL greynir_corpus_00020.psd,.6)
         (URL
   http://www.visir.is/g/2017170629398/hamilton-mest-spennandi-hringur-arsins)
@@ -76,9 +76,9 @@
                               (lo_et_nf_kk_est spennandi (lemma spennandi))
                               (no_et_kk_nf hringur (lemma hringur))
                               (NP-POSS (no_ef_et_gr_hk ársins (lemma ár)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 8e512d96-40d0-11e9-9ba7-04014c605401.5)
+( (META (ID-CORPUS 8e512d96-40d0-11e9-9ba7-04014c605401.5)
         (ID-LOCAL greynir_corpus_00020.psd,.7)
         (URL
   https://www.frettabladid.is/markadurinn/350-milljona-rot-byggingarfelags-hotels-varmalands)
@@ -90,9 +90,9 @@
                           (VP (so_1_þf_gm_sagnb yfirtekið (lemma yfirtaka)))
                           (NP-OBJ (lo_ft_kvk_sb_þf áhvílandi (lemma áhvílandi))
                                   (no_ft_kvk_þf veðskuldir (lemma veðskuld)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS e748ffa6-5bad-11e9-9bd8-04014c605401.4)
+( (META (ID-CORPUS e748ffa6-5bad-11e9-9bd8-04014c605401.4)
         (ID-LOCAL greynir_corpus_00020.psd,.8)
         (URL
   http://www.ruv.is/frett/stjornum-prydd-uppvakningamynd-opnar-cannes)
@@ -104,9 +104,9 @@
                           (NP (fn_et_hk_þgf þessu (lemma þessi))))
                       (ADVP-DUR-REL (P (fs_þf í (lemma í)))
                                     (NP (no_et_kk_þf dag (lemma dagur)))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS d5872338-9d16-11e6-bea1-04014c605401.3)
+( (META (ID-CORPUS d5872338-9d16-11e6-bea1-04014c605401.3)
         (ID-LOCAL greynir_corpus_00020.psd,.9)
         (URL
   http://www.mbl.is/frettir/innlent/2016/10/28/halkutidin_er_gengin_i_gard/)
@@ -118,9 +118,9 @@
                       (NP-PRD (no_et_kvk_nf hálka (lemma hálka))
                               (C (st eða (lemma eða)))
                               (no_ft_kk_nf hálkublettir (lemma hálkublettur))))))
-      (grm .))
+      (grm .)))
 
-(META (ID-CORPUS 12208f4a-076b-11e9-9ab4-04014c605401.7)
+( (META (ID-CORPUS 12208f4a-076b-11e9-9ab4-04014c605401.7)
         (ID-LOCAL greynir_corpus_00020.psd,.10)
         (URL http://www.ruv.is/frett/metfjoldi-ferdafolks-i-betlehem)
         (COMMENT ))
@@ -134,4 +134,4 @@
   ferðamannafjöldans
   (lemma ferðamannafjöldi)
   (exp_seg ferðamanna-fjöldi))))))))
-      (grm .))
+      (grm .)))
