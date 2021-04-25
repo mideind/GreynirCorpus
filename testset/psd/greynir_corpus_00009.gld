@@ -98,7 +98,6 @@
         (COMMENT ))
   (S0 (S-MAIN (IP (NP-OBJ (no_et_nf_hk Þetta (lemma þessi)))
                   (VP (VP (so_0_fh_p3_et_nt_gm segir (lemma segja)))
-                      (NP-SUBJ (entity_et_nf_hk Sky (lemma Sky))
-                               (entity_et_nf_hk Sports (lemma Sports))
+                      (NP-SUBJ (entity_et_nf_hk Sky Sports (lemma Sky Sports))
                                (no_et_nf_kvk_gr fréttastofan (lemma fréttastofa))))))
       (grm .)))
