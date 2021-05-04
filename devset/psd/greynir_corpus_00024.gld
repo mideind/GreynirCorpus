@@ -98,7 +98,7 @@
                       (CP-QUE-OBJ (C (st að (lemma að)))
                                   (IP (NP-SUBJ (no_et_nf_hk_gr mannfallið (lemma mannfall)))
                                       (VP (VP (so_1_nf_vh_p3_et_nt_gm sé (lemma vera)))
-                                          (NP-PRD (NP-MEASURE (no_et_þgf_kk mun (lemma munur)))
+                                          (NP-PRD (no_et_þgf_kk mun (lemma munur))
                                                   (lo_et_nf_hk_mst meira (lemma mikill)))))))))
       (grm .)))
 
