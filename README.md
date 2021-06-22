@@ -5,7 +5,7 @@
 
 # GreynirCorpus 1.1
 
-<img src="img/is.png" width="16" height="11"> Texti
+<img src="img/is.png" width="16" height="11" style="margin-bottom:20px;"> Texti
 [á íslensku](#user-content-stór-trjábanki-með-þáttuðum-íslenskum-texta) fyrir neðan.
 
 ### A large treebank of parsed Icelandic text
@@ -30,8 +30,8 @@ The treebank has three parts:
    directory, each containing one million sentences. Each file is about 200 MB in compressed
    form and about 1.3 GB uncompressed.
 
-2. A **silver standard** corpus of one million *unique* mechanically parsed sentences selected
-   based on various grammatical attributes. Found in the [`psd/copper`](psd/copper) directory.
+2. A **silver standard** corpus of 600 thousand *unique* mechanically parsed sentences selected
+   based on various grammatical attributes. Found in the [`psd/silver`](psd/silver) directory.
 
 3. A **gold standard** corpus of 2,610 sentences with parse trees that have been
    manually corrected and verified. This corpus is contained in the `gold/` directory,
@@ -77,9 +77,9 @@ Trjábankinn er í þremur hlutum:
    Þessi hluti trjábankans er geymdur í tíu skrám í [`psd/copper`](psd/copper) möppunni. Hver skrá er
    um 200 megabæti í þjöppuðu formi og u.þ.b. 1,3 gígabæti óþjöppuð.
 
-2. **Silfurstaðall**, ein milljón *einstakar*, stokkaðar og vélþáttaðar málsgreinar valdar út frá
-  margvíslegum málfræðilegum eiginleikum. Trjábanka þennan má finna í
-  [`psd/silver`](psd/silver) möppunni.
+2. **Silfurstaðall**, 600 þúsund *einstakar*, stokkaðar og vélþáttaðar málsgreinar valdar út frá
+  margvíslegum málfræðilegum eiginleikum. Trjábanka þennan má finna í [`psd/silver`](psd/silver)
+  möppunni.
 
 3. **Gullstaðall** sem samanstendur af 2.610 málsgreinum og þáttunartrjám þeirra, sem hafa
    verið handyfirfarin og leiðrétt. Þessi hluti trjábankans er í `gold/` möppunni,
