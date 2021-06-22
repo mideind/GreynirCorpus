@@ -38,7 +38,7 @@ The treebank has three parts:
    in text files named `greynir_corpus_*.psd`. Each text file contains 10 manually
    annotated sentences. The sentences tend to get longer with higher file numbers.
 
-The mechanically parsed sentences in this corpus were parsed using
+Mechanically parsed sentences were parsed using
 [Greynir v3.1.0](https://github.com/mideind/GreynirPackage/releases/tag/3.1.0) and
 [Tokenizer v3.1.1](https://github.com/mideind/Tokenizer/releases/tag/3.1.0).
 
@@ -86,7 +86,7 @@ Trjábankinn er í þremur hlutum:
    í textaskrám sem nefnast `greynir_corpus_*.psd`. Hver textaskrá inniheldur 10 handþáttaðar
    málsgreinar. Málsgreinarnar eru almennt lengri eftir því sem skrárnúmer hækka.
 
-Vélþáttaðar setningar í trjábankanum voru þáttaðar með
+Vélþáttaðar setningar voru þáttaðar með
 [Greyni útgáfu 3.1.0](https://github.com/mideind/GreynirPackage/releases/tag/3.1.0) og
 [Tokenizer útgáfu 3.1.1](https://github.com/mideind/Tokenizer/releases/tag/3.1.0).
 
