@@ -1,2 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 psd/*.zip filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+psd/copper/*.gz filter=lfs diff=lfs merge=lfs -text
+psd/silver/*.gz filter=lfs diff=lfs merge=lfs -text
