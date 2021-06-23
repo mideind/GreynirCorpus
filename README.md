@@ -52,6 +52,8 @@ Mechanically parsed sentences were parsed using
 [Greynir v3.1.0](https://github.com/mideind/GreynirPackage/releases/tag/3.1.0) and
 [Tokenizer v3.1.1](https://github.com/mideind/Tokenizer/releases/tag/3.1.0).
 
+An adapted version of [**Annotald**](https://github.com/mideind/Annotald) can be used to work with the files.
+
 A [**test suite**](https://github.com/mideind/ParsingTestPipe) using the gold standard test set to measure the performance of the Greynir parser has been developed.
 
 The annotation scheme is described extensively in this 60-page
@@ -116,6 +118,8 @@ Vélþáttaðar setningar voru þáttaðar með
 
 Þáttunarskemanu er ýtarlega lýst í þessu 60 síðna 
 [leiðbeiningarskjali (PDF)](https://github.com/mideind/GreynirPackage/blob/master/doc/_static/annotation_instructions.pdf?raw=true).
+
+Uppfærð útgáfa af [**Annotald**](https://github.com/mideind/Annotald) er notuð til að vinna með skjölin.
 
 [**Prófunarsvíta**](https://github.com/mideind/ParsingTestPipe) var þróuð sem notar gullprófunarmengið til að mæla árangur Greynisþáttarans.
 
