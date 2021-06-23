@@ -71,8 +71,8 @@ to which it should be attributed.
 Parts of this project were developed under the auspices of the
 Icelandic Government's 5-year Language Technology Programme for Icelandic,
 managed by [Almannarómur](https://almannaromur.is). The LT Programme is described
-[here](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c>)
-(English version [here](https://clarin.is/media/uploads/mlt-en.pdf>)).
+[here](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c)
+(English version [here](https://clarin.is/media/uploads/mlt-en.pdf)).
 
 This project was partially funded by the Icelandic government's
 *Strategic research and development programme for language technology*
@@ -139,5 +139,5 @@ Verkefnið naut styrks úr *Markáætlun í máltækni* á vegum [Rannís](https
 
 Hlutar safnsins voru þróaðir undir hatti 5 ára máltækniáætlunar ríkisins.
 [Almannarómur](https://almannaromur.is) sér um framkvæmd áætlunarinnar. Áætluninni er lýst
-[hér](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c>)
-(ensk útgáfa [hér](https://clarin.is/media/uploads/mlt-en.pdf>))
+[hér](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c)
+(ensk útgáfa [hér](https://clarin.is/media/uploads/mlt-en.pdf))
