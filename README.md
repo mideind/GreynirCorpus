@@ -29,7 +29,7 @@ The treebank has four parts:
    This treebank is contained in ten gzip-compressed files in the [`psd/copper`](psd/copper)
    directory, each containing one million sentences. Each file is about 200 MB in compressed
    form and about 1.3 GB uncompressed.
-   Foreign sentences, unparsed sentences, and uncapitalized sentences were excluded from the corpora.
+   Foreign sentences, unparsed sentences, and uncapitalized sentences were excluded from the corpus.
 
 2. A **silver standard** corpus of 600 thousand *unique* mechanically parsed sentences selected
    based on various grammatical attributes. Found in the [`psd/silver`](psd/silver) directory.
@@ -44,17 +44,17 @@ The treebank has four parts:
    and [`devset/psd`](devset/psd), respectively. Each text file contains 10 manually
    annotated sentences. The sentences tend to get longer with higher file numbers.
   
-4. **Extra** corpora, such as headings and short sentences under 5 tokens.
+4. **Extra** corpora, such as headings and short sentences containing fewer than 5 tokens.
    These are contained in the [`extra/`](extra/) directory.
-   The heading corpora contain 531,855 parsed sentences.
-   The short corpora contain 1,652,938 parsed sentences.
+   The heading corpus contain 531,855 parsed sentences.
+   The short corpus contain 1,652,938 parsed sentences.
 
 Mechanically parsed sentences were parsed using
 [Greynir v3.1.0](https://github.com/mideind/GreynirPackage/releases/tag/3.1.0) and
 [Tokenizer v3.1.1](https://github.com/mideind/Tokenizer/releases/tag/3.1.0).
 
-An adapted version of [**Annotald**](https://github.com/mideind/Annotald) can be used to work
-with the files.
+An adapted version of [**Annotald**](https://github.com/mideind/Annotald) can be used to
+parse and work with the files.
 
 A [**test suite**](https://github.com/mideind/ParsingTestPipe) using the gold standard test
 set to measure the performance of the Greynir parser has been developed.
@@ -70,9 +70,9 @@ to which it should be attributed.
 
 Parts of this project were developed under the auspices of the
 Icelandic Government's 5-year Language Technology Programme for Icelandic,
-managed by [Almannarómur](https://almannaromur.is). The LT Programme is described
-[here](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c)
-(English version [here](https://clarin.is/media/uploads/mlt-en.pdf)).
+managed by [Almannarómur](https://almannaromur.is). The LT Programme is
+described [here](https://clarin.is/media/uploads/mlt-en.pdf)
+(Icelandic version [here](https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c)).
 
 This project was partially funded by the Icelandic government's
 *Strategic research and development programme for language technology*
@@ -133,7 +133,7 @@ gullprófunarmengið til að mæla árangur Greynisþáttarans.
 **Git-afritun á kóðasafninu krefst [git-lfs](https://git-lfs.github.com/).**
 
 GreynirCorpus er gefinn út á vegum [Miðeindar ehf.](https://mideind.is), Reykjavík,
-sem geta skal sem útgefanda þegar gögnin eru notuð skv. CC-BY 4.0 leyfinu.
+sem geta skal sem útgefanda þegar gögnin eru notuð samkvæmt CC-BY 4.0 leyfinu.
 
 Verkefnið naut styrks úr *Markáætlun í máltækni* á vegum [Rannís](https://rannis.is).
 
